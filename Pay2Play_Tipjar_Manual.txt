@@ -1,5 +1,5 @@
 FEATURES
-1. It's a smart system made of a tipjar (1 Prim), a script and a RLV  force head sitter all working together.
+1. It's a smart system made of a tipjar (1 Prim), a script and a RLV force head sitter all working together.
 2. Great for AFK dolls, No one can move you or force you to sit on an object without paying you first.
 3. After session is over, It will return you to home place.
 4. Owner/Dolls Menu Driven, No need to remember any command.
@@ -15,7 +15,7 @@ FEATURES
 
 1. Insert the script [WDC] object script inside every furniture you want to use (Bed, Rug, Sofa etc) that you own
 
-2. If you want to use furniture than you don't own you need to contact wallago dingson and receive a special script.
+2. If you want to use furniture that you don't own you need to contact wallago dingson and receive a special script.
 2a. Make a copy of the script.
 2b. Make sure the objects are mod,.
 2c. Pass a copy of the script to the owner of the other furniture.
@@ -25,11 +25,12 @@ FEATURES
 
 4. CONFIGURATION a single board
 4a. Locate the settings notecard found on the content tab of each Tipjar.
-4b. Find section 8 Adding Objects.
+4b. Find STEP 18 - OBJECT UUID.
 4c. Owner Touch Tipjar and Login.
-4d. Sit on an object (Bed, Rug etc) Touch the Tipjar and choose FIND UUID
+4d. Sit on the home object (Bed, Rug etc) Touch the Tipjar and choose FIND UUID
 4e. Copy this line for ex. OBJECTUUID=4b9275d3-17c4-e6cb-685b-c01ee15fca19 inside the notcard.
 4f. Repeat those stages for all furnitures you want to belong to this tipjar.
+    Note: the first OBJECTUUID listed in the notecard should be the home object
 4g. Modify all settings inside the notecard as access, prices, time and more.
 4h. Click on save the notecard, the tipjar will restart.
 
@@ -37,6 +38,8 @@ FEATURES
 
 ====== DOLL USE THE SYSTEM ======
 1. Touch tipjar board, and choose Get Relay
+   Note: the Get Relay button only appears when logged out.
+   Autologin should be configured after getting the Relay.
 2. Add the [WDC] RLV Relay AND ALLOW TELEPORT PERMISSION.
 3. Touch tipjar board and choose yes to login, if you were logged at other place it will log you out on other boards.
 4. After you log in your profile picture will appear on the tipjar. AND YOU WILL BE SIT ON THE HOME POSITION AUTOMATICALLY.
@@ -46,13 +49,13 @@ FEATURES
 [IM] - Get im messages when a tip is received.
 [NOTHING] - No messages when a tip is received.
 [POP-UP] - Get a dialog box message...
-[BOTH] - Get IM and Dialog box when a  tip is received.
+[BOTH] - Get IM and Dialog box when a tip is received.
 [SHOW TOTAL] -Show/Hide total tips.
 [SHOW LAST] - Show/Hide last tip.
 [SET PRICE] - Set new price per session.
 [SET TIME] - Set new time length per session.
-[FIND UUID] - FOR OWNERS -  Help find object uuid.
-[TEST] - Get  a menu with all available sit targets.
+[FIND UUID] - FOR OWNERS - Help find object uuid.
+[TEST] - Get a menu with all available sit targets.
 
 ===== CLIENT USE OF THE SYSTEM =====
 When a client/guest arrive to the room and try to sit or touch the head of the doll he will get a message that he need to pay the doll tipjar first.
@@ -60,7 +63,14 @@ Guest need to pay the Tipjar Board and than he will be able to sit on the furnit
 After payment the guest can touch the Tipjar Board or the doll head and choose a sit target from the menu.
 The doll will sit on the chosen sit target and guest can play with her.
 
+Note: when bot is logged in to tipjar the connected furniture is unusable by guests without payment.
+If you want the connected furniture to be usable without payment then the bot must logout.
+
 When session is over will be force to stand and Doll return to her home object.
+
+CORRADE
+The system works well with Corrade bots and can be used to automatically seat Corrade bots when logging in.
+In order for Corrade bots to work with this system they must be configured with RLV and teleport notifications enabled. In addition to the web based Corrade configuration for notifications, it is necessary to manually enable RLV in the bot's CorradeConfiguration.xml in the <RLV> section.
 
 TROUBLESHOOTING
 1. MAKE SURE YOUR VIEWER AND DOLLS VIEWER SUPPORT RLV AND ITS ON.
