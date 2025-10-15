@@ -1,0 +1,18 @@
+// commands:
+// /23 toggle => toggles between sequential and random color change
+// /23 reset  => sets color back to pure red, useful to sync multiple items
+// /23 start  => starts the color change effect
+// /23 stop   => freezes the color change effect
+// /23 clear  => stops the effect and sets color to white
+// /23 blue   => stops the effect and sets color to pure blue
+// /23 green  => stops the effect and sets color to pure green
+// /23 red    => stops the effect and sets color to pure red
+// /23 saturate   => augments the saturation up 10%
+// /23 desaturate => decreases saturation by 10%
+// /23 slower => makes the effect half as fast
+// /23 alpha   => makes the object 10% more transparent
+// /23 dealpha => makes the object 10% less transparent
+// /23 transparent => makes the object fully transparent
+// /23 opaque      => makes the object fully opaque
+// /23 change  => manually triggers the color change
+// saturation control only affects the sequential fade effect

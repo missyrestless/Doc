@@ -1,0 +1,157 @@
+****************CONSOLE EFFECT/LIGHTS AND HUD******************
+
+IF you Wonder How can you Control ALL the lights and Effects
+or you Have any Problems With this
+Here Some Help for you :
+
+DX CONTROL SYSTEM PHOTO INFO : 􀀑
+
+
+NOTE:THERE IS 3 TYPE OF CONTROL SYSTEM:
+1. D-FX-1 Control System(OWNER) - TO USE IT IN-WORLD CONTROLLED ONLY BY THE OWNER
+2. D-FX-2 Control System (GROUP) - TO USE IT IN-WORLD ONLY FOR GROUP MEMBERS
+3. D-FX-3 Control System HUD - WEARABLE HUD ON YOUR SCREEN FOR YOUR EASY PERSONAL USE
+􀀍
+NOTE 1:ALL THE CONTROL SYSTEMS WORKING WITH CHANNELS(90 m Range).
+THE SAME CHANNELS ARE IS IN THE LIGHTNING SYSTEM
+
+NOTE 2: IF YOU REZ THE SCAFFOLD IS EMPTY.
+BEFORE USE THE LIGHTNING SYSTEM YOU MUST CLICK THE BUTTON "REZZ LIGHTS"
+IN THE BOTTOM OF THE CONTROL SYSTEM.THEN WAIT A SECONDS TO REZ THE LIGHTNING SYSTEM
+􀀈
+􀀂
+
+•.★.•.★.•.★.•.★.•.★.BASIC INSTRUCTIONS•.★.•.★.•.★.•.★.•.★.
+
+1.Rez the Club-FX Scaffold (small,medium or large) into the ground
+
+2.the scaffold need the correct height,and move here automaticaly.wait until stop moving
+and says "Done!"
+
+3.rez one of the D-FX Control System,or wear the HUD (on your screen)
+
+4.CLICK THE "REZZ LIGHTS" BUTTON AND WAIT TO REZ THE LIGHTNING SYSTEM FROM THE SCAFFOLD
+
+5.now select any of the lightning system buttons in the control system and join!
+
+************CONTROL SYSTEM BUTTONS ***************
+
+•.★.•.★.•.★.•.★.•.★.CLUB EFFECT/LIGHTS★.•.★.•.★.•.★.•.★.•.★.•
+
+everything in the scaffold controlled by the D-FX Control Systems!
+with seperate control buttons for every club/effects/lights,for the best of your Club!!
+
+------------------------------------------------------------------------------
+1. LAZER X LIGHTS BUTTON : is inteligent lazer X lights for a special club effects!
+
+􀀇
+
+every button set a different effects of the lazer X System for example:
+
+OPTIONS:
+BUTTON "RANDFAST" : IS A FLASH RANDOM COLOR ANIMATE LAZER IN FAST MOTION 
+
+BUTTON "RANDSLOW" : IS A FLASH RANDOM COLOR ANIMATE LAZER IN SLOW MOTION
+
+BUTTON "COLORS" :SUBMENU TO CHOOSE A SINGLE COLOR YOU LIKE
+
+BUTTON "OFF" TURNING OFF THE LAZER SYSTEM
+------------------------------------------------------------------------------
+
+1.REZ THE Animate Dance Floor+Fog
+
+2. DANCEFLOOR BUTTON: there is 11 animated textures for the dancefloor in menu dialog
+here some of the animated textures: 
+􀀐
+􀀀
+􀀁
+􀀒
+3.RAINBOW FOG BUTTON : it is awesome particle fog machine in the dancefloor 
+with random colors! for example : 􀀆
+menu dialog IN control system with colors,random colors and OFF button.
+
+------------------------------------------------------------------------------------------
+SEARCH LIGHTS BUTTON: THIS ACTIVATE THE ANIMATE SEARCH LIGHTS (ON/OFF)
+􀀌
+LAZER LIGHTS BUTTON: THIS ACTIVATE THE ANIMATE LAZER LIGHTS (ON/OFF)
+􀀏
+SPOTLIGHTS: THIS ACTIVATE THE SPOTLIGHTS (ON/OFF,RANDOM,COLORS)
+􀀎
+DISCOBALL IN COLORS,RANDOM COLORS AND OFF BUTTON
+
+with all the club effect lights active it look like this: 􀀉
+
+
+•.•.•.•.•.•.•.•.•.•.•.•.•.★* [DG] SENSOR P-100 *★•.•.•.•.•.•.•.•.•.•.•.•.•.
+
+NOTE: THE "SENSOR" BUTTON WORKING WITH [DG] Sensor P-100.
+YOU NEED TO REZ BEFORE USE IT!
+
+YOU WANT TO KNOW WHO IS NEAR OR LEAVING YOUR CLUB?
+THIS SENSOR IS SMART IDEA TO SEND YOU MESSAGES WHO IS NEAR AND WHO IS LEAVING
+EVEN IF YOU ARE AWAY FROM THE  REGION!  EVEN IF YOU ARE OFFLINE!
+
+THE SENSOR CAN CONTROL WITH THE FX-Control System ALSO!
+JUST REZ THE [DG] Sensor P-100 IN SOME CENTER PLACE (RANGE 20M) 
+AND CLICK THE "SENSOR" BUTTON  FROM THE D-FX Control System OR THE SAME SENSOR
+
+------------------------SENSOR INSTRUSTIONS---------------------------
+
+1.click the sensor button and will appear a blue menu driven
+
+2.HEAD:click ''start'' button and activate.CONTROL SYSTEM: click ''ON'' button and activate.
+
+3.HEAD:click ''stop'' button and DE-activate.CONTROL SYSTEM: click ''OFF'' button and DE-activate.
+
+4.the ''always'' button is to send you message in local chat who is visit you
+
+5.the ''never'' button is to stop send you 
+
+6.HEAD:the ''list''button is to take a list of all visitors...
+same also from the CONTROL SYSTEM in the "LIST" button
+
+------------------------REZ SYSTEM AND HOW TO USE---------------------------
+
+ CONSIDER THIS TO THE CONTROL SYSTEM THERE IS 2 OPTIONS "REZ,DE-REZ" FOR THE SYSTEM
+ 
+ however in the body of the lightning system (scaffold) there are more options in the menu:
+ 
+ 1.REZ: rez build pieces
+ 
+ 2.DE-REZ: remove build pieces
+ 
+ 3.Freeze: Freeze all Build Pieces and remove scripts
+ 
+ 4.Channel: in this part you can change the channel on each scaffold IN CASE you use multiple scaffolds
+ INSTRUCTIONS TO CHANGE CHANNEL:
+ 1.copy 2 or more scaffold
+ 2.select "Channel" on each scaffold there is a sub menu with numbers.
+ 3.select numbers to build a new channel and then select "Enter" to record the channel
+ 4.continue with different channel to the next scaffold
+ 
+ 
+
+•.★.•.★.•SET THE CONTROL SYSTEM(GROUP ACCESS) IN YOUR GROUP (FOR MEMBERS)•.★.•.★.•.★.
+
+here some of the settings you need to make for the "DX-1 Console Effect/lights (GROUP)"
+if you have any group and you want to use the console only the group members:
+
+1. right click and choose "Edit"
+
+2. go to "General",find the group settings, and click the "Set" Button
+
+3. a list of groups will appear.choose the right one group you want to use
+
+4.here is for example : 􀀊  􀀋
+
+5. WARNING: DO NOT "DEED" TO GROUP...otherwise you can't use the control system
+
+NOTE: THE CONTROL SYSTEM(GROUP ACCESS) WORKING ONLY FOR GROUP MEMBERS EVEN FOR THE OWNER
+
+if you have any questions & problems feel free to contact me IF IM ONLINE NOT BUSY.
+otherwise drop a notecard in my mailbox tha you can find in the Customer Support Office
+                                        
+greetings Daffy Proto
+
+
+

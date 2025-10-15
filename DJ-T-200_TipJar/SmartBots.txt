@@ -1,0 +1,22 @@
+# Lines starting with # symbol are just comments and wont affect the script.
+# NOTE:Change settings after '=' and do not remove any lines!
+
+# smartbot system is a great idea to send IM's to the tip jar user by a bot(avatar), Powered by https://www.mysmartbots.com.
+# in every payment the bot sends in personal IM: the name of tipper and how many lindens they did pay.
+# if you already have your OWN smartbot system you can specify the correct information below.
+# NOTE: you must use your OWN bot system by www.mysmartbots.com, we don't provide bot's for that feature.
+# NOTE2: this system is used  if you have a bot ONLY by the company www.mysmartbots.com.
+
+# this option is to activate your smart bot system. (ACTIVE=active,PASSIVE=turn off)
+# change after the "BOT SYSTEM=" below. valid commands: ACTIVE,PASSIVE
+BOT SYSTEM=PASSIVE
+
+#add the api Key Below - Learn more: https://www.mysmartbots.com/docs/Developer%27s_API_key
+API KEY=
+
+#add the avatar full name of the bot (avatar) that you are using.
+BOT NAME=
+
+#add the security code below - Learn more: https://www.mysmartbots.com/docs/Security_code
+SECURITY CODE=
+

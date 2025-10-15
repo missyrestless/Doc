@@ -1,0 +1,54 @@
+
+Welcome to DH Creations The Zen Japanese Store
+We thank you for purchasing at our Store and hope you enjoy using our unique Designed Products.
+We build and design cool items for your home land or place on SL.
+---------------------------------------------------------------------------------------
+Important Info how to improve lighting and objects on you're viewer :
+---------------------------------------------------------------------------------------
+In order to achieve proper Lighting on Second Life, make sure to make the following settings,
+Go to Preferences > Graphics> on your viewer:
+Set your Max. Particle count to 1024 (to be able to see particle lighting properly)
+Set/enable your lighting to 
+Point Lighting to FULL (Default)
+this enables beautiful fall off of the Lights at your Inworld experience.
+Enable Basic Shaders and also Bump Mapping and Shiny and Transparent Water.
+Set the LOD level of distance in Objects  & Sculpts to 4.000 or to Max. 
+This is the rendering quality setting for all SL Objects.
+---------------------------------------------------------------------------------------
+How To Rez: The Japanese Zen Garden 1024 Version 2
+---------------------------------------------------------------------------------------
+Drag and Drop the Japanese Garden 1024 version 2 Rezzer onto the center point of your land. 
+Before Rezzing, raise the Zen Garden Rezzer about 1.5 meter from the ground, use the edit/build tool, drag the blue arrow upward. Close edit/build tool.  
+Left click on the Rezzer then click the Rez button on the blue pop up menu, wait till all parts rez and snap into place, wait a couple of minutes, close blue pop up menu.
+---------------------------------------------------------------------------------------
+NOTE : Make sure the Zen Garden is within the boundaries of your Land.
+---------------------------------------------------------------------------------------
+To Rotate Zen Garden, Hold down the Cntrl key and rotate Blue Ring on the Rezzer.
+We recommend you to use 0/90/180 degree straight angle on rotation axis in the edit/build window. 
+Adjust the height of the Zen garden into position on your land, make sure the base of the Zen Garden is placed touching the ground, drag the Blue Arrow for up/down.
+drag the Red or Green Arrow for both left/right axis positioning.
+
+When you have finished positioning the Zen Garden into a desired place, Left click on the Rezzer then hit the SAVE button on the blue pop up menu. You can now safely delete the Rezzer. If you made a location mistake or wish to reposition, no problems at all, the Zen Garden is COPY.
+
+Dimension: 31.5x31.5 Meters
+The Zen Garden is suitable for a minimum of 1024 Sqm 32 X 32 Meter sized land and larger.
+Total Prims: 105 Prims (LI)
+Permissions: YES COPY (not modify not transfer)
+---------------------------------------------------------------------------------------
+Zen Garden Features:
+---------------------------------------------------------------------------------------
+1) Meditation Corner: Point to a pillow left click to sit. Change sit animations on pillows blue pop up menu.
+    Click on the Candle for Candle light ON/OFF
+    Click on the Healing Crystals for beautiful particle effects ON/OFF
+    Enjoy to the subtle water flow sound from the fountain 
+2) Chill Sit Area: Point to bench A or B left click to sit. Change sit animations on bench blue pop up menu.
+5) Click on fire logs to turn ON/OFF the Zen Irori Fireplace. (Go to midnight mode on your SL viewer for best fire lighting drop-off effect).
+6) Listen to the ambient birds subtle sounds in the background. The birds sounds are set to a subtle minimum, to be in harmony with the peaceful surroundings of the Zen Garden.
+4) Don't forget to enjoy this beautiful product :-)
+---------------------------------------------------------------------------------------
+Please heck out our IN-WORLD store beautiful items
+---------------------------------------------------------------------------------------
+
+Best Wishes
+DH creations The Zen Japanese Store
+

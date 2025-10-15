@@ -1,0 +1,15 @@
+--------------------------------------------------------------------
+Important note on how to improve lighting and objects in your viewer
+--------------------------------------------------------------------
+
+To achieve better Lighting in Second Life, make the following settings
+
+Go to Preferences > Graphics> in your viewer
+
+Set your Max. Particle count to 1024 or higher
+
+Set/enable Point Lighting to FULL (Default)
+
+Enable Basic Shaders, Bump Mapping, and Shiny and Transparent Water.
+
+Set the LOD level of distance in Objects & Sculpts to 4.000 or to Max. 

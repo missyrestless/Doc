@@ -1,0 +1,21 @@
+Thank you for your interest in our products, now you have the opportunity to sell them through our affiliate system.
+
+
+To install, simply drag and drop the vendor at the location you would like to place it. When you put the vendor in-world you will be asked debit permissions. Once the Permissions have been Granted you are ready to start selling our products. It is important that you grant the rights for the vendor to work. This is important because when a sale has been made , the vendor needs debit permissions to calculate the commission you will receive then deduct the rest of the sale amount from your account. Currently the commission you will receive for every sale you make is 20%. This percentage is not fix, it may increase depending on your sales. In case there is any updates for example (added products, increased commission, vendor upgrade) you will need to update the vendor so that any update made takes effect. (Click the vendor and then select 'Update' from the blue menu)
+
+ If you choose to not give debit permissions then the vendor will delete itself. Our affiliate vendor comes with copy permissions so you can always rez a new copy from the VAW Affiliate vendor folder in your inventory. Modify permissions as well to resize the vendor.
+
+
+====================
+About Us
+====================
+VAW is a company setup by Renegade Gray and has been operating in Second Life for over 2 years, We are known for selling good products and having excellent customer service. Our products range from weapons, animations, clothes, jewelry and more.
+
+
+If you have any questions or if you want to sell other products by VAW, contact info
+ 
+Email: renegade_gray@live.com
+Website: http://www.virtualartworks.biz/vaw suggestions.html
+In-world IM or notecard: Renegade Gray
+
+ 􀀄

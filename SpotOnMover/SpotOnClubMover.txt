@@ -1,0 +1,55 @@
+SPOT ON CLUB MOVER
+-----------------------------
+
+
+ONLINE DOCUMENTATION
+--------------------------------
+
+Follow these links to read about the set up and usage of your Club Mover.
+  
+  1.  FEATURES --- https://www.spotonsl.com/club-mover.html
+        (Overview of the features, components and demo video)
+  
+  2.  ENABLE THE SPOT ON EXPERIENCE --- https://www.spotonsl.com/experience.html
+        (Enables guests to be automatically picked up by the mover)
+  
+  3.  QUICK SETUP --- https://www.spotonsl.com/club-quick-setup.html
+        (Rezzing, adding dances, getting a HUD, joining the dance, multiple controllers)
+  
+  4.  HUD CONTROLS --- https://www.spotonsl.com/club-hud.html
+        (Describes how to operate the HUD)
+  
+  5.  CONFIGURE OPTIONS --- https://www.spotonsl.com/club-configure.html
+        (Setting the idle dance, access list, and other options)
+  
+  6.  UPDATES & SUPPORT (AND FAQ) --- https://www.spotonsl.com/club-update.html
+        (Using the provided automatic Updater, Frequently Asked Questions, and Support info)
+  
+
+
+CONTENTS OF THE BOX
+------------------------------
+* Spot On Club Mover Calling Post (Object)
+   An object which can be rezzed in world, allowing avatars to click and join the dance.
+   
+* Spot On Club Mover Calling Post (High LOD) (Object)
+   An object which can be rezzed in world, allowing avatars to click and join the dance.  This is identical to the other calling post, but uses a mesh with a higher Level of Detail (LOD).    It looks nicer, but uses more prim capacity on your land.   Choose the one you prefer.
+
+* Spot On Club Mover Instructions (Notecard)
+   This notecard that you're reading right now.   A list of contents and a link to documentation.
+   
+* Spot On Club Mover HUD  (Object)
+   The HUD used by the owner and authorized users to control this device.
+   
+* Spot On Club Mover Controller (Object)
+  The main controller for the product, which must be rezzed in the center of your dance area.
+  
+* Spot On Club Mover Updater (Object)
+  This object can be used to update from previous versions of the Spot On Club Mover System
+  
+* SPOT ON - Floor Space Example (Object)
+  This is a reference prim to show the size fo the dance formations, useful when planning your venue.
+
+
+
+

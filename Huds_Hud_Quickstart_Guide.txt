@@ -1,0 +1,39 @@
+HUDS HUD: THE HUD MANAGER
+
+0a) Before we begin: If it doesn't already exist, create a folder called "#RLV" (no quotes) at the top of your inventory. 
+0b) Also ensure that you are using an RLV-enabled viewer and that RLVa is enabled if you are using a viewer other than Marine Kelley's RestrainedLove Viewer. 
+0c) In Firestorm, you can enable RLVa by going to Preferences > Firestorm > Extras, and then ticking the box labeled "Allow Remote Scripted Viewer Controls (RLVa)".
+0d) If you are using a different RLV-enabled viewer, then google "how to enable RLVa" plus the name of your viewer.
+0e) The default Second Life Viewer does not support RLV(a). This product will not work in that viewer.
+
+
+QUICKSTART GUIDE:
+
+1) Attach any version of the Huds Hud to your avatar that you like. The numbers at the end of their names indicate how many buttons they have to work with.
+
+2) Type in the command that the Huds Hud tells you to type into nearby chat to configure its RLV Map. An "RLV Map" is a folder structure that will be nested inside of the #RLV folder.
+
+4) Copy any number of items that you wish to have tied to a button on your Huds Hud. It doesn't matter if the item(s) are no-copy.
+
+5) Navigate to the #RLV folder in your inventory. Open it. Find the "~HH RLV" folder there. Open it. Now find the folder there that corresponds to your Huds Hud. Open it.
+
+6) Find the folder that corresponds to the button to which you wish to tie the item(s). Right click on it and select "PASTE AS LINK". Do not use normal paste.
+
+7) And that's it. The item(s) are now tied to that button. Pressing the button that corresponds to that folder will now attach or detach all the items linked inside of its folder. Repeat
+steps 4 thru 6 to fill up your Hud with item links. If you wish to untie the item(s) from the button, simply delete the link(s). It won't harm the original items that the links point to.
+
+
+
+TO CREATE NEW HUDS HUD BARS/CONFIGURATIONS:
+
+1) Copy any of the stock Huds Huds that come packaged with this product. For example, if you wish for your new custom Huds Hud to have 12 buttons, then copy the "12" Hud.
+
+2) Paste it so you have two of them.
+
+3) Right click on the new one and select "Rename". Erase the number at the end of its name and replace it with anything you wish that isn't already used by another Huds Hud.
+This unique title at the end of the name is known as the Hud's "designation".
+
+4) Proceed with steps 1 thru 7 of the Quickstart guide above, using your newly created custom Huds Hud.
+
+
+PS: Yes, you can tie a Huds Hud bar to a button on another Huds Hud. I call it "meta-hudding". You do it just like you would with tying any other item.

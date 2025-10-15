@@ -1,0 +1,100 @@
+
+
+-----------------------------------
+MILOTIPS : BASIC SETUP
+-----------------------------------
+
+You may also consult this pdf guide:
+https://slm-assets.secondlife.com/assets/31175732/original/MILOTIPS_BASIC_SETUP.pdf?1646423170
+
+and this youtube video:
+https://www.youtube.com/watch?v=BT2FBUzQEdI&list=PL74OSW_BxGSU5SvjzNWB6Gxo7VuQ6ODZE
+
+1. REZZ THE SERVER
+-----------------------------
+The server will ask you for debit permissions. You will click on READY and accept them.
+Debit permissions are NOT intended to harm you in any way! This is the way the server will share the tips with the tipjars users according to the split %.
+
+The server will communicate with tipjars on a region wide range. You can position it whenever you want in the region. However, when you configure your system, it is advised to have the tipjars next to the server.
+
+
+2. REZZ ONE TIPJAR
+---------------------------
+You rezz a first tipjar on the ground. This tipjar will be the reference tipjar that you can later either duplicate or put in the jar giver (aka dispenser).
+
+If you intend to use the diamond provided with the system, you just rezz it, if you intend to use another tipjar from milo's Bazar, you buy it from the marketplace and send me a message, i will send you a copy with the compatible scripts in it, and if you want to use a custom mesh, you will rezz the milotips tip box instead of the diamond, and later refer to the HOW TO: CUSTOM TIPJAR guide.
+
+
+3. BASIC PARAMETERS: ASSIST
+------------------------------------------
+The server being ready but stopped (showing an orange color), you will click ASSIST. It will lead you to a little assistant, asking you several simple questions. Click begin and respond to the questions until the end.
+
+
+4. TURN THE SERVER ON
+----------------------------------
+Click on the server, its dialog will appear.
+You click on START to turn the server ON.
+
+
+5. GROUP
+------------
+The default login control access is based on the server group. You need to create a dedicated group for your staff, then edit the server (right click and EDIT), then in the first tab (General tab), you will see the current group, and a wrench icon right next to the group name. You click on that icon to change the server's group if needed.
+
+As an alternative or additional method, you can add users from the USERS menu. 
+
+
+6. CONFIGURE YOUR TIPJAR
+--------------------------------------
+From this state, and before duplicating the tipjar or put it in the jar giver, you will ensure the tipjar is set as you like (visual appearance, custom settings). 
+
+To change a milotips jar color: click the jar then VISUALS then COLOR.
+To configure a jar for Lovense, please refer to the HOW TO: LOVENSE guide.
+
+
+6. STATIC JARS
+--------------------
+If you set your jars to be static, meaning not following their user above head, you will rezz multiple copies of it. Before you do so, make sure the tipjar appearance and custom settings are set as you like. In most cases you can just leave it as it is, however custom tipjar settings allows an unparalleled level of customization and possibilities for a club system.
+
+If you are working in a multi servers configuration, please refer to the HOW TO: MULTI SERVERS CONFIGURATION guide.
+
+
+SMART CONFIG:
+It means your copied jars will remember most of the settings you set on the reference tipjar.
+It's also possible to apply the same settings after you made duplicates:
+settings => spread
+visuals => spread
+particles => spread
+
+
+DUPLICATE THE TIPJAR: 
+From now on, the system is ready. All you need is duplicating the tipjar (edit it, and while pressing the left shift key (=Left Maj key), you move the tipjar with an arrow). An alternative method is to edit the tipjar, then click Ctrl + D.
+
+You can also rezz the tipjars from your inventory. The benefit being that the tipjar will remain exactly the same in this case. However the previously described mechanisms allows you to duplicated the tipjar from the ground with no harm.
+
+
+8. FLOATING TIPJARS
+-----------------------------
+When using floating tipjars, you can rezz the jars as you would for static tipjars (as described in the previous section 7). However, there is a better way that will save you time and sim resources:
+
+The milotips system includes a tool named MILOTIPS JAR GIVER.
+
++ Rezz the MILOTIPS JAR GIVER
++ On the reference tipjar that is on the ground: Click SETTINGS then RENAME, this will rename the tipjar object as you like, so it will be easier to find later in your inventory.
++ Make sure you left the tipjar menu by clicking on EXIT.
++ You will put your reference tipjar that you configured into your inventory.
++ You will drag the reference tipjar into the jar giver content. 
+There are 2 ways:
+
+method 1) Edit the jar giver, open the content tab, then drag the tipjar from your inventory to the jar giver content.
+
+method 2) Click and  drag the tipjar from your inventory, position the mouse pointer to the jar giver object that you rezzed on the ground, and when it's over it, press the left Ctrl key of your keyboard, that should highlight the jar giver or change the mouse pointer icon, then release the mouse. 
+
+Once the jar is in the jar giver, you may position the jar giver to where you like and click on it then START. 
+
+Refer to the HOW TO: JAR GIVER for a complete guide.
+
+
+9. RESTART THE SERVER
+------------------------------
+Once your tipjars are well positioned in your place, you should click on the server and RESTART to assure a fresh start.
+

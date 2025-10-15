@@ -1,0 +1,58 @@
+Nano Surfboard  INFO and Help
+-------------------------------------------------------------------------------------
+Thank you for your purchase from NanoGunk !  
+
+The Nano surfboards are made of detailed quality mesh with normal and specular Materials texturing.  The Land impact prim count is only 3 to 6.  In addition they have custom optimize HAVOK Physics shapes for excellent sl surfing. The surfboard shapes are true to RL surfboards for visual accuracy... made using a RL surfboard shaping CAD program.
+
+
+The Nano surfboards feature an extensive menu for extending your surfing enjoyment:
+
+Click & Hold for 1 second on the surfboard to see the Menu
+
+❶ WARP -  save a start position, surf and return there with a click.
+
+❷ BOARD SIZES -  The 6 lengths you can choose from the menu are typically:
+    | 7' | 7' 6 " | 7' 10 " | 8' 3" | 8' 8 " | 9' 1 " |  or may vary   ... in addition there is a Minimum Size that is ~ 6' (1.85 m) 
+
+❸ PICKUP BOARD - Surf, finish and jump off, - now pick up your surfboard under your arm and walk the beach.
+
+❹ TRACTION PAD(s) - Hide / Show traction pad(s) and switch textures. Change the front color of the board [Stripe]
+
+❺ FINS - Hide / Show fins and switch textures.
+
+❻ Wax ON/OFF - Switch between hexa traction waxed and no wax on the surfboard deck.
+
+❼ DELETE SCRIPTS - Delete all content, delete Nano scripts.
+
+㊉ -----------------
+SIGNATURE - the Glass type lets you put a sticker on the top of your board using texture uuid's - UV map and the default sticker is provided with the surfboard.
+
+Except for the GLASS type, NANO Surfboards supports the Signature Package, an additional purchase for each surfboard TYPE ( T1, T2 ...  ) to change the entire surfboard design (board, fins, traction pads) if you want. Includes UV maps etc.
+--------------------- 
+
+HELP SECTION
+
+Q. I crossed a sim border and now WARP is no longer saved ?
+A. Warp only works within the region where you saved the position. If you try to WARP while in an adjoining region, the saved position is deleted. However if you paddle across a border and then back without trying Warp, it will continue to work.
+
+Q. I am having difficulty getting the menu to  pop up ?
+A. The Menu requires a 1 sec click & hold before it activates. This is so it only pops up when you deliberately want it to. 
+    Click&Hold - now count "TwentyTwo" in your head, release  ツ
+
+Q. I surfed and then chatted with my friend, after, when I tried Warp it didn't work ?
+A. The small Warp Menu will time out after 15 minutes. Simply bring up the menu and Warp will work.
+
+Q. I'd like to use a surfboard as a prop at home, but you don't supply one ?
+A. Rez a Nano surfboard, in the menu do both a 1)Delete All and then 2)Delete Custom - now it is a prop.
+
+Q. I picked the board up and adjusted the hold position to fit my avatar size but next time I picked it up it was not adjusted ?
+A. Picking up the surfboard makes it temporary and it poofs when you detach. Instead wear the surfboard from inventory first (add), adjust it and then detach. Now your adjustments will stick.
+
+Q.  Is there a way to stop the surfboard from constantly moving around when i'm not surfing?
+A.  In the menu choose Custom and then use the Physics On/Off button.
+
+
+ 
+Happy Happy Surfing !
+June 2023, Robin Lobo
+NanoGunk™

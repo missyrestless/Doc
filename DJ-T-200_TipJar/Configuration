@@ -1,0 +1,71 @@
+# Lines starting with # symbol are just comments and wont affect the script.
+# NOTE:Change settings after '=' and do not remove any lines!
+# ADVICE: open the notecard larger, for better displaying the options.
+
+#----------- SHARE TIPS WITH A PERSON -----------#
+# change after the "split with=" the Avatar key of the person to split profit with,and the percentage in %
+# NOTE:if you want the 100% goes to the user leave it as is!
+# NOTE2:IF YOU SET A PERCENTAGE DO NOT FORGOT TO CHANGE THE AVATAR KEY!
+#                  ↓ ADD THE AVATAR KEY HERE↓                   ↓ PERCENTAGE
+split with=00000000-000-0000-0000-00000000000=0
+
+#------------------- ACCESS TYPE -------------------#
+# you can set the tipjar access for group members or working with  the "access list" notecard
+# change after the "access =" below. valid commands: NOTECARD, GROUP
+# NOTE: if you set access for group members, name and images takes from profiles only! 
+access = NOTECARD
+
+#------------------- ROLE NAME -------------------#
+#Role name means you can set a name to use the tip jar in any role like: DJ, Host, Dancer, Manager etc.
+#just type any name you want to use below after Role name =.
+Role name = DJ
+
+#---------------- THANKS MESSAGE ----------------#
+# You can Write below a unique thanks message to those who pay the tip jar.
+# the command %NAME% replace the tipper's full name.
+# If you like to turn OFF the thanks messages, type the command: NONE
+thanks message= Thank you %NAME% for your Lovely tip!
+
+#------- POP-UP DIALOG TIP NOTIFICATION -------#
+# this is EXTRA notification  system using a pop-up menu dialog. 
+# on each payment the tip jar sends a pop-up dialog to the user, for the tip and total tips.   
+# change after the "payment notification by menu=" below. valid commands: YES,NO
+payment notification by pop-up dialog=YES
+
+#------------------  PAY AMOUNTS ------------------#
+# this option Allows you to set 4 amounts for the payment system (for the 4 amount buttons) 
+# change after the "Set Payment Amounts=" NOTE: DO NOT FORGOT THE COMMAS,AND NO MORE THAN 4 AMOUNTS.
+Set Payment Amounts= 50,100,200,500
+
+#-----------------  TIP JAR LOCKER -----------------#
+# You can lock/unlock the tip jar according to your needs. for example,
+# if LOCK the tip jar, a user login and no other can log in until the user logs out.
+# if UNLOCK the tip jar, a user login and every USER next of him that have access can instantly login.
+# change after the "Locked tip jar =" below. valid commands: LOCK, UNLOCK
+Locked tip jar= UNLOCK
+
+#------------------ SENSOR SYSTEM-----------------#
+# you can set the tipjar working with sensor or not (YES=active,NO=turn off)
+# change after the "sensor =" below. valid commands: YES,NO
+# set the Sensor Range in meters (Maximum meters: 96)
+# add seconds to the timer of sensor for delay
+Sensor =YES
+Sensor Range=80
+Sensor Delay=50
+
+#------------ SHOW/HIDE TOTAL TIPS --------------#
+# you can SHOW or HIDE the total tips of your choice.
+# change after the "total tips =" below. valid commands: SHOW,HIDE
+total tips =SHOW
+
+#------------ SOUND SYSTEM --------------#
+# Set the sound system activate or everything off (mute all).
+# change after the "Sound System =" below. valid commands: ON, OFF
+Sound System =ON
+
+#----------CONNECT WITH DG-X BOARD------------#
+# you have DG-X Shoutcast Board? you can connect the tipjar with the  DG-X shoutcast board for instantly login
+#Type a 6 digit channel below after TIP JAR CHANNEL=, to connect your tip jar with a DG-X Shoutcast board.
+# NOTE:you must specify also the SAME channel into your DG-X board for working properly and connect.
+# valid names: ONLY 6 DIGIT NUMBERS means connect with shoutcast , disconnecting with shoutcast type the command: DISABLE.
+LINK WITH SHOUTCAST BOARD CHANNEL=120450

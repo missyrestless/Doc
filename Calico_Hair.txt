@@ -1,0 +1,107 @@
+Thank you for your purchase. :)
+
+􀀃􀀂􀀁􀀀􀀄􀀆􀀅
+
+Please IM Calico Ingmann if you have any questions or are in need of a fitting.
+
+All styles, unless they come with a base, require a bald head. If you are unsure how to make a bald head, instructions have been included
+
+***BALD HEAD INSTRUCTIONS***
+
+-First, make sure that the AV hair you have on is copyable, otherwise you will need to use one of the newbie hair bases located under Body Parts. 
+-RIght click on your AV and select appearance. 
+-Select the hair button and then the Style button. 
+-The first slider you see should be hair volume. Slide that to '0" and you should now have a bald head.
+
+***EDITING YOU HAIR TO FIT**
+
+If you wish to edit with the edit window, follow these instructions. While the hair says no modify in inventory, it actually is. The scripts in the hair are just not modify.
+
+-First you will want to pull out a posing stand for your AV to stand on. If you dont have one, you can get it here. 
+􀀇
+-Wear the hair you wish to edit. It should be copyable. So it would be preferred to first make a copy of the hair in case something goes wrong.
+-Right click the hair, and select edit.
+-From here, you should be able to stretch the hair to fit your head as needed, or if you just need to edit one individual part, click on edit linked parts and that will allow you to move the single pieces as needed.
+-Once fitted, just exit out of the menu.
+
+-If you need to do a custom fitting of the hair, you will need to IM me, Calico Ingmann.
+
+
+*COLORING HAIR BANDS*
+A new feature has been added to my newest styles, giving the player the ability to change the hair band color with a command. 
+
+-To change the colors of the band, type /4 color <desired color> **Note: "<>" is not needed in the command**
+
+Sometimes the bands have various parts to them and take different commands to change the colors, the others used most often would be.
+
+/4 rose <color name>
+/4 color <color name>
+/4 band <color name>
+
+List of named colors
+---------------------------
+black 
+blue 
+gold 
+gray 
+green 
+hotpink
+indigo
+lavender
+magenta
+orange
+pink
+purple 
+red 
+silver 
+teal
+turquoise 
+violet 
+white
+yellow 
+darkblue 
+darkcyan
+darkgray 
+darkgreen
+darkmagenta
+darkorange 
+darkred 
+darkviolet     
+lightblue 
+lightgreen
+lightgrey 
+lightpink 
+lightyellow 
+aquamarine
+azure 
+blueviolet 
+chartreuse
+coral 
+crimson 
+cyan 
+deeppink
+deepskyblue
+forestgreen 
+fuchsia 
+goldenrod 
+greenyellow 
+honeydew 
+indianred 
+lawngreen 
+limegreen 
+mediumblue 
+midnightblue 
+mintcream
+navajowhite
+orangered 
+orchid
+plum
+royalblue 
+salmon 
+seagreen 
+seashell 
+skyblue 
+slateblue 
+springgreen
+steelblue
+yellowgreen 

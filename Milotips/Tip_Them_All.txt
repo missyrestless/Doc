@@ -1,0 +1,91 @@
+
+Creator: 􀀀
+
+How to install your tip them all jar:
+
+You will find a diamond and a tip box in the folder.
+
+If you want to use a custom object as a tipjar, use the tip box and follow this video : https://www.youtube.com/watch?v=xdYIuBRFT_Q&list=PL74OSW_BxGSU5SvjzNWB6Gxo7VuQ6ODZE&index=2
+
+Or this notecard : HOW TO - CUSTOM MESH TIP JAR
+
+Otherwise just rezz the diamond or the UFO Diamond.
+
+
+====================
+ TIP THEM ALL version v2.79r5c
+====================
+
+
+1) Rezz out the tip them all diamond / box on the ground
+
+2) Make sure the channel corresponds to the tipjars channel : Click the tip them all jar and click CHANNEL to adjust the channel if needed.
+
+Note that it's possible to link a single tip them all jar to multiple channels, like this for instance: 1,2 (it would connect to channel 1 and 2 tipjars). 
+
+If you use multiple channels, make sure a single user won't be able to use the 2 tipjars, as they would get paid twice.
+
+3) Adjust the title in TEXT => TITLE
+
+It is possible to enter 2 lines of text.
+
+
+4) Set the spin, size and visual options in OPTIONS
+
+5) Set the pay buttons in MONEY
+
+ + Suggested is the minimum amount and will show in the free amount field.
+ + buttons will let you enter 4 values : 200,400,800,1200 for instance
+
+6) Click START anytime to activate the tip them all jar.
+
+
+VIP MODE (New method in v2.79r5)
+======================
+
+This option has been updated again in the version v2.79r5. It's now possible to use the same tip all jar for regular and vip (discounted) tips.
+
++ Right click and edit the tipjar, and use the wrench button right next to the group name and choose the VIP group. 
+
++ Access the tipjar menu
+
++ Go to Money, and click on vip
+
++ The first time you click on it, it asks for debit permissions. This is to allow refunding the vip based on his discount. You must allow it.
+
++ Once in the vip section, you see 6 slots. Each slots allows you to set a different group tag ( = role title) that would benefit from a vip discount.
+
++ Click on 1 to set a first tag ( then later, 2, 3 ... 6 if you have more than one vip tag in the vip group).
+
++ Click on modify to set or modify the tag (that must be exactly the same as the role title in your group), then submit.
+
++ Click on discount % and enter the discount value for thihs tag (without the % symbol).
+
++ You can then go back and add more tags if you want.
+
+
+CONFIG OPTION
+==========
+
+(new in v2.78)
+
+You can limit the tip all to tipjars that are set to a certain "sub config a,b or c", within a unique channel. This allows you to use several separate tip all jars without the need to use several servers.
+
+1) set your tipjars to the desired config: click on the jar -> SETTINGS -> CONFIG and a,c or c.
+
+2) set the tip all tip jar to the corresponding config: Click on the tip all jar, then OPTIONS -> config -> a,b or c  (click all to make it connect to any tipjar).
+
+
+RANDOM MODE
+==========
+
+By default, the tip all jar tips all the connected jars.
+The random mode allows to set it to pay 1,2,3 or 4 people choosen randomly.
+
+To activate : Click on MONEY then RANDOM, then 1,2,3 or 4, that will define how many dancers/ jars users will be choosen.
+
+Click disable to go back to the normal mode.
+
+
+
+

@@ -1,0 +1,13 @@
+# to add a user start a new line below.
+#every line have 3 parts separated with the symbol >> | example: AVATAR NAME|DISPLAY NAME|IMAGE.
+#1st part you add the full avatar name, 2nd part you add a name for display, 3rd part you add a picture.
+#continue in the next line (keyboard:Enter) below for a new name.
+#To setup a profile image use the command command:PROFILE in every 3rd part. 
+#To setup any other image use the UUID of the image.
+#NOTE:DO NOT USE DISPLAY NAMES OR NAMES FROM WEB PROFILES!
+#Daffy Proto|DAFFY|PROFILE
+#Blackie Wasp|BLackie|PROFILE
+#Novaofthesky|Nova|PROFILE
+#-------------START A NEW LINE BELOW-------------#
+Missy Restless|Missy|3f33eec2-8989-d452-7124-3c0ddaa23eb2
+Angelus Portal|Angelus|PROFILE

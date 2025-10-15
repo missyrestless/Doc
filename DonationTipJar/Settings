@@ -1,0 +1,62 @@
+# Lines starting with # symbol are just comments and wont affect the script.
+# NOTE:Change settings after '=' and do not remove any lines!
+# ADVICE: open the notecard larger, for better displaying the options.
+
+#----------- ADD YOUR ROLE AND NAME -----------#
+# TEXT HEAD TITLE: to add any title at the top first line on the Floating Text.
+# ADD YOUR ROLE HERE: Add your Role name for example Singer, Guitarist, Dancer, DJ OR club name etc..
+# ADD YOUR NAME HERE Add your name to Display the board.
+# OR leave it as BLANK if you like to have empty.
+# Replace the BLANK with your information.
+# NOTE: USE ONLY REGULAR CHARACTERS AND NOT ANY ASCII SYMBOLS!
+# ↓↓Start your Options Below↓↓
+TEXT HEAD TITLE=Create
+ADD YOUR ROLE or CLUB NAME HERE=Truth & Beauty
+ADD YOUR NAME HERE=BLANK
+
+#----------- SHARE YOUR PROFITS WITH OTHERS -----------#
+# HOW IT WORKS: you set percentage a number to give as % (max 100), and you add at least one username.
+# you can add more names per line, but if you set more then one names, then the percent divided according the numbers.
+# 1. change after the "split with=" the Username of the person to split profit with.
+# 2. you like to add more names? start a new Line to add more usernames, always with the split with=.
+# change after the give "percentage %=" a number of Percent you want to give (MAX 100).
+# NOTE1:IF YOU SET A PERCENTAGE THEN MUST SET AT LEAST ONE USERNAME (ONLY USERNAMES NOT DISPLAY NAMES)!
+# NOTE2:THE MAX NUMBER OF percentage is 100. IF 100 MEANS YOU GIVE THE 100% OF YOUR PROFITS!
+# ↓↓Start your Options Below↓↓ 
+split with=ADD USERNAME HERE
+give percentage %=0
+
+#---------------- THANKS MESSAGE ----------------#
+# You can Write below a unique thanks message to those who pay the tip jar.
+# the command %NAME% replace the tipper's full name.
+# If you like to turn OFF the thanks messages, type the command: NONE 
+# ↓↓Start your Options Below↓↓
+thanks message= Thank you %NAME% for your Lovely tip and supporting Club Truth & Beauty!
+
+#------- POP-UP DIALOG TIP NOTIFICATION -------#
+# this is EXTRA notification  system using a pop-up menu dialog. 
+# on each payment the tip jar sends a pop-up dialog to the user, for the tip and total tips.   
+# change after the "payment notification by menu=" below. valid commands: YES,NO
+# ↓↓Start your Options Below↓↓
+payment notification by pop-up dialog=YES
+
+#------------------  PAY AMOUNTS ------------------#
+# this option Allows you to set 4 amounts for the payment system (for the 4 amount buttons) 
+# change after the "Set Payment Amounts=" NOTE: DO NOT FORGOT THE COMMAS,AND NO MORE THAN 4 AMOUNTS.
+# ↓↓Start your Options Below↓↓
+Set Payment Amounts= 50,100,200,500
+
+#---------- FLOATING TEXT OPTIONS------------#
+# Select Show/Hide and the color of Floating text.
+# change after the "floating text =" below. valid commands: SHOW,HIDE 
+# FLOATING TEXT COLOR LIST: List of color Commands: red, green, blue, pink, orange, purple, white, yellow,turquois
+# ↓↓Start your Options Below↓↓
+floating text =SHOW
+Floating Text Color=turquois
+
+#------------ SHOW/HIDE TOTAL TIPS --------------#
+# you can SHOW or HIDE the total tips of your choice.
+#NOTE: this is Display ONLY on the floating Text. if you hide the Floating text then nothing appear.
+# change after the "total tips =" below. valid commands: SHOW,HIDE
+# ↓↓Start your Options Below↓↓
+total tips =HIDE

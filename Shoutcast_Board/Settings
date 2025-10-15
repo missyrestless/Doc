@@ -1,0 +1,62 @@
+# Lines starting with # are just comments and wont affect the scripts.
+# NOTE:Change settings after '=' and do not remove any lines!
+# PLEASE READ THE INSTRUCTIONS CAREFULLY BEFORE YOU MAKE CHANGES!
+
+#----------------- ACCESS FOR THE MANAGER BUTTON-----------------#
+#NOTE: THIS OPTION WORKS ONLY FOR GIVING ACCESS TO MANAGER BUTTON. Manager access type can be in 2 ways: 
+#1.works with the *Manager List notecard 2.works for group members (Must add your Group to General tab)
+#Valid Names: GROUP,NOTECARD
+MANAGER_ACCESS=NOTECARD
+
+#--------------- ADD YOUR CLUB NAME TO THE BOARD ---------------#
+#Change the Headline (the top first line)  of Board to Display your Club Name or Something else...
+#Maximum Characters 40 including spaces.
+#HEADLINE=DG-X 1000 SHOUTCAST BOARD v3.4
+HEADLINE=TRUTH & BEAUTY STREAM BOARD
+
+#--------------- VERBOSE TYPE FOR THE SONG TITLES ---------------#
+#you can specify the board sends in every next song/title announces in local in type:
+# 1.whisper = 10 meters 2.say = 20 meters 3. shout = 96 meters range 4.disable = disable verbose.
+#Valid Names:say, shout, whisper, disable
+VERBOSE=disable
+
+#------------------ A DEFAULT RADIO WHEN LOGOUT ------------------#
+#you can specify also as default instantly radio in case of DJ Logout
+#add one of the radio names from the list of the  *Radio Stations Notecard
+#NOTE:the radio name must be exactly the same as one radio from the list *Radio Stations Notecard
+DEFAULT STREAM=Truth Radio
+
+#-------------- LINK DJ BOARDS EACH OTHER --------------#
+#NOTE! SET THIS CHANNEL ONLY IF YOU HAVE MORE THAN ONE BOARDS! 
+#Set a unique channel to Link boards each other or set a Command: DISABLE
+# DO NOT USE THE SAME CHANNEL LIKE OTHER CHANNELS BELOW!
+LINK DJ BOARDS=DISABLE
+
+#                              ▲
+#-WARNING! IF ENABLING WITH A CHANNEL MUST DIFFERENT WITH OTHERS!-
+#                              ▼
+
+#-------------- SET CHANNEL TO LINK NOTICE BOARDS --------------#
+#THIS IS FOR EXTRA PANELS, set a unique channel to active extra panels or set a Command: DISABLE
+# DO NOT USE THE SAME CHANNEL LIKE OTHER CHANNELS!
+NOTICE BOARD=12345
+
+#                              ▲
+#-WARNING! IF ENABLING WITH A CHANNEL MUST DIFFERENT WITH OTHERS!-
+#                              ▼
+
+#-------------- SET CHANNEL TO LINK THE VOTE SYSTEM  --------------#
+#THIS IS FOR the Vote system, set a unique channel to active extra panels or set a Command: DISABLE
+# DO NOT USE THE SAME CHANNEL LIKE OTHER CHANNELS!
+VOTE SYSTEM=DISABLE
+
+#                              ▲
+#-WARNING! IF ENABLING WITH A CHANNEL MUST DIFFERENT WITH OTHERS!-
+#                              ▼
+
+#--------------- SET CHANNEL TO LINK YOUR DG-T TIP JAR ---------------#
+#you have DG-T Tipjar? you can connect the Shoutcast with the  DG-T tipjar  for instantly login
+#Type a 6 digit channel below after TIP JAR CHANNEL=, to connect your DG-X Shoutcast board with a DG-T Tip jar.
+# NOTE:you must specify also the SAME channel into your DG-T Tip jar for working properly and connect.
+# valid names: ONLY 6 DIGIT NUMBERS means connect with tip jar , disconnecting with tip jar type the command: DISABLE.
+LINK WITH TIP JAR CHANNEL=120450

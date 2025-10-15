@@ -1,0 +1,88 @@
+PREFACE NOTE: 
+
+Please do not adjust the color on face 5 of the Animbator object. That colour value is used to store data. You won't break the system by changing it or anything, but you may cause the one-time introductory message to trigger again if you change it.
+
+GETTING STARTED:
+
+This product is operated almost entirely through slash commands in nearby chat.
+
+To add animations to the Animbator (henceforth periodically referred to as "the system"), first attach it to your avatar by right-clicking it in your inventory and selecting "Add". Then, access its Content tab. 
+
+To do that:
+1) Right-click the Animbator in your inventory after having attached it to your avatar and select "Edit". 
+2) Then, in the window that appears, go to the "Content" tab near the center of the window. 
+
+Here, you will see a window containing the Animbator's inventory, which is topped by a folder called "Contents". Drag any animations you wish to add into this window area from your own inventory. The Animbator cannot make use of any animations that have not been added to it in this way.
+
+If an anim is no-transfer, you may have to rez the Animbator on the ground in order to add the anim to its inventory. When rezzed on the ground, the Animbator will take the form of a very small, invisible cube. Press CTRL+ALT+T to show invisible objects so you can see it highlighted in red. Then proceed as indicated in the previous paragraph. When finished, press CTRL+ALT+T again to hide invisible objects.
+
+PLAYING AN ANIMATION:
+
+To play an animation that has been added to the Animbator, type its name into nearby chat after a slash. For example, if you have added an anim called "yay" to the Animbator, then you can play that anim at any time by typing "/yay" (without the quotes) into nearby chat. These commands ARE case sensitive. So capitalization DOES matter when inputting the command into chat. Changing an animation's name in the Animbator's inventory will automatically change the slash command to play it accordingly. To change the name of an anim in the Animbator's inventory, right-click it and select "Rename". However, if an anim is no-mod, then you obviously cannot change its name. This is what the /changeanimcommand command is for. More about that below.
+
+NOTE: All commands outlined in this document can only work in nearby chat. This system cannot be used from IM windows or group chat windows.
+
+HIDING YOUR COMMANDS:
+
+Do keep in mind that *ALL* commands outlined in this entire document can also work on channel 1. What this essentially means is that, if you use "/1" instead of just "/" when inputting a command, then the command itself will not show in the chat and nobody will be able to see that you've typed it. For example, if you have an anim added to the system called "yay", then you can trigger that anim by typing "/yay" or "/1yay". Typing "/1yay" will trigger the animation WITHOUT the command showing up in chat. Hidden commands issued on channel 1 in this way can optionally include a space after the 1. So both "/1yay" and "/1 yay" will work. This is also true of ALL the commands outlined below.
+
+THE SYSTEM COMMANDS:
+
+Keep in mind that, because of the fact that all of the following system commands can be changed (more on that later), typing these system command names that are written here will not work for you if you've changed them. If you HAVE changed them, and you cannot remember what you changed them to, just take off the Animbator and put it back on. It will then tell you in chat what the current command is for showing you all the commands as they are currently set.
+
+/stopanim
+This command will stop playing any anim that is currently playing IF it was started by the Animbator. It will NOT stop any anims from playing if they were started WITHOUT the Animbator UNLESS those anims have been added to the system (even if their names are different).
+
+/changeanimcommand NAME COMMAND
+This command will add a custom command to the custom animation command list. Replace "NAME" with the name of the animation for which you wish to create a slash command, and replace the "COMMAND" part with whatever you wish to become the new custom slash command. Do not include the slash in COMMAND. For example, if you have an animation called "greatbigcelebration", and you want to be able to activate this animation by typing "/hurray", then type into nearby chat, "/changeanimcommand greatbigcelebration hurray", and do NOT use "/changeanimcommand greatbigcelebration /hurray". Doing so will create a "//hurray" command instead of the desired "/hurray" command. The initial slash is assumed by the system. You can also separate NAME and COMMAND with a comma if you want. All of the following would work:
+/changecommand greatbigcelebration hurray
+/changecommand greatbigcelebration,hurray
+/changecommand greatbigcelebration, hurray
+If you wish to create a custom command in this way for an animation that has spaces in its name (about which you may have no choice if your anim is no-mod), then you MUST separate NAME and COMMAND with a comma. For example, if you have an anim called "great big celebration", and you want to be able to activate this animation by typing "/hurray", then type into nearby chat, "/changeanimcommand great big celebration, hurray". If you do not include this comma, then the Animbator will just complain that it failed to find an animation called "great"... unless you DO actually have an animation that IS called "great" added to the Animbator. In which case, it would create a "/big celebration hurray" command that would trigger that animation called "great". Keep in mind that the custom animation command list can only contain one command per animation. Using this command to create a custom command for an animation for which a custom command already exists will delete the old one from the list and replace it with the new one. Also, these custom commands do not overwrite the normal commands. So, going by our current example, even if you have created the "/hurray" command for the "greatbigcelebration" anim, you can still trigger that anim by typing "/greatbigcelebration" OR "/hurray". Both will work.
+
+IMPORTANT NOTE ABOUT MEMORY AND POTENTIAL CRASHES:
+Custom commands that have been created in this way get added to what is called "the custom animation command list". This list is stored inside the Animbator's script and takes up script memory. Assuming the Animbator hasn't been changed in any way and is in stock condition, the system itself takes up about 28.5kb of memory in the script. The maximum amount of memory that can be allotted to any one script is 64kb (65,536 bytes). However, I have imposed an artificial memory cap of 60kb so that the script always has a bit of wiggle room and hopefully won't reach that 64kb hard cap. In an effort to prevent this cap from ever being reached, the system will refuse to create a new command if 60kb of memory usage has been reached by the current state of the list. If that 64kb hard cap ever DOES get reached (which may still be theoretically possible), the Animbator will crash, throwing a "stack heap collision" error at you, and will cease to function until its script is reset. To reset it, go to the Animbator's inventory window where you would add animations to it, as detailed at the beginning of this document in the "Getting Started" section. Find and click the "Reset Scripts" button there. Doing this will empty the custom animation command list, thereby deleting all of your custom animation commands, and will also revert all changed system commands to their defaults (more about changing system commands below). 
+
+/deleteanimcommand COMMAND
+This command will delete a custom command from the custom animation command list, freeing up the memory in the process that it had been occupying. Replace the "COMMAND" part with the command you wish to delete (do not include the slash with COMMAND (the initial slash is assumed by the system). For example, if you have a custom "/hurray" command that you wish to delete, then type into nearby chat, "/deleteanimcommand hurray".
+
+/resetanimcommands
+This command will delete the entire custom animation command list, freeing up all of the memory that it had been occupying.
+
+/animcommandlist
+This command will show you the entire custom animation command list. It will show you the name of every animation in the list as well as the custom commands created for them. 
+
+/containedanims
+This command will show you the names of all the animations contained by the system whether they have custom commands assigned to them or not.
+
+/changesystemcommand OLDCOMMAND NEWCOMMAND
+This command will change a system command to whatever you like. A "system command" refers to these slash commands that you're reading about right now—any slash command in this system that does not trigger an animation to play is a "system command". So, for example, if you don't like the system command "/deleteanimcommand", and you would prefer it to be something like just "/del", then type into nearby chat, "/changesystemcommand deleteanimcommand del". From that point on (until you change it again or reset the system), you will use "/del COMMAND" instead of "/deleteanimcommand COMMAND" to delete a custom animation command. Unlike custom animation commands, these custom system commands DO overwrite the old system command, which will no longer work. 
+
+REGARDING SPACES:
+Also, do keep in mind that it IS possible to include spaces in these commands. So, for example, typing "/changesystemcommand deleteanimcommand delete anim command" into nearby chat will make it so that the "/deleteanimcommand" command will be changed to "/delete anim command". If you have added spaces to a command in this way, and then later wish to change that command again, then you MUST include a comma after the old command. For example, if you have changed "/deleteanimcommand" into "/delete anim command", and then you wish to change "/delete anim command" into just "/del", then you would type "/changesystemcommand delete anim command, del", because OLDCOMMAND (in this case, delete anim command) contains spaces. If OLDCOMMAND does not contain any spaces, then the comma is optional; if it does contain spaces, then the comma is mandatory. If NEWCOMMAND contains spaces, then the comma is not necessary unless OLDCOMMAND also contains spaces. Everything in this paragraph about spaces also pertains equally to the /changeanimcommand function and its custom animation commands.
+
+IMPORTANT NOTE ABOUT MEMORY AND POTENTIAL CRASHES:
+The names of system commands, much like the names of custom animation commands, are stored in the script and occupy memory. Therefore, longer system commands (and also longer custom animation commands) will take up more memory, and shorter system commands will take up less memory. Shorter commands are always more memory-friendly. This does NOT apply to NON-CUSTOM animation commands. Those do not get stored in the script, and therefore do not take up any memory.
+
+/resetsystemcommands
+This command will change all system commands back to their defaults.
+
+/animbatorlock
+THIS FEATURE REQUIRES RLV TO BE ENABLED IN ORDER TO WORK.
+This command will lock the system to your avatar. While locked, the system cannot be detached from your avatar. Even if you change outfits to an outfit that does not have the Animbator saved to it, it will still persist and stay attached.
+
+/animbatorunlock
+This command will unlock the system from your avatar. This command does not detach the system; it only unlocks the system, allowing you to then detach it. While unlocked, the system can be detached from your avatar. If you change outfits to an outfit that does not have the Animbator saved to it, it will become detached.
+
+/animbatormemory
+This command will show you how much memory is currently being used by the system and how much memory it still has available. This message is also shown when the Animbator is first attached to your avatar or when you log in.
+
+/animbatorhelp
+This command will show you all of the system commands in their current form as well as a brief explanation for each one. If a system command has been changed using /changesystemcommand, then that change will be reflected in what this command shows you.
+
+And that's everything. If you have any further questions, comments, concerns, suggestions, or anything of the sort, please do not hesitate to contact me. I'm always here for my customers. 􀀀
+Though, do keep in mind that I rarely log out. If you contact me and I do not respond, I'm probably sleeping or not home... or my SL crashed while I was sleeping or not home and therefore didn't end up getting your message. lol.
+Alternatively, feel free to join the Claire Bear ♥ product support group at the following SLURL (paste this SLURL into nearby chat and it will be automatically converted into a link that you can click on):
+secondlife:///app/group/221d76f1-28fc-47af-7e24-b32ea56dd026/about
+
+Thank you so much for purchasing this product, and please have a wonderful day. ♥

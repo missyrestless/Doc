@@ -1,0 +1,18 @@
+# Lines starting with # wont affect the script.
+#Each DJ line below have 4 parts and go with that order:
+# URL streamer | Username | DJ  name (Display Board) | and a Pic UUID OR...Profile pic.
+#Works With Separators with the Symbol --> |
+#1st Part. add the URL streamer of DJ.....continue with separator
+#2nd Part. add the FULL username (avatar name) NOTE:DO NOT USE DISPLAY NAMES.....continue with separator
+#3rd Part. add the dj name and this displaying to the board example:DJ DAFFY LIVE NOW!.....continue with separator
+#4th Part. there are 2 Options: you add a UUID photo OR the command: PROFILE for Display the profile picture.
+#NOTE FOR SECTION 5:for profile picture the Valid command is:PROFILE
+#WARNING: DO NOT LEAVE GAPS IN EACH LINE to avoid any errors.
+#For a Video tutorial check here: https://youtu.be/krzhsepo_Z8
+#---------------START ADD DJ  INFORMATIONS EACH NEW LINE BELOW--------------#
+http://stream.neoman.dev:8000|Missy Restless|DJ Love Sense|3f33eec2-8989-d452-7124-3c0ddaa23eb2
+http://stream.neoman.dev:8000|Angelus Portal|DJ Angelus|PROFILE
+http://cast5.magicstreams.gr:8276|daffy proto|DJ Daffy|PROFILE
+http://cast5.magicstreams.gr:8276|Novaofthesky|DJ NOVA|PROFILE
+
+

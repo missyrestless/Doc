@@ -1,0 +1,217 @@
+~~~~~~~~~~~~ DG-T Hybrid Power Tipjar ~~~~~~~~~~ 
+
+i can realize many of you might found the system pretty confuse.
+because of several options but many of the options made by customer requests
+so to cover mostly all your needs!
+so the more the system have abilities, the more complicated is.
+and i assure you will realize you bought a powerful
+item, and in time i promise you will find it so easy to use!
+" if you want something you have never had, 
+you must be willing to do something you have never done." - Thomas Jefferson
+-------------------------------------------------------------------------
+Too lazy to read? for a help guide using images Please visit: 
+https://daffy73.wixsite.com/daffysgadgetmania/dgt-200-help-guide
+-------------------------------------------------------------------------
+                                             (( chapter 1 ))
+ * * * * * * * * * * * CONFIGURATION NOTECARD  * * * * * * * * * * *
+how to find the configuration notecard: 1. edit the tip jar 2.go to content tab 3. open that notecard.
+ADVICE: enlarge the notecard, for a better display of the settings.
+ you have to know everything on the configuration notecard starts with the symbol >> #
+ wont affect the scripts, and are just comments.
+ everything else WITHOUT # are the actual settings for example.
+many of the options have the symbol >> = so if the line starts like this:
+ access = NOTECARD 
+ 
+ that means this is option. the first name must stay as is (this is the explainable option)
+ and AFTER the symbol = is the one that you use as option with  SPECIFIC command.
+ 
+ many settings are divided in categories,  and gives you the specific commands you can use on each line.
+ lets start!
+ 
+ ----------- SHARE TIPS WITH A PERSON -----------
+ setting:
+ split with=00000000-000-0000-0000-00000000000=0
+ 
+ this option allows you to share the tips with another person in percentage.
+ and works like this: 
+                      ↓ ADD THE AVATAR KEY HERE↓                  ↓ PERCENTAGE
+split with=00000000-000-0000-0000-00000000000=0
+
+the 2nd part replace it with the avatar key you want to be sharing, 
+the 3rd part is the percentage that given on each tip.
+so if you set percentage: 10 means the tip jar use will take the 90%, 
+and the rest 10% go to that person with av key you added.
+
+------------------- ACCESS TYPE -------------------
+you can set one of the type of access....group or notecard.
+group means the tip jar will work with group access according the group that set the item.
+notecard means the system will use the Access list notecard and the names are added here.
+you can use one of the following commands: NOTECARD, GROUP
+setting:
+access = NOTECARD
+
+------------------- ROLE NAME -------------------
+NOTE: in the version 2 there is no longer to type role name into a description name and now works into config notecard.
+Role name means you can set a name to use the tip jar in any role like: DJ, Host, Dancer, Manager etc.
+just type any name you want to use below after Role name =.
+Role name = DJ
+
+---------------- THANKS MESSAGE ----------------
+You can Write below a unique thanks message to those who pay the tip jar.
+the command %NAME% replace the tipper's Display name/ Legacy name.
+setting:
+thanks message= Thank you %NAME% for your Lovely tip!
+
+------- POP-UP DIALOG TIP NOTIFICATION -------
+this is EXTRA notification  system using a pop-up menu dialog. 
+on each payment the tip jar sends a pop-up dialog to the user, for the tip and total tips.   
+you can replace after the "payment notification by menu="  valid commands: YES,NO
+setting:
+payment notification by pop-up dialog=YES
+
+------------------  PAY AMOUNTS -----------------
+this option Allows you to set 4 amounts for the payment system (for the 4 amount buttons).
+change after the "Set Payment Amounts=" 
+NOTE: DO NOT FORGOT THE COMMAS,ON EACH AMOUNT, AND NO MORE THAN 4 AMOUNTS.
+setting:
+Set Payment Amounts= 50,100,200,500
+
+-----------------  TIP JAR LOCKER -----------------
+You can lock/unlock the tip jar according to your needs. for example,
+if LOCK the tip jar, a user login and no other can log in until the user logs out.
+if UNLOCK the tip jar, a user login and every USER next of him that have access can instantly login.
+change after the "Locked tip jar =" below. valid commands: LOCK, UNLOCK
+setting:
+Locked tip jar= UNLOCK
+
+------------------ SENSOR SYSTEM-----------------
+sensor is a smart system that the tip jar, can auto/logout when the user left the place!
+(can be useful in case the users forgot to log off)
+and there are divided in 3 different settings
+sensor YES/NO if you want to turn ON/OFF
+sensor range is the range that the tip jar can "see" the user. (maximum 96 meters).
+sensor delay means can be delay in seconds until the user return back (just in case someone crash).
+settings:
+Sensor =YES
+Sensor Range=80
+Sensor Delay=50
+
+
+------------ SHOW/HIDE TOTAL TIPS --------------
+you can SHOW or HIDE the total tips of your choice.(This is for the text letters on the screen).
+change after the "total tips =" below. valid commands: SHOW,HIDE
+setting:
+total tips =SHOW
+
+#------------ SOUND SYSTEM --------------#
+# Set the sound system activate or everything off (mute all).
+# change after the "Sound System =" below. valid commands: ON, OFF
+Sound System =ON
+
+----------CONNECT WITH DG-X BOARD------------
+you have DG-X Shoutcast Board? you can connect the tipjar with the  DG-X shoutcast board for instantly login
+Type a 6 digit channel below after TIP JAR CHANNEL=, to connect your tip jar with a DG-X Shoutcast board.
+NOTE:you must specify also the SAME channel into your DG-X board for working properly and connect.
+valid names: ONLY 6 DIGIT NUMBERS means connect with shoutcast , disconnecting with shoutcast type the command: DISABLE.
+LINK WITH SHOUTCAST BOARD CHANNEL=864385
+
+A video tutorial how to connect DG-X Shoutcast board and DG-T Tip jar: 
+https://youtu.be/WoWQ71FrHvs?t=302
+                                                    
+                                                     (( chapter 2 )) 
+* * * * * * * * OTHER SETTINGS APART FROM CONFIG NOTECARD * * * * * * * *
+
+------------------- MENU DIALOG ------------------
+Every tip jar has a settings button with owner access only.
+􀀂
+
+with extra and faster features By menu like:
+Reset - Reset scripts.
+Help guide - link URL with pictures for extra guide.
+Tip particle - Smart particle system when someone pays.
+Font Color - Colors for the font textures above the image.
+HoverTxt ON - Toggle Hovertext (Floating text)
+NEON Colors - Optional colors for the neon. 
+Neon Effect - Special effects for the neon. 
+[TURN OFF] - turn ON/OFF the tip jar (in case the club is out of order)
+Visualizer - Extra animate textures as visualizer
+
+------------------- HOW TO USE YOUR OWN IMAGE ON THE TIP JAR ------------------
+many of you would prefer to use your own image.
+means the image on the tip jar: "TIP JAR ON HOLD click to login" can be changeable!
+all you have to do is:
+1. edit the tip jar.
+2. go to content tab.
+3. there is one and only image here, and that the image that the tip jar use. 
+4. remove that image
+5. drag your own image here (no needed to rename it)
+NOTE:DO NOT DRAG MULTIPLE IMAGES, THE SYSTEM CAN USE ONLY ONE IMAGE.
+
+------------------- HOW TO SET THE TIP JAR AS HOST, DANCER, MANAGER ETC. ------------------
+the tip jar is so powerful that can be used for other purposes apart as dj tip jar!
+instructions:
+1. edit the tip jar.
+2. go to content tab.
+3. Open the Configuration notecard.
+4. Go to the line: Role name = DJ
+5. Replace after Role name = with any name you want
+6. Save the Notecard.
+7.DONE!
+
+ ------------- OTHER MANAGERS CAN ADD NAMES ON THE ACCESS LIST NC ------------------
+ now the new version have the ability to allow other managers to add names!
+ NOTE:that can be work ONLY if the tip jar is set access = NOTECARD (to the configuration notecard)
+ there is the *Access List notecard can be editable for other users.
+ you can just give modify rights to the specific person and done!
+ instructions:
+ the person that you have to give modify rights must be in your friend list
+ 1. open the friend list.
+ 2. find the name you have to give modify rights.
+ 3. if you use firestorm at the right side there are 3 small boxes -> □□□
+ 4. the third box must checked for modify rights like this -> □□☑
+ 5. now the person can edit the access list notecard and add names!
+ 
+ NOTE:in case that still the person does NOT have modify rights then ask them to relog.
+ (sometimes it is a common bug in sl and cannot work properly - Even Second life itself cannot be perfect :D).
+ 
+ ------------- IF YOU SET THE TIP JAR AS GROUP ACCESS ------------------ 
+ now if the tip jar works as group access (on the configuration notecard the line is: access = NOTECARD).
+ you must set your own group to the tip jar and is very easy to do:
+ instructions:
+ 1. edit the tip jar
+ 2. stay on the general tab
+ 3.  in the Group: on the right there is a button looks like screwdriver.
+ 4. click to open your group list
+ 5. select your desire group and click OK.
+ 6. DO NOT DEED THE TIP JAR
+ 7. now the tip jar is ready to use as group access!
+ NOTE: if the tip jar is used as group access the name, image is taken by profile.
+ CANNOT BE USED WITH CUSTOM NAMES. (ONLY WITH NOTECARD ACCESS YOU CAN USE CUSTOM NAMES).
+ 
+  ------ IF I SET THE NOTECARD ACCESS, HOW TO ADD NAMES? -------------- 
+confuse with the names on the Access list Notecard and how to use it??
+there are 2 ways:
+with the item you bought you have extra 2 more items included.
+1.you can rez the item: Tipjar Help Guide (rez me)
+and click the STEP 2 it will show you as image how to add names.
+
+2.but still if you confuse with this, just use the second way.
+1.rez the item: ~DG-T *Tip jar List name Generator
+2.click once to start generating names.
+3.the Generator will ask you step by step all the info that needs.
+4.type in local chat the correct info. 
+5.when finish, copy and paste the last line into the *Access list notecard.
+
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ NOTE: for any further instructions,
+ please rez the item: Tipjar Help Guide
+ for further information displaying with images.
+ 
+if you have any questions & problems feel free to contact me IF IM ONLINE NOT BUSY.
+You can also find us via Discord: https://discord.gg/QPBDGyJkbR
+For any of your case and open a ticket.
+
+many regards Daffy Proto
+                                        
+Daffy's Gadgetmania © 2008-2014
+ 

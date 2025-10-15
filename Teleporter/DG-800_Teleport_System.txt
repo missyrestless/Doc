@@ -1,0 +1,115 @@
+◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦ DG-800 TELEPORT SYSTEM ◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦
+
+Dear Customer.
+thanks for your purchasing and i hope you satisfy with the product.
+as we know is very hard  walking or fly  in one point to other at enormous distances.
+now the solution is coming for you!
+the gadget you have ,is very useful and powerful tool for your region
+to make your second life easier!
+just rez one teleport in one point,and another to the next place.
+you can rez as many teleport you want!
+the teleports communicate each other fully automated, in unlimited distance at the same region!
+--------------------------------------------------------------------------------------------
+NOTE AND PAY ATTENTION:the teleport system doesn't work in one region to other. 
+IT IS NOT A LANDMARK TELEPORT
+if we mean unlimited Distance we mean AT THE SAME REGION
+---------------------------------------------------------------------------------------------
+the teleport system,test in 4000 meters distance each other!
+the teleport system uses smart scripts and give auto-coordinates each other
+only thing you can do is to name a location into the description name.
+
+TELEPORT QUICK GUIDE:
+◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦
+1.Rez the Teleport System  into the Place A
+
+2.Right click "edit" ,go to general tab and set the Description name a name of the place you are
+NOTE: SET A NAME FOR THE PLACE THAT THE TELEPORT IS HERE AND NOT THE NEXT LOCATION
+NOTE 2: DO NOT ADD NAMES MORE THAN 24 CHARACTERS TO AVOID ERRORS
+
+3.Go in a Different Place B and Rez Another one Teleport.
+
+4.do the same to the next teleport and add name AGAIN IN THE PLACE THAT THE TELEPORT IS
+
+5.Click the Teleport System ,  a Teleport Beam rezzed.
+
+6.sit on the teleport beam ( NOT IN THE PAD ).
+
+7.a menu Dialog is Appear  with all your destination names that you set on each teleport.
+Example menu dialog: ====> 􀀀
+
+8.Click one of the Destination Button you Want to Teleport and you go to the place IN SECONDS
+
+NOTE: Do not use the teleport beam without the pads. the beam works to travel you a location,
+and the teleport pads are the actual locations the beam scanning around and generate list with locations.
+
+"config" NOTECARD
+◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦
+the "config" notecard is in every teleport pad inside the content
+Lines starting with // are just comments and wont affect the script.
+THE OPTIONS ARE THE ONES WITHOUT //
+
+channel = 225589 (you can set any 6 digit number you want) 
+1.you can change the channel (each teleport must be the same channel to "listen" each other).
+it is a smart way, you can make different sets with teleports working with different channels.
+NOTE:do not use letters!...the channel working ONLY with numbers.
+
+access =owner OR group OR everyone
+you can give access on each teleport for public or private ways.
+NOTE:if you set access =group, this access works ONLY for group members.
+just in case check to the general tab (edit mode) if the teleporter is in correct group.
+
+TELEPORT ACCESS PERMISSION:
+◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦
+There is a Three Types of Teleport:
+
+1.SET FOR EVERYONE:This Teleport can Use for Everyone
+
+2.SET FOR GROUP MEMBERS:this is Only for Group Members.if you Want to Set Another Group,
+Right Click - Edit - go to General Settings - in the Category of "Group" Click "Set" and set your Favor Group
+
+NOTE: IF YOU SET FOR GROUP MEMBERS YOU CAN USE IT ONLY IF YOU WEAR THE SPECIFIC GROUP TAG.
+
+3.SET FOR OWNER:ONLY THE OWNER CAN USE THIS TELEPORT.
+
+OPTIONS BUTTON: 
+◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦
+click the options button for a menu Dialog.
+
+( Set Name ) button:
+instead of rename the description name (edit mode) you can set a name with this option
+and set a location name.
+
+( Colors ) button:
+you can select and set color in one from the list.
+
+( Visual ) button:
+you can select one of the special animating textures for your pad.
+
+( Color Body ) button:
+Select Dark or light texture for the body.
+
+( Version ) button:
+the current Version of your teleport.
+
+( Reset ) button:
+Reset all scripts just in emergency.
+
+YES! the teleport system comes also like HUD! 
+◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦ ° ° ◦
+you place all your teleports in the region?
+your second life is much more easier!
+now you can wear your hud and you can teleport in every place in the region you are!
+just wear your hud, click the button, sit on the beam, choose your destination and go!
+
+NOTE:the hud and the teleport pads already working in the same channel (DEFAULT).
+in case you change a different channel to the teleport pads around the region
+YOU MUST CHANGE AND ADD THE SAME CHANNEL IN YOUR HUD like the teleport pads
+
+---------- WE PROVIDE FREE CUSTOMER SUPPORT! ---------- 
+if you have any questions help or & problems feel free to contact with us.
+NOTE: but yes! you should notice we also have real life, so if we are busy and don't response Quickly,
+please be patience until a customer support is available and help you.
+otherwise leave your message in the mailbox that you can find in the Customer Support Office
+
+Cheers!
+Daffy's Gadgetmania © Since 2008

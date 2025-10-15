@@ -1,0 +1,207 @@
+
+Corsair
+By Karsten Rutledge
+
+Corsair can be purchased from the K.R. Engineering store at 􀀀 or on the SL Marketplace at: https://marketplace.secondlife.com/stores/2356
+
+For web-based instructions and version changelog, please visit our Support Wiki at: http://wiki.karstenrutledge.com/
+
+
+
+
+== Introduction ==
+
+In Corsair, you are tasked with protecting hordes of treasure being transported. Along the way, nobody is going to complain if you sink rival ships and add their treasure to your own collection. Launch your ships and choose how to deploy your available resources. You have a limited number of armaments with which you can choose to beef up the defenses of your transports, or use to ruthlessly attack your enemies.
+
+
+
+
+== House Rules ==
+
+Most K.R. Engineering games have a variety of options or "house rules" that can be turned on and off by the game owner to change how the game plays. These options can include changing the winning criteria for a game, adding new rules or disabling other rules, or just placing time limits on how long you can be away before the game skips you. It is often helpful to know what house rules you are playing with when you sit down at a game. To that end, you can touch the game logo on any K.R. Engineering game to see a list of which options are enabled and which are not.
+
+For owners/administrators wishing to change these options, please see the Administration section.
+
+
+
+
+== Joining The Game ==
+
+Most K.R. Engineering games can be played simply by right-clicking on a chair and choosing "Play."
+
+K.R. Engineering games can be played on a variety of themed furniture objects, and the "chairs" may not always look like chairs. For example, on the Chess theme, the "chairs" are the giant chess pieces. If you are unsure what is a chair and what isn't on a particular, that's okay! You can right-click and select 'Play' on any part of a theme and it will automatically place you in an available chair, even if you didn't click on a chair specifically.
+
+'''Important:''' K.R. Engineering games use a rezzing system. This means that the GAME (buttons, dice, cards, game boards, etc) is a separate object from the furniture/rezzer/theme. You must right-click on the THEME to play, not the game itself, as you cannot sit on the game pieces (such as dice, game boards, cards, etc). You must sit on the furniture around the game to play, not the game pieces.
+
+While ''MOST'' game themes are furniture that you can sit on, there may be some exceptions. The Pocket theme for example cannot be sat on, as it has no chairs. Instead, you can join a game on a Pocket theme by clicking the MENU button on the game.
+
+
+
+
+== Game Play ==
+
+In Corsair, players must launch all of their available ships (5, by default, although the game administrators can change this), and successfully arrive them back at port. While launched, other players may attempt to attack and capture your ships, and you may do likewise to theirs.
+
+Players must launch a ship as their first action of a new game. They may not attack other players until their first ship has been launched.
+
+Players need not have a ship on the board in order to attack. The ships in play on the board are your treasure convoys, not your attack fleet.
+
+On your turn, you may either ATTACK a rival ship, LAUNCH one of your own ships, or ARRIVE a ship that is currently in play. You may not perform more than one action on your turn.
+
+When launching a ship, you will have the option of choosing whether or not to arm it against attacks. The amount of treasure it will be carrying will be displayed in the selection menu.
+
+When attacking, you will be given the choice of using a single ship or a fleet of ships. A fleet of ships is a tremendous commitment of resources, but victory is guaranteed. A lone attack ship can be repelled by an armed convoy, but is also a significantly smaller investment of resources. If you successfully attack an enemy convoy, the treasure on that convoy will be added to your score. If you fail, the defender gains 1 point instead.
+
+Resources are in the form of armament "points." These points are used both by arming treasure convoys against attack, as well as used when attacking enemy convoys. Arming a convoy uses a single point, as does attacking an enemy with a single ship. Attacking with a fleet uses 3 points.
+
+The amount of resources each player has is not visible to other players. This is a key part of the strategy. Other players do not know if you have armed any of your convoys, and if you have, which ones have been armed. Likewise they do not know if you still have resources with which to attack their ships. All players start with the same number of armament points, but how you decide to use them can greatly impact the outcome of the game. You could play a defensive game, arm all of your ships as much as possible and hope for the best. You could also choose to use your resources on an all-out assault on enemy convoys. Often, striking a balance is the best way to proceed.
+
+Players will benefit the most from attacking ships carrying a large amount of treasure, but these ships are also more likely to be armed for this reason.
+
+
+
+
+== Bug Fixes & Upgrades ==
+
+Owners of K.R. Engineering games are entitled to free upgrades to newer versions of the game. However, you cannot update the game directly! Instead, you should update any themes that you own. Updated themes include the latest version of all games supported by that theme. To do this, please follow these instructions:
+
+** Click and hold your mouse button on part of the theme for 3 seconds until a menu appears, click 'Update.'
+** If you don't see the "Update" button, try pressing the <<< button until you see it. The admin menu has multiple pages.
+** If you cannot find an "Update" button, you may have opened the GAME's admin menu instead of the THEME's Admin menu. You can switch between these with the "Game ↗" and "↙ Rezzer" buttons.
+** A new, updated theme should be sent to you from our update servers within a few minutes. If it's not, please try again. If you are unable to get an update, please contact us for assistance.
+
+If you are having problems with your game, please instant message Karsten Rutledge in Second Life or send email to [mailto:support@karstenrutledge.com support@karstenrutledge.com] for product support. If the problem you are having has not previously been encountered, a new game version will be released with a fix as soon as possible.
+
+DISCLAIMER: The appearance and feature set of games are subject to revision between versions as the capabilities of Second Life change over time. Please see the detailed ChangeLog for new versions before upgrading by visiting the K.R. Engineering Support Wiki at http://wiki.karstenrutledge.com/. By continuing with the update you are agreeing to accept any and all changes that have been imposed on the updated version of the game.
+
+
+
+
+== How To Change Theme ==
+
+K.R. Engineering games use a rezzer system to play games on-demand. These rezzer systems ARE the themes! If you want to use a different theme/rezzer, simply visit our store in Second Life or on the Second Life Marketplace and purchase another themed rezzer. Any game licenses that you already own will work on any newly purchased rezzer, you do not need to buy additional licenses to change which theme you are running them on! See the top of this notecard for links and landmarks to our stores.
+
+
+
+
+== Player Experience ==
+
+At K.R. Engineering, we believe that playing games in Second Life is about more than just the game. It is about socializing and enjoying the game the way you like it. To that end, our game tables incorporate features that go beyond game mechanics. Once you are seated at one of our game tables, a number of options become available to customize your experience.
+
+These options most frequently include camera and animation controls, but may also include other features that are theme specific. To access these features at any time you can click on the chair you are seated in, OR press the MENU button if a game is loaded on the theme.
+
+=== Persistence ===
+
+Our themes will store your custom settings on our web server, so that the next time you sit down to play on the same themed game system it will automatically restore your previous settings. Your avatar seating position, your camera settings, your last chosen animation, etc. will be saved and reloaded.
+
+This applies to all instances of the same theme. If you sit down at a Hot Tub theme and choose a new animation, then stand up and move to a different Hot Tub theme in a different region, it will still remember your settings!
+
+=== Animations ===
+
+The animations available will vary from theme to theme and are shown in the menu. Press the numbered button that corresponds to the animation you wish to use.
+
+There may be more animations than can fit on a single 'page' of the menu. Use the >>> and <<< buttons to turn pages and see more animation options.
+
+If you are using a couples animation and your animation becomes out of sync, you can press the SYNC button to try and get them back together. This can happen because animations in Second Life are played CLIENT-SIDE and sometimes they do not start playing at the same time or speed depending on internet connection and computer hardware.
+
+=== Seating Position ===
+
+From the animation menu, you can press the ADJUST button to change your avatar's seating position, including scooting forward, back, up, or down. Press RESET to restore to the default seating position.
+
+=== Camera View ===
+
+From the animation menu, press the CAMERA button to change your camera view. There are multiple settings here with different effects.
+
+* Save Default: If you are the theme owner, you can press this button to save your current camera settings as the default that all players will start with until they change it.
+
+* Disable: Turn off control over your camera. The game will not attempt to control the position of your camera in any way.
+
+* Third: Use a third-person perspective of the game, looking over your shoulder.
+
+* Birdseye: Use a top-down perspective of the game.
+
+* Persp. On: Enabled perspective-based camera. By default, the camera always appears from the perspective of "player 1" on the game, so everyone sees the same game perspective, which is generally the most readable and functional way to view many games. However, if you turn this on then the camera will be rotated so that you're looking at the game from the position your avatar is seated at, instead of the player 1 position. If you are seated opposite of player 1, this may make the game appear "upside down."
+
+* Persp. Off: Disable perspective-based camera. When off, the game will always be viewed from the perspective of Player 1, and not your own seating location.
+
+* Zoom In: Move your camera view closer to the game.
+
+* Zoom Out: Move your camera view farther from the game.
+
+It is important to note that your camera can be overridden at any time by you. If you decide to move your camera, the game will always let go. If you are pressing camera buttons and nothing seems to be working then your camera may have been 'taken away from' the game at some point. To fix this, simply press the ESC key on your keyboard a couple times. This will cancel any manual control over your camera that you have done and let the game control it again.
+
+
+
+
+== Administration ==
+
+To access the game's administrative menu, simply click and hold your mouse button down on any part of it for 2 seconds and a menu will pop up on your screen displaying current settings and providing options to change them. (In slow simulators, this may take slighter longer than 2 seconds, just hold the mouse button down until you see a menu.)
+
+It's likely that you may accidentally open the THEME/REZZER's administrative menu instead of the GAME's administrative menu, depending on where you clicked. This is okay! If you are in the THEME/REZZER's admin menu, you can switch directly over to the GAME's admin menu by pressing the "Game ↗" button. Likewise if you open the GAME menu by mistake, and wish to switch over to the THEME/REZZER menu, you can simply press the "↙ Rezzer" button.
+
+Some elements of the administration menu are accessible only by the owner, while others can be accessed by anyone who is considered an administrative user, either explicitly added or implicitly through the Group Admin feature.
+
+There are too many options to fit in a standard dialog window, so the window has been divided into pages. You can use the <<< and >>> buttons at the bottom of the admin menu to change which page of options you are currently viewing. If you don't see the option you want then it is on another page!
+
+=== Rezzer Options ===
+
+Many options that were formerly in the game admin menu have been moved to the rezzer admin menu! These are options that are game-independent, such as admin users, branding, sound volume, and updating. These options are now set on the rezzer/theme and apply automatically to whatever game is being played on that rezzer.  You can access the rezzer's admin menu from the game's admin menu by using the "↙ Rezzer" button.
+
+=== Owner-Only Options ===
+
+* Indicators: A menu for changing the color of the turn indicator lights on the game board.
+
+* Color: An alternate way to access the color/theme menu for the table. This is the same as pressing the Color button on the table top.
+
+* Miniatures: Access the miniature set selection menu.
+
+=== Administrative User Options ===
+
+* ↙ Rezzer: This button will directly open the rezzer's administrative menu instead of the game's menu.
+
+* Players: Access the player management menu to skip or evict players from the game.
+
+* Abandoned: Select this button to change the number of seconds the table waits to reset an abandoned game after all players have left.
+
+* Timeout: Select this button to change the number of seconds the table waits for idle players to begin their turn. If they don't roll before the timeout occurs, the game will skip them for this round.
+
+* Quiet: Enable quiet mode, reducing the amount of chatter that the game will send to local chat.
+
+* Chatty: Disable quiet mode.
+
+* Evict On: Turn on evicting of players who are idle on their turn, as dictated by the Timeout function above.
+
+* Evict Off: Turn off evicting of players who are idle on their turn. Players who are idle will be skipped instead.
+
+* Pieces: Change how many pieces each player starts with, ranging from 3 to 7.
+
+* Points: Change how many armament points each player starts with, ranging from 5 to 12.
+
+
+
+
+== Prizes & Betting ==
+
+As of September 1st, 2014, it is a violation of the Second Life Terms of Service for this game to have betting or buy-in options. As a result, K.R. Engineering games do not accept or facilitate any Linden Dollar money transactions.
+
+
+
+
+== Customer Support ==
+
+If you are having a problem that is not covered by our Customer Support Wiki (http://wiki.karstenrutledge.com/), please send an instant message (do not send notecards) to Karsten Rutledge, or send an email to support@karstenrutledge.com with a detailed explanation of your problem and with what game you are experiencing the problem on.
+
+Messages that are simply "hello" or "are you online" or "I need help" with no explanation or description of what you need help with will be ignored. If you need assistance, you must include a description of your problem.
+
+We do not accept friendship requests from customers.
+
+
+
+
+== ChangeLog ==
+
+Please visit our Support Wiki at http://wiki.karstenrutledge.com/ for detailed product ChangeLogs.
+
+
+
+

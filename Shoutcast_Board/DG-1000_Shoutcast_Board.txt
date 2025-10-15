@@ -1,0 +1,142 @@
+~~~~~~~~~~~~~~ DG-X SHOUTCAST BOARD ~~~~~~~~~~~~~~
+
+the Shoutcast board Tested by Multiple Alternative Avatars,working the Best for you!
+so if you have any problems,here is some instructions about how you set the 
+Shoutcast Board Working Properly.
+
+NOTE: for instructions about how to set the shoutcast board pls rez the "S.B. Help Guide"
+
+Video Tutorials: 
+https://www.youtube.com/watch?v=krzhsepo_Z8&list=PLW_RZ8e_yDeokDO8oh6YQLZ_T-zhlHDPA
+
+Problem: MY land is under (Group Owned) and the Shoutcast Board not Working! 
+Solution: if the  land is under group owned you must Deed the DGX Receiver into the same Group
+
+1.Click the manager Button at the bottom of board.
+2.By menu select "DGX Receiver".
+3.Then Select "REZ Receiver".
+4.the DGX Receiver is Rezzed.
+5.Deed the DGX Receiver into the same Land Group
+NOTE: YOU DO NOT DEED THE SHOUTCAST BOARD! only the DGX Receiver Must Deed to the Group.
+
+here is the instructions about how to do that: 􀀃
+
+Problem:ok im trying to deed the receiver but the deed button seems locked and fade...
+Solution: if the Deed button seems locked,Maybe in the Group,that ability to deed Objects is Deactivate.
+if the group owned to another owner, ask him to change that and give you the ability to deed objects 
+(Normaly the "Everyone" Tag, and the deed ability is deactivated by default)
+ask the Owner of the Group to Follow this Steps:
+
+follow this steps below:
+
+1.edit the Group Menu
+2.go to the "Members & roles" Tab
+3.Go Again to the "Roles" Tab
+4. Choose a Role,Usually is the "Everyone" Role
+5.in the Category "Allowed Abilities" Search for the "Object Management"
+6.Click the "Deed Objects to Group"
+
+Example: 􀀂
+------------------------------------------------ FAQ --------------------------------------------------------------
+
+Problem: i add names to the Manager list notecard but still says:no access....what did i do wrong?
+possible reasons:
+1.check if you add display names, according to the data server display names ar not accepted by the system.
+YOU MUST ADD only legacy names (account names)
+2.if names comes from web profiles for example (daffy.proto), remove the dot in the middle (daffy proto).
+3.ONE NAME EACH NEW LINE, do not add multiple names at the same line.
+4.try to avoid gaps between the lines.
+5.DO NOT ADD ANY OTHER CHARACTERS EXCEPT CLEARLY AVATAR NAMES.
+RELATED VIDEO TUTORIAL: https://www.youtube.com/watch?v=t9P0Ty98vtw
+ADVICE: USE THE ~DG-X *DJ Stations List Generator.
+
+Problem: i Add names to the manager list nc but my managers cannot edit notecards!
+Answer: the manager list Notecard works ONLY FOR THE MANAGER BUTTON OPTION MENU
+if you want to give access rights for editing notecards to others there is another simple way:
+1.give modify rights to the user.
+2.set the correct group on the board (works with group access).
+3.ask the manager to wear the correct group tag and edit notecards.
+RELATED VIDEO TUTORIAL: https://www.youtube.com/watch?v=00pdURRCUdI&t=2s
+
+Problem: i add names to the DJ Stations notecard but still says:no access....what did i do wrong?
+you start new line for each dj that have 4 parts and go with that order:
+URL streamer | Username | DJ  name (Display Board) | and a Pic UUID OR...Profile pic.
+1st Part. add the URL streamer of DJ.....continue with separator*
+2nd Part. add the FULL username (avatar name) NOTE:DO NOT USE DISPLAY NAMES.....continue with separator*
+3rd Part. add the dj name and this displaying to the board example:DJ DAFFY LIVE NOW!.....continue with separator*
+4th Part. there are 2 Options: you add a UUID photo OR the command: PROFILE for showing the profile picture.
+NOTE FOR SECTION 4:for profile picture the Valid command is:PROFILE
+WARNING: DO NOT LEAVE GAPS IN EACH LINE to avoid any errors.
+*Seperator is the symbol >> |
+RELATED VIDEO TUTORIAL: https://www.youtube.com/watch?v=krzhsepo_Z8&t=2s
+ADVICE: USE THE ~DG-X *DJ Stations List Generator.
+
+Problem: i add radio to the Radio Stations notecard but now i don't have radio menu or got error...what did i do wrong?
+it is possible to add the name of radio in more than 24 characters (including spaces)
+which means the menu dialog don't accept more than 24 characters and the script got error..
+open the radio stations notecard and find which radio station have a large name and shrink the name of this (less than 24 characters)
+ADVICE: USE THE ~DG-X *DJ Stations List Generator.
+
+
+Problem: ok now the ShoutCast is working But Doesn't Show the Photo..why is that?
+Solution: in the "Radio Stations" NoteCard Maybe you need to set the Correct UUID
+for example: http://85.25.106.178:80|NoBrix|5fde9220-d61b-3f88-31bf-e5b11a22bc9f  <----- this is the UUID (last Section)
+NOTE. please pay attention we mean the UUID of image, and not a UUID of avatar or any other thing.
+1.open your inventory 2.search for the image 3.right click the image and select "Copy asset UUID" 4.paste the UUID (image) to the notecard. 
+ADVICE: USE THE ~DG-X *DJ Stations List Generator.
+
+Question: What is this UUID??
+Answer: UUID is the key for every photo or texture...to find that,open your inventory,
+Choose the photo you like,Right click an Choose "Copy Asset UUID".After that Paste the UUID in the Notecard and Save
+
+Problem: Some of the radio stations doesn't  working AT ALL
+Answer: some Radio Stations doesn't Working because of that possible reasons:
+
+Reason 1: some radio stations are not stay open 24 hours and be offline.
+Reason 2: the server of the radio streamer is down.
+Reason 3: some of the radio streamers are not supported by a second life servers.
+Reason 4: the radio station is closed permanently and is out of order.
+
+Problem: i cannot listen any radio station at all in my land!
+Solution: hmm did you rez the DGX Receiver? if not click the manager button and Select REZ DGX to rez the receiver.
+IF the land is under Group owned, Deed the receiver (NOT THE BOARD) into the same group as the land.
+IF the land owned to you, do not deed the receiver. just rez it and leave it as is.
+IF the land is owned by someone else (one person) give the receiver to this person and ask him to rez the receiver.
+
+Problem: ok i add all tha information that needed to the dj station nc but STILL Display NO SONG INFORMATION!
+------FOR SHOUTCAST STREAMERS-------
+Answer: every streamer in the notecards must be CLEAR! which means must start with: http...end with the port number
+AND NOT other further informations of url stream.
+examples: 
+http://85.25.43.55:8100/  = WRONG
+http://38.86.49.3:9832/index.html?sid  = WRONG
+http://38.86.49.3:9832/blablabla  = WRONG
+http://85.25.43.55:8100  = CORRECT
+
+Problem:Everything good until now but now some of my dj's  play music and the board don't show song information.
+Answer: it is very possible, the issue comes from the program that use a dj.
+possible reasons:
+some program players don't have the ability to display titles if are cracked, and don't send metadata to the streamer totally..
+the dj that use the broadcast player Disable the song titles, for its own reasons.
+
+Question:as owner i am i have a dj menu but instead of login says (CLICK & READ)...what is that, and why i don't have login button?
+Answer: Please Click that button and read the information in nearby chat:
+Yes you have Menu But Without DJ Login Button.
+This Means Even if you are  Owner, the board need Informations (streamer,display name, profile pic) .
+add your information To the '*DJ Stations' Notecard.
+
+Question:HEY...i resize the board larger and increase the prims. why this happening??
+Answer: the board is 100% mesh, and we all know in mesh items
+the more size you give, the more prims count (land impact), so please don't blame me...blame lindens
+for more details read this notecard: 􀀄
+
+
+i try to find the Most International and professional radio stations,having always the music you like!
+again if you find any radio station not working,you can replace it in the "Radio Stations" Notecard
+
+We also provide customer assistance.
+for any help contact Customer support: 􀀁
+for technical issues contact creator: 􀀀
+if we are  unavailable, Busy or offline leave your message to the main store at the boards and we receive it as email.
+                                        
+Daffy's Gadgetmania © 2008-2014
