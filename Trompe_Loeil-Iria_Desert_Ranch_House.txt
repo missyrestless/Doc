@@ -1,0 +1,56 @@
+
+Thank you for your Trompe Loeil purchase! Please read the following information for helpful tips on installing and modifying your purchase.
+
+-----Installing your prefab home-------
+
+Make sure you have at least 214 prims available, or 180 for the no pool model, or 138 for the no plants/no pool model, and a flat parcel of land at least 32.5 meters by 32.8 meters.
+
+Rez the Self-Installer onto the ground. It is the same footprint as the prefab, so place it where you want the prefab to be positioned. Click the Self-Installer and choose Rez from the menu. Move the Self-Installer to move the rezzed prefab to its final position. When the prefab is in its final position, click the Self-Installer again and choose Finish. You may now delete the Self-Installer.
+
+------ Customizing default positions with the AVsitter™ 2.2 System ------
+
+Furniture owners can now define custom default positions for every animation in this product, with the newly open sourced AVsitter™ 2.2 system! See our instructions: http://trompeloeil.biz/avsitter-2-2-customization/
+
+
+-----AN IMPORTANT NOTE ABOUT REZZING-------
+
+Rezzing objects from your inventory inside of a mesh structure can sometimes be hit or miss. Try the following tips to rez successfully each time (very important if you're rezzing no copy objects!)
+
+** Create a prim and rez items from your inventory on top of that prim.
+** Dragging and dropping anything from your inventory onto an object that already exists inside your house, prim or mesh, should work - even if you rez onto a picture on the wall!
+** To be absolutely sure, you can rez the object outside on your land and then move it inside using the Edit menu.
+
+
+-----Using the Home Control Panel-------
+
+Please see our full Instructions & FAQ online! --- ---  --->   http://trompeloeil.biz/home-control-faq-instructions/   <---  ---  ---
+
+Note: this model has a sunroom with window effects that vary from the rest of the house. The options for the sunroom windows are Glass (both sides), Screened (both sides), and Shuttered (both sides). 
+
+-----General Mod/Copy Information-------
+
+All parts of the build except for scripts and animations should be both modify and copy. If you run into any problems with the ability to modify any part of your build (except scripts), please let Cory Edo know.
+
+
+--------- PROBLEMS? ------------
+Please IM Cory Edo. If you don't get a response within 24 hours please drop a notecard. I'm happy to help!
+
+
+--------- SUPERFANS GROUP ----------
+All Trompe Loeil updates are announced through the Trompe Loeil Superfans group - join and get exclusive in-store discounts on a rotating curated selection of items every month! secondlife:///app/group/40764bcb-b29c-97d2-4a92-95cb4dfcdf2b/about
+
+
+--------- SOCIAL & NEW RELEASE BLOG ----------
+
+https://trompeloeil.biz/
+https://www.instagram.com/trompeloeilsl/
+https://www.flickr.com/photos/trompeloeilsl/
+http://www.facebook.com/TrompeLoeilSL
+https://twitter.com/TrompeLoeilSL
+https://www.tumblr.com/trompeloeilsl
+
+
+
+Thanks very much for your purchase. I hope you enjoy using it as much as we enjoyed creating it.
+
+~ Cory Edo
