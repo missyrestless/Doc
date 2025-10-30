@@ -1,0 +1,81 @@
+Waves Sea-Sizable 4 shape+menu-In/off sim v1.1 [BOX]
+version: June 14, 2014
+
+Sea waves in 4 shapes and interactive menu
+HOW TO USE:
+Inside version: simply rezz to the ground and move or you want
+Offsim version: rezz near at your land border for sim expand limits.
+Touch waves menu appaer
+It is recommended to activate the menu only after placing the waves,  in case you want move it to another location or rotate exit of menu before moving it or reset the script after moving/rotate the waves (Only Owner: Menu--> Option --> Reset).
+For Offsim version: The primary (root) prim invisible must remain in your land and push the entire visible parts outside sim border..
+TIP: Rotate the Offsim so the object is facing towards the sim/land edge and the invisible root prim is facing towards the centre of the sim/land.
+Move the Offsim towards the sim edge until the root prim is just inside the sim or at a distance as you wish
+In case the offsim will return inventory, rez turning you from the opposite side, once rez rotate the offsim towards the sea.
+
+MANAGE MENU
+- RESIZER: You can change the size of the waves starting from the default size of each model (read measurements for each model below)
+Default (default size for each model)
+Min (minimum size for each model)
+Max (maximum size for each model)
++- 5 % +- 10 % +- 20 % +- 50% (enlarge or reduce the size as a percentage)
+- SOUND: 7 types of sea waves
+-- Vol 1 to 10 + Sound Off (Default Sound off)
+- SPEED: 10 types of speed of the waves (Default Speed 15)
+- TEXTURE
+2 types of texture (Default Water1)
+Bright on/off (Default on)
+Alpha: 10 types of Transparency (Default 20)
+Glow: 10 types of Glow (Default 0)
+- USER: You can set permissions to use the Options Menu to Owner, Group, All  (Default Owner) [Access this menu only Owner]
+- OPTION  [Access this menu only Owner]:
+-- DELETE: You can (or not) delete permanently scripts from your waves under one click, this function delete all scripts of menu, and remains the minimal ones for the functioning of the item and also prevents from involuntary clicking on them, and to be less active scripting in your land.
+RESET: reset script  with default values
+- EXIT: exiting the menu so useful for not doing so to time out the script
+
+The box contains: 
+- v1.1a Waves-Sizable 4-8_32-64: 1 prim (2 prims versions OFFSIM) [Copy permission]
+RESIZES (X-Y): Default 8x16  -   Min 4X8   -   Max 32x64
+
+- v1.1b Waves-Sizable 6-8_48-64m: 1 prim (2 prims versions OFFSIM) [Copy permission]
+RESIZES (X-Y):  Default 12x16   -   Min 6x8   -   Max 48x64
+
+- v1.1c Waves-Sizable 4-4_64-64: 1 prim (2 prims versions OFFSIM) [Copy permission]
+- RESIZES (X-Y):  Default 16x16   -   Min 4X4   -   Max 64x64
+
+- v1.1d Waves-Sizable 8-6_64-48m: 1 prim (2 prims versions OFFSIM) [Copy permission]
+RESIZES (X-Y): Default 16x12   -   Min 8x6   -   Max 64x48
+
+
+--------------------------------------------------------------------------
+
+IF MY CREATION IS NOT WORKING CORRECTLY (MENU NOT RESPONDING).
+
+- Your item is not set to the correct rental/land (script setting in group land or scripts Not Running)
+Make sure you activate your group tag before you rez any items.
+If you need to change an item that is already rezzed, right click and select Edit, click Set under the General tab, and select your rental group, then click OK.
+
+- You may have accidentally set your scripts to Not Running. In this case, right click your item and select Edit, and while the Edit Box is open, go to the upper menu and click Tools Set Scripts to Running in Selection. In Viewer 2, go to the upper menu and click Build Set Scripts to Running in Selection.
+________________________________________________________________________
+
+Thank you to have purchased my creation
+
+For information, problem,  customization or suggestions please send  im or private message
+
+https://my.secondlife.com/tm.susanowa
+---------------------------------------------------------------------------
+
+Join .:Tm:. Creation group for get informed about new product and gift and get inworld  5% discount, store credit
+
+Copy and paste in local chat
+secondlife:///app/group/dcda6b1b-c88d-8c8f-2d0e-8f5e3a40c3fa/about
+
+
+Hugs,
+Tami Susanowa
+
+.:Tm:. Creation
+
+https://marketplace.secondlife.com/stores/23454
+
+Flickr: https://www.flickr.com/photos/141512892@N05/
+

@@ -1,0 +1,22 @@
+  WET BEACH SHORELINE INFO
+  
+Thanks for purchasing the wet beach prims. This set includes a choice of two sand colors, light and gold. Each set has 7 prims, 6 megaprims and one 10m prim.  All are copy/mod. 
+
+Please make a copy of each prim before altering in case you need a backup  Mega prims cannot be resized- they will revert to a regular 10m prim.  The regular 10m prim can be changed in shape on the Object tab of the Edit/Build mode from a cylinder to a box, depending on your purpose.  Also if you need to cover a smaller area, make copies of this smaller prim and resize to fit the area, remember that the texture repeats may need to be adjusted also.
+
+
+ SET-UP  INSTRUCTIONS:
+
+To set up your shoreline, rez a long prim (there are three styles- single, double and triple scallops).  Move the prim parallel to the land and adust the depth so that the sand is a tad above the water then slide towards or away from the land for the width of beach you desire.  Place smaller corner pieces to give a nice transition between long prims,  to turn corners and/or to make rounded edges at the ends.  Rotate round prims to match textures, or adjust texture using the Offset  feature in the Texture section of the edit/build mode.
+
+Once you have your shoreline in place,  Right click the sand to bring up the terraform editing box.  Raise or lower and smooth the edges of the sand to cover and blend the backside of the prims to the land.
+
+Also, the prims can be set at an angle so that your shoreline waves wash over them.  Where the prims meet, you can bring some sand up to help cover the seams. Be creative and have fun!
+
+Any questions please feel free to drop me a notecard or IM.
+
+Thanks,
+Sanamanth Arrowmint
+Golden Spiral Designs
+
+􀀀
