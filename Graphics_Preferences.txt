@@ -1,0 +1,44 @@
+Greetings from Tiki Tattoo!
+
+Here is just a simple advise to make your "Mesh Life" better.
+Mesh details is  based on distance . For that reason, better to improve your graphics preferences.
+Here is what I can suggest you, from my little SL experience, to have better mesh without consequences on your graphics perfomances:
+
+-> Menu "Me"
+-> "Preferences"
+-> "Graphics"
+-> if not already done, choose "Advanced" to acces the graphics details.
+-> Start to set the "Objects" cursor to the max. and "OK"
+-> if your computer become lazy because of this, just adjust the "Draw Distance", the lower the better, and in most case, a 200m setting is much enough.(draw distance is themost influent setting for your perf)
+
+-> Others can be adjusted too, but with less consequences on your SL experience. 
+It's good to reduce the "max non imposotr avatars" if you use an old computer.
+On my side:
+ "Max particule count" is set  to 256
+"Max non-impostor avatars" to 12
+"Post process quality" to max
+"Objects" to max
+"Flexiprims" in middle
+ "trees" to low "  (not so many trees now in SL though)
+"Avatars" to low/mid
+"terrain" to max
+"sky" to mid
+
+ Avatar Physics, and water reflections, rendering, etc... is really based on your computer performances... 
+
+
+Aims here wasn't here to give you a lesson, I'm not enough good for this, just an advise! ;)
+
+_________________________________________________________________________________________________________
+
+Tiki Tattoo do his best till 2007, to offer Second Life customers high quality Tropical beach design products, and especialy Pacific design.
+
+From tattoos, mokos, clothing, jewell, houses, prefabs, plants, trees, furnitures
+
+You can also come and join us on our little Estate to spend some time here on Tiki Tattoo, renting your own beach, for 1 month, 2 months, or for life.
+
+Never hesitate to contact Hatzfeld Runo 
+Keep on surfing!
+
+TIKI TATTOO, the original & exclusive design since 2007... be creative!
+Hatzfeld Runo
