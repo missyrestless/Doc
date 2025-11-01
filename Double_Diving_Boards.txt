@@ -1,0 +1,60 @@
+Greetings from Tiki Tattoo!
+
+Tiki Tattoo - Double Dive boards - Mesh
+
+
+___________________________
+LIGHTS
+___________________________
+
+
+Here is just simple advises to set and manage your lights
+
+____________________
+-> How to see lights
+
+From your Viewer Preferences:
+
+You need to active the "local light" to see them
+You need to active the "Basic shaders" to make them looks right thanks to glow.
+
+->> Menu -> "Preferences" -> "Graphics" -> check the left column ->  don't forget to press "OK" to validate changes
+
+Note that the SL viewer can handle 6 light sources from any point of view
+
+________________________________
+-> How work the Tiki Tattoo Lights
+
+->> To switch ON/OFF just "touch" them
+(your cursor should be a "little hand" when you're over it)
+->> To open the light manager do exact same BUT keep the mouse pressed 2 or 3 seconds before removing your finger.
+
+___________________________
+ANIMATIONS
+___________________________
+
+10 animations in each board -> "TOUCH" one of the board to use it  
+
+->> to change animations, just "TOUCH" it while in use to open the menu manager
+
+->> to adjust position and rotation, type chat command     /1a  while in use, to open the position manager
+Note that the engine will remind the position & rotation of the last 50 users, so the adjustment just need to be done one time in your life in most case.
+
+_______________________________________________________
+
+Tiki Tattoo do his best till 2007, to offer Second Life customers high quality Tropical beach design products, and especially Pacific design.
+
+From tattoos, moko, clothing, jewel, houses, prefabs, plants, trees, furnitures
+
+You can also come and join us on our little Estate to spend some time here on Tiki Tattoo, renting your own beach, for 1 month, 2 months, or for life.
+
+Never hesitate to contact Hatzfeld Runo 
+Keep on surfing!
+
+TIKI TATTOO, the original & exclusive design since 2007... be creative!
+Hatzfeld Runo                         
+
+
+
+
+
