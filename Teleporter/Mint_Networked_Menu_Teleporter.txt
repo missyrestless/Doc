@@ -1,0 +1,31 @@
+Thanks for using Mint Gadgets™!
+*******************************
+Original Product
+Mint Networked Menu Teleporter™
+*******************************
+Released on October 4, 2023
+First Edition
+
+Introduction:
+Mint networked menu teleporter is very easy to use and setup, it auto configures destinations and titles as soon as a pad is rezzed!
+There is no setup or configuration, rez a teleporter pad at every location you want it to be in the destinations menu, the destination name is the teleporter pad's name so you can edit the name of each teleporter pad to the name you want for that destination, it's very simple! You can also edit the description field of each pad to optionally change the hover text above it to a custom text.
+
+HOW TO EDIT NAME AND DESCRIPTION:
+Right click on a teleporter pad > Select Edit > Here you can edit the Name field which will be the name for the destination, and description field is the name of the hover text above the teleporter pad.
+Hover text updates when you right click on the pad > Select Touch or automatically when a pad is used.
+
+You can have unlimited destinations in the same region only!
+So rez as many teleporter pads as you need anywhere in the same region.
+
+*IMPORTANT NOTICE:
+If you have destinations on different parcels in the same region be aware that if there is no access or no object entry between those parcels the teleporter won't be able to cross to the other parcel so it would fail to reach that destination.
+
+*After rezzed you can move any teleporter pad as you like the destination will automatically be updated.
+
+HOW TO CHANGE COLORS:
+Right click on a pad > Select Touch to get the the colors menu. Only owner can change colors.
+
+
+All should be set now!
+For further help, questions or suggestion, send a notecard.
+
