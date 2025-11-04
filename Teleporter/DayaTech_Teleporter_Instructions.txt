@@ -1,0 +1,88 @@
+Congratulations on your purchase of an easy to use Teleporter from DayaTech!
+
+DayaTech teleporters come in two versions:
+    DayaTech Easy Teleporter
+    DayaTech Pro Teleporter
+
+Both are very easy to use, but the pro version costs a bit more and has a few extra features.  This notecard covers both models.
+
+DAYATECH EASY TELEPORTER
+
+This model is focused on being really, really easy to setup.  And it's easy.  Did I mention it is easy?
+
+Here's how you do it:
+ 
+ 1) Drop a teleporter on the ground.  Move it to where you want it to be, then left click it to start.
+
+  2) After a minute it will ask for the name of the current location.  Type it into chat, just as if you were telling it to another avatar.  You might call it Skybox or Front Deck, or anything else that is meaningful to you.
+
+  3) Repeat the above steps for as many as 12 other teleporters in other locations.
+
+Your teleporters are ready for use!
+
+ADVANCED USE
+
+You don't have to anything else to start using your teleporters, but there are a few more features you can use if you wish to.  To get to them you must use a "long click".  This is done by left clicking a teleporter, but instead of letting the mouse button up right away as you usually would, just press it and hold it down.  After a few seconds an operator menu will appear.  This works only for the owner.
+
+From that menu you can choose the following:
+
+[Appearance] - change how your teleporters look.
+[Access] - restrict access to specific avatars.
+[Rescan] - Use this if you've deleted a teleporter.
+[Update] - Check if a newer version of your teleporter is available.
+[Upgrade] - Find out how to upgrade to the pro version
+
+The teleporters work in either open or restricted access modes.  In open access mode, anybody may use them to teleport.  In restricted access mode, only people you specify may use them.  You can change between the restricted and open access modes with the [Restrict] and [Open Access] buttons on the access menu.
+
+If you put the teleporters in restricted mode, next you'll want to use the [+ User] button to add authorized users.  This will bring up a list of avatars found nearby.  Click one of the names to add it to the authorized list, or choose [Say in chat] to enter the name of someone who is not present.  (Please note that this last feature depends on an external database not maintained or guaranteed by DayaTech.)
+
+Once you have done  that you will also see a [- User] button on the access menu.  This is used to take someone off the list.  If you don't see this button it means that your authorized user list is empty.
+
+Remember, to get to any of these advanced menus you must use the long click method described above.
+
+
+IF YOUR TELEPORTERS DO NOT FIND EACH OTHER
+
+Occasionally when you drop a teleporter it will not find your other teleporters.  This is caused by SL lag delaying or losing communications.  If this happens to you, just delete the teleporter you dropped and drop a new one.
+
+
+DAYATECH PRO TELEPORTER
+
+The DayaTech Pro Teleporter has the same features as the Easy Teleporter, but adds the following features
+
+*   The teleporter prims are modifiable so that you can change it to look however you
+      wish (Note that if you break it, we can't help with that, and you'll have to rez a new
+      one and start over.)
+
+*    You can set the hovertext to whatever you wish, or turn it off completely.
+
+*   You may grant access to people in the same group as the teleporter
+
+*    Pro teleporters can be set to different "teleporter groups", allowing multiple teleporter sets in the same sim.
+
+*    Compatibility with the forthcoming DayaTech Communicator product (not yet available)
+
+DAYATECH PRO TELEPORTER USE
+
+A pro teleporter is setup exactly as described above for the easy Teleporter except that there is one additional step.  The Pro Teleporter will ask you to pick a teleporter group, from 1 to 9.
+
+If you want all of your teleporters to work together, choose the same number for all of them, for example 1.  If you choose different numbers for them, each teleporter will work together with only those that are in the same group.  So for example, you could have public teleporters for everyone to use in group 1, and private teleporters restricted to certain people in group 2.
+
+If you want to change the group after setting up the teleporter, just delete it and drop a new one where it was.
+
+The Pro Teleporter also has a menu uption to change the hovertext over it ... choose one of the following options:
+
+[Default] - The hovertext will be the default text.
+[None]      - There will bo no hovertext when the TP is idle
+[Custom]  - You can type any custom hovertext you like into chat.
+
+UPGRADING TO THE PRO VERSION
+
+You can upgrade at any time ...
+1) Use the [Upgrade] comman on your Easy Teleporter to receive your upgrade key, then visit the DayaTech main store.  You'll find an upgrade seller near the teleport vendor.
+
+OTHER PRODUCTS
+
+DayaTech makes other high quality scripted products to improve your second life.  Please visit our store to see them. 
+
+􀀀
