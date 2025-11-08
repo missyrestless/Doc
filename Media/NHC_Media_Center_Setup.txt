@@ -1,0 +1,131 @@
+---------------------------------------------------------------------------------------------------------------
+    + Quick User Guide - Preamble
+---------------------------------------------------------------------------------------------------------------
+
+    The NHC Media Receiver 2.0 works for all NHC TVs released after June, 2010.
+    You will not need a new update for the receiver while SL does not require that we must to change
+    something.
+    
+    So, keep your NHC Media Receiver safely :
+    It is not copy and is your responsibility to take care of its integrity.
+
+---------------------------------------------------------------------------------------------------------------
+    + Quick User Guide - How To Setup (Receiver)
+---------------------------------------------------------------------------------------------------------------
+    
+    Rez the NHC Media Receiver on the ground.
+    The receiver will detect the land settings and it will show instructions if necessary.
+    
+---------------------------------------------------------------------------------------------------------------
+    + Quick User Guide - Adjusting a Dedicated Message Channel for Several Parcels
+---------------------------------------------------------------------------------------------------------------
+    
+    If you have only one receiver over the same SIM, this topic is not for you ;) Go to the next,
+    otherwise still reading it.
+    
+    If you are a land owner and you plan to have several receivers over the same SIM ...
+    You must to set a dedicated message channel between receiver and Tvs for each parcel that you
+    wish to have the media system.
+    
+    How to do?
+    
+    1. Touch the receiver: a menu will popup.
+    2. Press "Set Channel" on menu
+    3. Type a number between 1 and 2147483647
+    4. Done, the message channel for the receiver is stored.
+    
+    Now, repeat the next steps for each TV that you have OVER THE SAME PARCEL:
+    
+    5. Touch the Tv: a menu will popup.
+    6. Press "Setup > Set Channel > Change"
+    7. Type the same number typed previously in the receiver of the parcel
+    8. Done, the message channel for the TV is stored.
+    
+    Now, the receivers of the other parcels will not listen the requested media command from this
+    parcel, because they are using a diferent channel.
+    
+    Repeat the procedure for each parcel where you wish to have the media system.
+    
+    Aditional Info:
+    
+    1) If you have just only one receiver in the SIM, you do not need to change the default channel.
+    
+    2) If you have a business rental and you share several skyboxes over the same parcel, you
+    can ask to Sylvio Runo about the special receiver for Skyboxes. This receiver does not use
+    the media of the land, it broadcast the media command just for the users inside the range
+    adjusted previously in the receiver. For this solution you will need a receiver for each range
+    that you wish to cover, but we are sure that your tenants will be grateful.
+    
+---------------------------------------------------------------------------------------------------------------
+    + Quick User Guide - How To Setup (Tv Models, Notebook and Hud)
+---------------------------------------------------------------------------------------------------------------
+    
+    Rez the Tv model that you wish, touch the Screen, press "Setup" on main menu and adjust the setup settings :
+    
+    Set Access - Set who can use your Tv (Owner, Group, User or Anyone)
+    Set Channel - Set the distance of the broadcast message to the receiver (Parcel, 100 meters, 20 meters)
+    Set Options - Set the options that can be used (DVD, WebTv, Search, etc)
+    Set Volume - Set the default volume for Youtube and Dailymotion videos for viewers without support to change the volume
+    Set Screen - Set aditional settings
+        Private - When checked play the media only for the operator
+        Smart - When checked enable the auto stretch to fit the media over the surface of the screen
+        TS Search - When checked enable the Touch Screen search otherwise the system will use menu
+    Set Color - Set the color of the frame
+    Set Size - Change the size of the device from 2 up to 60 using resizer script
+    
+    Tip 01: If you wish to allow the people to use your TV, you can set the access level under the Setup Menu > Set Access (Owner, Group, User or Anyone)
+    Tip 02: If you wish to show/hid some (or all) buttons of main menu, you can set them under the Setup Menu > Set Options
+    Tip 03: If you wish to watch videos in private mode, and allow the others too, you can activate this feature pressing the Setup Menu > Private button
+
+---------------------------------------------------------------------------------------------------------------
+    + Quick User Guide - Tips
+---------------------------------------------------------------------------------------------------------------
+    
+    * Never open or try to copy the content of your receiver to your inventory 
+    - You will brake your receiver forever.
+    
+    * Always use "Return" instead "Take"
+    - The receiver always returns to the its last owner when using "Return". 
+    - Avoid return objects using the "About Land" ... may be hard to find it attached to other objects.
+    
+---------------------------------------------------------------------------------------------------------------
+    + Stay Informed - NHC Newsgroup.
+---------------------------------------------------------------------------------------------------------------
+
+    If you want to keep your system up to date and receive news about future updates,
+    we suggest you join the the NHC Newsgroup.
+    
+    Copy and pasthe link below on chat, press CTRL+H, touch it and enjoy for free:
+    
+    secondlife:///app/group/3645f841-78d4-9790-f68a-36a8227f8617/about 
+
+---------------------------------------------------------------------------------------------------------------
+    + Support
+---------------------------------------------------------------------------------------------------------------
+
+    Send a notecard to Sylvio Runo asking for support and include these informations:
+
+    - Describe your issue or doubt;
+    Try to describe your issue well, just "the TV does not play" does not help us.
+    The system always works, if it is not working, the only reason is that you missing some step.
+    
+    - Inform your Viewer and Version (SL V2, Snowglobe, Phoenix, Kirsten, Emergence, etc);
+    Example: Phoenix Viewer 1.5.275
+
+    - Inform your Environment and Version (Windows, Mac or Linux);
+    Example: Windows XP
+
+    - Inform your Display Name and (Your Login Name);
+    Example: Sylvio Runo (sylvio.runo)
+
+    - The name of the owner of the parcel on "About Land";
+    Example: (Group Owned) or Avatar Name
+
+    - The name of the group of the parcel on "About Land";
+    Example: NHC News Group
+
+    
+    Providing these informations we will be quick to give you an answer or solution for your case,
+    even if you are on-line or not.
+    
+---------------------------------------------------------------------------------------------------------------
