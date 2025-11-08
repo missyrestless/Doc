@@ -1,0 +1,12 @@
+A tiny hud that automatically changes your group tag depending on where you are! No dialog menu or notecards, just touch it to save your current group. The hovertext will display the currently saved group for your current region.
+
+Starting in version 3.0, saved groups will allow for exporting and importing data to keep your groups saved for all future updates. Unfortunately, versions prior to 3.0 do not have this feature, so updating to 3.0 will require starting with no saved groups, one final time. 
+
+Click and hold the hud to set your current group to be your "default" group. This saves your current group tag to all other regions.
+
+An alternate version that is specific to parcels, rather than regions, is also available. Please note that if a parcel changes name, it will be detected as a new parcel, and the saved group will not update automatically.
+
+Note: This product requires an RLV compatible viewer.
+Note: Does not work with group names containing commas.
+
+(Also, if you want to save the 1 attachment point, you can merge this with another hud. It does not need to be the root prim, and it only changes the hovertext.)
