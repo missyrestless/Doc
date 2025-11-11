@@ -1,0 +1,34 @@
+PLEASE NOTE: TiS/Intan ready packs are COPY/NO TRANSFER, this is to prevent loss of animations during transfer to the device, or any subsequent loss of the animations or the dance ball itself as you will retain back-up copies of the animations after installing them, be aware that this does however mean that these animations cannot be transfered to any other avatar.
+In the unlikely event that you should also experience main inventory loss of these animations, I keep all transaction records indefinitely and guarantee I will replace these animations to the avatar they belonged to.
+
+To Install pack on the Intan Couple Dance Ball
+
+Rez the "ICDB Animation Installer" version of the pack close to your Intan Couple Dance Ball, the installer will ask permission to animate, if this does not happen you may need to rez the installer closer to the dance ball.
+
+Once you accept the permission request the installer will ask you to say the word "install" in local chat to begin the installation, the animations will be installed and the Intan Couple Dance Ball will reset and add them to the menu system.
+
+
+
+To install pack on the TIS couples/hybrid and older non v3 Intan Couple Dance Balls::
+
+Rez the TiS/Intan ready pack, left click and "copy to inventory", this will make a folder of the same name in your inventory containing the animations.
+
+Right click and edit the TiS couples/Hybrid or Intan couple dance ball and press the contents tab, drag the folder mentioned above into those contents, this will copy the dance animations into the machine.
+
+Current versions of the TiS couples/Hybrid and Intan couple dance ball automatically configure the installed dance and after a few seconds it will be available in the machines menu.
+
+
+OLDER INTAN COUPLE DANCE BALLS ONLY:
+Older versions of the Intan Couple dance ball require a configuration card to be installed, if your ball does not have a serial number(can be seen in the "description" field), then it is the older type, please see below
+
+For the Intan ball to recognise the animations you must have the newest version of the "Bits & Bobs Dance" configuration notecard in its contents.
+This will have been given to you alongside this info notecard.
+IMPORTANT: If there is a previous version of this notecard called "Bits & Bobs Dance" inside the Intan ball, you must delete it before adding this updated card
+
+If for any reason you do not have the updated notecard, it is available free at
+https://marketplace.secondlife.com/p/INTAN-CONFIGURATION-CARDS-for-Bits-and-Bobs-animations-dances/3698875
+
+The cards can also be obtained from the "intan Ready" dance vendor at my shop at
+􀀀
+
+Once the card is added the machine will reset and the dance will now function and be ready for use.
