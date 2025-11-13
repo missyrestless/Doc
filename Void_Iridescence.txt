@@ -1,0 +1,81 @@
+█████████████████████████████████████████████
+
+Thank you for your purchase.
+
+This notecard contains information regarding the Iridescence set.
+
+ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ 
+
+
+Iridescence is a body lights and glitter set.
+
+The set Contains:
+
+✦ Body lights and rigged glitter.
+✦ Customization HUD.
+
+ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ 
+
+
+[Light Information]
+
+    ✦ Using the HUD you can toggle lights in three sections (Top, Mid and Low) or disable them completely.
+    
+    ✦ There are various light settings you can play with to find a combination that suits you the best.
+    
+    ✦ Feel free to experiment with these settings to your heart's content as there is a "Reset to Default" button which will revert the settings back to recommended values.
+    
+    Below is a list of the settings and a simple explanation of what they do.
+    
+    - Intensity: This setting directly controls the light strength.
+    
+    - Falloff: In simplest terms, this setting controls what I would call "splashing" based on proximity to source. Higher values will cause the light to ~fall off~ and prevent spreading.
+    
+    - Focus: This setting controls how blurry the light textures will be. Higher values will allow you to see finer details on the textures. (Which is not always desirable. Some blurring is sometimes nice.)
+    
+    - Radius: Straight forward. Radius of the lights.
+    
+    - FOV: The field of view setting controls the wideness of the projection. In this case, it controls how big the light textures will be on your avatar.
+    
+    - Ambiance: This setting controls the illumination around the surface. In this case, it serves as something akin to a brightness control.
+    
+    A Note: 
+    These settings are not actually limited to the 3 values we provide.
+    You can manually edit the light sources and change the values if you need to.
+    For most cases, values provided in the HUD should be enough.
+
+ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ 
+
+
+[Glitter Information]
+
+    ✦ The set contains Glitter rigs for
+    
+    Ebody Reborn (Regular, Mounds, Waifus, Teacups, V-Tech)
+    Legacy F (Regular, Perky, Pinup, V-Tech)
+    Lara X (Regular, Petite, Flat)
+    Legacy M (Regular & Athletic)
+    Jake
+    Kario (Flex)
+    Anatomy
+    
+    ✦ The glitter is split into 11 sections that can be toggled on/off or hidden completely if you only wish to use the body lights.
+    
+    ✦  Using the HUD you can also adjust glitter texture, speed and glow.
+
+ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ 
+
+
+[Other Information]
+
+    ✦ Everything in the set comes with Modify rights. You can customize things further if you have basic editing skills.
+    
+ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂ ▂▂
+ 
+ 
+
+█████████████████████████████████████████████
+
+Hope you enjoy. ♡
+
+█████████████████████████████████████████████

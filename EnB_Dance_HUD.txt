@@ -1,0 +1,38 @@
+[EnB] Eve n Better Dance HUDs
+Simply the BEST Dance HUDs  in Second Life  since 2007
+
+This is the Free Version of our HUDS supporting only up to 12 Animations.
+if you want more features like invites and playlists and so on, check your our store.
+
+Why Eve n Better?
+1. Our Dance HUDs are designed and written by industry professionals for Best Performance and Ultimate reliability tested and proved over years.
+2. The Easiest setup anyone can do (https://youtu.be/6CrqQcwAHxg)
+
+Features:
+* Timers - for automatically changing animations
+* List Menu - to browse the animations
+
+Extra Features:
+* Anti LAG system for smoother dance experience
+
+** For Fully Featured Dance HUDs with notecards and invites, please check out our store.
+
+NOTE!
+Eve n Better Dance HUDs do NOT come with Animations.
+High quality MOCAP Animations may be sampled and purchased separately at the inworld store (http://maps.secondlife.com/secondlife/Maitreya/32/179/25).
+
+FAQ
+Q: Does the price include animations?
+A: no, animations may be purchased inworld separately 
+
+Q: Can you specify the time per specific animation?
+A: no, this feature was left out deliberately for being unreliable due to inconsistent Second Life Server animations loading times.
+
+Q: can I use couple animations with those dance huds?
+A: no, only since animations are supported, couple dance HUDs are usually a separate product and use pose balls.
+
+Q: sometimes I don’t stop dancing even though I pressed stop, can I do anything about it?
+A: this is a well known and documented issue with llStopAnimation that will probably never be fixed by Second Life, the simple solution for it is to simply move and it will stop.
+
+Please check the Youtube links on how to setup the Dance HUDs, if you have further questions please write Eve Neutron a message.
+Don’t forget to leave a nice review.
