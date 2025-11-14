@@ -1,0 +1,24 @@
+[ Standing ]TDMLstand1|TDMLstand2
+[ Walking ]TDMLwalk1|TDMLwalk2
+[ Sitting ]TDMLSit
+[ Sitting On Ground ]TDMLGSit-tall|TDMLGSit-medium|TDMLGSit-small
+[ Crouching ]TDMLCrouch
+[ Crouch Walking ]
+[ Landing ]HF-Trinity_land
+[ Standing Up ]backflip standup
+[ Falling ]HF-male_falling
+[ Flying Down ]MrS - Fly Down-m
+[ Flying Up ]male - fly up
+[ Flying ]fly-man
+[ Flying Slow ]
+[ Hovering ]Hov 4
+[ Jumping ]jump joy
+[ Pre Jumping ]prejump
+[ Running ]TDMLRun
+[ Turning Right ]
+[ Turning Left ]
+[ Floating ]HF-male_floating
+[ Swimming Forward ]HF-male_swim
+[ Swimming Up ]HF-male_swim UP
+[ Swimming Down ]HF-male_swim down
+[ Typing ]TDMLType
