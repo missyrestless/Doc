@@ -1,0 +1,51 @@
+􀀅
+
+􀀂
+
+􀀃
+
+􀀄
+
+􀀀
+
+􀀁 (thanks Ziggy Puff, Marcus Gray, Johann Ehrler & Moeka Kohime)
+
+
+F.A.Q. ( Frequently Asked Questions )
+
+1. I see that in your AO Hud some swimming animations are included, but how can I swim?
+To swim you need to be under SL sea, when you are under the sea, just fly. The Fly mode will automatically switch into swimming mode.
+
+2. My AO stopped to work. What can I do?.
+Press the reset button first. Even if the reset button doesn't fix the issue it could be you are in a land that does not allow scripts to run. Change the place to verify the if the HUD works. if the problem persists you can redeliver the AO by the redelivery terminals in our store.
+
+3. Can I perform Random walks? So will a random walk animation start anytime I stop walking?
+Sure, we added this function to the standard ZHAO-II AO. Just press the Menu button and then Walks - Rand. To come back to fixed walk, press Menu - Walk - Fixed.
+
+4. When I try to sit on the ground or I press the Groundsit Anywhere button, my avatar seems to be under the ground or floating, how can I fix it?
+We provide 3 diffferent heights for groundsit animations. Please refer to "Sitting on the Ground with different height" notecard.
+
+5. I bought a TuTy's AO some months ago with the previous AO HUD. Can I use the new AO HUD?
+Sure, you need to drag all the animations and the Default notecard contained in your old AO (except the scripts) and copy them in an inventory Folder, after that, drag them all in the new AO HUD (don't forget to delete the Default "empty" notecard contained in the new HUD).
+
+6. I already have some animations in my inventory I'd like to add to my new AO. How can I do it?
+You can customize our AO with your own animations. Please refer to "How to customize your AO" notecard.
+
+7. Can I set a different time duration for my stand animations?
+Sure, just click the Menu button - Stand - Stand TIme and choose the time you wish for your Standing Animations. Anyway we suggest you to keep the duration we set, which corresponds to the full duration of the stands. The new mocap animations are 60" long playing.
+
+8. Can I perform my Standing Animations as Random and not in Sequence?
+Yes, Menu - Stand - Rand/Seq activate and deactivate the Random mode for Standings.
+
+9. When the AO reads the notecard, it says "xx animation entries found in Notecard." but they are less than the animations number declared on the vendor panel. How come?
+It's alright. The AO loadcards script writes only the "active animations" but you can switch to more sit/groundsit/walk animations by changing them from the AO Hud panel.
+
+10. Can I turn off the cyclical mode for Stands and play the same Stand animation all the time?
+Yes, when your favourite stand animation is running (or switch to it with the Next Stand button) click on the Menu button then  Stand - Stand Time - 0. This function turns off the auto-cycling animation.
+
+11. The animations on the posing stand are not looped and seems to be short and partial. Why?
+Yes, the animations you wear on posing stand are only test, not looped and a bit more short, but if you choose to buy a single animation you are try on you the vendor send you the full looped animation, in priority 3 and 4. (Read the notecard "About priority 3 & 4)
+
+12. The price of full hud is much lower than the sum of the price of the individual animations. Why?
+Yes this is our choise. A full AO is thematic and pre-configured by us. But it's impossible to find the taste of all customers. 
+We can not customize an AO for each of you, So we show you all the ways to do it yourself by our notecards and guide-pics. Any animations in the content of the hud can be replaced or removed. So we hope in your tolerance and in your patient, and we are happy to help you to personalize and AO and so your experience in sl.

@@ -1,0 +1,50 @@
+SINFUL NEEDS DEMONIC TONGUE W/FANGS
+~ by Galathir Darkstone
+
+          ~~=[*]=~~
+
+A4 Surface Classes: Fangs
+A4 Attachment/Subpart: Head/Fangs
+
+          ~~=[*]=~~
+
+Congratulations on attaining one of the most advanced attachments in all of Second Life! You will find that your Wicked Fangs has a whole host of features for you to employ, should you choose, but that it is also simple enough to just wear and go, right out of the box! This attachment wears to the Mouth by default, but you could choose to attach it to any static head attachment point, including the Mouth, Skull, Nose, or Either Ear.
+
+
+I. Opening the Core Attachment Menu
+
+There are two ways to access the Core menu of your Wicked Fangs. The first is simply to click on the attachment itself. There is an invisible prim that should cover your mouth that is part of the attachment. Just click that. If you have a hard time finding any part of the attachment, press Ctrl+Alt+T to 'Show Invisible' in SL. This will highlight the invisible sphere with a transparent red surface so you can then see where to click. press Ctrl+Alt+T again to 'Hide Invisible' when you are ready to. The second way to access the Core menu is through the A4 HUD. If you have an A4 HUD, slide it out, then click the round 'Sinful Needs Alchemy v4.0' Badge on the left side of the HUD. This will bring up the A4 Main Settings Menu. Now you'll want to use the Attachment & Subpart button to set the HUD to access the << HEAD >> and << FANGS >>. You can then use the [Attachment] button in the blue A4 Main Settings dialog menu. This will bring up the same Core menu that just clicking the attachment would. This will allow you to access an attachment without having to be able to click on it.
+
+
+II. The Core Menu ~ Fangs Menu
+
+This menu can be used to customize which fangs, if any, you want to display. Note that there are essentially 4 parts to the Fangs: The Upper Teeth, the small Inner Upper Fangs, the larger Outer Upper Fangs, and the Lower Fangs. The Upper Teeth are automatically displayed with either set of Upper Fangs. The Lower Fangs are only really visible during the 'Open Mouth' emote in SL (which is the one used for Open Mouth Lashes & Flicks for this attachment). When this attachment is properly fitted, the smaller, Inside Upper Fangs are hidden from view unless the mouth is at least partly open (during the 'Open' or 'Angry' facial emotes, for example), while the larger, Outside Upper Fangs should overlap the lower lip to be visible at all times. For information on adjusting the fit of this attachment, see the embedded 'A4 Adjustments' notecard in the Table of Contents.
+
+[Show All] Makes all parts of the Fangs visible, including both sets of Upper Fangs.
+
+[Hide All] Makes all parts of the Fangs invisible.
+
+[Outside] Shows the larger, Outside Upper Fangs and Hides the smaller, Inside Upper Fangs.
+
+[Inside] Shows the smaller, Inside Upper Fangs and Hides the larger, Outside Upper Fangs.
+
+[Show Lower] Makes the Lower Fangs visible.
+
+[Hide Lower] Makes the Lower Fangs invisible.
+
+[Exit] Offers a graceful way to exit the menu. 
+
+          ~~=[*]=~~
+
+* SL occasionally suffers from a bug where you cannot open Embedded notecards. If you have this problem, just drag the embedded notecard to your inventory and open it from there.
+
+          ~~=[*]=~~
+          
+Thank you for your patronage & support of Sinful Needs Attachments & Accessories. If you have further questions, suggestions, or feedback, please join the Sinful Needs Update group to offer them to Galathir, or send a detailed notecard with your Name & Comments to Galathir Darkstone.
+
+SINFUL NEEDS ... for a more Sinful Second Life
+
+          ~~=[*]=~~
+
+All other Content is ©2007-2012 ~ Galathir Darkstone
+All Rights Retained as the sole creator & owner of all Sinful Needs items, images, marketing, written works, & scripting.

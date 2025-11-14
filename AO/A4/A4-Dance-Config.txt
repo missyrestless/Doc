@@ -1,0 +1,46 @@
+length = [60]
+[GROUP A]Group A
+XF-Bento-SLOW DANCE 1
+XF-Bento-SLOW DANCE 2
+XF-Bento-SLOW DANCE 3
+XF-Bento-SLOW DANCE 4
+XF-Bento-SLOW DANCE 5
+XF-Bento-SLOW DANCE 6
+XF-Bento-SLOW DANCE 7
+XF-Bento-SLOW DANCE 8
+XF-Bento-SLOW DANCE 9
+XF-Bento-SLOW DANCE 10
+[GROUP B]Group B
+VISTA-UrbanSexyDance01-25.7
+VISTA-UrbanSexyDance02-26.4
+VISTA-UrbanSexyDance03-17.6
+VISTA-UrbanSexyDanceF01-29
+VISTA-UrbanSexyDanceF02_bis
+VISTA-UrbanSexyDanceW
+Wrath TIS
+S4D_BODY_295
+S4D_flamenco_82
+weloveyou-girl
+beat baby 2
+butterscotch
+[GROUP C]Group C
+c-walk
+crimson breeze
+disco moves
+naughty girl
+here we go
+precious morning
+red chilli sheen
+shake the maracas
+[GROUP D]Group D
+delicious hips
+double cream
+crystal roses
+feline
+shaken and stirred
+snake hips
+space hopper
+throbing
+tick tock
+want some
+washing machine
