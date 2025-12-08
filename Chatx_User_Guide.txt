@@ -1,0 +1,220 @@
+
+
+creator and support:
+􀀀
+
+Thank you for purchaing the chatx system.
+
+chatx: a chat extender system
+
+presentation:
+..........................
+
+This is a chat extender system, that allows to extend the normally limited chat range in a sim beyond the 20 meters limit.
+
+It aims for easy setup and low lag
+
+
+FIRST STEPS:
+.........................
+
+1° Rezz the chatx server
+
+I recommend rezzing it at the approximate center of the area you want to apply the chat extension.
+
+2° If your sim is "group owned", make sure you do this:
+
+  + RIght click and edit the chatx server, use the wrench icon to set it to the land group (if it's not already set like this). 
+
+  + in you parcel options, make sure the group is allowed to build
+
+
+2° Touch the chatx server to get its menu
+
+3° Click on "active" to turn on the chatx server for testing ...
+ ... or read further ot know more about the available options.
+
+
+
+MAIN MENU BUTTONS:
+...........................................
+
+ + hud mode: 
+
+The chatx system comes with 2 main modes: 
+ 
+ -> the default mode won't ask for people to attach anything, it will use automated "drones" that will follow people around the sim to establish the communication. 
+
+ -> the hud mode will instead attach a temporary mini hud to people. It will ask permission to the visitors to attach the mini hud.
+
+ You will find more details in the next sections of this guide.
+
+
+ + options: 
+
+This will lead you to advanced options allowing you to define reception and emission ranges limits. The default behavior is no limit in range, which means people can hear and be heard everywhere in the sim (beside parcel specific chat restrictions).
+ 
+  You will find more details in the next sections of this guide
+
+ + scanner:
+
+The scanner is used to detect people arrivals and sending them the hud or connecting them to the chatx system, if automatic mode is ticked.
+
+ + auto:
+
+When ticked, the chatx system will detect people arrival and connect them to the system automatically (you may leave it off while doing tests, then activate it later).
+  
+ + active:
+ 
+This lets you activate or deactivate the chatx system.
+
+
+
+OPTIONS:
+...................
+
+ + drone alti:
+
+  This options lets you set the drone altitude (in non hud mode). 
+  Don't modify this option unless you know what you do.
+  A correct value should be from 10 to 18 meters approximately.
+
+
+ + rcv dist:
+
+  This is the reception distance limit. 
+
+  When set to 0 (or empty), there i no limit for the reception (beside parcels specific restrictions).
+
+  When set to a positive value in meters, it will tell the system to ignore the reception of messages that comes from people who are at a greater distance that the one defined here.
+  
+  The reception distance is based on the emitter avatar position.
+  
+  
+  + emit dist
+ 
+  This is the emission distance limit
+  
+  This value determines a limit from which an avatar will be heard by the others. For instance if you have a main area where the chatx system is active, and you still want to hear people from a distance but not be heard, you can set a positive value here in meters. Beyond that limit, you won't be heard by the others, but you will still hear them, according you are in the reception distance area.
+  
+  Unlike the reception distance, the emission is based on the server position. This is one reason why the server position matters.
+
+
+  + reset
+
+  This will reset the server settings.
+
+
+AUTOMATIC MODE
+...................................
+
+The chatx system has a manual and automatic modes.
+  
+  + manual mode: 
+
+   In manual mode, people need to touch the server OR a connected chatx frame to connect to the system. I would recommend testing the system in manual mode with a couple friends before activating the automatic mode.
+
+  + In the server main menu, the button "auto" will determine the current mode.
+
+  + "scanner" will let you set the people detection parameters used when the automatic mode is activated. 
+
+Before using the automatic mode, it's important to read about the scanner.
+
+When you activate the "auto" mode, the scanner will scan around for new arrivals. The default settings for this detection is "parcel" and no distance limit. It means, once activated, the chatx system will detect everyone in the parcel and connect them.
+  
+You might want to limit the area where the detection applies. To do so, click on "scanner", then "distance", then select a preset distance or set a custom value, in meters.
+
+The scanner also has other features included: it can notify you from visitors, and will remember who visited and when they left the area. Those extra features won't interfere with the chatx system, so mainly, the main option you want to look at is "distance".
+
+
+DEFAULT vs HUD MODE
+.............................................
+
+The chatx system has 2 ways to connect people: Either it will send a temporary hud (hud mode) to people, OR it will create sort of mini drones that will follow people in the effective area.
+
+  
+DRONE MODE (default)
+.............................................
+
+The drone or default mode will rezz a mini invisible "drone" that will follow people around the sim. So you need to count on that extra prim it will use per visitor.
+
+The system is optimized to avoid drones to be lost, so you shouldn't worry about this.
+
+In this mode, visitors can access their own mini drone menu by typing /1 chatx in their nearby chat.
+
+The menu allows them to deactivate the reception and emission (active), or just the emission (private), so they won't be heard.
+
+   PROS:
+  
+  + no confirmation message sent to the visitors
+
+   CONS:
+
+  + uses 1 prim per visitor
+  + just a bit more script usage (but still really acceptable).
+
+
+HUD MODE
+......................
+
+The hud mode will ask visitors to attach a temporary hud. 
+
+   PROS:
+
+   + a bit lower less script usage
+   + people have the choice to connect or not right away when they arrive
+
+   CONS:
+
+   - people get to click YES to attach the hud upon arrival
+
+
+THE CHATX FRAME
+...................................
+
+In your package you will find a chatx frame. This item isn't mandatory for the system to work, but it's a handy tool for 2 reasons ;
+
+  + It lets you access the server menu remotely (for instance if the server i hidden under the ground, it might be easier to access it from the board).
+
+  + It lets people connect to the system manually without touching the server itself. (specially useful in manual mode, or when people just detached their hud or drone by mistake).
+
+To connect a board:
+
+ 1° rezz the board where you like in the sim
+
+ 2° touch the server, go to "options" and copy the "channel"
+
+ 3° touch the frame, click on channel and paste the channel value you got from the server.
+
+ 4° click active
+
+
+MULTIPLE SERVERS CONFIGURATION
+....................................................................
+
+It is possible to set different separate chatx areas within a sim or a parcel.
+
+When you rezz a new server, it will automatically assign itself a randomised channel, so it won't interfere with an other server you might have already set. 
+
+There are several things to take care in this case, as to start with, you should define distance limits for the connection (scanner -> limit), and set a receiving distance limit (options -> rcv dist) or emission distance limit (options -> emit dist), depending on how you like these multiple systems cohabiting with each other.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
