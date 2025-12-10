@@ -1,0 +1,7 @@
+////////////////////////////////////////////////
+// 
+// TotalControl bot management library
+// (C) SmartBots, 2010-2019
+
+The usage examples are available here:
+https://mysmartbots.com/dev/docs/TotalControl_for_LSL/Examples

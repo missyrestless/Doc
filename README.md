@@ -15,6 +15,7 @@ things I own in SL.
     - [AVsitter/Cuming_Soon/BabyDoll](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/BabyDoll)
     - [AVsitter/Cuming_Soon/Quickie](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Quickie)
     - [AVsitter/Cuming_Soon/Smash](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Smash)
+- `Bots` : instructions and info on SL bots
 - `Colors` : some frequently used color vectors
   - In LSL colors are defined as `<R, G, B>` vectors where each component (Red, Green, Blue) ranges from 0.0 to 1.0, not 0-255. To use standard RGB (0-255), you divide your values by 255 (e.g., `<67, 67, 67>` becomes `<67/255, 67/255, 67/255>`), and you use functions like `llSetColor()` or `llSetLinkColor()` with these vectors to change object or prim colors.
 - `Couples_Dance`
