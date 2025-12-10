@@ -15,9 +15,29 @@ Sequences are configured for the following menus:
 - Front Menu
 - Rodeo Menu
 - Sitting Menu
-- Sitting Back Menu
+- Sit Back Menu
 - Dogging Menu
 - Behind Menu
+
+## Download the script and customized notecards
+
+Download the `[AV]sequence` plugin script:
+
+```bash
+wget -q -O '[AV]sequence' https://raw.githubusercontent.com/AVsitter/AVsitter/refs/heads/master/AVsitter2/Plugins/AVsequence/%5BAV%5Dsequence.lsl
+```
+
+Download the customized `[AV]sequence_settings` notecard:
+
+```bash
+wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Cuming_Soon/Smash/AVsequence_settings
+```
+
+Download the customized `AVpos` notecard:
+
+```bash
+wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Cuming_Soon/Smash/AVpos
+```
 
 ## Setup
 
