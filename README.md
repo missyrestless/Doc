@@ -25,12 +25,20 @@ things I own in SL.
   - Folder containing settings and instructions for the DJ T-200 Tip Jar
 - `DonationTipJar`
   - Folder containing notecards and settings for the Donation Tip Jar
+- `Firestorm_Tips.txt`
+  - A few tips for users of the Firestorm Viewer
+- `Furniture`
+  - Folder containing instructions for furniture products
 - `Games`
   - Folder containing instructions for Corsair and Triad games
+- `Graphics_Preferences.txt`
+  - Some advice on graphics preferences from Tiki Tattoo 
 - `Greeter`
   - Folder containing Greeter settings
 - `Headhunter_Island`
   - Folder containing instructions for some products from Headhunter Island
+- `Lighting_Tips.txt`
+  - Note on how to improve lighting and objects in your viewer
 - `Media`
   - Folder containing instructions for several media streaming devices
 - `Milotips`
