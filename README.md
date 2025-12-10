@@ -9,8 +9,8 @@ things I own in SL.
 - `AO`
   - Folder containing config notecards for various Animation Overriders
 - `AVsitter`
-  - Folder containing config notecards for AVsitter and AVsequence
-  - Of particular interest are the `AVpos` and `[AV]sequence` notecards in:
+  - Folder containing config notecards for `AVsitter` and `AVsequence`
+  - Customized notecards providing sequenced animations for `Cuming Soon` furniture:
     - [AVsitter/Cuming_Soon/Armchair](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Armchair)
     - [AVsitter/Cuming_Soon/BabyDoll](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/BabyDoll)
     - [AVsitter/Cuming_Soon/Quickie](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Quickie)
