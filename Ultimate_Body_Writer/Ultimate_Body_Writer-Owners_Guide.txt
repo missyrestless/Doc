@@ -1,0 +1,117 @@
+Owners Guide for the Venus's Closet - Ultimate Body Writer!
+
+This guide will give you quick overview the [Restrictions] and [Owner Access] menus that are only available for the owners and primary owners. Also the Primary Owners could check the "PRIMARY OWNER ONLY" section for the Settings menu options.
+
+
+____________________________ RESTRICTIONS __________________________
+
+
+The RESTRICTIONS menu allows the owner to restrict how the Body Writer can be used by wearer (if it's not Self Owned) and other users that have lower access rank.
+
+[☐ LOCK] / [🔒 LOCKED]: Locks the Body Writer preventing the wearer from detaching it (Requires RLV enabled viewer).
+
+[✔ Self Erase] / [☐ Self Erase]: If the "✔" is shown, then the wearer is not able to use the Erase option of the writer.
+
+[✔ Othr Erase] / [☐ Othr Erase]: If the "✔" is shown, then only the Owners will be able to Erase the writer (and wearer is self erase is enabled).
+
+[✔ Self Write] / [☐ Self Write]: If the "✔" is shown, then the wearer is not able to use the Erase option of the writer.
+
+[✔ Othr Write] / [☐ Othr Write]: If the "✔" is shown, then only the Owners will be able to Erase the writer (and wearer is self erase is enabled).
+
+[✔ LimitAccess] / [☐ LimitAccess]: If the "✔" is shown, then only the Owners will be able to manage the Access lists through Owner Access menu. Wearer can still manage the Blacklists.
+
+[✔ WritingCopy] / [☐ WritingCopy]: If the "✔" is shown, then the wearer will be able to copy the writings from this writer to another writer they own.
+
+TIP: If the wearer is also added as owner then the Body Writer appears as self owned (wearer that is also owner outranks all other users).
+
+
+____________________________ ACCESS __________________________
+
+(PAGE 1)
+
+[(+) Block]: Scans the nearby area and displays a list of the closest avatars (up to 9) for user to select and add to Blacklist.
+
+[(-) Block]: Opens a list of the blacklisted characters allowing user to remove them from the Blacklist.
+
+The avatars in Body Writers Blacklist will not be able to interact with this item (get menu to write/erase). There can be up to 10 avatars in Blacklist. Blacklist buttons are always available to the wearer (even in limited access mode).
+
+
+[(+) Trust]: Scans the nearby area and displays a list of the closest avatars (up to 9) for user to select and add to Trustlist.
+
+[(-) Trust]: Opens a list of the characters in the Trustlist allowing user to remove them.
+
+The avatars in Body Writer's Trust list will be able to interact with this item (get menu to write/erase) even when in Body Writer's access is closed to public. There can be up to 10 avatars in Trust list.
+
+
+[(+) Owner]: Scans the nearby area and displays a list of the closest avatars (up to 9) for user to select and add to Ownerlist.
+
+[(-) Owner]: Opens a list of the characters in the Ownerlist allowing user to remove them. Only available for the wearer if the Body Writer is self-owned and for the Primary Owner
+
+[✔ Public] / [☐ Public]: If the "✔" is shown then everyone that is within range can access your Body Writer (except those in Body Writer's Blacklist).
+
+[[-] Ownership]: Allows an owner to resign from being owner.
+
+
+(PAGE 2)
+
+[✔ Group] / [☐ Group]: If the "✔" is shown then users that have active the same group as the wearer have the same access options to the writer as those in the Trusted list.
+
+[✔ Friends] / [☐ Friends]: If the "✔" is shown then users that are in the users friendlist have the same access options to the writer as those in the Trusted list.
+
+[∞ Range] / [~5/~10/~20/~45m Range]: Allows you to set the range that your Body Writer is accessible to others. The symbol ∞ means that there is no limit in range. Clicking the button will toggle between other supported ranges (5m, 10m, 20m and 45m).
+
+[✔ Ask] / [☐ Ask]: Allow you to enable/disable the ask mode of the writer when other write on your body.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~ PRIMARY OWNER ONLY ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    ~SETTINGS MENU:
+
+        ___________________ SETTINGS MENU ______________________
+
+        About the buttons in the Settings Menu and their functionality:
+
+        (SETTINGS PAGE 1)
+
+        [Set Color]: Allows you to set your default Body Writer's Color. Choosing a color won’t change what is already written on your body.
+
+        [Set Font]: Allows you to set your default Body Writer's Font. At this moment the writer supports 3 handwriting styles.
+
+        [✔ Center] / [☐ Center]: If the "✔" is shown then the writing that is written in an area will be center aligned. if it shows an un-ticked box, then it writing will be left aligned. Changing this option doesn't affect what is already written on your body.
+
+        [✔ Blend] / [✔ Mask]: Allows you to change the transparency mode of your body writer between Blend and Mask mode (mask cut off is 70). Mask mode will allow better compatibility with other transparent/semi-transparent objects, but it won’t look as good as the Blend mode.
+
+        [✔ Small Only] / [☐ Small Only]: If the "✔" is shown, then the writer will use the smaller font even for texts that are 8 characters long or shorter.
+
+        [✔ RND Font] / [☐ RND Font]: If the "✔" is shown, then a random font (between the 3 available) will be used instead of the default.
+
+        [✔ Temp Font] / [☐ Temp Font]: If the "✔" is shown, then the user will be able to select one of the available fonts for writing instead of the default font. The chosen font is only for the current session (if another user clicks then the selection resets) and overrides the Random Font option. The temporary Font can be set from the button [Font (temp)] in the main menu (the button is only visible when the option here is ticked).
+
+        [✔ Temp Color] / [☐ Temp Color]: If the "✔" is shown, then the user will be able to select one of the available colors for writing instead of the default color. The chosen color is only for the current session (if another user clicks then the selection resets). The temporary Color can be set from the button [Color (temp)] in the main menu (the button is only visible when the option here is ticked).
+
+
+        (SETTINGS PAGE 2)
+
+        [✔ Kana/Kanji] / [☐ Kana/Kanji]: If the "✔" is shown, then the Body Writer will accept and allows words written in Kana (Hiragana and Katakana Japanese writing systems) and Kanji (Chinese and Japanese writing system). The complete list of the supported characters can be found in the Supported Characters section.
+
+        [Jap. Font]: This button is only available when the Japanese support is active. It gives you the option to choose between 3 fonts, the default one [J.Handwrite], [J.BoldFont] and [J.Marker].
+
+        [✔ Erase All] / [☐ Erase All]: If the "✔" is shown, then it enables the "ERASE ALL" button for those who can erase your body writer (for the wearer is always enabled if there are no other restrictions placed).
+
+        [✔ Notify User] / [☐ Notify User]: If the "✔" is shown, then the Body Writer will notify you in nearby chat (only visible to you) when someone is using or trying to use your Body Writer. Also, will print for you the message they wrote on you and will notify you if they tried to erase a writing spot.
+
+        [✔ Notify Near] / [☐ Notify Near]: If the "✔" is shown, then the Body Writer will notify everyone around in the nearby chat (20 meters range) when someone writes something on you.
+
+        [Timeout 60s] / [Timeout 120s]: Allows you to set the time that you have to make a choice/write before the writer needs to be touched to give a menu again. Each time the user that controls the menu makes a choice, the timer resets. After 60 or 120 seconds with no input the touch/writing listeners of the Body Writer will close to limit the use of the resources.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+____________________________________________________________________
+
+Thank you for reading this guide!
+
+Hope it will make the usage of this Body Writer easier!
+
+Dea Venus
