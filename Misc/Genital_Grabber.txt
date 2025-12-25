@@ -1,0 +1,31 @@
+EN:
+    Thank you for choosing the [LE PREVOT] - Genital Grabber! This quick guide will help you set up your system step by step for the best experience.
+
+1- Wear your Genital Grabber:
+    Once worn, a dialog window will appear asking for your base genital (this defines the available actions). 
+    You can choose between:
+        - Cock
+        - Pussy
+2- If you selected Cock, the system will ask you to choose a brand. If your brand isn’t listed, just select a random one
+    If you selected Pussy, you will go directly to step 3.
+3- You will be asked to select your pronouns. A list of choices will be provided, and you can edit them anytime after the initial setup.
+4- You will then be asked to choose a base voice for the "moans." This is independent of your genital and pronouns.
+5- Finally, you will be asked whether you want to enable these sounds.
+
+Note: If you accidentally close the dialog window, just click on the HUD to bring it back on screen.
+
+The Genital Grabber will then start, and you can begin using it.
+
+Additional customization is available:
+
+ In the settings menu, you have multiple options: 
+  - Security: Choose between Open or Whitelist mode. (The blacklist is always active, whether you use Open or Whitelist mode.)
+  - Animations: Enable or disable all system animations.
+  - Change Voice: Switch between masculine and feminine voices.
+  - Rename Gen:  Rename your genital to something you prefer (e.g.:pecker).
+  - Sounds: Enable or disable all sounds.
+  - Change Genital :Swap your base genital. (Using a cock as a base enables actions like jerk; using a pussy enables actions like finger.)
+  - Change Pronouns: Change your pronouns from a list or use "Custom.p*" to enter your own custom pronouns.
+  - Cock Brand*: Change the base cock brand. (Required for full compatibility with supported cock animations.)
+  
+  Note for owners and users: A long click on your Genital Grabber opens a menu. Inform others if you want them to interact with it. 😉
