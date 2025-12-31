@@ -1,0 +1,74 @@
+---MORPHING HOME +---
+
+...made with love by
+SMOOCHING SERPENTS
+
+
+This is not just a house. It's a furnished Morphing House which takes you on a journey round the world.
+
+
+Features:
+
+- rezzes different houses (using always the same footprint of 32 x 16 qm, so you don't have to move your furniture around)
+
+
+- styles in this morphing home include:
+
+> Modern Beach Villa 
+􀀂
+
+> Petit Roissy Mansion
+􀀁
+
+> Yasuragi Asian Home
+􀀀
+
+- all homes have a garden, pool, bedroom and living room - fully furnished!
+
+- lots of high quality furniture by Smooching Serpents (Animations for Sex, BDSM, special Kinks, RLV, or just hang out and chill!)
+
+- you can rez/unrez the included furniture as you wish. you don't like the couch? delete it by menu and set up your own!
+
+- texture change and many other options for you to make it *your* home :-)
+
+
+______________________________________________________________________________________________________
+
+
+
+- Quick Manual -
+
+
+Setting Up the platform:
+
+1. Place the platform with the heartlock on the ground and rotate it as you wish.
+2. If you want to make it a skybox you can sit on the object, select edit from the pie menu and choose the height you want.
+3. The three house modules included in this version are already in the platform's inventory.
+4. If you want to add more modules, drag and drop them from your inventory into the platform. (module names start with a ">")
+5. Now you can touch the heartlock:
+
+Heartlock Menu:
+- Select House: select your house and rez it.
+- Public: Set menu access to public, group, or owner. In public mode anyone can change houses. The houses then will appear with an unlocked Key menu (see below).
+- AddPlatform: If you use it as a skybox, you might want to add a platform the house is standing on, surrounding it with an invisible prim so that nobody falls down. 
+- AddBasement: Adds only a basement (an additional big room!) without an invisible prim. So you can also use this on the ground.
+- AddSkyBase: Adds a basement with an invisible prim.
+- Info: gives you this NC ;-)
+- Reboot: Reboots the whole thing.
+
+
+Selecting a House:
+1. Touch the heartlock and click "SelectHouse". Now choose your house style.
+2. Now the white platform vanishes and your house will appear. Wait until it is fully rezzed.
+3. Some furniture needs to test animations. (Please allow animating your avatar on request!)
+4. Now a key in the heartlock is rezzed. Touch this key for further customization of the rezzed house:
+
+Key Menu:
+- Lock/Unlock: key menu access set to owner or public (the doors of the house won't lock though!)
+- CountPrims: counts the prims belonging to the one who clicks this button
+- Furnishing: rez/unrez furniture
+- Design: change the textures of the house
+
+Look around in the house, touch everything, there are many hidden specials! Enjoy!
+
+If you have any issues, please contact Smoochling Resident. She will also receive offline IM and help you as soon as she can.
