@@ -1,0 +1,60 @@
+Custom Leash Texture Instructions
+******************************
+
+1.  Loading Instructions
+2.  Use Instructions
+3.  License and Terms
+
+
+******************************
+
+1.  Loading Instructions
+
+    a.  Locate the collar you wish to use the custom leash textures in and rez it on the ground
+    b.  Edit the collar by right-clicking on it and selecting "Edit"
+    c.  Go to the Contents tab
+    d.  Locate the script in Contents that is titled "OpenCollar - leashParticle"
+    e.  Right click on this script and choose "Delete".  Make sure you are only selecting the leashParticle script and that no 
+         other contents are highlighted before deleting.  But don't worry if, after selecting delete, you notice all the contents 
+         disappear for 30 seconds or more.  This happens as the scripts in the object are resetting themselves.
+    f.  Locate the Custom Leash Texture Package you just purchased in your inventory.
+    g.  Drag each of the textures from your inventory into your collar.  Make sure you are still in "Edit" mode on the collar 
+        before doing this, and the next, step.
+    h.  Locate the script in your Custom Leash Texture Package titled "OpenCollar - leashParticle".  NOTE:  the script is 
+        named exactly as the one you just deleted from the collar because of the way OC script naming works together.  If 
+        you open the custom leash script, you'll notice the name of the specific custom script near the top of the text.
+    i.  Drag the new script from your inventory into the collar.
+    j.  Close the "Edit" box on your collar.
+    k.  Right click on your collar, select "Edit" again.
+    l.  In the top menu on your SL viewer, select "Tools", then "Reset Scripts in Selection".
+    m.  You're done!  Your new leash textures and script are ready for use.
+
+
+2.  Use Instructions
+    
+    a.  Wear the collar to which you have added the Custom Leash Texture scripts and textures.
+    b.  Click on the collar (or have your collar's owner click on it) to bring up the menu.
+    c.  Select "Collar Menu", then "Leash", then "L-Options", then "Texture".
+    d.  Choose the name of the texture you wish to be displayed when your leash is active.  NOTE:  selecting "noTexture" 
+          will display a white ball/star-like texture.
+    e.  If you wish to change the size of the texture, or its density (which is how closely together the texture particles are 
+        displayed), select either "Size" or "Density" in the "L-Options" menu.  
+    f.  If you wish to change the color, select "Color".  NOTE:  for most custom textures, changing the color from white to 
+        anything else will tint the texture to some combination of the original texture colors and the color you select.  If you're 
+        using the Jewels Custom Leash Package, the color you select will change the texture from diamond to some other 
+        (green = emerald, red = ruby, etc.).
+
+
+3.  License and Terms
+
+    a.  The contents of Custom Leash Texture Packages are sold with full perms in order for them to work properly with the 
+         OC collar scripts.  
+    b.  You may use the textures in your other build projects, but you may not sell these as full perms in any other package 
+         or individually.  You may also not provide them as gifts to other avatars or your own alts with full perms enabled.  
+         You must change the permissions to either copy only or mod/transfer only when using them in any other project.
+    c.  When notified that these textures are being used without proper authorization, in violation of this license and terms, 
+         I will take whatever action is necessary to protect my intellectual and other property rights, including notification to 
+         LL and RL legal action if necessary.  
+    d.  Please comply with proper use instructions.  Creators put a lot of time and effort into their products.  Theft only 
+         discourages them from creating new products for your use and generally diminishes the creativity of Second Life.
+    

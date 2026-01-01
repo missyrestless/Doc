@@ -1,0 +1,80 @@
+For complete instructions on how to use OpenCollar, see https://opencollar.cc/docs/Complete-User-Guide
+
+Open Collar Animations Guide
+*******************************
+To animate your sub, there are two methods you may use.  
+1) Click on the sub's collar to bring up the menu, select "Collar", then "Animations".  Use "Couples" menu option for 
+     couples animations, or choose "Pose" for sub single animations.
+2) In local chat, type the initials of your sub's name followed immediately by the name of the animation, then hit "enter"
+     Example:  Sub's name is jane smith and the animation you want is "bara"
+                        type: jsbara
+                        
+                        Sub's name is jane resident (the default last name for all 
+                        newer avs)
+                        type: jrbara
+
+    Making your command "silent":  if you type "jsbara" in local chat, anyone 
+    within chat range will "hear" your command.  To make the command "silent" or "invisible", simply type 
+    /1jsbara
+    
+    To release your sub from the animation:  type jsrelease in local chat, or /1jsrelease
+
+    For couples poses:  sub or Owner types the command, then the full first name of the recipient
+                    type:  jsleghug John
+
+
+Description of Sub Animations
+********************************
+bara = sub is face down on ground, hands crossed behind back and legs straight
+beautystand = standing up, hands held behind neck
+belly = face down on ground, arms at sides, legs parted
+bendover = bent over, hands on knees, looking up
+boots = on knees, "hugging" boots, looking to side
+bowarmback = standing, looking towards ground, slightly bowed, hands straight behind back
+bracelets = kneeling, hands touching behind back, legs apart, looking straight ahead
+cutie = spread legged kneel, hands resting on inner thighs, looking straight ahead
+display = sitting on ground, legs straight out to sides, bent back with hands on ground behind
+doggie = on hands and knees, wiggling rear and looking back towards rear
+dolllay = laying on back, arms above head, looking to side, knees up and feet on floor
+karta = kneeling on ground, hands stretched straight in front and touching ground, lets slightly parted
+kneel = similar to bracelets
+layrelaxed = laying on side, one arm stretched out, other resting on hip, knees bent, looking at sky
+leasha = similar to bracelets except sub is looking up and to side
+lesha = kneeling, legs slightly apart, arms crossed behind back, looking down and to side slightly
+lounge = laying on side, propped on left arm, right arm across stomach, legs stretched out and slightly apart
+nadu = kneeling, legs apart, arms in front, palms up resting on thighs, looking down
+naduw = wider version of nadu
+naduw2 = very wide nadu, facing off to side
+naduw3 = nadu leaning back, hand across stomach and other hand propped on floor
+open = sitting on floor, knees up and apart, feet on floor, hands behind on floor, leaning back, looking up
+open2 = kneeling on floor, legs apart, leaning back and hands on floor
+plead = kneeling on floor, knees together, palms up and held in front
+sheen = hands and knees on floor, looking down
+shesleen = hands and elbows on floor, arms crossed and looking straight
+shock = flailing all over the place in pain
+sit = sitting on floor, legs together and to the side, knees bent, one hand on floor, looking straight
+sleep = laying on floor on stomach, arms up near head, head resting on floor
+squirm = standing, bent over with fingers near floor, wiggling rear
+submission = kneeling, legs apart, arms up and hands crossed above head, looking down
+submit = like submission except looking straight
+submitstand = standing version of submit
+subsit = same as sit
+Subwait = standing, arms at sides, one leg crossed over the other, looking down (MUST START WITH CAPITAL "S")
+tower = kneeling, knees together, palms up and resting on thighs, looking down
+towerg = kneeling, knees together, hands resting on thighs
+underground = puts sub in default stand position beneath the ground/building
+
+
+Description of Couple Animations
+************************************
+bootlick = sub kneels, bends over and licks Owner's shoes
+footkiss = sub kneels, bends over and kisses Owner's feet
+hug = gives a standing hug to the Owner or sub (used either way)
+jumphug = sub jumps up, wraps arms and legs around owner's chest/waist
+kiss = gives a standing kiss to the Owner or sub (used either way)
+leghug = sub gives a kneeling hug to Owner, arms around knees
+subhug = sub gives a kneeling hug to Owner, arms around waist
+
+
+
+    
