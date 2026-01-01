@@ -1,0 +1,113 @@
+Thank You for purchasing the MOVE! Animations AUTOMATIC DANCE HUD with the best Performance, Usability & Low Lag scripts ♥ 
+
+This HUD makes your life easier !
+
+
+ ►►► IMPORTANT FOR YOU NOW -
+ 
+ 
+- When you`re wearing the new MOVE! Automatic Dance HUD, you`re now able to have all animations you purchase from MOVE! Animation vendors AUTOMATICALLY built in the HUD Also full dance packs from pack vendors (Playlist will be auto created)  and single dances from ALL vendors and MOVE! Danceballs. So enjoy this UBERCOOL feature from now on ! 
+- GET visual and audio FEEDBACK while the Animation or Dance Pack was automatically added to your HUD. 
+- ALWAYS see the current playing animation by clicking the MENU button, upper text part "currently playing animation" 
+- Enjoy AUTOMATIC PLAYLIST CREATION when purchasing a Dance Pack 
+ 
+
+
+►►► LOOK AT THE EASY VIDEO TUTORIAL VIDEO HERE:  >>  https://youtu.be/IiC5oESVUrE  <<  
+
+
+􀀂
+
+
+
+􀀇
+
+
+
+► THE NEW AUTOMATIC DANCE HUD FROM MOVE! AT A GLANCE:
+
+- The HUD has the ability to have automatically built in Dance Animations you purchase from MOVE! Vendors or MOVE! Dance Balls from MOVE! in Clubs. 
+
+- It has the ability to do an alphabetical search of dances in its Inventory. 
+
+- It AUTOMATICALLY CREATES playlists for every dance pack you purchase from MOVE! including all MOVE! packs all around the GRID.
+
+- See the animation which is currently playing. 
+
+- Get 2 FREE DANCES within the HUD. 
+
+- Invite friends to dance with you. 
+
+- Make your own playlists with your Dances.
+
+- Sync` your friends when dancing with you. 
+
+- Kick people from the dancers List. 
+
+- 4 colors included 
+
+- Unlimited Playlist`s 
+
+- Kick All at once  
+
+- STOP All (not just yourself)
+
+- Guests keep dancing and controlled when owner stopped
+
+
+
+► All buttons of the HUD: 
+
+-- MAIN BUTTON (MIDDLE)  - OPEN/CLOSE the HUD
+-- PLAY/STOP  - Start and Stop dancing 
+-- NEXT ANIMATION   - Switch to the next animation
+-- PREVIOUS ANIMATION  - Switch to the previous animation 
+-- MAIN MENU  - Opens the main menu 
+-- PLAYLISTS  - Show the actual playlists - Browse thru Playlists
+-- SYNC  - Sync all Dancers on the HUD 
+-- INVITE  - Invite others in range to dance
+-- SELECT  - Search dances in alphabetical order or see all dances in the HUD
+
+
+
+► Instructions to LOAD DANCES into the HUD:
+
+- Rez the HUD on the ground. 
+- Simply drag and drop the animations onto the rezzed HUD (MOVE LOGO) 
+- The animations will automatically be loaded 
+- "Take" the hud from the ground and "add" it again to have it worn on your screen. 
+- Now click the "SELECT" button and search for an added dance by letters or click the "ALL" button in the "SELECT" menu to see all animations in the HUD
+
+
+► Instructions to CREATE PLAYLISTS in the HUD:
+
+1. Create a NEW folder in your inventory and name the folder like the playlist name 
+2. Create a NEW notecard in that folder and name it also like the playlist you want to create
+3. Make a copy all dances you want to have in that playlist and copy them into the new folder 
+4. Rez the "MOVE!_AnimReader REZ-ME & Drop in Animations" Ball to the ground. 
+5. Drop all dances from your new Playlist folder into the contents of the "MOVE!_AnimReader BALL"
+6. Click the "MOVE!_AnimReader BALL" onetime to get a list of all dances you added, in the OPEN CHAT.
+7. Now just copy the dance names all at one from the openchat to the NEW created Playlist NOTECARD and save it.
+8. Next, rez your MOVE AUTOMATIC HUD and drop all dances from your PLAYLIST folder and the NOTECARD into the HUD. ►►► (DONT RESET THE HUD WHILE ITS REZZED)
+9. At last just take the HUD back to inventory and wear it again (double click or add). 
+10. You can now access the NEW PLAYLIST to the PLAYLIST BUTTON (see manual AD texture 􀀁 or the VIDEO https://youtu.be/IiC5oESVUrE)
+
+HAPPY DANCING ! 
+
+
+
+
+#### LOOK THE EASY VIDEO TUTORIAL VIDEO HERE:  >>  https://youtu.be/IiC5oESVUrE  <<  
+
+
+
+􀀆
+
+
+
+
+􀀀
+
+
+
+
