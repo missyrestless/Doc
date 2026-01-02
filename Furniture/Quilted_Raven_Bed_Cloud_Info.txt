@@ -1,0 +1,88 @@
+★ Archdemon
+
+♦ A+ Quilted Raven Bed & Cloud  MFFFF
+9 prim Land Impact copy-mod mesh  - 13 LI with rezzed bedding
+s an animated mesh furniture item with capacity of 5
+❖ Texture HUD
+❖ CLOUD BED Option - Extra 2 prim LI
+❖ Master's Sitter Swap-ID HUD
+Optional Aquarium Headboard = 10 prim LI
+- Rezzable Bedding
+- Rezzable Aquarium headboard
+
+The classic way to style your living and lounging area with this highly detailed and expertly animated furniture item. 
+
+Alternate Bed3 Engine
+➤ 450+ 15-60+ animations 
+120 sets, many extended and sequenced for longer play organized in easy to understand and navigate menus
+all appropriate and chosen specifically for this piece of furniture
+Integrated MFF animation scenes
+
+• AVSitter2
+• Gender sensing
+• Security option
+• Advanced Lighting
+
+The bed is ideal for use by one two or three avis with many cuddles for 4 or 5 
+and although all maximum 5 are involved in all scenes the sexual interactions are generally among the primary 3 sitters
+MFFFF
+
+➤ NEW: Master's Sitter-Swap - ID HUD
+Convenient playHUD for sitter swapping and convenient access to MFF cuddle and MFF Sex
+
+➤ NEW: Cloud Bed
+The Cloud Bed is an included feature addon to the Bed which allows the porting of the bed to 6 different elevations and back to its original position in addition to optionally transforming the bed into a realistic cloud formation.
+This capability adds several scripts and 2 prim to the base bed.
+
+Are you tired of the neighbors watching you manhandle your wife? Is your mistress desperate to use her gacha angel wings during sex in a heavenly setting? We understand! Simply transport the bed to an elevation far from the hustle and bustle of real second life and transform it into a billowing cloud. It's fairly amazing; try at midnight setting for excellent photos. With two clicks the bed can be back in its original position as if nothing really happened. 
+I promise she will love it. I do.
+
+❖ DaSein Noyes - Archdemon
+
+Unusually tall female avatars and unusually short male avatars will need to do personal adjustments and this item may not be suitable for some, so please try the item in-world before purchase
+
+--------------------------------------------------------------------------------------------------------------
+NOTE: 
+1. Texture HUD is conveniently placed in the contents of the rezzed furniture accessible through the ADJUST menu
+
+2. Cloud Bed controls are in the "ADJUST" sub menu which is accessed from the MAIN menu or through the BACK button of the MAIN menu.
+Once the bed is properly positioned, the owner of bed must sit on it once to set the "Return Home" coordinates
+[SkyBed] button in the ADJUST menu brings up the [*Cloud] bed menu
+Choose elevation to move and [*Return] to return
+Click [*Cloud] button to toggle cloud rezzers on and off
+[*Return] button returns the bed to the home position.
+
+3. Master's Sitter Swap - ID HUD is accessible from the menu for the primary sitter
+4. Master's HUD "Full Version" accessible through the ADJUST menu [playHUD2]
+5.  To turn HUD feature ON/OFF (owner only) use the [NO-P HUD] button in ADJUST menu
+CAUTION: If the item is rezzed from inventory with the HUD feature OFF and is subsequently turned ON, the prop script will require 5 minute to reload data.
+--------------------------------------------------------------------------------------------------------------
+PACKING LIST:
+Versions Included:
+
+[MAIN] --- no cloud feature (2 prim less LI)
+[MAIN] &Cloud] --- cloud skybed feature enabled (in ADJUST menu)
+[Cloud 4050m] --- sky bed elevation limited to 4050m (useful for public and busy sky areas and RP zones)
+
+[RLV] [PG] and [no gender sense] versions can be obtained by request after purchase
+
+--------------------------------------------------------------------------------------------------------------
+
+***
+♦ update 2.14  December 19, 2019
+1.  Master's Sitter Swap - ID HUD
+2. Low sitter swap-on-stand
+
+♦ update 2.13  May 1, 2019
+1.  Prop rez texture memory
+
+♦ update 2.11  April 25, 2018
+1.  Version including Cloud Bed option added
+
+♦ update 2.10  February 3,2017
+1. Bedding now Rezzable
+2. Aquarium Headboard
+3. Texture HUD
+4. Enable materials
+
+***
