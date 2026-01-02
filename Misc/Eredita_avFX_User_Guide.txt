@@ -1,0 +1,118 @@
+    ▅▆▇ Eredita avFX ▇▆▅
+    
+    User Guide (Revision 1)
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━•••
+┃        About
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━•••
+
+Eredita avFX: Sound That Moves With You
+
+Second Life is vibrant, visually stunning, and full of creativity—but it’s often silent. Now, with avFX your avatar comes to life like never before!
+
+Customize a vast array of movement and vocal sounds to match your unique virtual presence. Whether it’s footsteps echoing across a marble floor, the rustle of fabric, or expressive voice cues, avFX provides a rich sound experience making your Second Life more dynamic and immersive!
+
+
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━•••
+┃        Getting Started
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━•••
+
+1‣ Wear avFX
+    Simply wear your avFX, and it will start working automatically.
+
+2‣ Config
+    To adjust your avFX, wear the provided Config HUD.
+
+3‣ Choose Profile
+    For first-time use, be sure to choose your preferred Profile in the Settings Menu.
+
+
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━•••
+┃        Settings Menu
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━•••
+
+Wear the included Config HUD and click it to open the Main Menu, then select Settings.
+
+➤ Profile
+    Choose which Profile Notecard to use. Notecards act as playlists for sound effects.
+
+➤ Volume
+    Adjust the master volume percentage to control how loud sounds play.
+
+➤ Toggle Move
+    Turn movement sound effects On/Off.
+
+➤ Toggle Vocal
+    Turn vocal sound effects On/Off.
+
+➤ Toggle Idle
+    Set how frequently idle sound effects play.
+
+➤ Idle Playrate
+    Cycles through available rates at which idle sound effects will play.
+
+➤ Refresh Rate
+    Choose how often avFX checks your avatar’s state. Lower settings improve responsiveness but may impact sim performance. Default: 0.5 sec (recommended).
+
+
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━•••
+┃        Customization
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━•••
+
+Adding your own sound effects to avFX is simple!
+
+1‣ Rez & Edit
+    Drag avFX onto the ground, right-click, and select Edit.
+
+2‣ Add Sounds
+    In the Contents tab, drag in your sound files.
+
+3‣ Copy a Profile
+    Grab an existing Profile Notecard from Contents and move it to your inventory.
+
+4‣ Rename & Edit
+    Rename the copied Notecard, open it, and update sound file names to match your own. (Use | to separate multiple files.)
+
+5‣ Save & Upload
+    Drag the updated Notecard back into Contents.
+
+6‣ Fine-Tune
+    Open the Notecard directly from avFX Contents for future edits. Just remember to hit Save!
+
+7‣ Ready to Use
+    Your custom Profile will now appear in the HUD Settings menu.
+
+Enjoy a truly personalized sound experience!
+
+
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━•••
+┃        Credits
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━•••
+
+Sounds from Freesound.org
+Creative Commons Attribution 4.0 License:
+
+    • soundadvices - https://freesound.org/people/soundadvices/
+    • AmeAngelofSin - https://freesound.org/people/AmeAngelofSin/
+    • jorickhoofd – https://freesound.org/people/jorickhoofd/
+    • pekena_larva – https://freesound.org/people/pekena_larva/
+    • Hawkeye_Sprout – https://freesound.org/people/Hawkeye_Sprout/
+
+Sounds from Freesound.org
+Creative Commons 0 License:
+
+    • Nox_Sound - https://freesound.org/people/Nox_Sound/
+    • RavenWolfProds - https://freesound.org/people/RavenWolfProds/
+    • OwlStorm - https://freesound.org/people/OwlStorm/
+    • AbuNijmeh - https://freesound.org/people/AbuNijmeh/
+    • martian - https://freesound.org/people/martian/
+    • Dorothy Jean Thompson - https://freesound.org/people/pyro13djt/
+    • SpliceSound - https://freesound.org/people/SpliceSound/
+    • Reitanna Seishin - https://freesound.org/people/Reitanna/
+    • giddster - https://freesound.org/people/giddster/
+    • SuddenDice - https://freesound.org/people/SuddenDice/
+    • Tobiasz 'unfa' Karoń - https://freesound.org/people/unfa/
