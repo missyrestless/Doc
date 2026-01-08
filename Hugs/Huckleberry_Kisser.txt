@@ -1,0 +1,73 @@
+// ============================================================
+// HOW TO USE YOUR PLAY MENU
+// ============================================================
+Thank you for purchasing the Huckleberry Play Menu!!
+This notecard explains everything you need to know.
+When wearing this object, others can click on your face to access the menu.
+// ------------------------------------------------------------
+
+SET YOUR NAME (so it says "John's nose" instead of "Avatar's nose")
+// ------------------------------------------------------------
+From the Settings menu, Click Name.  When the text box appears, type your name and hit Submit.
+Examples:
+• John
+• Princess Luna
+• Big Bad Wolf
+→ Your name is now saved!
+Select Clear name from the Settings Menu to use your resident name.
+// ------------------------------------------------------------
+RESET (when you change whitelist, or blacklist)
+// ------------------------------------------------------------
+Any time you edit the Whitelist notecard, or the Blacklist notecard:
+• Select Reset from the Settings Menu
+This reloads everything instantly.
+// ------------------------------------------------------------
+WHITELIST – WHO CAN USE THIS OBJECT
+// ------------------------------------------------------------
+By default: Everyone can touch and use it.
+To restrict access to specific people:
+While Wearing the Play Menu, Right-click the worn object from your inventory → Edit → Content tab
+Find and open the notecard named: Whitelist
+(must be spelled exactly like that, case-sensitive)
+Edit the notecard and write one full legacy name per line:
+• Use legacy names (Firstname Lastname)
+• "Resident" is added automatically if someone has a single name
+• Empty lines and lines starting with # are ignored
+Save the notecard
+Select Reset from the Settings Menu
+→ Now only the people in the list + YOU (the owner) can open the menu.
+Everyone else gets the message: "You are not on the whitelist."
+To make it public again:
+• Delete all names from the Whitelist notecard
+• Select Reset from the Settings Menu → back to public!
+// ------------------------------------------------------------
+BLACKLIST – WHO CANNOT USE THIS OBJECT
+// ------------------------------------------------------------
+By default: No one is blacklisted.
+To block specific people from accessing the menu (overrides whitelist and public access):
+While Wearing the Play Menu, Right-click the worn object from your inventory → Edit → Content tab
+Find and open the notecard named: Blacklist
+(must be spelled exactly like that, case-sensitive)
+Edit the notecard and write one full legacy name per line:
+• Use legacy names (Firstname Lastname)
+• "Resident" is added automatically if someone has a single name
+• Empty lines and lines starting with # are ignored
+Save the notecard
+Select Reset from the Settings Menu
+→ Now the people in the list are blocked from opening the menu (no message is sent to them).
+To remove blocks:
+• Delete names from the Blacklist notecard
+• Select Reset from the Settings Menu
+// ------------------------------------------------------------
+QUICK TIPS
+// ------------------------------------------------------------
+• Worn on Mouth - Touch the mouth area to emote (Only Owner can access settings)
+• Owner is always allowed, even without being in the whitelist or if on the blacklist
+• Display name vs legacy name: the script uses legacy name (John Doe), not display name (☆★John★☆) for the one who touches
+• Blacklist takes priority: If someone is on both lists, they are blocked
+// ------------------------------------------------------------
+Enjoy the kisses, boops, and noms!
+If something doesn’t work, just reset the script – 99% of issues are fixed that way.
+Have fun! ♡
+// ============================================================
+Oh, reach out if you have any questions!                                          􀀁
