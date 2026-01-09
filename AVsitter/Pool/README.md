@@ -8,16 +8,15 @@ the Trompe Loeil Pool dialog menus.
 
 Sequences are configured for the following menus:
 
-- Male and Female Sit Menus
-- Together Menu
-- For Him Menu
-- For Her Menu
-- Front Menu
-- Rodeo Menu
-- Sitting Menu
-- Sit Back Menu
-- Dogging Menu
-- Behind Menu
+MENU SOLO SWIM
+MENU SOLO SIT
+MENU COUPLES
+MENU COUPLES {A}
+
+- Solo Sit Menus
+- Solo Swim Menus
+- Couples Cuddle Menus
+- Couples Adult Menus
 
 ## Download the script and customized notecards
 
@@ -51,7 +50,7 @@ To configure a Trompe Loeil Pool with AVsitter sequences:
 - Right click the pool and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
 - Wait for the scripts to reset (this takes a few minutes)
 
-Sit on the pool and click one of the main menu entries, e.g. click `Me` or `Together`.
+Sit on the pool and click one of the main menu entries, e.g. click `SOLO SIT` or `COUPLES`.
 
 You should see a menu entry of the form `SEQ ...`. Click this menu entry and your
 avatar will cycle through all the animations in that submenu. Cycle times are currently
@@ -64,3 +63,5 @@ or pause animation sequencing.
   - [AVsitter/Cuming_Soon/Armchair](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Armchair)
   - [AVsitter/Cuming_Soon/BabyDoll](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/BabyDoll)
   - [AVsitter/Cuming_Soon/Quickie](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Quickie)
+- Customized notecards providing sequenced animations for `DaD Outdoor Jacuzzi Hot Tub`:
+  - [AVsitter/Hot_Tub](https://github.com/missyrestless/Doc/tree/main/AVsitter/Hot_Tub)

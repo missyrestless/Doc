@@ -1,285 +1,285 @@
 DEBUG 1
 
-SEQUENCE SEQ SWIM
-PLAY Circles|0296 Swim Circles X A
+SEQUENCE SEQ_SWIM
+PLAY Circles
 WAIT 60
-PLAY Float|Backfloat-2
+PLAY Float
 WAIT 60
-PLAY Backfloat1|z-float
+PLAY Backfloat1
 WAIT 60
-PLAY Splash 1|F SweetSplash
+PLAY Splash 1
 WAIT 60
-PLAY Splash 2|M SweetSplash
+PLAY Splash 2
 WAIT 60
-PLAY Leg Float|pl.wade-fl
+PLAY Leg Float
 WAIT 60
-PLAY Edge Hang|pl-HangEdge-ugr
+PLAY Edge Hang
 WAIT 60
-PLAY Tread Water|pl-Treadwater-ugr
+PLAY Tread Water
 WAIT 60
-PLAY Legs Hang|pl-Wade-ugr
+PLAY Legs Hang
 WAIT 60
-PLAY Paddle|be-dogpaddle
+PLAY Paddle
 WAIT 60
-PLAY Backfloat2|be-float
+PLAY Backfloat2
 WAIT 60
-PLAY Drift|be-float1
+PLAY Drift
 WAIT 60
-PLAY Swim|be-swim
-WAIT 60
-LOOP
-
-SEQUENCE SEQ SIT
-PLAY Poolside|[RNP] Pollside #7_Female_38 Seconds
-WAIT 60
-PLAY Dangle|[RNP] Pollside #8_Female_50 seconds
-WAIT 60
-PLAY Hang Out|bt1
-WAIT 60
-PLAY Side Sit|bt2
-WAIT 60
-PLAY Leg Out|bt3
-WAIT 60
-PLAY Kickback|bt4
-WAIT 60
-PLAY Sunnyside|bt5
-WAIT 60
-PLAY Curl Up|bt6
-WAIT 60
-PLAY Toes Only|ft.dreamkick
-WAIT 60
-PLAY Just A Foot|ft.simplesit
-WAIT 60
-PLAY Hands In|ft.splash
-WAIT 60
-PLAY Sunstroke|ft.sunstretch
-WAIT 60
-PLAY Footsplash|Poolside-8
-WAIT 60
-PLAY Cool Off|Poolside-10
-WAIT 60
-PLAY Drape|z-poolside
-WAIT 60
-PLAY One Foot|pl-EdgeSit-ugr
-WAIT 60
-PLAY Doubleswing|pl-EdgeSwing-ugr
-WAIT 60
-PLAY Lounge|pl-lounge-fl
-WAIT 60
-PLAY Zone|pl-pool-sit-fl
-WAIT 60
-PLAY Too Hot|pl-scope-fl
-WAIT 60
-PLAY Skim|pl-Skim-ugr
-WAIT 60
-PLAY Splish|be-splash
-WAIT 60
-PLAY Sploosh|be-swushing
+PLAY Swim
 WAIT 60
 LOOP
 
-SEQUENCE SEQ COUPLES
-PLAY Gotcha|F Capture
+SEQUENCE SEQ_SIT
+PLAY Poolside
 WAIT 60
-PLAY Embrace|F CloserIGet
+PLAY Dangle
 WAIT 60
-PLAY Join Hands|F FromMeToYou
+PLAY Hang Out
 WAIT 60
-PLAY Hold On|F IMissYou
+PLAY Side Sit
 WAIT 60
-PLAY Kneel Hug|F LHT1
+PLAY Leg Out
 WAIT 60
-PLAY Kneel Kiss|F LHT2
+PLAY Kickback
 WAIT 60
-PLAY Sweethearts|F LHT3
+PLAY Sunnyside
 WAIT 60
-PLAY Cuddle|F LHT4
+PLAY Curl Up
 WAIT 60
-PLAY Cozy|F LHT5
+PLAY Toes Only
 WAIT 60
-PLAY Carry|F LHT6
+PLAY Just A Foot
 WAIT 60
-PLAY More|F MoreThanWords
+PLAY Hands In
 WAIT 60
-PLAY Passion|F Passion1
+PLAY Sunstroke
 WAIT 60
-PLAY Sweetness|F Passion2
+PLAY Footsplash
 WAIT 60
-PLAY Got You|F Precious&Afew
+PLAY Cool Off
 WAIT 60
-PLAY Hold You|F Shiver
+PLAY Drape
 WAIT 60
-LOOP
-
-SEQUENCE SEQ ADULT
-PLAY Hand Job|F LHTA1
+PLAY One Foot
 WAIT 60
-PLAY Finger|F LHTA2
+PLAY Doubleswing
 WAIT 60
-PLAY Blow Job|F LHTA3
+PLAY Lounge
 WAIT 60
-PLAY Go Down|F LHTA4
+PLAY Zone
 WAIT 60
-PLAY Crab|F LHTA5
+PLAY Too Hot
 WAIT 60
-PLAY Behind|F LHTA6
+PLAY Skim
 WAIT 60
-PLAY Ride|F LHTA7
+PLAY Splish
 WAIT 60
-PLAY Get On Top|F LHTA9
-WAIT 60
-PLAY Squat|F LHTA10
-WAIT 60
-PLAY Lotus|Kneeling Lotus-F
-WAIT 60
-PLAY Lift|F 2ShowerAdt5 Lift2
-WAIT 60
-PLAY Raise|F 2ShowerAdt4 Lift1
-WAIT 60
-PLAY Ramp|F 1ShowerAdt5 Ramp
-WAIT 60
-PLAY Buck|F 2ShowerAdt1 Ramp2
-WAIT 60
-PLAY Climb|F 2ShowerAdt2 Ramp3
+PLAY Sploosh
 WAIT 60
 LOOP
 
-SEQUENCE SEQ SWIM 2
-PLAY Circles|0296 Swim Circles X A
+SEQUENCE SEQ_COUPLES
+PLAY Gotcha
 WAIT 60
-PLAY Float|Backfloat-2
+PLAY Embrace
 WAIT 60
-PLAY Backfloat1|z-float
+PLAY Join Hands
 WAIT 60
-PLAY Splash 1|F SweetSplash
+PLAY Hold On
 WAIT 60
-PLAY Splash 2|M SweetSplash
+PLAY Kneel Hug
 WAIT 60
-PLAY Leg Float|pl.wade-fl
+PLAY Kneel Kiss
 WAIT 60
-PLAY Legs Hang|pl-Wade-ugr
+PLAY Sweethearts
 WAIT 60
-PLAY Paddle|be-dogpaddle
+PLAY Cuddle
 WAIT 60
-PLAY Backfloat2|be-float
+PLAY Cozy
 WAIT 60
-PLAY Drift|be-float1
+PLAY Carry
 WAIT 60
-PLAY Swim|be-swim
+PLAY More
 WAIT 60
-LOOP
-
-SEQUENCE SEQ SIT 2
-PLAY Poolside|[RNP] Pollside #7_Female_38 Seconds
+PLAY Passion
 WAIT 60
-PLAY Dangle|[RNP] Pollside #8_Female_50 seconds
+PLAY Sweetness
 WAIT 60
-PLAY Hang Out|bt1
+PLAY Got You
 WAIT 60
-PLAY Side Sit|bt2
-WAIT 60
-PLAY Leg Out|bt3
-WAIT 60
-PLAY Kickback|bt4
-WAIT 60
-PLAY Sunnyside|bt5
-WAIT 60
-PLAY Curl Up|bt6
-WAIT 60
-PLAY Toes Only|ft.dreamkick
-WAIT 60
-PLAY Just A Foot|ft.simplesit
-WAIT 60
-PLAY Hands In|ft.splash
-WAIT 60
-PLAY Sunstroke|ft.sunstretch
-WAIT 60
-PLAY Footsplash|Poolside-8
-WAIT 60
-PLAY Cool Off|Poolside-10
-WAIT 60
-PLAY Drape|z-poolside
-WAIT 60
-PLAY One Foot|pl-EdgeSit-ugr
-WAIT 60
-PLAY Doubleswing|pl-EdgeSwing-ugr
-WAIT 60
-PLAY Lounge|pl-lounge-fl
-WAIT 60
-PLAY Zone|pl-pool-sit-fl
-WAIT 60
-PLAY Too Hot|pl-scope-fl
-WAIT 60
-PLAY Skim|pl-Skim-ugr
-WAIT 60
-PLAY Splish|be-splash
-WAIT 60
-PLAY Sploosh|be-swushing
+PLAY Hold You
 WAIT 60
 LOOP
 
-SEQUENCE SEQ COUPLES 2
-PLAY Gotcha|M Capture
+SEQUENCE SEQ_ADULT
+PLAY Hand Job
 WAIT 60
-PLAY Embrace|M CloserIGet
+PLAY Finger
 WAIT 60
-PLAY Join Hands|M FromMeToYou
+PLAY Blow Job
 WAIT 60
-PLAY Hold On|M IMissYou
+PLAY Go Down
 WAIT 60
-PLAY Kneel Hug|M LHT1
+PLAY Crab
 WAIT 60
-PLAY Kneel Kiss|M LHT2
+PLAY Behind
 WAIT 60
-PLAY Sweethearts|M LHT3
+PLAY Ride
 WAIT 60
-PLAY Cuddle|M LHT4
+PLAY Get On Top
 WAIT 60
-PLAY Cozy|M LHT5
+PLAY Squat
 WAIT 60
-PLAY Carry|M LHT6
+PLAY Lotus
 WAIT 60
-PLAY More|M MoreThanWords
+PLAY Lift
 WAIT 60
-PLAY Passion|M Passion1
+PLAY Raise
 WAIT 60
-PLAY Sweetness|M Passion2
+PLAY Ramp
 WAIT 60
-PLAY Got You|M Precious&Afew
+PLAY Buck
 WAIT 60
-PLAY Hold You|M Shiver
+PLAY Climb
 WAIT 60
 LOOP
 
-SEQUENCE SEQ ADULT 2
-PLAY Hand Job|M LHTA1
+SEQUENCE SEQ_SWIM_2
+PLAY Circles
 WAIT 60
-PLAY Finger|M LHTA2
+PLAY Float
 WAIT 60
-PLAY Blow Job|M LHTA3
+PLAY Backfloat1
 WAIT 60
-PLAY Go Down|M LHTA4
+PLAY Splash 1
 WAIT 60
-PLAY Crab|M LHTA5
+PLAY Splash 2
 WAIT 60
-PLAY Behind|M LHTA6
+PLAY Leg Float
 WAIT 60
-PLAY Ride|M LHTA7
+PLAY Legs Hang
 WAIT 60
-PLAY Get On Top|M LHTA9
+PLAY Paddle
 WAIT 60
-PLAY Squat|M LHTA10
+PLAY Backfloat2
 WAIT 60
-PLAY Lotus|Kneeling Lotus-M
+PLAY Drift
 WAIT 60
-PLAY Lift|M 2ShowerAdt5 Lift2
+PLAY Swim
 WAIT 60
-PLAY Raise|M 2ShowerAdt4 Lift1
+LOOP
+
+SEQUENCE SEQ_SIT_2
+PLAY Poolside
 WAIT 60
-PLAY Ramp|M 1ShowerAdt5 Ramp
+PLAY Dangle
 WAIT 60
-PLAY Buck|M 2ShowerAdt1 Ramp2
+PLAY Hang Out
 WAIT 60
-PLAY Climb|M 2ShowerAdt2 Ramp3
+PLAY Side Sit
+WAIT 60
+PLAY Leg Out
+WAIT 60
+PLAY Kickback
+WAIT 60
+PLAY Sunnyside
+WAIT 60
+PLAY Curl Up
+WAIT 60
+PLAY Toes Only
+WAIT 60
+PLAY Just A Foot
+WAIT 60
+PLAY Hands In
+WAIT 60
+PLAY Sunstroke
+WAIT 60
+PLAY Footsplash
+WAIT 60
+PLAY Cool Off
+WAIT 60
+PLAY Drape
+WAIT 60
+PLAY One Foot
+WAIT 60
+PLAY Doubleswing
+WAIT 60
+PLAY Lounge
+WAIT 60
+PLAY Zone
+WAIT 60
+PLAY Too Hot
+WAIT 60
+PLAY Skim
+WAIT 60
+PLAY Splish
+WAIT 60
+PLAY Sploosh
+WAIT 60
+LOOP
+
+SEQUENCE SEQ_COUPLES_2
+PLAY Gotcha
+WAIT 60
+PLAY Embrace
+WAIT 60
+PLAY Join Hands
+WAIT 60
+PLAY Hold On
+WAIT 60
+PLAY Kneel Hug
+WAIT 60
+PLAY Kneel Kiss
+WAIT 60
+PLAY Sweethearts
+WAIT 60
+PLAY Cuddle
+WAIT 60
+PLAY Cozy
+WAIT 60
+PLAY Carry
+WAIT 60
+PLAY More
+WAIT 60
+PLAY Passion
+WAIT 60
+PLAY Sweetness
+WAIT 60
+PLAY Got You
+WAIT 60
+PLAY Hold You
+WAIT 60
+LOOP
+
+SEQUENCE SEQ_ADULT_2
+PLAY Hand Job
+WAIT 60
+PLAY Finger
+WAIT 60
+PLAY Blow Job
+WAIT 60
+PLAY Go Down
+WAIT 60
+PLAY Crab
+WAIT 60
+PLAY Behind
+WAIT 60
+PLAY Ride
+WAIT 60
+PLAY Get On Top
+WAIT 60
+PLAY Squat
+WAIT 60
+PLAY Lotus
+WAIT 60
+PLAY Lift
+WAIT 60
+PLAY Raise
+WAIT 60
+PLAY Ramp
+WAIT 60
+PLAY Buck
+WAIT 60
+PLAY Climb
 WAIT 60
 LOOP
