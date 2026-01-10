@@ -67,3 +67,5 @@ or pause animation sequencing.
   - [AVsitter/Hot_Tub](https://github.com/missyrestless/Doc/tree/main/AVsitter/Hot_Tub)
 - Customized notecards providing sequenced animations for `Trompe Loeil Pool`:
   - [AVsitter/Pool](https://github.com/missyrestless/Doc/tree/main/AVsitter/Pool)
+- Customized notecards providing sequenced animations for `Lalou 3some Outdoor Shower`:
+  - [AVsitter/Outdoor_Shower](https://github.com/missyrestless/Doc/tree/main/AVsitter/Outdoor_Shower)

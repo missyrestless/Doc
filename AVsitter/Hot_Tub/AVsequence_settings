@@ -1,17 +1,139 @@
 DEBUG 1
 
-SEQUENCE CHEERS-SEQ
-WHISPER/0 Cheers My Love  ♥️!
-PLAY CHEERS-SEQ
-WAIT 5
-PLAY Seq69a
-WAIT 56
-PLAY Seq69b
-WAIT 56
-PLAY Seq69c
-WAIT 56
-PLAY Seq69d
-WAIT 56
+SEQUENCE SEQ-CUDDLE-F1
+PLAY FinallyFoundYou
+WAIT 60
+PLAY ForLovingMe
+WAIT 60
+PLAY HugsAndKisses
+WAIT 60
+PLAY INeedYou
+WAIT 60
+PLAY JustLikeThis
+WAIT 60
+PLAY LoveAgain
+WAIT 60
+PLAY LoveOfMyLifeV2
+WAIT 60
+PLAY Naughty
+WAIT 60
+PLAY NeverForgetsV2
+WAIT 60
+PLAY TheSafestPlace
+WAIT 60
+PLAY SayForever
+WAIT 60
+PLAY SharingIsCaring
+WAIT 60
+PLAY SweetSurrender
+WAIT 60
+PLAY TakeMyBreathAway
+WAIT 60
+PLAY Thankyou
+WAIT 60
+PLAY AlmostParadise
+WAIT 60
+PLAY Frog in Love
+WAIT 60
+LOOP
+
+SEQUENCE SEQ-CUDDLE-F2
+PLAY Pleasant
+WAIT 60
+PLAY Secret
+WAIT 60
+PLAY Kiss
+WAIT 60
+PLAY My world
+WAIT 60
+PLAY All yours
+WAIT 60
+PLAY Seducing
+WAIT 60
+PLAY Teasing
+WAIT 60
+PLAY KissOfLove
+WAIT 60
+PLAY KissOfPassion
+WAIT 60
+PLAY NeckKiss
+WAIT 60
+LOOP
+
+SEQUENCE SEQ-CUDDLE-M1
+PLAY FinallyFoundYou
+WAIT 60
+PLAY ForLovingMe
+WAIT 60
+PLAY HugsAndKisses
+WAIT 60
+PLAY INeedYou
+WAIT 60
+PLAY JustLikeThis
+WAIT 60
+PLAY LoveAgain
+WAIT 60
+PLAY LoveOfMyLifeV2
+WAIT 60
+PLAY Naughty
+WAIT 60
+PLAY NeverForgetsV2
+WAIT 60
+PLAY TheSafestPlace
+WAIT 60
+PLAY SayForever
+WAIT 60
+PLAY SharingIsCaring
+WAIT 60
+PLAY SweetSurrender
+WAIT 60
+PLAY TakeMyBreathAway
+WAIT 60
+PLAY Thankyou
+WAIT 60
+PLAY AlmostParadise
+WAIT 60
+LOOP
+
+SEQUENCE SEQ-CUDDLE-M2
+PLAY Frog in Love
+WAIT 60
+PLAY Caress me
+WAIT 60
+PLAY Little Boy
+WAIT 60
+PLAY My arms
+WAIT 60
+PLAY We are one
+WAIT 60
+PLAY Kissing
+WAIT 60
+PLAY Prelude
+WAIT 60
+PLAY Entwine
+WAIT 60
+PLAY Whisperbath
+WAIT 60
+PLAY Pleasant
+WAIT 60
+PLAY Secret
+WAIT 60
+PLAY Kiss
+WAIT 60
+PLAY My world
+WAIT 60
+PLAY All yours
+WAIT 60
+PLAY Seducing
+WAIT 60
+PLAY Teasing
+WAIT 60
+PLAY KissOfLove
+WAIT 60
+PLAY KissOfPassion
+WAIT 60
+PLAY NeckKiss
+WAIT 60
 LOOP
 
 SEQUENCE SEQ-SOLO-F1

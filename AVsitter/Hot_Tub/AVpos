@@ -67,7 +67,6 @@ POSE sit 3- M|[RNP] Flat Surface Sit #13 - Male - 35 seconds
 MENU CUDDLE
 TOMENU Couples I
 TOMENU Couples II
-SEQUENCE SEQ-CHEERS
 
 MENU HIDDEN
 SYNC Seq69a|F69A
@@ -76,6 +75,7 @@ SYNC Seq69c|F69C
 SYNC Seq69d|F69D
 
 MENU Couples I
+SEQUENCE SEQ-CUDDLE-F1
 SYNC FinallyFoundYou|F FinallyFoundYou
 SYNC ForLovingMe|F ForLovingMe
 SYNC HugsAndKisses|F HugsAndKisses
@@ -95,6 +95,7 @@ SYNC AlmostParadise|F AlmostParadise
 SYNC Frog in Love|[RNP] Couple #70_Female
 
 MENU Couples II
+SEQUENCE SEQ-CUDDLE-F2
 SYNC Pleasant|Couple124F
 SYNC Secret|Couple125F
 SYNC Kiss|Couple127F
@@ -333,7 +334,6 @@ TOMENU ADULT
 MENU CUDDLE
 TOMENU Couples I
 TOMENU Couples II
-SEQUENCE SEQ-CHEERS
 
 MENU HIDDEN
 SYNC Seq69a|M69A
@@ -342,6 +342,7 @@ SYNC Seq69c|M69C
 SYNC Seq69d|M69D
 
 MENU Couples I
+SEQUENCE SEQ-CUDDLE-M1
 SYNC FinallyFoundYou|M FinallyFoundYou
 SYNC ForLovingMe|M ForLovingMe
 SYNC HugsAndKisses|M HugsAndKisses
@@ -360,6 +361,7 @@ SYNC Thankyou|M Thankyou
 SYNC AlmostParadise|M AlmostParadise
 
 MENU Couples II
+SEQUENCE SEQ-CUDDLE-M2
 SYNC Frog in Love|[RNP] Couple #70_Male
 SYNC Caress me|[RNP] Couple #71_Male
 SYNC Little Boy|[RNP] Couple #73_Male
