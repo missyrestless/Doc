@@ -1,0 +1,145 @@
+HUDDLES EZ Animator Basic Help
+
+􀀀
+
+I. QUICK START
+    A. ADDING ANIMATIONS
+    B. PLAYING ANIMATIONS
+    C. BROWSING ANIMATIONS
+    D. DANCE AND RANDOM MODE
+    E. NEXT DANCE
+    F. MINIMIZING AND MOVING HUD
+    G. HELP BUTTON
+
+II. DANCER OPTIONS
+    A. INVITING DANCERS (and the HUDDLES Dance Ball)
+    B. REMOVING DANCERS AND CLEARING DANCER LIST
+    C. SELF ANIMATION
+    D. DANCE TIME INTERVAL
+  
+III. ADMIN OPTIONS
+    A. SILENT MODE
+    B. DANCE TIME INTERVAL
+    C. CHANGING HUD ALPHA (TRANSPARENCY)
+    D. CHANGING HUD COLOR
+
+------------------------------
+
+BEFORE YOU START
+
+HUD's are attachments that appear on your screen. To put on the EZ Animator,
+just "Wear" it from you inventory. You may also attach it to any other HUD 
+position. To take it off, right click on it and choose "Detach".
+
+Got a question? Ask it in the HUDDLES Customer Service Forum:
+http://forums.secondlife.com/forumdisplay.php?f=275
+
+I. QUICK START
+
+    A. ADDING ANIMATIONS
+    There are two ways to add animations to your EZ Animator:
+        -   For animations with limited permissions (no copy or no transfer)
+            -- Drag the EZ Animator from your inventory to the ground.
+            -- Right click on it and choose 'Open'
+            -- Drag animations from your inventory into the contents of the EZ Animator.
+        -  For full permissions animations you may also simply drag a copy from your 
+            inventory and drop it onto the HUD while wearing it.
+        
+    B. PLAYING ANIMATIONS
+    Just click the name of the animation you want to play. Remember for long 
+    animations, it may take a moment for it to load to your client, just like a 
+    large texture.
+    
+    C. BROWSING ANIMATIONS
+    Use the arrow keys just below the animation names to browse all the animations
+    in the HUD's inventory. From left to right the buttons are:
+        |<<     First Page
+        <<      Previous
+        >>      Next
+        >>|     Last Page
+        
+    D. DANCE AND RANDOM MODE
+    The Dance button is the middle button in the first row of buttons. It looks like 
+    a man dancing. When you click on this button, you begin "dance" mode. The 
+    EZ Animator will begin with the first animation in the HUD's inventory and play
+    each animation in order.
+    
+    The Random button looks like a die. It's on the left in the second row. Random 
+    mode works exactly like the Dance mode except that it chooses a random order
+    to play the animations in.
+    
+    To stop Dance or Random mode, simply click the button again or click the "Stop" 
+    button. The stop button is square icon in the middle button in the second row.
+    
+    E. NEXT DANCE
+    When in Dance or Random mode, you may skip to the next song by clicking the 
+    "Next" button--the single arrow icon on the right of the second row.
+    
+    F. MINIMIZING AND MOVING HUD
+    To minimize the EZ Animator, click the Minimize button on the top right corner 
+    of the device. It will shrink to a small bar with one button. This is the Restore
+    button used to restore the HUD on your screen.
+    
+    To move the HUD on your screen, right click on it and choose "Edit." Use the 
+    blue and green arrows to drag it somewhere else on the screen.
+    
+    The EZ Animator remembers two positions, the position it was last minimized
+    and the position it was last full size. So, you can choose an out of the way
+    spot to position it while minimized and it will return there whenever you minimize it.
+    
+    IMPORTANT - If you ever attach the EZ Animator to a new HUD position, it will 
+    clear the last saved positions. This is a feature, if for some reason you attach the
+    HUD and you don't see it on your screen, attach it to different HUD spot.
+    
+    G. HELP BUTTON
+    At the top of the HUD is a button which has a question mark for an icon. Click on 
+    this button and a copy of this notecard will pop on your screen.
+    
+
+II. DANCER OPTIONS
+The EZ Animator not only animates you, but up to 10 friends as well. This is most 
+often used for dancing, but there are other applications for it as well.
+
+    A. INVITING DANCERS (and the HUDDLES Dance Ball)
+    There are two ways for others to join your EZ Animator:
+    -  The Invite button (the envelope icon next to the Random button) brings up 
+        a list of the 16 closest avatars (use the arrow keys to see the last six). To invite
+        one to dance, click their name. 
+        -- If you don't wish to invite someone on the list, click the invite button again
+            to return to normal operation.
+    -  You can also wear the HUDDLES Dance Ball. It is an invisible prim that attaches
+        to your avatar. Someone else can click on it to start dancing with you and to 
+        stop dancing with you. You do not need to be wearing the Dance Ball to invite
+        others to dance with you.
+    
+    B. REMOVING DANCERS AND CLEARING DANCER LIST
+    The button with two dancers is for removing dancers from your EZ Animator. 
+    Click on this button and a list of your current dancers will pop up. Click on one of
+    the names to remove them from your EZ Animator, or choose "CLEAR ALL" to 
+    remove everyone.
+    
+    C. SELF ANIMATION
+    There are times when you will not want to animate yourself, but still animate 
+    the dancers on your EZ Animator. To turn off self animation, click the "Me" button.
+    To turn it back on, click it again.
+
+III. ADMIN OPTIONS
+
+    A. SILENT MODE
+    This button looks like a bullhorn. Click it to turn "Silent Mode" on or off. In silent
+    mode, the vast majority of chat spam is eliminated.
+    
+    B. DANCE TIME INTERVAL
+    The button that looks like a wrist watch is the button to set a new Dance Time
+    Interval. Click it and then type in a number of seconds to set the time between
+    dances in Dance or Random mode. The default time is 20 seconds.
+    
+    C. CHANGING HUD ALPHA (TRANSPARENCY)
+    The alpha (or transparency) button looks like a cursive "a". Click in and then 
+    choose how transparent you want your HUD to be.
+    
+    D. CHANGING HUD COLOR
+    The color button is last. Click it and then choose a color for the buttons on your
+    HUD.
+
+**** Please note that this HUD attachment was created with the screen set to: 1024 x 768 and looks best at that screen resolution. It works fine at other resolutions, but the text will be smaller or bigger depending on your settings. ****
