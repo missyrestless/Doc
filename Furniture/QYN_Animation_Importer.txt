@@ -1,0 +1,32 @@
+This script will allow you to transfer other brands animations in your QYN furniture, and use them alongside the original QYN animations.
+The new animations will appear distributed along QYN menus, and will not be placed in a separate menu.
+It will work only in the models specified in the product description.
+
+Have access to a plot of land where you can rez both QYN furniture and the source furniture at the same time. 
+
+1) Rez Your QYN furniture, and the source furniture (not QYN) from which you plan to import the animations, at less than one meter apart. Please check the model is supported in the product description. The procedure will work with one source furniture at a time. Do not try to rez multiple source furnitures.
+
+2) Edit the Source furniture, and click on the content tab, until it loads the source content. it might take some minute, so be patient.􀀃
+
+3) Drag the script "[Q] Animation Importer" from the QYN product folder to the content of the source furniture. A message in local will be printed "Animation Importer ready.".
+􀀂
+􀀁
+
+4) Now sit on the QYN furniture, and click on the [MENU]>[ADJUST] button, click "<<" and then "[Import]" button. A check of the correct furniture will be made, and if successful, the procedure will start automatically.
+􀀀
+􀀄
+
+5) The QYN furniture will prompt you to reboot or go back to the menu to import more furnitures. Once all your imports are done, choose to Reboot and wait until completion.
+􀀅
+
+Supported Furnitures:
+
+Animation Importer Supported Brands:
++ Ruckus - https://marketplace.secondlife.com/en-US/stores/212545
++ Good Moaning - https://marketplace.secondlife.com/en-US/stores/197248
++ After Dark - https://marketplace.secondlife.com/en-US/stores/224762
++ Doom - http://maps.secondlife.com/secondlife/Sexual%20Fantasy/85/168/802
+Other furnitures:
++ Darkfold Legends -The Monarch- http://maps.secondlife.com/secondlife/Coral%20Star/124/136/1003
++ Darkfold Bronco Sofa: https://marketplace.secondlife.com/p/Darkfold-Productions-Bronco-Sofa-AE-INM-MCP/21167933
++ Cuming Soon Wahoo couch: https://marketplace.secondlife.com/p/Wahoo/24536636
