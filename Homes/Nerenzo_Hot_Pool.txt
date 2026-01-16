@@ -1,0 +1,62 @@
+
+Hello!
+
+Thank you for buying a pool from Nerenzo!
+
+=> To use your new item simply rez it.
+
+Please click your new item with your right mousebutton and select "sit" from the pie menu. Depending on the version you bought you will be either sitted automatically by the shape you are wearing (male or female) - or you get a window with a selection.
+If you are in two (Male and Female), please use "seat" female 1 and male 1.
+
+The default settings for the menu/animations is: public, which means, everyone can use the item/its animations menu.
+
+
+********************
+▨▨▨The permission script:▨▨▨
+You can adjust these settings (the permission to use the little hangout) by:
+
+*) right clicking the item & select "edit".
+*) check the button "edit linked parts" - and click the blanket with your LEFT mousebutton
+*) go to the tab "content"
+*) wait until everything has loaded, then open the "access_config" notecard where you can set the permissions of the animations/menu access
+*) set your permissions (who can use the menu (public - owner  - group & denied message for the item).
+*) ps: you can set the permission script to owner & add other avatars UUID in the last line (example inside)
+==> take the item to your inventory and RE-REZ it. THAT IS MANDATORY IN ORDER TO SEE EFFECTS :)
+
+further information regarding the permissions script can also be found here:
+
+􀀅
+
+
+it's easy :)
+********************
+THE LIGHT:
+right to the stairs that lead into the pool is a little switch. if you press it, you can control the lights in the pool.
+
+THE JETS & BUBBLES & THE REZZABLES
+Above the "sitting area" is a little switch. If you press it you can rez the jets and bubbles or also rez the inflatables.
+Please use the same switch to unrez the items. Please do not forget that the jets, bubbles and inflatables also have some Land impact"
+
+THE STAIRS:
+The package has some stairs - you can easily rez them and position/rotate them. Please take a look at the notecard that comes inside the package of the pool
+
+ADJUST ANIMATIONS; INM; THE P; THE V; AEROS and so on...
+... please check the menu "OPTIONS" for further information on the matter :)
+
+▨▨▨ SUPPORT ▨▨▨
+
+If you have any problems with your Nerenzo product or need support, please drop a notecard to 
+
+􀀄
+
+ 
+ Please do not send IMs, i am often afk, and if I crash I would not even know you tried to contact me :/
+ 
+ ▨▨▨▨▨▨
+
+Again, thank you for you purchase & see you soon at Nerenzo!
+
+vic nerido
+Nerenzo
+
+PS: You have bought your item via marketplace? It'd be super great if you could leave a review - I'm really happy about every review aka feedback I can get from my customers!!!

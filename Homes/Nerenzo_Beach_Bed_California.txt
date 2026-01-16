@@ -1,0 +1,75 @@
+
+Hello!
+
+Thank you for buying the Nerenzo The Beach Bed "California"!
+
+=> To use your new item simply rez it.
+
+Please click your new item with your right mouse button and select "sit" from the pie menu. You will be seated according to the gender of your shape wear (male or female).
+
+To swap once you're in the menu, please hit SWAP..
+
+Permission - general:
+The default settings for the menu/animations is: public, which means, everyone can use the item/its animations menu.
+
+If you want to set permissions to the door, please click it for about 3 seconds, and a special menu will pop up. It is pretty much self describing.
+
+
+********************
+▨▨▨The permission script:▨▨▨
+You can adjust the settings (the permission to use the Bed) by:
+
+*) right clicking the item & select "edit".
+*) check the button "edit linked parts" - and click the round outer bars with your LEFT mousebutton
+*) go to the tab "content"
+*) wait until everything has loaded, then open the "access_config" notecard where you can set the permissions of the animations/menu access
+*) set your permissions (who can use the menu (public - owner  - group & denied message for the item).
+*) ps: you can set the permission script to owner & add other avatars UUID in the last line (example inside)
+==> take the item to your inventory and RE-REZ it. THAT IS MANDATORY IN ORDER TO SEE EFFECTS :)
+
+further information regarding the permissions script can also be found here:
+
+􀀅
+
+
+it's easy :)
+********************
+
+▨▨▨The texture changer:▨▨▨
+You can change the textures if you click on the button "OPTIONS" in the main menu, then click "TEXTURES". 
+
+If you think there's something missing or have generally ideas for new creations and textures, please contact me. I'm always happy to get feed back and new ideas.
+
+PERMISSIONS: -> other than the menu for the animations, the default setting for the texture changer is set to "Owner", which means only you can change the textures. If you want that others can change the textures too, please choose the menu "[ACCESS]" in the texture changer men menu, and make your choice. You can either change it to "Owner (default) - Group - All.
+
+
+▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨
+
+For information on
+
+-) facial expressions
+-) the P
+-) the V
+-) INM cum & clean, please sit on the object and go to the tab "OPTIONS". There are a bunch of notecards with a lot of information!
+-) (optional) Lovense
+
+
+
+
+▨▨▨ SUPPORT ▨▨▨
+
+If you have any problems with your Nerenzo product or need support, please drop a notecard to 
+
+􀀄
+
+ 
+ Please do not send IMs, i am often afk, and if I crash I would not even know you tried to contact me :/
+ 
+ ▨▨▨▨▨▨
+
+Again, thank you for you purchase & see you soon at Nerenzo!
+
+vic nerido
+Nerenzo
+
+PS: You have bought your item via marketplace? It'd be super great if you could leave a review - I'm really happy about every review aka feedback I can get from my customers!!!
