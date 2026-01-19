@@ -1,17 +1,36 @@
-# AVsitter Sequence for Trompe Loeil Pool
+# AVsitter Sequence for Lalou Miami Sun Lounger
 
 This folder contains the `AVpos` and `[AV]sequence_settings` notecards for use
 with the `AVsitter2` plugin `[AV]sequence` to provide animation sequences for
-the Trompe Loeil Pool dialog menus.
+the Lalou Miami Sun Lounger dialog menus.
 
 ## Menus
 
-Sequences are configured for the following menus:
+Sequences are configured for the following menus, both male and female:
 
-- Solo Sit Menus
-- Solo Swim Menus
-- Couples Cuddle Menus
-- Couples Adult Menus
+- Lay
+- Sit
+- Solo Adult
+- Cuddle
+- Kiss
+- Warmer
+- Female/Female Cuddle
+- Male/Male Cuddle
+- Spank
+- Feet
+- Warm Him
+- Warm Her
+- Breast Play
+- Lick
+- BJ
+- Ride
+- Front
+- Behind
+- Anal
+- Finish
+- Female/Female
+- Male/Male
+
 
 ## Download the script and customized notecards
 
@@ -24,28 +43,28 @@ wget -q -O '[AV]sequence' https://raw.githubusercontent.com/AVsitter/AVsitter/re
 Download the customized `[AV]sequence_settings` notecard:
 
 ```bash
-wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Pool/AVsequence_settings
+wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Miami_Sun_Lounger/AVsequence_settings
 ```
 
 Download the customized `AVpos` notecard:
 
 ```bash
-wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Pool/AVpos
+wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Miami_Sun_Lounger/AVpos
 ```
 
 ## Setup
 
-To configure a Trompe Loeil Pool with AVsitter sequences:
+To configure a Lalou Miami Sun Lounger with AVsitter sequences:
 
-- Right click the pool and select `Edit`
+- Right click the lounger and select `Edit`
 - Copy the `[AV]sequence` plugin script into the Contents tab
 - Copy the `[AV]sequence_settings` notecard into the Contents tab
 - Replace the `AVpos` notecard in the Contents tab with the `AVpos` notecard found in this folder
 - Close the `Edit` window
-- Right click the pool and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
+- Right click the lounger and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
 - Wait for the scripts to reset (this takes a few minutes)
 
-Sit on the pool and click one of the main menu entries, e.g. click `SOLO SIT` or `COUPLES`.
+Sit on the lounger and click one of the main menu entries, e.g. click `SOLO SIT` or `COUPLES`.
 
 You should see a menu entry of the form `SEQ ...`. Click this menu entry and your
 avatar will cycle through all the animations in that submenu. Cycle times are currently
@@ -58,6 +77,8 @@ or pause animation sequencing.
   - [AVsitter/Cuming_Soon/Armchair](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Armchair)
   - [AVsitter/Cuming_Soon/BabyDoll](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/BabyDoll)
   - [AVsitter/Cuming_Soon/Quickie](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Quickie)
+- Customized notecards providing sequenced animations for `Trompe Loeil Pool`:
+  - [AVsitter/Pool](https://github.com/missyrestless/Doc/tree/main/AVsitter/Pool)
 - Customized notecards providing sequenced animations for `Nerenzo little hangout`:
   - [AVsitter/Hangout](https://github.com/missyrestless/Doc/tree/main/AVsitter/Hangout)
 - Customized notecards providing sequenced animations for `DaD Outdoor Jacuzzi Hot Tub`:
@@ -66,5 +87,3 @@ or pause animation sequencing.
   - [AVsitter/Sauna](https://github.com/missyrestless/Doc/tree/main/AVsitter/Sauna)
 - Customized notecards providing sequenced animations for `Lalou 3some Outdoor Shower`:
   - [AVsitter/Outdoor_Shower](https://github.com/missyrestless/Doc/tree/main/AVsitter/Outdoor_Shower)
-- Customized notecards providing sequenced animations for `Lalou Miami Sun Lounger`:
-  - [AVsitter/Miami_Sun_Lounger](https://github.com/missyrestless/Doc/tree/main/AVsitter/Miami_Sun_Lounger)

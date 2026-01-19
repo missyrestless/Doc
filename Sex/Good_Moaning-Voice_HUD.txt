@@ -12,6 +12,7 @@ When you wear the HUD, it appears in the right bottom corner of your screen.
 8 - VOLUME AND MAX DISTANCE
 9 - HELP
 11 - WARNING
+12 - FACIAL EXPRESSION
 
 
 1 - NO SOUND?
@@ -90,10 +91,26 @@ _______________
 Some parcel owners enable Avatar Sounds only for the group members of the parcel. In this case, the HUD can work only if you are a group member of this parcel. In this case, if you are a group member, the HUD will work fine, and all people around will hear you, even if they are not themselves group members.
 
 
-Feel free to IM me for any question or suggestion :􀀀
+12 - FACIAL EXPRESSION
+----------------------
 
+This update introduces a small but very nice new feature: automatic facial expression triggering with the [Good Moaning] Facial Action HUD (this item is sold separately)
 
+The [Good Moaning] Facial Action HUD is a new compact HUD that allows you to play sexual facial animations such as Moan, Suck, Lick, and more.
 
+For example, when you press the “Suck” button on the Voice HUD, the corresponding Suck facial animation is automatically played with the Facial Action HUD.
 
+You can get the [Good Moaning] Facial Action HUD on the Marketplace:
+https://marketplace.secondlife.com/p/facial-F/27795013
+(there is also a male version)
 
+Or directly in the inworld store: 􀀑
+
+How to use the Voice HUD with the Facial Action HUD?
+
+It’s very simple - just wear both HUDs:
+- [Good Moaning] Voice HUD
+- [Good Moaning] Facial Action HUD
+
+From now on, selecting a voice mode in the Voice HUD will automatically trigger the matching facial animation in the Facial Action HUD!
 
