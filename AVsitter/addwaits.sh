@@ -8,4 +8,7 @@ FN="AVsequence_settings"
 }
 
 cat ${FN} | sed -e '/^PLAY/a\
-WAIT 60' > /tmp/avs
+WAIT 60' > /tmp/avs$$
+
+cp /tmp/avs$$ ${FN}
+rm -f /tmp/avs$$

@@ -78,6 +78,8 @@ previous animation, or pause animation sequencing.
   - [AVsitter/Sauna](https://github.com/missyrestless/Doc/tree/main/AVsitter/Sauna)
 - Customized notecards providing sequenced animations for `Trompe Loeil Pool`:
   - [AVsitter/Pool](https://github.com/missyrestless/Doc/tree/main/AVsitter/Pool)
+- Customized notecards providing sequenced animations for `Nerenzo Hot Bangers Pool`:
+  - [AVsitter/Bangers_Pool](https://github.com/missyrestless/Doc/tree/main/AVsitter/Bangers_Pool)
 - Customized notecards providing sequenced animations for `Nerenzo little hangout`:
   - [AVsitter/Hangout](https://github.com/missyrestless/Doc/tree/main/AVsitter/Hangout)
 - Customized notecards providing sequenced animations for `Lalou Miami Sun Lounger`:

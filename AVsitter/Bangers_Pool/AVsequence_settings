@@ -1,0 +1,389 @@
+SEQUENCE SEQ-SOLO-M
+PLAY on stairs1
+WAIT 60
+PLAY on stairs2
+WAIT 60
+PLAY on stairs3
+WAIT 60
+PLAY on stairs4
+WAIT 60
+PLAY on side1
+WAIT 60
+PLAY on side2
+WAIT 60
+PLAY on side3
+WAIT 60
+PLAY on side4
+WAIT 60
+PLAY jacuzzi1
+WAIT 60
+PLAY jacuzzi2
+WAIT 60
+PLAY jacuzzi3
+WAIT 60
+PLAY jacuzzi4
+WAIT 60
+PLAY jacuzzi5
+WAIT 60
+PLAY jacuzzi6
+WAIT 60
+PLAY jacuzzi7
+WAIT 60
+PLAY jacuzzi8
+WAIT 60
+PLAY jacuzzi9
+WAIT 60
+PLAY jacuzzi10
+WAIT 60
+PLAY pool1
+WAIT 60
+PLAY pool2
+WAIT 60
+PLAY pool3
+WAIT 60
+PLAY pool4
+WAIT 60
+PLAY pool5
+WAIT 60
+PLAY pool6
+WAIT 60
+PLAY float1
+WAIT 60
+PLAY float2
+WAIT 60
+PLAY float3
+WAIT 60
+PLAY float4
+WAIT 60
+PLAY float5
+WAIT 60
+PLAY float6
+WAIT 60
+PLAY swim
+WAIT 60
+LOOP
+
+SEQUENCE SEQ-CUDDLE-M
+PLAY lap cuddle
+WAIT 60
+PLAY kiss & hug
+WAIT 60
+PLAY lovers hug
+WAIT 60
+PLAY claro
+WAIT 60
+PLAY mima
+WAIT 60
+PLAY u know
+WAIT 60
+PLAY deep hug
+WAIT 60
+PLAY who knows
+WAIT 60
+PLAY close to ...
+WAIT 60
+PLAY lovers talk
+WAIT 60
+PLAY just us
+WAIT 60
+PLAY need U now
+WAIT 60
+PLAY lovers kiss
+WAIT 60
+PLAY amorous
+WAIT 60
+PLAY endearment
+WAIT 60
+PLAY caress
+WAIT 60
+PLAY lovers touch
+WAIT 60
+PLAY oh romeo
+WAIT 60
+PLAY no talk
+WAIT 60
+PLAY defeated
+WAIT 60
+PLAY got you
+WAIT 60
+PLAY one beat
+WAIT 60
+PLAY 1000 years
+WAIT 60
+PLAY pictures
+WAIT 60
+PLAY union
+WAIT 60
+PLAY your beat
+WAIT 60
+PLAY our dream
+WAIT 60
+PLAY massage&wash
+WAIT 60
+PLAY hair care
+WAIT 60
+PLAY warm love
+WAIT 60
+PLAY warm kiss
+WAIT 60
+PLAY this moment
+WAIT 60
+PLAY proud kiss
+WAIT 60
+PLAY on you
+WAIT 60
+PLAY my moon
+WAIT 60
+PLAY the way
+WAIT 60
+PLAY not far
+WAIT 60
+PLAY bochecha
+WAIT 60
+PLAY still love
+WAIT 60
+PLAY like us
+WAIT 60
+PLAY peace found
+WAIT 60
+PLAY charming
+WAIT 60
+PLAY affection
+WAIT 60
+PLAY my gravity
+WAIT 60
+PLAY beginning
+WAIT 60
+PLAY I'm here
+WAIT 60
+PLAY to remember
+WAIT 60
+PLAY rare hug
+WAIT 60
+LOOP
+
+SEQUENCE SEQ-SEX-M
+PLAY breast play
+WAIT 60
+PLAY breast lick
+WAIT 60
+PLAY passenger
+WAIT 60
+PLAY quake
+WAIT 60
+PLAY finger front
+WAIT 60
+PLAY deal
+WAIT 60
+PLAY both hands
+WAIT 60
+PLAY moisten
+WAIT 60
+PLAY spit & lick
+WAIT 60
+PLAY lick it
+WAIT 60
+PLAY eat out
+WAIT 60
+PLAY high licker
+WAIT 60
+PLAY nadu lick
+WAIT 60
+PLAY honey dip
+WAIT 60
+LOOP
+
+SEQUENCE SEQ-SOLO-F
+PLAY on stairs1
+WAIT 60
+PLAY on stairs2
+WAIT 60
+PLAY on stairs3
+WAIT 60
+PLAY on stairs4
+WAIT 60
+PLAY on side1
+WAIT 60
+PLAY on side2
+WAIT 60
+PLAY on side3
+WAIT 60
+PLAY on side4
+WAIT 60
+PLAY jacuzzi1
+WAIT 60
+PLAY jacuzzi2
+WAIT 60
+PLAY jacuzzi3
+WAIT 60
+PLAY jacuzzi4
+WAIT 60
+PLAY jacuzzi5
+WAIT 60
+PLAY jacuzzi6
+WAIT 60
+PLAY jacuzzi7
+WAIT 60
+PLAY jacuzzi8
+WAIT 60
+PLAY jacuzzi9
+WAIT 60
+PLAY jacuzzi10
+WAIT 60
+PLAY pool1
+WAIT 60
+PLAY pool2
+WAIT 60
+PLAY pool3
+WAIT 60
+PLAY pool4
+WAIT 60
+PLAY pool5
+WAIT 60
+PLAY pool6
+WAIT 60
+PLAY float1
+WAIT 60
+PLAY float2
+WAIT 60
+PLAY float3
+WAIT 60
+PLAY float4
+WAIT 60
+PLAY float5
+WAIT 60
+PLAY float6
+WAIT 60
+PLAY swim
+WAIT 60
+LOOP
+
+SEQUENCE SEQ-CUDDLE-F
+PLAY lap cuddle
+WAIT 60
+PLAY kiss & hug
+WAIT 60
+PLAY lovers hug
+WAIT 60
+PLAY claro
+WAIT 60
+PLAY mima
+WAIT 60
+PLAY u know
+WAIT 60
+PLAY deep hug
+WAIT 60
+PLAY who knows
+WAIT 60
+PLAY close to ...
+WAIT 60
+PLAY lovers talk
+WAIT 60
+PLAY just us
+WAIT 60
+PLAY need U now
+WAIT 60
+PLAY lovers kiss
+WAIT 60
+PLAY amorous
+WAIT 60
+PLAY endearment
+WAIT 60
+PLAY caress
+WAIT 60
+PLAY lovers touch
+WAIT 60
+PLAY oh romeo
+WAIT 60
+PLAY no talk
+WAIT 60
+PLAY defeated
+WAIT 60
+PLAY got you
+WAIT 60
+PLAY one beat
+WAIT 60
+PLAY 1000 years
+WAIT 60
+PLAY pictures
+WAIT 60
+PLAY union
+WAIT 60
+PLAY your beat
+WAIT 60
+PLAY our dream
+WAIT 60
+PLAY massage&wash
+WAIT 60
+PLAY hair care
+WAIT 60
+PLAY warm love
+WAIT 60
+PLAY warm kiss
+WAIT 60
+PLAY this moment
+WAIT 60
+PLAY proud kiss
+WAIT 60
+PLAY on you
+WAIT 60
+PLAY my moon
+WAIT 60
+PLAY the way
+WAIT 60
+PLAY not far
+WAIT 60
+PLAY bochecha
+WAIT 60
+PLAY still love
+WAIT 60
+PLAY like us
+WAIT 60
+PLAY peace found
+WAIT 60
+PLAY charming
+WAIT 60
+PLAY affection
+WAIT 60
+PLAY my gravity
+WAIT 60
+PLAY beginning
+WAIT 60
+PLAY I'm here
+WAIT 60
+PLAY to remember
+WAIT 60
+PLAY rare hug
+WAIT 60
+LOOP
+
+SEQUENCE SEQ-SEX-F
+PLAY breast play
+WAIT 60
+PLAY breast lick
+WAIT 60
+PLAY passenger
+WAIT 60
+PLAY quake
+WAIT 60
+PLAY finger front
+WAIT 60
+PLAY deal
+WAIT 60
+PLAY both hands
+WAIT 60
+PLAY moisten
+WAIT 60
+PLAY spit & lick
+WAIT 60
+PLAY lick it
+WAIT 60
+PLAY eat out
+WAIT 60
+PLAY high licker
+WAIT 60
+PLAY nadu lick
+WAIT 60
+PLAY honey dip
+WAIT 60
+LOOP
