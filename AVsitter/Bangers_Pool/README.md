@@ -52,23 +52,29 @@ avatar will cycle through all the animations in that submenu. Cycle times are cu
 set to 60 seconds with menu arrows to step to the next animation, previous animation,
 or pause animation sequencing.
 
-## See Also
+## Currently Supported Products
 
-- Customized notecards providing sequenced animations for `Cuming Soon` furniture:
-  - [AVsitter/Cuming_Soon/Armchair](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Armchair)
-  - [AVsitter/Cuming_Soon/BabyDoll](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/BabyDoll)
-  - [AVsitter/Cuming_Soon/Quickie](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Quickie)
-- Customized notecards providing sequenced animations for `Trompe Loeil Pool`:
-  - [AVsitter/Pool](https://github.com/missyrestless/Doc/tree/main/AVsitter/Pool)
-- Customized notecards providing sequenced animations for `Nerenzo little hangout`:
-  - [AVsitter/Hangout](https://github.com/missyrestless/Doc/tree/main/AVsitter/Hangout)
-- Customized notecards providing sequenced animations for `DaD Outdoor Jacuzzi Hot Tub`:
-  - [AVsitter/Hot_Tub](https://github.com/missyrestless/Doc/tree/main/AVsitter/Hot_Tub)
-- Customized notecards providing sequenced animations for `DaD Outdoor Sauna`:
-  - [AVsitter/Sauna](https://github.com/missyrestless/Doc/tree/main/AVsitter/Sauna)
-- Customized notecards providing sequenced animations for `Lalou 3some Outdoor Shower`:
-  - [AVsitter/Outdoor_Shower](https://github.com/missyrestless/Doc/tree/main/AVsitter/Outdoor_Shower)
-- Customized notecards providing sequenced animations for `Lalou Miami Sun Lounger`:
-  - [AVsitter/Miami_Sun_Lounger](https://github.com/missyrestless/Doc/tree/main/AVsitter/Miami_Sun_Lounger)
-- Customized notecards providing sequenced animations for `Lalou Pool Float`:
-  - [AVsitter/Pool_Float](https://github.com/missyrestless/Doc/tree/main/AVsitter/Pool_Float)
+`AVsitter` customized animation sequences are available for the following products:
+
+### Customized notecards providing sequenced animations for Cuming Soon furniture
+
+- [Cuming Soon Armchair](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Armchair)
+- [Cuming Soon BabyDoll Bed](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/BabyDoll)
+- [Cuming Soon Quickie Couch](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Quickie)
+- [Cuming Soon Super Smash Couch](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Smash)
+
+### Customized notecards providing sequenced animations for Nerenzo furniture
+
+- [Nerenzo Hot Bangers Pool](https://github.com/missyrestless/Doc/tree/main/AVsitter/Bangers_Pool)
+- [Nerenzo little hangout](https://github.com/missyrestless/Doc/tree/main/AVsitter/Hangout)
+
+### Customized notecards providing sequenced animations for DaD furniture
+
+- [DaD Outdoor Jacuzzi Hot Tub](https://github.com/missyrestless/Doc/tree/main/AVsitter/Hot_Tub)
+- [DaD Outdoor Sauna](https://github.com/missyrestless/Doc/tree/main/AVsitter/Sauna)
+
+### Customized notecards providing sequenced animations for Lalou furniture
+
+- [Lalou 3some Outdoor Shower](https://github.com/missyrestless/Doc/tree/main/AVsitter/Outdoor_Shower)
+- [Lalou Miami Sun Lounger](https://github.com/missyrestless/Doc/tree/main/AVsitter/Miami_Sun_Lounger)
+- [Lalou Pool Float](https://github.com/missyrestless/Doc/tree/main/AVsitter/Pool_Float)
