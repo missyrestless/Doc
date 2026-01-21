@@ -2,9 +2,14 @@
 
 This folder contains the `AVpos` and `[AV]sequence_settings` notecards for use
 with the `AVsitter2` plugin `[AV]sequence` to provide animation sequences for
-the Lalou 3some Outdoor Shower dialog menus. Note, currently this customization is
-for the Lalou 3some Outdoor Shower with GloryHole. Adjustments to the notecards will
-be necessary to enable animation sequences in the outdoor shower without glory hole.
+the Lalou 3some Outdoor Shower dialog menus.
+
+This `AVsitter` customization allows greater freedom of personal interaction in the
+sauna, eliminating the need to navigate dialog menus during moments of intimacy.
+
+**[Note:]** Currently this customization is for the Lalou 3some Outdoor Shower
+with GloryHole. Adjustments to the notecards will be necessary to enable animation
+sequences in the outdoor shower without glory hole.
 
 ## Menus
 
