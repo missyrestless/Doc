@@ -1,28 +1,26 @@
-# AVsitter Sequence for Lalou Pool Float
+# AVsitter Sequence for Nerenzo Orgy Towel 
 
 This folder contains the `AVpos` and `[AV]sequence_settings` notecards for use
 with the `AVsitter2` plugin `[AV]sequence` to provide animation sequences for
-the Lalou Pool Float dialog menus.
+the Nerenzo Orgy Towel dialog menus.
 
 ## Menus
 
-Sequences are configured for the following menus, both male and female:
+Sequences are configured for Sitter 0 and Sitter 1 menus, both male and female:
 
-- Solo PG
-- Lay
-- Sit
-- Chill
-- Swim
-- Tube
-- Cuddle
-- Foreplay
-- Solo Adult
-- Female/Female
-- Lick
-- BJ
-- Ride
-- Front
-- Behind
+- Solo Menus
+- Cuddle Menus
+- Foreplay and Tongue Play Menus
+- Pussy Play Menu
+- Wank Menu
+- 69 Menu
+- Behind Menu
+- BJ Menu
+- Butt Menu
+- Eye2Eye Menu
+- Girl on Top Menu
+- Oral Menu
+- Various Positions Menu
 
 ## Download the script and customized notecards
 
@@ -35,32 +33,34 @@ wget -q -O '[AV]sequence' https://raw.githubusercontent.com/AVsitter/AVsitter/re
 Download the customized `[AV]sequence_settings` notecard:
 
 ```bash
-wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Pool_Float/AVsequence_settings
+wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Towel/AVsequence_settings
 ```
 
 Download the customized `AVpos` notecard:
 
 ```bash
-wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Pool_Float/AVpos
+wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Towel/AVpos
 ```
 
 ## Setup
 
-To configure a Lalou Pool Float with AVsitter sequences:
+To configure a Nerenzo Orgy Towel with AVsitter sequences:
 
-- Right click the float and select `Edit`
-- Copy the `[AV]sequence` plugin script into the Contents tab
+- Right click the towel and select `Edit`
 - Copy the `[AV]sequence_settings` notecard into the Contents tab
+- Copy the `[AV]sequence` plugin script into the Contents tab
 - Replace the `AVpos` notecard in the Contents tab with the `AVpos` notecard found in this folder
 - Close the `Edit` window
-- Right click the float and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
+- Right click the towel and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
 - Wait for the scripts to reset (this takes a few minutes)
 
-Sit on the float, select Male or Female, and click one of the main menu entries, e.g. click `Cuddles` or `Adult` then `Foreplay`.
+Sit on the towel, select one of the first two sitters (Male1 or Female1). The main menu
+has buttons for solo and cuddle animation sequences. Click the `ADULT MF` button then any
+of the configured adult submenu buttons to view the adult sequenced animations.
 
-You should see a menu entry of the form `SEQ-...`. Click this menu entry and your
-avatar will cycle through all the animations in that submenu. Cycle times are currently
-set to 60 seconds with menu arrows to step to the next animation, previous animation,
+Menu entries of the form `SEQ-...` indicate sequenced animations. Clicking any of these menu
+entries will cycle seated avatars through all the animations in that submenu. Cycle times are
+currently set to 60 seconds with menu arrows to step to the next animation, previous animation,
 or pause animation sequencing.
 
 ## Currently Supported Products
