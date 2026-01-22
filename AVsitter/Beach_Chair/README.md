@@ -1,8 +1,8 @@
-# AVsitter Sequence for Lalou Pool Float
+# AVsitter Sequence for Nerenzo Beach Chair
 
 This folder contains the `AVpos` and `[AV]sequence_settings` notecards for use
 with the `AVsitter2` plugin `[AV]sequence` to provide animation sequences for
-the Lalou Pool Float dialog menus.
+the Nerenzo Beach Chair dialog menus.
 
 This `AVsitter` customization allows greater freedom of personal interaction in the
 sauna, eliminating the need to navigate dialog menus during moments of intimacy.
@@ -11,21 +11,17 @@ sauna, eliminating the need to navigate dialog menus during moments of intimacy.
 
 Sequences are configured for the following menus, both male and female:
 
-- Solo PG
-- Lay
-- Sit
-- Chill
-- Swim
-- Tube
+- Solo
 - Cuddle
 - Foreplay
-- Solo Adult
-- Female/Female
-- Lick
-- BJ
-- Ride
-- Front
+- Oral
+- Bang
 - Behind
+- Butt
+- Eye 2 Eye
+- Girl on Top
+- Sex
+- Various Positions
 
 ## Download the script and customized notecards
 
@@ -38,33 +34,46 @@ wget -q -O '[AV]sequence' https://raw.githubusercontent.com/AVsitter/AVsitter/re
 Download the customized `[AV]sequence_settings` notecard:
 
 ```bash
-wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Pool_Float/AVsequence_settings
+wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Beach_Chair/AVsequence_settings
 ```
 
 Download the customized `AVpos` notecard:
 
 ```bash
-wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Pool_Float/AVpos
+wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Beach_Chair/AVpos
 ```
 
 ## Setup
 
-To configure a Lalou Pool Float with AVsitter sequences:
+To configure a Nerenzo Beach Chair with AVsitter sequences:
 
-- Right click the float and select `Edit`
+- Right click the chair and select `Edit`
 - Copy the `[AV]sequence` plugin script into the Contents tab
 - Copy the `[AV]sequence_settings` notecard into the Contents tab
 - Replace the `AVpos` notecard in the Contents tab with the `AVpos` notecard found in this folder
 - Close the `Edit` window
-- Right click the float and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
+- Right click the chair and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
 - Wait for the scripts to reset (this takes a few minutes)
 
-Sit on the float, select Male or Female, and click one of the main menu entries, e.g. click `Cuddles` or `Adult` then `Foreplay`.
+Sit on the chair, select Male or Female, and click one of the main menu entries, e.g. click `Cuddles` or `Adult` then `Foreplay`.
 
 You should see a menu entry of the form `SEQ-...`. Click this menu entry and your
 avatar will cycle through all the animations in that submenu. Cycle times are currently
 set to 60 seconds with menu arrows to step to the next animation, previous animation,
 or pause animation sequencing.
+
+### Auto Play Sequence
+
+If you wish to automatically play a sequence when an avatar sits on the beach chair
+then download the `autoplay.sl` script and copy it into the Contents of the object.
+
+```bash
+wget -q -O 'autoplay' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Beach_Chair/autoplay.lsl
+```
+
+The `autoplay` script detects the gender of the sitter and plays the appropriate sequence.
+In addition, it detects the number of sitters currently on the object and plays the couples
+animation sequence if more than 1 sitter is seated.
 
 ## Currently Supported Products
 
@@ -93,3 +102,8 @@ or pause animation sequencing.
 - [Lalou 3some Outdoor Shower](https://github.com/missyrestless/Doc/tree/main/AVsitter/Outdoor_Shower)
 - [Lalou Miami Sun Lounger](https://github.com/missyrestless/Doc/tree/main/AVsitter/Miami_Sun_Lounger)
 - [Lalou Pool Float](https://github.com/missyrestless/Doc/tree/main/AVsitter/Pool_Float)
+
+### Customized notecards providing sequenced animations for Headhunter furniture
+
+- [Headhunter Hanging Beach Bed](https://github.com/missyrestless/Doc/tree/main/AVsitter/Hanging_Bed)
+- [Headhunter Jungle Bar](https://github.com/missyrestless/Doc/tree/main/AVsitter/Jungle_Bar)

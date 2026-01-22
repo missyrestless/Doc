@@ -74,6 +74,19 @@ avatar will cycle through all the animations in that submenu. Cycle times are cu
 set to 60 seconds with menu arrows to step to the next animation, previous animation,
 or pause animation sequencing.
 
+### Auto Play Sequence
+
+If you wish to automatically play a sequence when an avatar sits on the lounger
+then download the `autoplay.sl` script and copy it into the Contents of the object.
+
+```bash
+wget -q -O 'autoplay' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Miami_Sun_Lounger/autoplay.lsl
+```
+
+The `autoplay` script detects the gender of the sitter and plays the appropriate sequence.
+In addition, it detects the number of sitters currently on the object and plays the couples
+animation sequence if more than 1 sitter is seated.
+
 ## Currently Supported Products
 
 `AVsitter` customized animation sequences are available for the following products:
@@ -101,3 +114,8 @@ or pause animation sequencing.
 - [Lalou 3some Outdoor Shower](https://github.com/missyrestless/Doc/tree/main/AVsitter/Outdoor_Shower)
 - [Lalou Miami Sun Lounger](https://github.com/missyrestless/Doc/tree/main/AVsitter/Miami_Sun_Lounger)
 - [Lalou Pool Float](https://github.com/missyrestless/Doc/tree/main/AVsitter/Pool_Float)
+
+### Customized notecards providing sequenced animations for Headhunter furniture
+
+- [Headhunter Hanging Beach Bed](https://github.com/missyrestless/Doc/tree/main/AVsitter/Hanging_Bed)
+- [Headhunter Jungle Bar](https://github.com/missyrestless/Doc/tree/main/AVsitter/Jungle_Bar)
