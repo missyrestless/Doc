@@ -133,7 +133,6 @@ SYNC to remember|C48
 SYNC rare hug|C54
 
 MENU SEX
-SEQUENCE SEQ-SEX-M
 TOMENU FOREPLAY
 TOMENU TONGUEPLAY
 TOMENU BLOWJOBS
@@ -143,6 +142,7 @@ TOMENU HARD SEX
 TOMENU CUM
 
 MENU FOREPLAY
+SEQUENCE SEQ-FOREPLAY-M
 SYNC breast play|E8
 SYNC breast lick|E2
 SYNC passenger|F8
@@ -152,6 +152,7 @@ SYNC deal|P1
 SYNC both hands|H1+
 
 MENU TONGUEPLAY
+SEQUENCE SEQ-FOREPLAY-M
 SYNC moisten|N34
 SYNC spit & lick|N13
 SYNC lick it|N19
@@ -161,6 +162,7 @@ SYNC nadu lick|N31
 SYNC honey dip|N3+
 
 MENU BLOWJOBS
+SEQUENCE SEQ-BJ-M
 SYNC blow a kiss|B27
 SYNC nice lips|B8
 SYNC go(o)d girl|B20
@@ -170,6 +172,7 @@ SYNC 45°|B2+
 SYNC lipstick|B1+
 
 MENU FUCK
+SEQUENCE SEQ-FUCK-M
 SYNC slow fun|D17
 SYNC stand behind|D25
 SYNC pussy pump|Z12
@@ -195,6 +198,7 @@ SYNC pace|R10b
 SYNC titty fun|T4
 
 MENU BUTT STUFF
+SEQUENCE SEQ-BUTT-M
 SYNC reverse girl|A8
 SYNC tower|A6
 SYNC doggy pump|Z17
@@ -211,6 +215,7 @@ SYNC side fuck|V25
 SYNC anal bot|M19
 
 MENU HARD SEX
+SEQUENCE SEQ-HARD-M
 SYNC bride ride|R24+
 SYNC golden gate|R25+
 SYNC brookyln|R26+
@@ -1006,7 +1011,6 @@ SYNC to remember|c48
 SYNC rare hug|c54
 
 MENU SEX
-SEQUENCE SEQ-SEX-F
 TOMENU FOREPLAY
 TOMENU TONGUEPLAY
 TOMENU BLOWJOBS
@@ -1016,6 +1020,7 @@ TOMENU HARD SEX
 TOMENU CUM
 
 MENU FOREPLAY
+SEQUENCE SEQ-FOREPLAY-F
 SYNC breast play|e8
 SYNC breast lick|e2
 SYNC passenger|f8
@@ -1025,6 +1030,7 @@ SYNC deal|p1
 SYNC both hands|h1+
 
 MENU TONGUEPLAY
+SEQUENCE SEQ-FOREPLAY-F
 SYNC moisten|n34
 SYNC spit & lick|n13
 SYNC lick it|n19
@@ -1034,6 +1040,7 @@ SYNC nadu lick|n31
 SYNC honey dip|n3+
 
 MENU BLOWJOBS
+SEQUENCE SEQ-BJ-F
 SYNC blow a kiss|b27
 SYNC nice lips|b8
 SYNC go(o)d girl|b20
@@ -1043,6 +1050,7 @@ SYNC 45°|b2+
 SYNC lipstick|b1+
 
 MENU FUCK
+SEQUENCE SEQ-FUCK-F
 SYNC slow fun|d17
 SYNC stand behind|d25
 SYNC pussy pump|z12
@@ -1068,6 +1076,7 @@ SYNC pace|r10b
 SYNC titty fun|t4
 
 MENU BUTT STUFF
+SEQUENCE SEQ-BUTT-F
 SYNC reverse girl|a8
 SYNC tower|a6
 SYNC doggy pump|z17
@@ -1084,6 +1093,7 @@ SYNC side fuck|v25
 SYNC anal bot|m19
 
 MENU HARD SEX
+SEQUENCE SEQ-HARD-F
 SYNC bride ride|r24+
 SYNC golden gate|r25+
 SYNC brookyln|r26+
