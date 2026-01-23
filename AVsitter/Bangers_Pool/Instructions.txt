@@ -1,0 +1,38 @@
+AVsitter Sequence for Nerenzo Hot Bangers Pool 
+----------------------------------------------
+
+**[IMPORTANT NOTE #1]** This customization of the Nerenzo Hot Bangers Pool only works with the Adult Swingers version available on the Second Life Marketplace at https://marketplace.secondlife.com/p/Nerenzo-Hot-Bangers-pool-swingers-version-theP-theV-INM-cumclean-aeros-bento/24148103
+
+**[IMPORTANT NOTE #2]** This product does NOT contain the Nerenzo Hot Bangers Pool. You have to purchase the pool from Nerenzo. This product only contains the notecards and scripts used to provide sequenced animations for the pool.
+
+This folder contains the 'AVpos' and '[AV]sequence_settings' notecards for use with the 'AVsitter2' plugin '[AV]sequence' to provide animation sequences for the Nerenzo Hot Bangers Pool dialog menus.
+
+This 'AVsitter' customization allows greater freedom of personal interaction in the pool, eliminating the need to navigate dialog menus during moments of intimacy.
+
+Menus
+-----
+
+Sequences are configured for Sitter 0 and Sitter 1 menus, both male and female:
+
+- Solo Menus
+- Cuddle Menus
+- Foreplay and Tongue Play Menus
+
+Setup
+-----
+
+**[IMPORTANT NOTE #3]** Prior to modifying the pool make a backup! Things can go wrong. Mistakes are made. If you do not already have a backup, right click the pool and select 'Take' then 'Take Copy'.
+
+To configure a Nerenzo Hot Bangers Pool with AVsitter sequences:
+
+- Right click the pool and select 'Edit'
+- Copy the '[AV]sequence_settings' notecard into the Contents tab
+- Copy the '[AV]sequence' plugin script into the Contents tab
+- Replace the 'AVpos' notecard in the Contents tab with the 'AVpos' notecard found in this folder
+- Close the 'Edit' window
+- Right click the pool and select 'More' -> 'More' -> 'Scripts' -> 'Reset Scripts'
+- Wait for the scripts to reset (this takes a few minutes)
+
+Sit on the pool, select one of the first two sitters (Male or Female), and click one of the three configured main menu entries, 'SINGLE/TALK', 'CUDDLE', or 'SEX'.
+
+You should see a menu entry of the form 'SEQ-...'. Click this menu entry and your avatar will cycle through all the animations in that submenu. Cycle times are currently set to 60 seconds with menu arrows to step to the next animation, previous animation, or pause animation sequencing.

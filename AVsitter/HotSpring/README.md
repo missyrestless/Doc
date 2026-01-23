@@ -5,7 +5,7 @@ with the `AVsitter2` plugin `[AV]sequence` to provide animation sequences for
 the Onsen Natural Japanese Hotspring dialog menus.
 
 This `AVsitter` customization allows greater freedom of personal interaction in the
-sauna, eliminating the need to navigate dialog menus during moments of intimacy.
+hot spring, eliminating the need to navigate dialog menus during moments of intimacy.
 
 **[NOTE:]** This customization is currently in development and is not yet working.
 The idea is to augment the base animations in this object with more modern and more
