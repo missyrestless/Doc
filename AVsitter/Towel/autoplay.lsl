@@ -1,23 +1,24 @@
-/******************************************************************
-* Automatically plays COUPLES_POSE when 2 avatars sit.
-* Optionally plays SINGLES_POSE when one avatar sits.
-* Requires scripts from box 2.1-11.01 or later.
+/**********************************************************************
+* Automatically plays SINGLES_POSE when one avatar sits
+* Automatically plays COUPLES_POSE when 2 avatars sit
+* Automatically detects gender of sitter and plays appropriate sequence
+* Requires scripts from AVsitter box 2.1-11.01 or later
 *
-* Modified 14-Jan-2026 by Missy Restless
+* Modified 14-Jan-2026 by Missy Restless <missyrestless@gmail.com>
 *   - Autoplay a defined sequence in the object
-* Modified 22-Jan-2026 by Missy Restless
+* Modified 22-Jan-2026 by Missy Restless <missyrestless@gmail.com>
 *   - Detect gender of sitter and autoplay defined gender sequence
-******************************************************************/
+**********************************************************************/
 
-/******************************************************************
+/**********************************************************************
  * Set these to the sequence names you want to autoplay
-******************************************************************/
+**********************************************************************/
 // Couples Female Sequence
-string COUPLES_POSE_F = "SEQ-CUDDMF-F";
+string COUPLES_POSE_F = "SEQ-CUDDLE-F";
 // Singles Female Sequence
 string SINGLES_POSE_F = "SEQ-SOLO-F";
 // Couples Male Sequence
-string COUPLES_POSE_M = "SEQ-CUDDMF-M";
+string COUPLES_POSE_M = "SEQ-CUDDLE-M";
 // Singles Male Sequence
 string SINGLES_POSE_M = "SEQ-SOLO-M";
 
