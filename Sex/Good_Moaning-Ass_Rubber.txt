@@ -1,0 +1,62 @@
+Thank you for purchasing a [Good Moaning] Rubber.
+
+This user guide is the same for the 4 rubbers: Ass Rubber, Boobs Rubber, Face Rubber and Pussy Rubber. Indeed, they all work (almost) on the same principles.
+
+I've tried to make the Hud as most self-explanatory as possible, so i hope that the different features don't require a long speech to be understood. That's why i will keep this notecard short. This notecard will just add a few informations that might not be obvious at a first glance.
+
+UNIVERSAL HUD
+_________________
+
+The Hud is exactly the same for the 4 rubbers, so you don't have to switch. Just use one Hud: it will drive the 4 rubbers.
+
+QUICK START
+______________
+
+Where the Rubber(s). Then hold down left mouse button and drag the mouse to rub, cuddle, moan...
+or click for slapping!
+
+
+ANIMATIONS ARE MESSING UP?
+_________________________________
+
+Depending if you are sitting or not, the script will automatically play either a full body animation + wobble effect, or just the wobble effect only.
+
+Beside standing and sitting, there is sadly a third situation that a script cannot automatically handle: this is when you are not sitting, but you are wearing an object that makes you play a pose or animation. For example: you are wearing a set of cuffs that keep your arms in your back. Other example: you are wearing a collar that makes you kneel.
+
+To manage this scenario: please open the HUD and choose the "Wobble only" animations mode
+
+ADJUSTING
+____________
+
+For the Ass Rubber, Pussy Rubber and Boobs Rubber, most of you the time you won't have to adjust them. That said, if you have particularly big or small body parts, you are free to resize/move the clickable parts of the Rubbers.
+
+Note: move/resize is not possible with the DEMO versions, since they are not modifiable.
+
+Please: when you edit a Rubber, always tick the "Edit Linked" box in the Edit window, to move/resize ONLY the clickable parts. If you try to move/resize the whole object, it could provide bad results.
+
+For the Face Rubber: this one will probably require more adjustment. You will have to adjust the left and right part. Please tick the "Edit Linked" box of the Edit window to do so.
+
+CUSTOMIZATION
+_________________
+
+These rubbers are highly customizable. The Hud contains different notecards that you can edit to customize your rubbers:
+
+- CHAT MESSAGES notecard: add your own emote chat messages.
+- BRUISE TEXTURES notecard: add your own bruise textures.
+- VOICES notecard: add your own voice packs.
+- RUB PARTICLES notecard: add your own rub particles.
+- SLAP PARTICLES notecard: add your own slap particles.
+
+DEV KIT
+________
+
+Want to create your own bruise textures and your own voice packs? Check the Dev Kit online:
+https://goodmoaning.bdx9.com/dev/
+
+CONTACT
+_________
+
+For any question or suggestion, please feel free to send me a message: 􀀀
+
+
+
