@@ -100,6 +100,7 @@ animation sequence if more than 1 sitter is seated.
 
 - [Headhunter Hanging Beach Bed](https://github.com/missyrestless/Doc/tree/main/AVsitter/Hanging_Bed)
 - [Headhunter Jungle Bar](https://github.com/missyrestless/Doc/tree/main/AVsitter/Jungle_Bar)
+  - [Headhunter Jungle Bar Center Poles](https://github.com/missyrestless/Doc/tree/main/AVsitter/Jungle_Bar/Center)
 - [Headhunter Lifeguard Chair](https://github.com/missyrestless/Doc/tree/main/AVsitter/Lifeguard_Chair)
 
 ### Customized notecards providing sequenced animations for Chez Moi furniture
