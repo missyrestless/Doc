@@ -1,7 +1,7 @@
-AVsitter Sequence for DaD Outdoor Sauna ADULT v1.3
+AVsitter Sequence for DaD Outdoor Sauna ADULT v1.4
 ==================================================
 
-This folder contains the 'AVpos' and '[AV]sequence_settings' notecards for use with the 'AVsitter2' plugin '[AV]sequence' to provide animation sequences for the DaD Outdoor Sauna ADULT v1.3 dialog menus.
+This folder contains the 'AVpos' and '[AV]sequence_settings' notecards for use with the 'AVsitter2' plugin '[AV]sequence' to provide animation sequences for the DaD Outdoor Sauna ADULT v1.3 and v1.4 dialog menus.
 
 This 'AVsitter' customization allows greater freedom of personal interaction in the sauna, eliminating the need to navigate dialog menus during moments of intimacy.
 
