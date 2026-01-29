@@ -1,6 +1,7 @@
 #!/bin/bash
 
 FN="AVsequence_settings"
+[ "$1" ] && FN="$1"
 
 [ -f ${FN} ] || {
   echo "$FN not in current directory. Exiting."

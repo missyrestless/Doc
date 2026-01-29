@@ -40,8 +40,9 @@ To configure a Tm Creation Adult Sandcastle with AVsitter sequences:
 - Drag and Drop the `[AV]sequence` plugin script into the Contents tab
 - Drag and Drop the `AVpos` notecard into the Contents tab
 - Close the `Edit` window
-- Right click the sandcastle and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
 - Wait for the scripts to reset (this takes a few minutes)
+- If the Sandcastle scripts do not reset properly or a warning is issued during reset:
+  - Right click the sandcastle and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
 
 Sit on the sandcastle. You should see menu entries of the form `SEQ_...`. Click one of these menu
 entries and your avatar will cycle through all the animations in that submenu. Cycle times are
