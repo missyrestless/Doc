@@ -9,8 +9,6 @@ PLAY Charm
 WAIT 60
 PLAY Leg Hug
 WAIT 60
-PLAY Curl Up
-WAIT 60
 PLAY Side Sit
 WAIT 60
 PLAY CrissCross

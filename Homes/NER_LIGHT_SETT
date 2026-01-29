@@ -1,0 +1,53 @@
+#NOTE : If you use this script and notecard, for selling into your own creations, PLS SET SCRIPT TO NO-MODIFY AND NO COPY, so buyers cannot take script out and use it for their own.   
+#
+#FOLLOWING DATA AFTER THE '' = '' YOU CAN CHANGE.   
+#-------------------------------------------
+menu_channel = 1234
+#
+menutext = Light controller / use the notecard to edit the values
+#
+intensity = 1.000      
+#radius = 20.000        
+radius = 10.000        
+falloff = 2.000          
+#
+#-------------------------------------------
+#Here come the colors...  all is in a range from 0.000 to 1.000  means 0.000 = 0 and 1.000 = 255
+#Important is that you leave no space after each number!!   <number comma space number......................
+#-------------------------------------------
+colornum_1 =  <1.000, 0.000, 0.000>
+color_1  = red
+#
+colornum_2 = <0.000, 1.000, 0.000>
+color_2 = green
+#
+colornum_3 = <1.000, 1.000, 1.000>
+color_3 =white
+#
+colornum_4 = <1.000, 1.000, 0.000>
+color_4 = yellow
+#
+colornum_5 = <0.000, 0.000, 1.000>
+color_5 = blue
+#
+colornum_6 =  <1.000, 0.500, 0.000>
+color_6 = orange
+#
+colornum_7 = <1.000, 0.000, 1.000>
+color_7 = purple
+#
+colornum_8 = <0.000, 1.000, 0.500>
+color_8 = lime
+#
+colornum_9 = <0.85, 0.44, 0.84>
+color_9 = orchid
+#
+colornum_10 = <0.000, 0.000, 0.000>
+color_10 = OFF
+#-------------------------------------------
+#
+#
+#-------------------------------------------
+#written by Baba Darkfury, you can use this script in any object you like.
+#you can sell your own creations with this script and notecard included.
+#

@@ -1,39 +1,11 @@
-# AVsitter Sequence for Lalou Miami Sun Lounger
+# AVsitter Sequence for Tm Creation Adult Sandcastle
 
 This folder contains the `AVpos` and `[AV]sequence_settings` notecards for use
 with the `AVsitter2` plugin `[AV]sequence` to provide animation sequences for
-the Lalou Miami Sun Lounger dialog menus.
+the Tm Creation Adult Sandcastle dialog menus.
 
-This `AVsitter` customization allows greater freedom of personal interaction in the
-lounger, eliminating the need to navigate dialog menus during moments of intimacy.
-
-## Menus
-
-Sequences are configured for the following menus, both male and female:
-
-- Lay
-- Sit
-- Solo Adult
-- Cuddle
-- Kiss
-- Warmer
-- Female/Female Cuddle
-- Male/Male Cuddle
-- Spank
-- Feet
-- Warm Him
-- Warm Her
-- Breast Play
-- Lick
-- BJ
-- Ride
-- Front
-- Behind
-- Anal
-- Finish
-- Female/Female
-- Male/Male
-
+This `AVsitter` customization allows greater freedom of personal interaction on the
+sandcastle, eliminating the need to navigate dialog menus during moments of intimacy.
 
 ## Download the script and customized notecards
 
@@ -46,41 +18,43 @@ wget -q -O '[AV]sequence' https://raw.githubusercontent.com/AVsitter/AVsitter/re
 Download the customized `[AV]sequence_settings` notecard:
 
 ```bash
-wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Miami_Sun_Lounger/AVsequence_settings
+wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Sandcastle/AVsequence_settings
 ```
 
 Download the customized `AVpos` notecard:
 
 ```bash
-wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Miami_Sun_Lounger/AVpos
+wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Sandcastle/AVpos
 ```
 
 ## Setup
 
-To configure a Lalou Miami Sun Lounger with AVsitter sequences:
+To configure a Tm Creation Adult Sandcastle with AVsitter sequences:
 
-- Right click the lounger and select `Edit`
-- Copy the `[AV]sequence` plugin script into the Contents tab
-- Copy the `[AV]sequence_settings` notecard into the Contents tab
-- Replace the `AVpos` notecard in the Contents tab with the `AVpos` notecard found in this folder
+- Right click the sandcastle and select `Edit`
+- Select the Contents tab in the Edit window
+- Click the `Edit linked` checkbox
+- Using `Ctrl .` (press both the Ctrl key and the Period key) locate the notecards (Link number 2)
+- Delete the `AVpos` and `[AV]sequence_settings` notecards in the Contents tab
+- Drag and Drop the `[AV]sequence_settings` notecard into the Contents tab
+- Drag and Drop the `[AV]sequence` plugin script into the Contents tab
+- Drag and Drop the `AVpos` notecard into the Contents tab
 - Close the `Edit` window
-- Right click the lounger and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
+- Right click the sandcastle and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
 - Wait for the scripts to reset (this takes a few minutes)
 
-Sit on the lounger and click one of the main menu entries, e.g. click `SOLO SIT` or `COUPLES`.
-
-You should see a menu entry of the form `SEQ ...`. Click this menu entry and your
-avatar will cycle through all the animations in that submenu. Cycle times are currently
-set to 60 seconds with menu arrows to step to the next animation, previous animation,
+Sit on the sandcastle. You should see menu entries of the form `SEQ_...`. Click one of these menu
+entries and your avatar will cycle through all the animations in that submenu. Cycle times are
+currently set to 60 seconds with menu arrows to step to the next animation, previous animation,
 or pause animation sequencing.
 
 ### Auto Play Sequence
 
-If you wish to automatically play a sequence when an avatar sits on the lounger
-then download the `autoplay.sl` script and copy it into the Contents of the object.
+If you wish to automatically play a sequence when an avatar sits on the sandcastle then
+download the `autoplay.sl` script and copy it into the Contents tab of the linked prim.
 
 ```bash
-wget -q -O 'autoplay' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Miami_Sun_Lounger/autoplay.lsl
+wget -q -O 'autoplay' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Sandcastle/autoplay.lsl
 ```
 
 The `autoplay` script detects the gender of the sitter and plays the appropriate sequence.
