@@ -1,0 +1,41 @@
+Maitreya Mesh Body LaraX
+
+We listened to the requests of so many Lara mesh body users and the result is this improved, all new, NeXt Generation version of Lara: LaraX! A body with smoother weights and a rounder shape than ever before.
+
+Alongside your new LaraX body, you will also find the original Lara body in your extras Unpacker HUD. This original Lara is included for all content made previously, for the Lara mesh body. 
+Note that content made for the original Lara body will not fit the LaraX body and vice versa. Every mesh body requires it's own clothing, made especially for that body. You will will now have both bodies: LaraX and the original Lara, so you can switch between them effortlessly if you wish so.
+
+
+You can find more online documentation here: https://sl-maitreya.blogspot.com/p/lara-mesh-body-v5.html
+Your Lara HUD Misc. tab will also bring you to the online documentation, if you touch HELP/INFO and then click on the link in the popup menu.
+
+In addition to the online documentation, we are available in world to answer your questions (Contact: Gryphon Ronas) or use the Maitreya Lara Friends group chat.
+
+Love,
+Maitreya
+
+
+
+
+Included in the Lara mesh body folder:
+
+- Maitreya Mesh Body - LaraX (Version Number)
+- Maitreya Mesh Body - LaraX HUD (Version Number)
+- Maitreya Mesh Body - LaraX Extras Unpacker HUD
+- Maitreya Mesh Body - Save Stick
+- Maitreya Mesh Body - Alpha (don't wear in BoM mode)
+- Maitreya Tip-Toe FeetShape
+- Maitreya LaraX Physics
+
+
+The Extras Unpacker HUD contains:
+
+- Maitreya LaraX - Applier Layers (containing the Tattoo, Underwear and Clothing layers for appliers)
+- Maitreya Mesh Body - Maitreya LaraX - BoM Add-on Parts
+- Maitreya LaraX - Velour BoM Skins
+- The original Lara mesh body (V5.3) (including the Zaara lingerie on BoM layers and appliers)
+- Lingerie for LaraX by Addams, Blueberry and Velour
+- Shapes with mod permission, including the body shapes used for the ads.
+- A small butt deformer, to wear with your LaraX body if you want to make the butt look smaller. (we recommend to keep the butt size slider above 30).
+
+
