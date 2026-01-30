@@ -1,26 +1,13 @@
-# AVsitter Sequence for Super Smash Couch
+# AVsitter Sequence for Nerenzo Waterfall Tamdi
 
 This folder contains the `AVpos` and `[AV]sequence_settings` notecards for use
 with the `AVsitter2` plugin `[AV]sequence` to provide animation sequences for
-the Super Smash Couch dialog menus.
+the Nerenzo Waterfall Tamdi dialog menus.
 
-This `AVsitter` customization allows greater freedom of personal interaction in the
-sauna, eliminating the need to navigate dialog menus during moments of intimacy.
+This `AVsitter` customization allows greater freedom of personal interaction on the
+waterfall, eliminating the need to navigate dialog menus during moments of intimacy.
 
-## Menus
-
-Sequences are configured for the following menus:
-
-- Male and Female Sit Menus
-- Together Menu
-- For Him Menu
-- For Her Menu
-- Front Menu
-- Rodeo Menu
-- Sitting Menu
-- Sit Back Menu
-- Dogging Menu
-- Behind Menu
+**[Note:]** This AVsitter customization is for the adult version of the waterfall.
 
 ## Download the script and customized notecards
 
@@ -33,41 +20,42 @@ wget -q -O '[AV]sequence' https://raw.githubusercontent.com/AVsitter/AVsitter/re
 Download the customized `[AV]sequence_settings` notecard:
 
 ```bash
-wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Cuming_Soon/Smash/AVsequence_settings
+wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Waterfall/AVsequence_settings
 ```
 
 Download the customized `AVpos` notecard:
 
 ```bash
-wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Cuming_Soon/Smash/AVpos
+wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Waterfall/AVpos
 ```
 
 ## Setup
 
-To configure a Cuming Soon Super Smash Couch with AVsitter sequences:
+To configure a Nerenzo Waterfall Tamdi with AVsitter sequences:
 
-- Right click the couch and select `Edit`
-- Copy the `[AV]sequence` plugin script into the Contents tab
-- Copy the `[AV]sequence_settings` notecard into the Contents tab
-- Replace the `AVpos` notecard in the Contents tab with the `AVpos` notecard found in this folder
+- Right click the waterfall and select `Edit`
+- Select the Contents tab in the Edit window
+- Click the `Edit linked` checkbox
+- Using `Ctrl .` (press both the Ctrl key and the Period key) locate the AVsitter notecards
+- Delete the `AVpos` and `[AV]sequence_settings` notecards in the Contents tab
+- Drag and Drop the `[AV]sequence_settings` notecard into the Contents tab
+- Drag and Drop the `AVpos` notecard into the Contents tab
 - Close the `Edit` window
-- Right click the couch and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
+- Right click the waterfall and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
 - Wait for the scripts to reset (this takes a few minutes)
 
-Sit on the couch and click one of the main menu entries, e.g. click `Me` or `Together`.
-
-You should see a menu entry of the form `SEQ ...`. Click this menu entry and your
-avatar will cycle through all the animations in that submenu. Cycle times are currently
-set to 60 seconds with menu arrows to step to the next animation, previous animation,
+Sit on the waterfall. You should see menu entries of the form `SEQ_...`. Click one of these menu
+entries and your avatar will cycle through all the animations in that submenu. Cycle times are
+currently set to 60 seconds with menu arrows to step to the next animation, previous animation,
 or pause animation sequencing.
 
 ### Auto Play Sequence
 
-If you wish to automatically play a sequence when an avatar sits on the couch
-then download the `autoplay.sl` script and copy it into the Contents of the object.
+If you wish to automatically play a sequence when an avatar sits on the waterfall then
+download the `autoplay.sl` script and copy it into the Contents tab of the linked prim.
 
 ```bash
-wget -q -O 'autoplay' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Cuming_Soon/Smash/autoplay.lsl
+wget -q -O 'autoplay' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Waterfall/autoplay.lsl
 ```
 
 The `autoplay` script detects the gender of the sitter and plays the appropriate sequence.
