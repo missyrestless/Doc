@@ -1,0 +1,42 @@
+========================================================
+- Land Media Connector - Playing videos using Land 
+  Media vs. Prim Media
+========================================================
+
+*** NOTE:  The optional Land Media Connector enables the Easy YouTube TV to use Parcel Media Properties, ***
+
+Simcaster's flagship television product, the Easy YouTube TV uses Prim Based Media which makes the setup and use of the TV very easy.  This LAND MEDIA CONNECTOR will turn your Easy YouTube TV into a Powerful Land Media based television.  Starting with version 4.10 of the Easy YouTube TV, you will have the choice of running your TV in two different modes, Prim Media Mode or Land Media Mode.
+
+========================================================
+Prim Media Mode - Easy YouTube TV
+========================================================
+Your Easy YouTube TV runs on Prim Media by default.  This is our traditional TV.  It makes for easy operation with no need to deed the TV to the land.  YouTube and other media service controls and options are available right on the TV screen.  TV use is as easy as rezzing the TV -- which is why we named it the EASY YOUTUBE TV.
+
+========================================================
+Land Media Mode - Land Media Connector
+========================================================
+There are times where you will want more out of this TV than the Easy YouTube TV can offer.  With the purchase of the optional LAND MEDIA CONNECTOR, you can supercharge this TV and transform it into a robust LAND MEDIA TV.  TV play is played using your Parcel Media settings.  
+
+Performance features include:
+
+* The Land Media TV will allow you to watch a video seamlessly anywhere on your parcel.  
+* You can rez as many TVs as you want and let them all play the same picture at the same time without any lagging images.  
+* A Land Media based TV makes for perfect synchronized viewing of videos when more than one person is present.
+
+You can still use the Easy YouTube TV to change the video you are viewing, choose playlists, set loop and auto playing and many options.  The TV commands are simply passed from the TV to Land Media Connector to enhance your TV's capabilities.
+
+========================================================
+Land Media Connector
+========================================================
+
+The LAND MEDIA CONNECTOR is available on the SimCaster Second Life Marketplace store:
+
+    https://marketplace.secondlife.com/stores/168916
+
+Simply rez your Land Media Connector.  If your land is group owned you will need to deed it to the land.  That's all the setup required.  To start, on the TV Menu select the following:
+
+     Options - TV Mode - Land Media
+
+Your TV will recognize that a Land Media Connector is rezzed on the parcel and connect to it automatically.  You will be able to toggle effortlessly between using the TV in Prim Media mode and Land Media mode.
+
+Thanks,

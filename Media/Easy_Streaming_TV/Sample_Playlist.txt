@@ -1,0 +1,37 @@
+#-----------------------------------------------------------------------------------+
+#                       SimCaster (TM) YouTube TV Video Playlist                    |
+#-----------------------------------------------------------------------------------+
+# The playlist for the Easy YouTube TV.
+#
+# Format: 
+#    Button Name|Youtube Video Name|YourTubeURL
+#
+#    Button Name and YouTube Video Name are optional
+#    # - Comments and blank lines are ignored
+#
+#-----------------------------------------------------------------------------------
+# A YouTube video playlist can have up to 50 videos, which will show up on the 
+# "Playlist" menu.  More videos can be added, but they can only be played with 
+# by choosing "Play All".  
+#
+# If a button name is omitted, the TV will call the playlist selections "Video 1",
+# "Video 2", "Video 3", etc.  If a button name is omitted, then it is necessary to
+# also leave out the YouTube Video name, and just supply the YouTube URL.
+#
+# Add as many playlist notecards to the TV as you wish.  Make each one a
+# theme or collection.  You can swap between playlist notecards with the menu.
+#-----------------------------------------------------------------------------------
+
+This is... | Armin van Buuren feat. Trevor Guthrie - This Is What It Feels Like | https://www.youtube.com/watch?v=BR_DFMUzX4E
+Strong | Motif ft. Pamela Nyambo - Strong (Original Mix) | https://www.youtube.com/watch?v=B83BCP2zFos
+https://youtu.be/ZX2KJKRViPA
+Stereo Love | Edward Maya & Mia Martina - Stereo Love | https://www.youtube.com/watch?v=6_5D4y6x-oo
+Monster | Morland - A Monster Like Me | https://www.youtube.com/watch?v=LYMzvVyo0I4
+Candy | Robbie Williams - Candy | https://www.youtube.com/watch?v=gtOV7bp-gys
+Vimeo Vid|A sample Vimeo video|https://vimeo.com/300961604
+DailyMotion Vid|Summer Music Mix 2019|https://www.dailymotion.com/video/x74j9hz
+Twitch Vid|Vanessa Lopez DJ | https://www.twitch.tv/vanessa_lopez_official
+Space Ambient | Space Ambient Mix - Most Beautiful & Emotional Music | https://youtu.be/ykNtCc24aZA
+Piano Music|Relaxing Piano Music|https://www.youtube.com/playlist?list=PLQkQfzsIUwRbn10S3eZJJx7GCCzUOkvzx
+FH 2018 | The Best Of Vocal Deep House Music Chill Out #83 | https://www.youtube.com/watch?v=5rGhWGhqf_s
+Second Life | Klaas - Second Life | https://www.youtube.com/watch?v=z_DMvoV955w
