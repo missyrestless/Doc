@@ -11,7 +11,7 @@ things I own in SL.
 - `AVsitter`
   - Folder containing config notecards for `AVsitter` and `AVsequence`
   - Customized notecards providing sequenced animations for furniture and other objects:
-    - [AVsitter Sequenced Animations](https://github.com/missyrestless/Doc/tree/main/AVsitter#readme)
+    - [AVsitter Sequenced Animations](https://github.com/missyrestless/AVsequences#readme)
 - `Bots` : instructions and info on SL bots
 - `Colors` : some frequently used color vectors
   - In LSL colors are defined as `<R, G, B>` vectors where each component (Red, Green, Blue) ranges from 0.0 to 1.0, not 0-255. To use standard RGB (0-255), you divide your values by 255 (e.g., `<67, 67, 67>` becomes `<67/255, 67/255, 67/255>`), and you use functions like `llSetColor()` or `llSetLinkColor()` with these vectors to change object or prim colors.
