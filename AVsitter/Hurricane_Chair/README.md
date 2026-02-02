@@ -1,11 +1,24 @@
-# AVsitter Sequence for Tm Creation Adult Sandcastle
+# AVsitter Sequence for Good Moaning Hurricane Chair 
 
 This folder contains the `AVpos` and `[AV]sequence_settings` notecards for use
 with the `AVsitter2` plugin `[AV]sequence` to provide animation sequences for
-the Tm Creation Adult Sandcastle dialog menus.
+the Good Moaning Hurricane Chair dialog menus.
 
-This `AVsitter` customization allows greater freedom of personal interaction on the
-sandcastle, eliminating the need to navigate dialog menus during moments of intimacy.
+This `AVsitter` customization allows greater freedom of personal interaction in the
+chair, eliminating the need to navigate dialog menus during moments of intimacy.
+
+## Menus
+
+Sequences are configured for Sitter 0 and Sitter 1 menus, both male and female:
+
+- King
+- Queen
+- Cuddle
+- Foreplay
+- Boy on Top
+- Girl on Top
+- Doggie Style
+- Anal
 
 ## Download the script and customized notecards
 
@@ -18,43 +31,45 @@ wget -q -O '[AV]sequence' https://raw.githubusercontent.com/AVsitter/AVsitter/re
 Download the customized `[AV]sequence_settings` notecard:
 
 ```bash
-wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Sandcastle/AVsequence_settings
+wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Hurricane_Chair/AVsequence_settings
 ```
 
 Download the customized `AVpos` notecard:
 
 ```bash
-wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Sandcastle/AVpos
+wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Hurricane_Chair/AVpos
 ```
 
 ## Setup
 
-To configure a Tm Creation Adult Sandcastle with AVsitter sequences:
+To configure a Good Moaning Hurricane Chair with AVsitter sequences:
 
-- Right click the sandcastle and select `Edit`
-- Select the Contents tab in the Edit window
-- Click the `Edit linked` checkbox
-- Using `Ctrl .` (press both the Ctrl key and the Period key) locate the notecards (Link number 2)
-- Delete the `AVpos` and `[AV]sequence_settings` notecards in the Contents tab
+- Right click the chair and select `Edit`
 - Drag and Drop the `[AV]sequence_settings` notecard into the Contents tab
-- Drag and Drop the `AVpos` notecard into the Contents tab
+- Drag and Drop the `[AV]sequence` plugin script into the Contents tab
+- Replace the `AVpos` notecard in the Contents tab with the `AVpos` notecard found in this folder
+  - Drag and Drop the original `AVpos` notecard from the Contents tab into your inventory as a backup
+  - Delete the `AVpos` notecard from the Contents tab (you can ignore and close the Warning window)
+  - Drag and Drop the new `AVpos` notecard with sequences into the Contents tab
 - Close the `Edit` window
+- Right click the chair and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
 - Wait for the scripts to reset (this takes a few minutes)
-- If the Sandcastle scripts do not reset properly or a warning is issued during reset:
-  - Right click the sandcastle and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
 
-Sit on the sandcastle. You should see menu entries of the form `SEQ_...`. Click one of these menu
-entries and your avatar will cycle through all the animations in that submenu. Cycle times are
+Sit on the chair, select one of the first two sitters (Male or Female). Click one of the main
+submenus, for example, 'King' or 'Queen'. Click the button with a label beginning with 'SEQ_'.
+
+Menu entries of the form `SEQ_...` indicate sequenced animations. Clicking any of these menu
+entries will cycle seated avatars through all the animations in that submenu. Cycle times are
 currently set to 60 seconds with menu arrows to step to the next animation, previous animation,
 or pause animation sequencing.
 
 ### Auto Play Sequence
 
-If you wish to automatically play a sequence when an avatar sits on the sandcastle then
-download the `autoplay.sl` script and copy it into the Contents tab of the linked prim.
+If you wish to automatically play a sequence when an avatar sits on the chair
+then download the `autoplay.sl` script and copy it into the Contents of the object.
 
 ```bash
-wget -q -O 'autoplay' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Sandcastle/autoplay.lsl
+wget -q -O 'autoplay' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Hurricane_Chair/autoplay.lsl
 ```
 
 The `autoplay` script detects the gender of the sitter and plays the appropriate sequence.

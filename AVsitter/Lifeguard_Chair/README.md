@@ -99,6 +99,10 @@ animation sequence for that gender avatar will automatically play.
 
 - [Chez Moi Oceana Lounger](https://github.com/missyrestless/Doc/tree/main/AVsitter/Oceana_Lounger)
 
+### Customized notecards providing sequenced animations for Good Moaning furniture
+
+- [Good Moaning Hurricane Chair](https://github.com/missyrestless/Doc/tree/main/AVsitter/Hurricane_Chair)
+
 ### Customized notecards providing sequenced animations for Tm Creation products
 
 - [Adult Sandcastle](https://github.com/missyrestless/Doc/tree/main/AVsitter/Sandcastle)
