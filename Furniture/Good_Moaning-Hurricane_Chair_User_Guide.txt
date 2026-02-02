@@ -1,0 +1,121 @@
+1 - SETUP
+2 - PBR
+3 - OPTIONS MENU: FACIAL ANIMS, PHYSICS (BOOBS), TEXTURES
+4 - LOVENSE
+5 - SOUND SYSTEM
+6 - RESYNCHRONIZATION FEATURE
+7 - HOW TO ADD / REMOVE / MIX / MERGE / MOVE ANIMATIONS
+8 - AEROS, THE P, THE V, INM
+9 - CONTACT
+
+
+*************************************************************************
+***   1 - SETUP
+*************************************************************************
+
+Just rez the Chair and it is ready to use!
+
+
+*************************************************************************
+***   2 - PBR
+*************************************************************************
+
+By default, the Hurricane Chair uses Legacy materials. But you can turn it into PBR. To do so: go to the Texture Menu, click [PBR] then "Enable PBR". Please notice that it will probably require some additional work. Especially: you might have to set up a Reflection Probe in your room to make PBR materials look really beautiful.
+
+You will find more info about PBR and Reflection Probe on this webpage:
+https://goodmoaning.bdx9.com/dev/furniture/pbr
+
+
+************************************************************************
+***   3 - OPTIONS MENU: FACIAL ANIMS, PHYSICS (BOOBS), TEXTURES
+*************************************************************************
+
+By default, the Chair plays Facial Anims and Physics Anims. Physics Anims mean boobs motion. Both Facial Anims and Physics Anims can be enabled/disabled in the OPTIONS menu of the Chair.
+
+Note: after standing up from the Chair, the female user might notice that her boobs are not back to their normal position. If you notice that your breasts are deformed, please use the Undeform feature of your viewer.  (In Firestorm: Top Menu > Avatar > Avatar Health > Undeform Avatar)
+
+
+*************************************************************************
+***   4 - LOVENSE
+*************************************************************************
+
+This Chair is compatible with Lovense Toys, for both the Male and the Female users.
+
+Lovense is an amazing brand of RL Sex Toys. You can have your Lovense Sex Toys vibrate in sync with the animations being played by the Hurricane Chair. Depending on the SEX anim that the Chair is playing, vibrations will be more or less intense. If you don't know Lovense, this is the website:
+https://lovense.com/
+
+1 - First, make sure that your Lovense Toy is connected to your smartphone. You can use either Lovense Remote or Lovense Connect, both will work fine. You should be able to command your toy from your smartphone to make sure that it is working fine. Desktop computer apps are not supported yet.
+
+If you need any help about this, please read the Lovense documentation: https://www.lovense.com/guide/nora
+(select your toy in the list on the left side)
+
+2 - While your are sitting on the Chair, click the Chair to get the Menu. In the top level menu, click OPTIONS then click Lovense. This will show up a dialog that will propose you to open a web page. This web page is the QR code that you have to scan with your phone.
+
+3 - Scan the QR code with your phone with the Lovense App.
+
+For Lovense Remote: Click the "+" icon in the top right corner, then tap "Scan".
+For Lovense Connect: Go to the "Accounts" tab and tap "Read the QR code".
+
+That's it! Now go to any sex pose and enjoy the vibrations of your RL toy!
+
+Note: Cuddle anims won't trigger any vibration. Foreplay anims will trigger vibrations for either the Male or the Female sitter, depending on animations. All other animations will trigger vibration for both the Male and the Female sitter.
+
+
+*************************************************************************
+***   5 - SOUND SYSTEM
+*************************************************************************
+
+This Chair contains the Good Moaning Sound System, but it is disabled by default, which means that both voices are Off when you sit on the Chair for the  first time.
+
+To enable the Sound, just select a voice: go to the [SOUND] menu, click "Voice" and select a voice for your avatar. Your partner can do the same so both voices will be enabled.
+
+By default, the Sounds can be heard up to 3 meters only around the Chair. This in order to not annoy all other people around in a club, or to not annoy your neighbors!
+
+Furthermore, you can also enable some Sound Effects. In the [SOUND] Menu, click the "Noise" submenu. Here you can select one of the Sound Effects: Bump only (this will trigger sounds of bodies bumping against each other), Mattress, etc...
+
+SOUND SYSTEM ADVANCED OPTIONS
+
+The Sound System offers much more advanced options: setting default voices, setting default noise, change the maximum distance at which sound can be heard, enable/disable the sexy sentences... you can even create and add your own voice!
+
+Please refer to the online documentation to learn more about the advanced options: https://goodmoaning.bdx9.com/dev/furniture/sound-options
+
+Please note that Advanced Options are not available in the DEMO version, as demo version is not modifiable.
+
+
+*************************************************************************
+***   6 - RESYNCHRONIZATION FEATURE
+*************************************************************************
+
+This chair comes with a Resynchronization feature: each time you select a pose, the animations of this pose restart three seconds later. This is not a bug, it is a feature, to ensure that both avatars play their anim in perfect synchronization + the different anims (body, facial, physics) are perfectly synchronized.
+
+That said, if you don't like this, you can disable it. Click the Bed and select Edit to open the Edit Window. Go to the Content Tab. Wait a bit while the content is loading. Then remove the RESYNC notecard. This will disable the Resynchronization feature.
+
+*************************************************************************
+***   7 - HOW TO ADD / REMOVE / MIX / MERGE / MOVE ANIMATIONS
+*************************************************************************
+
+You can add animations made by other creators into your furniture, as explained in the AVsitter documentation: https://avsitter.github.io/avsitter2_home.html
+
+You might also want to move all the animations into a whole new piece of furniture. Or you might also want to mix animations from some other Good Moaning furniture, and you don't want only the body animations, you also want the facial anims and the physics anims. In this case, the setup requires a few steps more. I explain all this in this online documentation: 
+https://goodmoaning.bdx9.com/dev/furniture/add-animations
+
+
+*************************************************************************
+***   8 - AEROS, THE P, THE V, INM
+*************************************************************************
+
+These toys are automatically enabled so you don't have anything to do. That said, for Aeros Cocks, you could have to allow the Chair to drive your cock. When you sit on the Chair for the very first time, look at local chat for Aeros messages and click "Allow".
+
+Tip: you can allow your Aeros Cock to allow any furniture to drive your cock once for all. To do so: Click your cock > Devices > Mode > Auto
+
+
+
+*************************************************************************
+***   9 - CONTACT
+*************************************************************************
+
+Please feel free to contact me for any question or suggestion: 􀀀
+
+
+
+
