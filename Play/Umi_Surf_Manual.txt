@@ -1,0 +1,56 @@
+[Umi] Surf and Snow
+
+Stub 2.0 Instructions
+
+-NOTE-
+This board is optimized for WASD controls and uses gesture triggers. If you have issues with the trick gestures, press Ctrl+G and check that you have no conflicting "Keys"
+
+-PADDLE MODE-
+
+W - Forward
+S - Back
+A - Left
+D - Right
+E - Cycle though sit poses
+C (HOLD) - Duck Dive
+
+-SURF MODE-
+*Surf mode is activated when coming into contact with a scripted wave. Don't know if it is surfable? Check the maker and also if the wave is named "Wave 2.0."
+
+W - Forward
+S - Slow / Backwards
+A - Left
+D - Right
+
+Shift + A or Shift + D (HELD) - Quick Turn/Flat Turn aka "Power Slide"
+
+E + A or E + D (HELD) - Hard/Sharp Turn, can be used for "Barrel Rolls" and "Cutbacks"
+E + W (HELD) - Front Flip
+E+S (HELD) - Back Flip
+
+C (HELD + RELEASE) - Jump, the longer you hold it, the higher you jump when you release.
+
+-TRICKS-
+Included with this board are 30 Trick Gestures.
+YOU MUST ACTIVATE THE GESTURES FOR THEM TO WORK
+Open each gesture to see what key is each trick.
+
+GRAB HOTKEYS
+1 2 3 4 5 6 7 8 9 0 - =
+
+FACE TRICKS
+R T Y U I O P [ ] \
+
+BOARD FLIPS 
+(NOT COMPATIBLE WITH REZZER BOARDS)
+
+Tricks can be played over any animation on the surfboard. You can ride, spin, flip and rotate using the movement keys and then trigger the trick animation on top to style up your surfing. It's recommended that you trigger the animation first before doing the movement. This is especially important when doing movements that require two keys to be held like the Front/Back Flip and Flat/Sharp Turns.
+
+*Example*
+360 Judo Air, as you're approaching the crest of the wave, Press/Hold C and Release at the top to jump. Tap - key to trigger the Judo Grab and then press A or D to turn in the direction you want.
+
+Air Reverse, is done by jumping off the lip of the wave and landing backwards on the wave. Press and Hold S to continue riding the wave backwards for a period of time and then cut out with a Sharp Turn or Power Slide.
+
+-EXTRAS-
+There are additional objects to create a "wake" at your hand and feet when performing tricks like the hand and foot drags for some added interaction and effect. Simply "Right-click" and "Add" each object.
+
