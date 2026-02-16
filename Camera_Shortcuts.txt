@@ -1,0 +1,25 @@
+Key Camera Shortcuts (Windows/Linux/Mac)
+--------------------
+
+Zoom In/Out: Alt + Mouse Wheel Scroll, or Alt + Up/Down Arrow.
+
+Rotate/Orbit: Alt + Left Click & Drag, or Alt + Left/Right Arrow.
+
+Pan/Move Camera: Alt + Shift + Left Click & Drag, or Alt + Ctrl + Shift + Arrow Keys.
+
+Tilt Camera: Alt + Ctrl + Up/Down Arrow.
+
+Reset Camera: Esc (may require two presses).
+
+Mouselook: Press M to toggle, then move the mouse to look. 
+
+Tips for Better Control
+-----------------------
+
+Camera Focus: Hold Alt and left-click an object or your avatar to set it as the new focal point.
+
+Disable Constraints: To move the camera freely, go to the top menu, Advanced (Ctrl-Alt-D) > Disable Camera Constraints.
+
+Camera Smoothing: Alt + arrow keys or mouse movement can be used with camera smoothing in viewers like Firestorm for smoother movements.
+
+Advanced Rotation: Use Alt + Ctrl + Left/Right Arrow to orbit. 
