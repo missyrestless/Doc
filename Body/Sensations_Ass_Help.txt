@@ -1,0 +1,884 @@
+_________________________________________________________________
+
+Frequently Asked Questions
+_________________________________________________________________
+
+    ▪ Q: Will you support more avatars?
+        ◦ A: I only am considering making Kario ass for Inithium, and maybe others too later.  Here are the bodies I support currently.
+            Inithium Kupra (Finished May 16, 2021)
+            Inithium Kario (Finished August 12, 2023)
+            Belleza Freya (Finished July 23, 2021)
+            Belleza Jake (Finished August 9, 2021)
+            Slink Hourglass (Finished September 22, 2021)
+            eBody Reborn (Finished November 17, 2021)
+            eBody Reborn Juicy Rolls (Finished November 27, 2022)
+            Legacy Female (Regular + Perky) (Finished December 29, 2021)
+            Legacy Male Masculine (Finished February 13, 2022)
+            Legacy Male Athletic (Finished February 28, 2023)
+            Maitreya LaraX (Finished April 18, 2024)
+            
+  
+    ▪ Q: When someone spanks me I get a "-" instead of my name.  How do I fix this?       
+        ◦ A:  If you have a unusual display name with characters not traditionally on standard keyboards, you would get an error when someone spanked you.  This happens since when the spank happens, the file name of the Ass itself is changed to your display name, and it only supports standard characters.  To fix this issue you can now edit the display name itself for yourself that the Ass 7 recognizes.
+            Command to manually set name: /9 set name
+            Command to check set name: /9 what's my name?
+
+
+    ▪ Q: How do I match my skin to the Ass?
+        ◦ A:  If you have Omega or a BoM (Bakes on Mesh) skin use the tutorial in this package called:
+              "!BoM + Omega Setup Tutorial (Wear Me)"
+
+
+    ▪ Q: My Ass skin is red?  Why is that?
+        ◦ A:  This is the default state of a BoM (Bakes on Mesh) texture if you're wearing an alpha layer incorrectly.
+              You need to setup the BoM correctly or apply Omega to the Ass for this to work properly.
+              Please follow the instructions of the "!BoM + Omega Setup Tutorial (Wear Me)" found inside the package to guide you through setting it up.
+                     
+  
+    ▪ Q: How do I change ass poses?
+        ◦ A:
+            Option #1:  Use the Action HUD included.  This HUD also has a minimize feature that is low lag and simple to use.
+            Option #2:  Use voice commands (all listed below in this notecard.)
+            Option #3:  Click the tip of the ass get a Dialogue menu.  This will give you basic [ Close (-) ] and [ Spread (+) ].
+                Note:  You can also pull up the dialogue menu by typing "/9 ass".
+  
+                    
+    ▪ Q: How does the leash work?
+        ◦ A: Be near another avatar who you want to dominate you.
+            -Click your ass and select [Owner].  Select the Owner's name.
+            -The Owner must click your ass and select [Leash...] and then [Grab].  They can [Unleash] also.  Make sure to instruct them of this.
+            -The Leash attaches to the clit, so use a Clit Ring when using it.
+
+      
+                               
+    ▪ Q: What does the Health menu mean in the Action HUD?    
+            ▪Arousal:  This is your current arousal state, it is divided into 10 point sections and slowly decreases over time.  When it exceeds 99 you have an orgasm.  This value is reported to the other organs which respond accordingly.  For instance when arousal exceeds 10 the ass will become erect.  The ass and clit will both play random sounds at different arousal stages when sound packs are installed.  Most of the other statistics affect the change of the arousal.
+            ▪Recovery:  This statistic slowly increases over time.  When you orgasm your new arousal level is that of your recovery level and your recovery level drops.  Therefore it will be very easy for people who have not orgasmed in a while to have multiple orgasms. Additionally this statistic causes horniness when too high in combination with the nympho statistic.
+            ▪Nympho:  This statistic slowly decreases over time. It increases every time you orgasm.  When you have a high nympho statistic and your recovery statistic gets too high you will begin to exhibit signs of horniness.
+            ▪Pain:  Having a weapon used on you causes pain.  The type of blow and type of weapon dictate how much pain is inflicted. The pain statistic is related to the Sado and Maso statistics.  If your sado is low then having high pain will slow your arousal.  If your sado is high having high pain will boost your arousal.
+                NOTE:  You can enable/disable this option.  There's an option called "Partial" which is the same as Enable, except it doesn't force erect states based on Arousal levels.  This is the recommended option.    
+
+
+    ▪ Q: How can I control both my ass, and my slave's ass at the same time?
+        ◦ A: Use the Submit options on the Ownership section of the Main HUD to do this.
+  
+   
+    ▪ Q: How do I hide my Ass completely without taking it off?
+        ◦ A: Say the following in public chat:
+        /9 ass away
+        /9 ass show    (to bring it back)
+        
+        
+    ▪ Q: People are doing stuff to my ass and leaving marks!  What do I do?
+        ◦ A: Click your ass, then select the [ Help+Privacy ] button.  There you can restrict what people do to you.  You can also go to the [ Interact... ] menu and remove anything applied to your  as, or prevent Thrusting animations from playing anymore.
+
+_________________________________________________________________
+
+Main Menu
+_________________________________________________________________
+
+    The ass attaches the stomach. Touching your ass brings up a dialog:
+    [ Help+Privacy ]  [ *Touchable ]  [ Update ]
+    [ Deactivate ]  [ Leash... ] [ Owner ]
+    [ State... ] [ Interact... ] [ Action... ]
+    [ Close (-) ]  [ Spread (+) ] [ Butt Plug... ]
+    
+    [ Help+Privacy ]
+            ▪This menu has a lot of new features previous Help menus I've made haven't had.
+            The Help section is standard with the ability to reset your scripts, get a new copy of the HUD, and get the Help notecard.
+            The Privacy section lets you control what people can access on your ass when clicking it.  They get their own menu to play with you.  This is important if you only want to allow someone to spank you, but not cum on you for example.  There is also a HealRate button which cycles through time amounts that the Spank + Whip interactions take to heal.  By default it is set to 16 minutes.
+
+    [ Touchable ]
+            ▪Toggle if other people can play with your ass or not.  This is an important feature because people can have the options to spank you, cum on you, and so on.
+            
+    [ Update ]
+            ▪Click this to have the the system check if there's an update.  If there is an update available, you will be sent a new ass version.  You can also just Instant Message 'Earalia Nolan', and ask for an update.
+                ◦NOTE:  Only major ass updates will be sent out automatically to you.
+                
+    [ Deactivate ]
+        ▪Hide/show ass.
+
+ 
+    [ Leash... ]
+        ▪Leash control options. To use this first select another avatar near you with the button [Owner].  Once an owner is established they can click your ass, and select [Leash...], then [Grab] which will create a leash between your owner and your ass.
+            -The Leash attaches to the clit, so use a Clit Ring when using it.
+                        
+    [ Owner ]
+        ▪Select an owner to control your ass and be able to leash it.  
+
+        
+    [ State... ]
+        ▪Pick a spread state for your ass.  Keep in mind if you have a butt plug or something overriding the spread state you can't alter it till that restraint is removed.
+          
+    [ Interact... ]
+        ▪A bunch of things people can do to you are all here.  Other people have access to many of these options.  If this is a problem, make sure to select [ *Touchable ] on the main menu to block other people from accessing your ass.  These options are meant to enhance roleplay.
+
+            
+    [ Action... ]
+        ▪Control bodily functions of your ass and a few other special features.
+            
+    [ Butt Plug... ]
+        ▪This menu will change depending what Butt Plug you have selected (if any.)  These options are also open to the public, so select [ *Touchable ] to prevent them.
+        Butt Plugs that are used by this menu are:
+        --Beads
+        --Spreader Cage
+        --Douche Pump
+        --Hobbit Home
+        --Hook        
+        
+    
+    [ Close (-) ] & [ Spread (+) ]
+        ▪Close or Spread your Ass.  You can also alter these in the Action HUD.
+
+
+
+
+_________________________________________________________________
+
+Commands
+_________________________________________________________________
+
+
+General Commands
+    /9 ass  = Calls main menu.
+    /9 ass reset  = Reset almost all scripts.
+    /9 ass hide  = Tucks Ass under your clothing
+    /9 ass show  = Makes Ass visable again in the original state
+    /9 ass away  = Completely hides the Ass
+    
+     Applies BoM to your Ass skin (this is on by default):
+         /9 apply bom
+    
+    /9 ass 0    ← "Tuck mode", designed to fit under most clothing.  Keep in mind most of the spread states should fit under many outfits too, this just traces entirely under the avatar its made for.
+    /9 ass 1     ← Relaxed rosebud, up to #2.  These should be your default state if your anus isn't used/abused.
+    /9 ass 2
+    /9 ass 3     ← Puffy rosebud, up to #4.  These should be your default state if your anus IS used/abused.
+    /9 ass 4
+    /9 ass 5     ← Used for beads.  Stages #5+6 are used for all sorts of butt plugs.
+    /9 ass 6     ← Used for a majority of butt plugs with interiors you can select
+    /9 ass 7     ← Stages 7 to 12 are designed for fucking with a cock, strap-on or whatever cylindrical object you can imagine.  Each has an animated "Thrust" and "Throb" option too.
+    /9 ass 7
+    /9 ass 8
+    /9 ass 9
+    /9 ass 10
+    /9 ass 11
+    /9 ass 12
+    
+    
+    NOTE:  Ass "Hide" doesn't make the Ass disappear, it just forces it to State 0, which is "Tucked".  This means it will fit under your clothing as if it were the default part of your avatar.
+
+-----------------------
+
+Actions -- Bodily Function Commands (Regular commands means you just do it one time)
+    
+    /9 fart
+    /9 gas
+    /9 shit    ← Poops particles instead of prims
+    /9 poop     ← This spawns a prim log of poop that disappears after 16 seconds.  Double click the poop if you don't want it to delete.
+
+    /9 rainbow 1
+    /9 drip 1
+    /9 drool 2
+    /9 enema 2
+
+    NOTE #1:  Only the top number is displayed.  If a number is listed as 6, that means numbers 0 to 6 can be used.  0 will turn it off.
+    NOTE #2:  You can replace the number "1" at the end with "on", and "0" with "off".
+    
+
+-----------------------
+
+Actions -- Bodily function commands (Regular commands means you just do it one time)
+
+
+One time use:    
+    /9 fart
+    /9 gas
+    /9 shit     ← Poops particles instead of prims
+    /9 poop     ← This spawns a prim log of poop that disappears after 16 seconds.  Double click the poop if you don't want it to delete.
+
+--------
+
+Looping usage (keeps going till you turn it off):
+    /9 rainbow 1
+    /9 drip 1
+    /9 drool 2
+    /9 enema 2
+
+--------
+
+Changes to your anus:    
+    /9 prolapse 3     ← Prolapse 3 is a combination of 1 and 2.
+    /9 shade 4     ← Adds levels of shade to your anus, so it can gradient to darkness.  This adds realism, but not necessary.
+
+--------
+
+Change gas(fart) color:
+    /9 gas color <0.322, 0.247, 0.169>
+    
+    Use this to understand which colors to specify between the <> symbols.
+    https://wiki.secondlife.com/wiki/Color_and_Scripting
+
+--------
+
+    NOTE #1:  Replacing the number with 0 turns each function off.
+    NOTE #2:  Only the maximum number is displayed.  If a number is listed as 6, that means numbers 0 to 6 can be used.
+    NOTE #3:  You can replace the number "1" at the end with "on", and "0" with "off".
+    
+
+-----------------------
+
+Interact -- These are interactions you or someone else can DO to you
+
+Anus Animations:
+    /9 thrust 4
+    /9 throb 4
+    
+
+Anal Cavity:
+    /9 pee in 1
+    /9 shitpie 1
+    /9 creampie 3
+    
+    
+Butt Play:
+    /9 creampie 3
+    /9 kiss 6
+    /9 spank 6
+    /9 whip 6
+    
+
+    NOTE #1:  Replacing the number with 0 turns each function off.
+    NOTE #2:  Only the maximum number is displayed.  If a number is listed as 6, that means numbers 0 to 6 can be used.
+    NOTE #3:  You can replace the number "1" at the end with "on", and "0" with "off".
+    
+-----------------------
+
+Butt Plugs -- You must enable these first by selecting them on the Main HUD.
+
+Beads:
+    /9 push in
+    /9 pull out
+    
+
+Spreader Cage:
+    /9 tighten     ← Expands the ring up to State 12 max.
+    /9 loosen     ← Contracts the ring down to State 8 minimum.
+    
+
+Douche Pump:
+    /9 pump air
+    /9 release air
+    
+    
+Hobbit House:
+    /9 open door
+    /9 close door
+    /9 light on
+    /9 light off
+    
+    
+Hook Chain:
+    /9 hook chain     ← No on/off.  This is simply toggled automatically.
+
+    
+
+
+-----------------------
+
+Custom Tattoos -- You can apply your own tattoos if you know the UUID of the image:
+
+    /9 ass tattoo (Image UUID here without brackets)   
+    /9 anus tattoo (Image UUID here without brackets
+
+
+
+-----------------------
+
+
+Miscellaneous
+
+Lube:
+    /9 lube off
+    /9 lube on     ← Standard "Easy" brand lube.  This is the boring stuff.
+    /9 lube hot     ← Chili pepper extracts in your lube.  Use this to roleplay pain.
+    /9 lube horny     ← Succubus saliva extract in your lube.  Use this to roleplay lust, pleasure, and a love potion.
+    
+    
+    
+Peek Inside:     ← Lets you see what's going on under your butt
+    /9 skin hide
+    /9 skin show
+
+    
+Intestines:
+    /9 intt 0    ← bottom + top intestines
+    /9 intt 1    ← bottom intestines  -- use this is your intestines poke out of your body somehow
+    
+    /9 inti 0    ← Shows Interior + Exterior of intestines
+    /9 inti 1    ← Shows Intestines Interior only
+    /9 inti 2    ← Shows Intestines Exterior only (no idea why you'd want to do this)
+        
+
+Updating your particle emitters:    
+    /9 pointers on     ← Lets you see the recommended locations for particle emitters, so you can edit the unrigged ones.  Rigged prims cannot be used to generate particles because they have a fix center position, which unrigged prims don't have this problem.
+    /9 pointers off
+    
+    /9 reset omega  = Resets the Omega script.  Only use this if you Link/delink prims to the main group of prims.
+
+
+If you have a unusual display name with characters not traditionally on standard keyboards, you would get an error when someone spanked you.  This happens since when the spank happens, the file name of the Ass itself is changed to your display name, and it only supports standard characters.  To fix this issue you can now edit the display name itself for yourself that the Ass 7 recognizes.
+Command to manually set name: /9 set name
+Command to check set name: /9 what's my name?
+
+
+________________________________________________________________
+
+API -- Get Furniture and Devices to work with the Ass 7
+_________________________________________________________________
+       
+The purpose of API is to give furniture and device makers the ability to control your genitals remotely.
+
+So lets say you have a couch where your Ass 7 is being penetrated by a dildo.  An API command can register itself with a targeted Ass 7, and then call spread states to stretch the anus out over the dildo.
+Keep note you only need to do this if the object in question isn't owned by the wearer of the Ass 7.
+Any scripted object the wearer of the Ass owns can be control the Ass 7 on channel -17487.
+
+To Check if the target is using the Ass:
+    /-73672 api|ass|REPLACE TARGET UUID HERE|detect
+    
+    It should respond the following if it detects the Ass7:
+    /-73672 Ass7
+    
+    This will return all devices with API support.
+    This should be:
+        Ass 7.46+
+        Vagina 7.52+
+        Boobs 7.28+
+
+----------    
+
+
+To control your API as the Ass 7 wearer:
+Enable (its on by default)
+    /9 api 1
+
+Disable
+    /9 api 0
+    
+    Turn off the API if you don't want to be pestered for requests to control your Ass.
+
+----------    
+
+
+To Setup API as Developer:
+Have your device say the following command:
+    /-73672 api|ass|REPLACE TARGET UUID HERE|register
+    Once you do this the person with the UUID you targeted will get a dialogue option with options to select [Yes], [No], or [Block]
+
+When the API has been registered or declined it will respond:
+    /-73672 API Registered Ass7
+    or
+    /-73672 API Declined Ass7
+    
+        NOTE:  Only 1 command is allowed every 4 seconds minimum to prevent spam.
+    
+---
+    
+Example:
+ Lets say you want the Ass 7 owned by the avatar "Sensations" at spread state 11:
+    /-73672 api|ass|faf5e702-97da-4a50-932d-7c654fbb281b|ass 11
+    
+    
+    
+----------    
+
+
+To revoke the API:
+    /-73672 api|ass|REPLACE TARGET UUID HERE|revoke
+    or
+    /9 ass revoke
+    
+    
+
+
+
+
+________________________________________________________________
+
+Materials (Not for PBR versions)
+_________________________________________________________________
+       
+To apply custom normal/specular textures (the glossy skin stuff):
+    Replace the UUID with whatever texture you want.
+    
+    /9 apply normal 06dc07ee-a399-a506-149f-03f69fbe2f2a
+    /9 apply specular dbf3d553-5137-be4f-724f-4d81cb4e5af1
+
+    -----------------------
+    ==ADVANCED USERS==
+    Use the HUD to apply the specific values.  If you want to automate this with a HUD or are an advanced user here's how you do it:
+    
+    
+    /9 apply bump ec356470-f7b3-16c3-ff65-771e518ad265 c268c01c-5bff-c646-cef7-9ad3647e59d9 046 104 <1,.453454,0>
+
+    -1st UUID = Normal Texture (Example: ec356470-f7b3-16c3-ff65-771e518ad265)
+    -2nd UUID = Specular Texture (Example: c268c01c-5bff-c646-cef7-9ad3647e59d9)
+    -3rd Number = Environment Number (Example: 046)
+    -4th Number = Glossiness Number (Example: 104)
+    -5th Vector = Light Reflect Color (Example: <1,.453454,0>)
+    
+    Notes:  For Environment and Glossiness PLEASE only use 3 digits.  These numbers range from between 0 to 255.  So if your number is 60 use "060".  If your number is 0 use "000".  If your number is 250 us "250".
+    
+    Add a "!" symbol between the Normal Texture and Specular texture if you want it to apply BoM by force along with the textures.  For example:
+    /9 apply bump ec356470-f7b3-16c3-ff65-771e518ad265!c268c01c-5bff-c646-cef7-9ad3647e59d9 046 104 <1,.453454,0>
+    
+    
+
+    -----------------------
+    ==FOR DEVELOPERS==
+    If you'd like to add your own Materials to the ass without revealing the information I have an encryption system too.  This system is the same as used in the Vagina 7 too.
+    
+    This time do like above but set it up with "/9 encrypt" like this:
+    
+    /9 encrypt bump ec356470-f7b3-16c3-ff65-771e518ad265 c268c01c-5bff-c646-cef7-9ad3647e59d9 046 104 <1,.453454,0>
+
+    The Ass 7 will spit out an encrypted message you need to give it to apply your values.  For the above example you will get this message:
+    /9 decrypt bump RncDBkNSCQkeUkV4XkgSUFxaHgJCeAFIQ1YKWgpVFCRVA0EETAhRVUUlUlBASFldAARbIwJRFUhbXgdVW3UDXUIGDlhWBhcnVkVDUVpMAgNCYVtUX0tYWQAHQ3VLVU0=
+    
+    Once you use a HUD or announce the above message it will be applied to the Ass automatically.  Make sure to test it to make sure it works.
+
+    Another note is there's also a secret channel thats used for the Ass so if you want extra security, and you're a developer reach out to me and I'll share it.
+    
+    I also have customized encryption key system built into the Ass 7 so no one else can encrypt with your password.  Contact me directly to get one if your a developer and want one.  This encryption key will be unique only to you.
+
+
+To change the distance people can spank you:
+/9 spank distance 3     ←Replace 3 with the number you want in meters (3 is default)
+
+
+
+To change Blend Mode for the Skin say:
+/9 masking 0      (None)
+/9 masking 1      (Alpha Blended)
+/9 masking 2      (Alpha Masking)
+/9 masking 3      (Emissive Masking)
+
+
+
+_______________________________________________________________
+
+Updates
+_________________________________________________________________
+
+    There may be future events where we will make scripting updates due to possible bug fixes based on our own faults, or Second Life OS changes.  On the main menu after you click the Ass is an [ Update ] menu.
+    
+    Note:  Only major updates will be automatically delivered to you automatically based on your sales record.  It's recommended you are subscribed to our user group "Amethyst and Sensations Products" to get information on updates and new product releases.
+    To update please click the Ass itself, then select [Update].
+
+
+▪v7.47 - January 25, 2025:
+    ◦ Fixed glitch where the skin of the Ass goes grey when switching from PBR to Blinn on the eBody HUD.  This glitch only effects eBody users.
+    ◦ Changed dialogue HUDs to randomly to lower chances of them conflicting with other things/people.
+    ◦ Fixed some of the descriptors to go in line with the new format of * Description *.
+    
+    
+
+▪v7.46 - January 22, 2025:
+    ◦ Somehow some of the update changes I made weren't in the script when I packed them and had to re-add them.  This update should properly add the API relays and some of the other updates listed from the 7.45 update.
+
+
+▪v7.45 - January 21, 2025:
+    ◦ Added PBR support to eBody versions of the Ass.  I'm only supporting eBody since it's the only body to support it at this time.  Keep in mind this is for the base skin only.  I may add PBR to other things like butt plugs, piercings, and so on in the future.
+    ---All PBR and Blinn-Phong body shine HUDs made for eBody will support this.
+    ---Make sure your eBody Reborn body is updated to v2.0+ -- Otherwise the body shine system won't work.
+    ---Make sure your eBody Reborn Juicy Rolls mod is updated to v2.0+ (If you're using that)
+    ◦ Changed how spankings work yet again due to negative feedback from the last change.  This time all display names will work out of the box.  I achieved this by putting the display name after the /me text instead of in the prim name of the Ass 7.
+    ---Command to manually set name: /9 set name
+    ---Spanker needs to be within 3m now.  They also get a dialogue box educating them about Click+Hold to get more menu options.
+    -----/9 spank distance 3    ←Say to set distance. Replace 3 with the number you want in meters (3 is default)
+    ◦ Added API support.  This will be a universal system for the Ass 7, Vagina 7, Boobs 7, and the Cock 7.
+    ---See the API section of the Help notecard for instructions.
+    ---Toggle API on the Main HUD or use voice commands (see API section)
+    ◦ Added PBR and updated Blinn body shine HUDs for eBody.
+    ◦ eBody Juicy Rolls version is now set to masking by default and no longer requires a wearable alpha.  Make sure your Juicy Rolls add-on from eBody is updated to 2.0+ for this to work properly.  I also improved the mesh work on this version too.
+    ◦ Fixed positioning of Halfling House on the eBody version.
+    ◦ Changed the Marketplace version to using the the Boxed version to make things more organized
+    ◦ Added upper ass hide wearable alphas in the package.
+
+
+
+▪v7.44 - October 16, 2025:
+    ◦ Created solution to spankings not being able to work properly with users with uncommon characters in their display names.  When unusual characters are identified you'll get a prompt to rename it.
+    ---Command to manually set name: /9 set name
+    ---Command to check set name: /9 what's my name?
+    ◦ Fixed various issues with bodies with hot fixes over the course of July 16, 2025 to October 15 2025.  These were mostly minor body fixes.
+    ◦ Updated Alpha Cut wearables to 2K so have more clean edges.
+    ◦ Updated Alpha Cut tutorial for eBody.
+    ◦ Made it so eBody Alpha Cut scripts can be hard reset without effecting the data.  This means if you run into the body's famous alpha cut bug you can now just reset your Ass without having to wear a new Ass.
+    ◦ Expect a new update the the future that will support PBR.
+
+
+▪v7.43 - July 16, 2024:
+    ◦ Fixed glitch where other people could target your Ass while in submission mode other than your Owner.
+    ◦ When setting the "Submit and let ONE person..." option in the Main HUD the [Owner] button is triggered on the Ass.  This should make things less confusing hopefully.
+    ◦ Remeshed the eBody Regular Ass so it is smaller and fits under skin tight clothing/tattoos better.
+    ◦ Bug fixes on the Main HUD.
+
+    
+
+▪v7.42 - June 11, 2024:
+    ◦ Fixed glitch where there is an animation script error when wearing the Ass the first time.
+    ◦ Fixed glitch selecting no Spank animation causes a script error on detach.
+    
+    ◦ Fixed glitch where One-Click spank didn't display text of who did the spank.
+    ---This gets reset after 30 seconds from the last spank to prevent spam.
+    
+    ◦ Added option to squeeze out Strawberries from your Ass.
+    ---Say /9 berry
+    ---This Action was added to the Action HUD.
+    ---You can double click the strawberries to prevent them for self deleting.
+    
+    ◦ Improved prim poop script so it lines up better with the anus when standing.
+
+
+▪v7.41 - June 4, 2024:
+    ◦ Changed how Spanking works:
+    ---Wearer can pull up Main Menu with Click, or Spank themselves with Click+Hold.
+    ---Everyone Else can pull up Main Menu with Click+Hold, and Spank the wearer with Click.
+
+    ◦ New Spankings section in the Main HUD.
+    
+    ◦ Spankings now animate the Ass, and you can change the intensity based on how big your Ass is.  You can disable this feature too.
+    
+    ◦ Change default Spanking:  Spank, Tease, Whip, Kiss, Main Menu
+    ---[Tease] is the same as Spank, but leaves no handprints on your Ass.
+    ---[Main Menu] its basically the same as how things used to be if you want to force people not to spam Spank your Ass.
+    ---[Kiss] now "heals" over time (disappears like a Spank).  You can turn off the Heal Rate to 0 to prevent this.
+    
+    ◦ Heal Rate option on the Dialogue HUD has been removed entirely and moved to the Main HUD's Spankings section.
+    
+    ◦ Dialogue menu option [Help+Privacy] was renamed to [Privacy+Help].  This made sense as the primary usecase of this section is to change your privacy settings.
+    
+    ◦ Added [Ban List...] section to the [Privacy+Help] section.
+    
+    ◦ I made these changes because people were using 3rd party spankers over the Ass 7 so this update is intended to end that trend.  The Ass 7 should be able to do everything you need.
+
+    ◦ Fixed intestinal tattoo layer on Stage 0 for Maitreya Lara Classic.
+
+    ◦ Future Ideas:
+    ---I may do a Write On system like I did with the Boobs 7, and already started working on it, but likely will save it for a future update.
+    ---I may add particles like stars for spanks and hearts for kisses.
+    ---I may add gender based voice moans when people are spanked/whipped.
+    
+    ◦ Added V-Tech Femboy Body Shine for Maitreya, eBody Reborn, and Legacy Female (v2.02).  This is part of the regular Body Shine HUD as a new page.  There's a button on the HUD to get a copy of the V-Tech Relay scripts too.
+    
+    
+
+▪v7.40 - April 18, 2024:
+    ◦ Added support for Maitreya LaraX.
+    ---Switch to eBody Shine (default) by saying: /9 relay ebody
+    ---Switch to Omega Shine by saying: /9 relay omega
+    
+    ◦ Added giant Giant Heart + Giant Round Butt Plugs to all versions (approximately 3.25x bigger than originals).
+    
+    ◦ eBody Reborn (Regular):
+    ---Improved skin seams
+    ---Fixed gap between the anus ring and intestines on stages 1-3.
+    
+    ◦ eBody Reborn (Juicy):
+    ---Fixed gap between the anus ring and intestines on stages 1-3.
+    
+    
+    ◦ Legacy Female:
+    ---Improved skin seams
+    ---Added eBody Body Shine hack which lets you use eBody Body Shine appliers.  This is a work-around to apply 3rd party body shine to the Ass.
+    ---Switch to eBody Shine (default) by saying: /9 relay ebody
+    ---Switch to Omega Shine by saying: /9 relay omega
+    
+    ◦ Maitreya Lara Classic:
+    ---Added eBody Body Shine hack which lets you use eBody Body Shine appliers.  This is a work-around to apply 3rd party body shine to the Ass.
+    ---Switch to eBody Shine (default) by saying: /9 relay ebody
+    ---Switch to Omega Shine by saying: /9 relay omega
+    
+    ◦ Inithium Kupra:
+    ---Added Alpha Cut scripts.
+    
+    ◦ Inithium Kario:
+    ---Added Alpha Cut scripts to Flex.  I changed meshing on the legs to fit the Alpha Cuts.  You can use either methods.
+    ---Minor bug fix on mesh of Fit version.
+    ---Fit and Flat didn't get alpha cuts yet, but might be in the future if there's demand.
+
+    ◦ Added Body Unpacker for non-Marketplace version of Ass 7.
+    ◦ Added tutorial on "How to Add Owner".
+    ◦ Fixed glitch where anus ring blending would be solid sometimes.
+    ◦ Fixed glitch where selecting Dominant mode would be blanked out when changing tabs on the Main HUD.
+    ◦ Fixed various minor glitches.
+    
+
+
+▪v7.39 - September 11, 2023:
+    ◦ Adjusted the position of the Kario Ass' anus higher for stages 2 and 3.  Several people complained it was too low in the previous version.
+
+
+
+▪v7.38 - August 12, 2023:
+    ◦ Added support for Inithium Kario.
+    ◦ Added support Velour skins.
+    ◦ Revamped Ownership system to match the one designed in the Boobs 7.
+    ◦ Added commands to customize your gas(fart) colors.  Look in the Commands section of the Help notecard to see how.
+
+
+▪v7.37 - March 9, 2023:
+    ◦ Fixed glitch where you can't delete tattoos with the "None" option.  This was broken in the last update.
+    
+
+▪v7.36 - February 28, 2023:
+    ◦ Added support for Legacy Male Athletic.  I'm sorry it too so long to support it but I figured out how to through trial and error after 4 attempts over the past year.
+    ◦ Fixed glitch with right or left tattoo deleting when changing the spread state.
+
+
+▪v7.35 - January 19, 2023:
+    ◦ Added the updated multi-prim Add-on script to the Reborn ass.  This means any 3rd party Body Shine works on the Reborn Ass 7.  This update reduces script counts.  All of the non-Reborn asses are unchanged so you can keep using v7.34 otherwise if you use a different body.
+  
+
+
+▪v7.34 - December 31, 2023:
+    ◦ Added support for eBody Reborn's Body Shine relay.  This means you can now use 3rd party Body Shine on the Reborn Sensations Ass (both Regular and Juicy Rolls).
+
+
+
+▪v7.33 - December 11, 2022:
+    ◦ Fixed more glitches in the Action HUD.
+
+
+▪v7.32 - December 8, 2022:
+    ◦ Fixed missing scripts in Slink Hourglass Redux version.  I broke this in the last update.
+    ◦ Fixed minor glitches in the Action HUD.
+    
+
+▪v7.31 - November 27, 2022:
+    ◦ Fixed issue with the Juicy Rolls ass being too big and poking through clothing on stages 0 to 6.
+    ◦ Fixed issue with Chain Hook not working.
+    ◦ Changed the Action HUD so it now supports the Boobs v7.  There's also a new feature to tuck (Boob icon), or hide away.
+        Note:  Double clicking these icons will make all Series 7 items hide/show.
+    
+    
+▪v7.30 - November 9, 2022:
+    ◦ Added support for eBody's Juicy Rolls body mod.  It's MANDATORY you wear the Alpha included in the package for this to work:
+        "Sensations Ass - eBody Juicy Rolls [Add Me -- MANDADATORY]"
+        
+        
+    
+▪v7.29 - November 5, 2022:
+    ◦ Added support for Inithium's new [Add On] system which lets you apply body shine from their own HUDs.
+        You'll need to activate it with Inithium's special activator they sell, but the Ass now supports this system.
+        Keep note that all other bodies are the same in this update, so if you have any other body other than Kupra, and its version 7.28, you can ignore this update. 
+    ◦ Removed some of the tips of the external intestines on the Legacy Female version after reports of some clipping.  (November 3rd)
+    ◦ Removed some of the tips of the external intestines on the Maitreya version after reports of some clipping.  (November 5th)
+    
+
+▪v7.28 - September 11, 2022:
+    ◦ Fixed bug relating to invisible objects with glow showing up.  It was caused by changes in the new Second Life code which changes how rendering is done.
+    ◦ Added Body Shine HUDs to support the Sensations v7 Boobs, which is still under development at this time.  These also support the Body Shine relays I give out here:
+            https://marketplace.secondlife.com/p/Maze-Soft-Thighs-and-Arms-Relay-for-Sensations-Body-Shine/23572634
+    ◦ Changed all bodies to Masking #2 except for Slink Hourglass and Inithium Kupra.
+    
+
+▪v7.27 - August 28, 2022:
+    ◦ Fixed glitch with Jake Ass clipping into the body with the seam fixer prim.
+    ◦ Fixed glitch with clipping on Ass state 4 for the Kupra body.
+    
+
+▪v7.26 - July 1, 2022:
+    ◦ Fixed glitch with Jake Ass being mislabeled/missing.
+
+
+▪v7.25 - June 29, 2022:
+    ◦ Cleared out memory from the "E" script due to reported memory crashes.
+        I believe this was somehow broken in the previous update, so hopefully this fix solves the problem, otherwise I'll need to revert to version 7.23.
+        I haven't been able to replicate this glitch on my end so it's possible a 3rd party item is causing the glitch too and spamming the "E" script.
+    ◦ Added the new Maitreya Body Shine script which will also support the Boobs v7 being developed now.  There's also now Body Shine options for Latex.
+    
+
+▪v7.24 - May 23nd, 2022:
+    ◦ Fixed "apply bump" feature for Body Shine.
+    ◦ Fixed "apply normal" feature for Body Shine.
+    ◦ Fixed "apply specular" feature for Body Shine.
+    ◦ Fixed double menu glitch when picking states on the dialogue menu.
+    ◦ Added/replaced Queen of Spades on Butt Plug Tag.
+
+
+▪v7.23 - February 12th, 2022:
+    ◦ Added support for Legacy Male (Regular only).
+        --Athletic doesn't have a dev kit so no suppport yet.
+    ◦ Fixed issue with disappearing upper intestines on wider Ass spread states.
+    ◦ Fixed Tattoos + Prolapse on Stage 12 of Legacy Female.
+    ◦ Changed both Gem buttplugs so the gems are now 33% bigger on most bodies.
+        --Didn't do Freya + Slink + Legacy Male since the fit is too tight.
+        
+
+▪v7.22 - December 29th, 2021:
+    ◦ Added support for Legacy Female (Regular + Perky).
+        Legacy Pregnancy and Male versions are NOT supported.
+
+
+▪v7.21 - November 18th, 2021:
+    ◦ Fixed blocky prim issues with eBody Reborn Ass at stages 9-12.
+    ◦ Fixed eBody Reborn tattoo issues for stages 8 and 10.
+    
+
+▪v7.20 - November 17th, 2021:
+    ◦ Added support for eBody Reborn.
+    ◦ Fixed issue with missing dark skinned Mila skins (tattoo blends).
+    
+    
+
+▪v7.19 - October 1st, 2021:
+    ◦ Remade Body Shine Applier for Kupra + Kups bodies.  I highly recommend you use this new applier since the previous version was very buggy and required a messy work-around solution (this was a bug from Inithium, not me.)  The new Applier is a simple one click solution like other Body Shine Appliers.
+
+
+
+▪v7.18 - September 30th, 2021:
+    ◦ Fixed Jiggly Ass clipping issue with tattoos on stage 7 for Maitreya version.
+
+
+
+▪v7.17 - September 22th, 2021:
+    ◦ Added support for Slink Hourglass.
+    
+
+
+▪v7.16 - August 10th, 2021:
+    ◦ Fixed corrector prim for Jake version clipping oddly.
+    ◦ Fixed [Spread (+)] & [Close (-)] buttons going beyond pose limits.
+    
+    
+
+▪v7.15 - August 9th, 2021:
+    ◦ Added support for Belleza Jake.
+    ◦ Added Jiggly Ass option for Maitreya Ass.  This is toggleable and off by default.  Please read the related notecard in the package for more information.
+    ◦ Fixed issue with Freya prolapse not working for Stage 7.
+
+
+▪v7.14 - July 23rd, 2021:
+    ◦ Added support for Belleza Freya.
+    ◦ Fixed pushed in stage for Beads so the Beads "go all the way in".
+
+
+▪v7.13 - June 25th, 2021:
+    ◦ Fixed glitch with Maitreya anus not working right for Stage 5.
+    
+
+▪v7.12 - June 20th, 2021:
+    ◦ Fixed glitch with Butt Banners not appearing.
+
+
+▪v7.11 - June 19th, 2021:
+    ◦ Fixed glitch with Maitreya anus not working right for Stage 4.
+
+
+▪v7.10 - June 4th, 2021:
+    ◦ Fixed glitch where HUD wouldn't apply glow to Skin.
+    ◦ Fixed glitch where custom anus tattoos wouldn't apply.
+    ◦ Improved Body Shine for Kupra, and added Ass+Vagina version too.  This was part of the Kupra Vagina update too.
+    
+
+▪v7.09 - May 22nd, 2021:
+    ◦ Fixed glitch wear using Butt Plug menu causes Butt Plugs to go grey.  This was broken in the v7.08 update.
+    
+
+▪v7.08 - May 21st, 2021:
+    ◦ Fixed glitch where dialogue menu for butt plugs wasn't working.  This was broken in the v7.07 update.
+
+
+▪v7.07 - May 21st, 2021:
+    ◦ Fixed glitch with material tone changes not updating, and turning butt plugs invisible.
+    ◦ Fixed glitch with MAIN HUD acting odd sometimes after switching from the Tones menu.
+
+
+
+▪v7.06 - May 17th, 2021:
+    ◦ Fixed glitch with anal rings not working right for Kupra version.
+    ◦ Fixed glitch with transparency for anus tattoos not working.
+
+
+▪v7.05 - May 16th, 2021:
+    ◦ Added support for Inithium's Kupra and Kups avatars.
+    ◦ Fixed glitch where poop spawns after teleports sometimes.
+    ◦ Fixed glitch with inability to turn off skin shade after turning it on.  Also optimized the skin shade to match your avatar's skin better.    
+    
+
+▪v7.04 - April 17th, 2021:
+    ◦ Fixed issue of text chatter changes not working.
+    ◦ Added some more Butt Banners.
+
+
+▪v7.03 - April 5th, 2021:
+    ◦ Fixed issue of repeating spanking, whipping, and kissing sound effects.
+    
+    
+▪v7.02 - March 24th, 2021:
+    ◦ Fixed shine of inner intestines and stretched out anal rings.
+    ◦ Fixed Action HUD not being given out.
+    ◦ Fixed Action HUD showing weird selections after Reset.
+    ◦ Fixed Main HUD from not loading DeeTalez European skin.
+    ◦ Fixed issue where "Penetrate" doesn't cycle in the Help+Privacy menu.
+    ◦ Fixed issue where some Interact menus clicked by other people couldn't be blocked.
+    ◦ Fixed incremental order of Shadows.
+    ◦ Fixed glitch where kiss, spank, and slap sounds play when changing spread states of Ass.
+    ◦ Fixed Hide/Show warning chatter.
+    ◦ Fixed bug where Butt Plug... menu has weird description for butt plugs without controllability.
+
+
+
+▪v7.01 - March 21st, 2021:
+    ◦ Fixed Prolapse not working correctly.
+    ◦ Fixed Body Shine appliers not working correctly.  This includes the BoM applier.
+    ◦ Fixed Skin Bumpiness not applying below 50% on Main HUD.
+    ◦ Fixed script bleed when you enable Health mode in Action HUD.
+    ◦ Fixed Vagina actions not working correctly in the Action HUD.
+    ◦ Fixed chatter when enabling a custom Butt Banner.
+    
+
+▪v7.00 - March 20th, 2021:
+    ◦ Ass v7 released for Maitreya with BoM and Omega support.
+
+
+▪v6.00 - November 14th, 2017:
+    ◦ Sensations Anus 4 (Ass v6) released.
+
+    
+▪v5.00 - June 3rd, 2013:
+    ◦ Ass Toys Playset (Ass v5) released.
+
+
+▪v4.00 - August 19th, 2010:
+    ◦ Sculpted Anus (Ass v4) released.
+   
+    
+▪v3.00 - January 8th, 2008:
+    ◦ Sensations Cock series v3 released.  (Ass v3 was built into it).    
+    
+    
+▪v2.00 -  October ‎20, ‎2007:
+    ◦ MKB/Sensations Cock series v2 released.  (Ass v2 was built into it).
+
+    
+▪v1.00 - November 7th, 2005:
+    ◦ Sensations Female/Shemale/Male Box (Ass v1 inside package) released.
+
+
+_________________________________________________________________
+
+How to Make Custom Textures
+_________________________________________________________________
+
+Included in the contents of the ass are literally all of the textures that were used to make the Ass, Full Permissions.  You can alter and edit these in anyway since I consider all of my textures fair use.  Just don't resell them unedited for profit.
+
+
+_________________________________________________________________
+
+Credits
+_________________________________________________________________
+
+Earalia Nolan: Mesh, Programming, Builds, Textures
+Amethyst Rosencrans: Sensations System

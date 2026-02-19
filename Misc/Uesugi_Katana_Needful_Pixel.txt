@@ -1,0 +1,74 @@
+==================================================
+Uesugi Katana [needful PIXEL] (de) 
+==================================================
+
+das katana (刀) [ka.ta.na] ist eine form des japanischen schwert
+(日本刀, nihontō), oft auch „samurai schwert“ genannt. es ist das normal
+ große, leicht gebogene schwert und hat eine länge größer als 60cm.
+
+das uesugi katana ist eine spellfire v4.0 "zweihandschwert" gescriptete waffe.
+
+genauigkeit: 8 | schaden: 7 | reichweite: 2 | geschwindigkeit: 6
+
+das paket enthält:
+
+    )<SF>( 2H Sword Draw (F5)
+        geste um die waffe zu ziehen
+
+    )<SF>( 2H Sword Sheath (F6)
+       geste um die waffe weg zu stecken
+        
+    )<SF>( Uesugi Katana 2H v4.0 (left pec)
+        getragene version -  angezogen an "pec" (standard)
+
+    )<SF>( Uesugi Katana 2H v4.0 (right hand) 
+        gezogene version - angezogen an "right hand" (standard)
+
+    )<SF>( 2H Sword Hud - optional (bottom left)
+        ein hud zum ziehen / wegstecken der waffe
+    
+    )<SF>( Uesugi Katana 2H - Decoration to Rezz
+        katana als dekoration zum rezzen (70 Prims!)
+        
+==================================================
+􀀀
+
+
+
+
+
+==================================================
+Uesugi Katana [needful PIXEL] (en) 
+==================================================
+
+the katana (刀) is a type of japanese sword (日本刀, nihontō), also commonly
+referred to as a "samurai sword", and generally defined as the standard size
+moderately curved japanese sword with a blade length of greater than 60 cm
+(23.6 inches).
+
+the uesugi katana is a spellfire v4.0 "two handed sword" scripted weapon.
+
+accuracy: 8 | damage: 7 | range: 2 | speed: 6
+
+the package contains:
+    
+    )<SF>( 2H Sword Draw (F5)
+        gesture to draw the weapon
+
+    )<SF>( 2H Sword Sheath (F6)
+        gesture to sheath the weapon
+        
+    )<SF>( Uesugi Katana 2H v4.0 (left pec)
+        sheath version - default worn on "pec"
+
+    )<SF>( Uesugi Katana 2H v4.0 (right hand) 
+        drawn version - default worn on "right hand"
+
+    )<SF>( 2H Sword Hud - optional (bottom left)
+        a hud to draw / sheath the weapon
+    
+    )<SF>( Uesugi Katana 2H - Decoration to Rez
+        katana to rez as decoration (70 Prims!)
+
+==================================================
+􀀀

@@ -1,0 +1,17 @@
+This relay is meant to be dropped in "The V" made by Session Skins (Anj4) so you can use Sensations Body Shine on it.
+
+I'm aware some people prefer the "The V" design over my vagina, but still choose to use the Ass v7 and/or Boobs v7, so I made this.
+
+Drop the script inside the root prim, after you've rezzed it on the ground.  Then just use a Sensations Body Shine applier and it should work.
+
+
+
+
+
+
+
+To change Blend Mode for the Skin say:
+/9 masking 0      (None)
+/9 masking 1      (Alpha Blended)
+/9 masking 2      (Alpha Masking)
+/9 masking 3      (Emissive Masking)
