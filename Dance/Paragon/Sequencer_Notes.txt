@@ -1,0 +1,28 @@
+Sequencer Settings 􀀁
+- You can setup your sequences even with RLV disabled
+- Important: Make sure you have media enabled.
+- Click sequencer settings icon - NOTE: This is a media prim, we always have to click it once anywhere in its area, before we can operate its web page
+- Click a set on the top row to edit (you can only save 1 set at a time)
+- Make sure to write a name for your set in the input box
+- Add dances by the order you want them to play
+- Set the duration in seconds. (Refer to product notecard or click on an animation and look at it's description for exact duration). 
+- Click save. (Saving only saves the current active set)
+- Use side scrolling on the top to choose from Set 1 to Set 20
+
+Max seconds per dance: 9999 (advised less than 60 seconds)
+Max dances to sequence: 75
+If you add a lot of dances in a set, use your mouse scroll to keep viewing down
+Sequencer will remember all sequences even if the HUD is updated
+
+Sequencer Playlist 􀀀
+- First, you have to click the 'play' icon and choose a dance, or dance with your partner
+- Then, Click "SEQUENCED PLAYLIST' button
+- Choose a set you previously saved.
+- The sequence will play your saved set ordered dances with the duration in seconds you defined when making the set on webmedia
+- The "SEQUENCED PLAYLIST' button also can 'Shuffle' to randomize the set order, or sequence all dances you have inside the HUD
+- The navigation panel in the HUD itself allows you to skip previous, play/pause or skip to next dance
+
+Limitations:
+- Notecards, animations and Set Names should not have 3 asterisks together '***'
+- Special characters in Set Names should be avoided, text-only advised.
+- When in Singles mode, couples dances won't play and vice-versa, so keep your sets labeled and filled with the same dance types. I.e.; Set 'Romantic' only contains couple dances
