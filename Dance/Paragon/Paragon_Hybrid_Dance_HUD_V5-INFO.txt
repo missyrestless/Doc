@@ -1,0 +1,76 @@
+★ Make sure BOTH your viewer and your partner's viewer is RLV enabled❕‼
+
+✅ Owner must wear:
+'Paragon Dance HUD Main' (includes 3 sizes, S, L and XL)
+✅ Dance partner must wear:
+'Paragon Dance HUD Partner' (it's transferable)
+
+Paragon Couples Dance HUD functions: 
+
+⦿ Paragon logo is the Hide/Show HUD button.
+
+⦿ "MAIN MENU' button: 
+0: Rotate & 3rd Party Adjust
+        Rotate' button - Useful for dances that are facing the same way. Press 'Right' or 'Left' to turn both avatars in the desired direction.
+        'VISTA' button - automatically align VISTA brand dances.
+        5º button - toggle the amount of the angle to rotate.
+        Me180º and Partner180º - flip the way me or my partner are facing
+        Other buttons - rotate manual and individually the avatars.
+        Paragon Dance HUD controls the HOVER of the tallest avatar. and you can manually change any of the avatars' positions during the dance by clicking the 'XYZ PANEL' button on the far right
+        The 'SAVE' functionality of the 'XYZ panel will also save the current rotation except 'BothLeft' and 'BothRight' buttons.
+1: DELETE Single/Couple Dances
+        Since HUD can't be modify, use this function to delete dances (one by one)
+2. RESET All Saved Positions
+        Deletes all saved that for couples positions
+3. Purchase more Couples Dances
+        Teleports to Mainstore
+4. About Paragon Dance Animations 
+        Paragon Dance Animations BIO
+5, Factory Reset
+        Resets all scripts without deleting any saved data like couples positions or dances or sequences
+6, Dialog Control
+        Chose to keep dance list menu open or closed when choosing dances
+
+⦿ 'SWAP' button:
+Swaps who is Lead and who is Follow in the dance. 
+*Important* This function only works during Couples Dancing, however, it remembers it's last state on next couple dances even if the HUD is detached.
+
+⦿ 'PLAY' button:
+    Select 'Singles' or 'Couples'
+    
+     Singles:
+     ① Choose a dance to start solo dancing
+     ② Use 'play' to invite friends to dance and 'stop' to remove them.
+
+     Couples:
+     ① Scans for nearby users that have 'Paragon Dance HUD Partner attached'. 
+     ② After choosing your dance partner, it gives a playlist to select all animations that are loaded  
+
+⚠️Make sure to the path between the two avatars is clear and terrain is flat. (also avoid very low ceilings)
+⚠️Turning off AO's or other movement animations is recommended. 
+
+⦿ "PLAYLIST' button
+After clicking 'Play', use this to show the selection menu of all available dances. 
+
+⦿ "SEQUENCER' button
+Will bring the Sequencer Settings page (need media activated)
+
+⦿ "SEQUENCED PLAYLIST' button
+This button will give you a dialog to pick the a Set you previously configured in 'SEQUENCER' button
+This is also where we can Sequence all dances alphabetically and shuffle this or any sequence.
+
+⦿ 'STOP' button:
+Singles:
+Gives a list of avatars to remove from the dance. If there are no invited avatars, stops the owner. StopAll stops everyone, RemoveAll, stops everyone except owner. The dancers can also type /99stop to remove themselves from dancing.
+Couples:
+Stops animation and resets positions and scripts.
+⚠ To avoid wonky behavior, STOP the dances before detaching/teleporting, etc.
+
+⦿ 'RESYNC' button:
+If the animations go out of sync, this button will restart the animations in both Singles and Couples
+
+⦿ 'XYZ PANEL' button:
+Will open a new window on the left to adjust avatars' positions and save them
+
+Enjoy,
+- Paragon Team
