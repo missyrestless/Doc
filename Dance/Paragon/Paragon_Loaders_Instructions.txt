@@ -1,0 +1,37 @@
+Welcome,
+NOTE: You only have to create the loaders once, if you get a hud redelivered or an update, you can use the same ones previously made for fast setup.
+NOTE2: If a loader was previously loaded, it will prompt if you want to replace or unload. Unload is a fast way to undo the loading.
+
+SINGLE DANCES
+➊ Rez Paragon Loader Single Dances v4 on the floor and drag and drop your single dances in its contents
+➋ Wear the Loader HUD while Paragon Hybrid HUD Main is attached, and click it.
+➌ The couples dances will automatically load into the HUD.
+
+COUPLES DANCES - PARAGON BRAND
+➊ If you previously purchased a couples dance pack or a single couples dance, you will be auto-delivered a Loader HUD through caspervend. 
+-- If you have not received a loader hud for any purchased couples dance, please check the redelivery terminal. 
+-- If the loader is not in the caspervend redelivery terminal, please send a notecard to jnakagawa resident. 
+➋ Wear the Loader HUD while Paragon Dance HUD Main is attached.
+➌ The couples dances will automatically load into the HUD.
+
+COUPLE DANCES - 3RD PARTY
+- each dance much include 3 items:
+1 - Male animation
+2 - Female animation
+3 - A notecard named as the dance name, with both the animations name inside
+see pics below:
+􀀁
+􀀀
+
+- ATTENTION: Notecard animation names must be written on the lines as shown above.
+
+How to prepare the Dance Loader
+➊ - rez Paragon Loader Couples Dances on the floor
+➋ - drop the dances and the notecards in its contents (can put several dances at once)
+➌ - rename notecard as you want it to show in the dance list menu (We recommend the dance name), and replace the male and female inventory names on the notecard on the 2nd and 4th line of the notecard
+
+Note for creators:
+- If you are a creator and wish to do animations compatible with Paragon Couples Dance HUD to sell inworld, please contact jnakagawa resident
+
+Best regards,
+Paragon Team
