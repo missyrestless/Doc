@@ -1,0 +1,37 @@
+Quick Start:
+
+Rez one of the SasTech Rezday Reminder objects - either the 1 prim or 36 prim "cake" version.
+
+Edit the .Settings card inside the Rezday Reminder. The warning_time setting tells the reminder roughly how many hours before 12:01am on the person's rezday you want a reminder to be sent. By default (0) the Rezday Reminder will IM you some time before midnight on the day of the person's rezday, so you'll get the IM that day (which may go offline to your email as well if you have that set).
+
+Note that you can add multiple warning_time settings to receive multiple notices at different times.
+
+You can also add/remove the "other_reminder" settings for other dates and holidays you don't want to forget, like your anniversary :)
+
+Save and close then edit the .Names notecard. Simply add names, one per line, for the people you want to be reminded about. NOTE these names MUST be legacy ("old") names NOT account names or display names. A last name of "Resident" is optional, you can leave it off.
+
+If you are running the Phoenix viewer, I have set up a simple way to dump your entire friends list into your .Names notecard. Simply go to http://sasun.info/extractnames.aspx for a list of instructions on how to get your entire friends list out of your viewer.
+
+Save your notecard and let it load up all the names - it could take a while for huge lists so be patient :)
+
+NOTES
+NEW for 1.32, avatar names no longer require "Resident" as a last name (the notecard can just have their first name in that case).
+
+NEW for 1.3! Added automatic retries if there is a problem with the name2key service, so processing long lists of names is now more reliable.
+
+NEW for 1.2! Now you can use the logonNotify setting to be notified on logon if someone's rezday is coming, depending on your warning_time settings. Notices for logon work a little differently, if you set a warning_time to be for example, 168 hours (one week) then every time you log in you will be reminded of anyone's rez day coming up within the next 168 hours. This is different from the normal IM reminders, they will only be sent ONCE for each warning_time setting you have in your settings.
+
+Also new for 1.2 is the logonNotifyList setting, which will give you an automatic listing of the next 10 rez days on logon. You might want to use either the logonNotify or the logonNotifyList setting, not both - but it's up to you!
+_____
+
+The Rezday reminder checks for new versions whenever it is rezzed - there is no manual way to do that, so if you'd like to see if there's a new version available, just pick it up and re-rez it.
+
+The SasTech Rezday Reminder uses a custom key lookup service that I wrote. It is way more reliable than some 3rd party service that I have no control over. It uses both an internal database of keys and a key lookup from secondlife.com so it NEVER fails to find someone's key unless that avatar's account has been suspended or deleted. If you get a message that it could not find the key for any names in your .Names card, do a search at http://search.secondlife.com on that name to see if you can find them. If you can't, they are probably suspended or deleted. You can ignore any bad names, they will be skipped. And it might be high time for a friends list cleaning :)
+
+The SasTech Rezday reminder looks up avatar keys ONCE only, so it runs fast once all the keys are loaded into memory. Less sim lag that way.
+
+There is no hard limit on the number of names you can load. If you have a huge friends list, you may need to experiment by trial and error what  the actual limit is. You will be spammed with warnings if available script memory gets too low - in that case you may need to rez two reminder boxes and split your friends list in two. If you ever receive a script error due to running out of memory, you may need to reset the scripts and reduce the size of your .Names list.
+
+All dates and times are converted to SL local time. So even though your local time may be a different day, that is ignored, the current SL date/time is used in all cases.
+
+If you have any questions or have any suggestions, let me know! IM Sasun Steinbeck and I'll get back to you as soon as I can.
