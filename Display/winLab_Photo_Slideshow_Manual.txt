@@ -1,0 +1,123 @@
+═════════════════════════════
+       ---  Photo Slideshow  ---       
+═════════════════════════════
+ winLAB Technologies, 2020 April
+
+
+
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ ADD PHOTOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+• To add photos in the Photo Slideshow, you must simply add them in its content tab.
+
+  - There are no limits to the number of pictures and you can add as many photos as you want.
+  - The photo name will be displayed in the public menu, pay attention how you name them.
+  - The photos you want to add must be COPY and TRANSFER.
+
+Once you have added all your photos, the Photo Slideshow is ready to be used.
+
+
+• If you want to use the Photo Slideshow in a professional way, by displaying in the public menu a link 
+associated to the photos shown, you must fill in the internal notecard. You will find below some examples 
+that will help you to understand how to fill in the notecard and an image that shows you the final result, that is, 
+how the public menu will be displayed by users.
+
+  - How to fill in the notecard. Example: 􀀏
+  - How the public menu is displayed: 􀀎
+
+  ━━ EXAMPLE 1 ━━   Add a link to your profile (or to a profile of another avatar):
+    PHOTO_NAME  |  Taken by secondlife:///app/agent/AVATAR_UUID/about
+
+
+  ━━ EXAMPLE 2 ━━   Add a SLurl to your land (or any other place):
+    PHOTO_NAME  |  Visit this place ➤  SLURL
+
+
+  ━━ EXAMPLE 3 ━━   Add a link to a photo on your Flickr (or any other website):
+    PHOTO_NAME  |  See on Flickr ➤  [URL_ADDRESS PHOTO_NAME]
+
+
+  ━━ EXAMPLE 4 ━━   Add a link to a YouTube video (or any other multimedia content):
+    PHOTO_NAME  |  Watch video on YouTube ➤  [URL_ADDRESS VIDEO_NAME]
+
+
+  ━━ EXAMPLE 5 ━━   Add a link to your Marketplace:
+    PHOTO_NAME  |  Buy this product on the [URL_ADDRESS Marketplace]
+
+
+  ━━ EXAMPLE 6 ━━   Add a link to your store / club (like a SLurl but with parcel name instead of region name)
+    PHOTO_NAME  |  See in the in-world store secondlife:///app/parcel/PARCEL_KEY/about
+
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SLIDESHOW CONSOLE MENU
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+• This menu can be made available to everyone. Here you can find the control buttons to slide the 
+pictures (◀◀  ▶▶), and those to play and pause the entire slide show (▶ ▮▮). Furthermore, the name 
+of the photo displayed in that moment is shown in the pop-up menu.
+
+
+• In addition to the control buttons here above described, the owner will be able to see in the menu 
+the "Preferences" button.
+
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  PREFERENCES MENU
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+• ACCESS
+ - Owner →  Only you have access to the Console Menu
+ - Public →  Everyone has access to the Console Menu and can scroll through the photos. They can see 
+   and use these buttons only: ◀◀ ▮▮ ▶▶
+ 
+ 
+• RANDOM MODE
+ - Random  →  Show photos in random order
+ - No Random  →  Show photos in progressive order
+ 
+ 
+• SHOW LEDS
+ - Show →  Show glowing leds
+ - Hide →  Hide glowing leds
+ 
+ 
+• BRIGHT SCREEN
+ - Bright On →  Photos will be clearly visible also at night
+ - Bright Off →  Remove the Photo Slideshow brightness
+ 
+ 
+• DISPLAY TIME
+ In this menu you can select the display time to set the lasting time of the photos shown (suggested: 10 sec)
+ 
+ 
+• RESIZE
+ In this menu you can resize the slideshow screen
+ 
+ 
+• POWER OFF
+ Turns off the Photo Slideshow
+
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ FIX
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+• If the Slideshow is placed in a open space and you look at the images far away from it, the pictures could 
+flicker. To solve this problem you simply have to slightly increase the thickness of the Z-axis of the Slideshow, 
+through the Edit Panel of the viewer.
+
