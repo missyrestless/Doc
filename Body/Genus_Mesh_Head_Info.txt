@@ -1,0 +1,47 @@
+----------------------------------------------------
+
+GENUS MESH HEAD INFORMATION
+
+----------------------------------------------------
+
+All packs include:
+
+- Bento Mesh Head
+- Regular and 4K Skin Appliers
+- BOM Skin and Make-up (4K and regular)
+- Default Shape
+- Eyebrow Shape
+- Eyes (rigged/unrigged)
+- Teeth/Tongue
+- Setting Universal HUD 
+- Mocap Animations HUD
+- Alpha Head
+- Alpha Eyes 
+- Alpha Body
+- Alpha Head+Body
+- Alpha Eyes+Body
+- Redelivery HUD
+- Animations Gestures
+- Voice Detection
+
+--------------------------------
+HOW TO WEAR IT:
+--------------------------------
+
+1. Wear your Genus Head, eyes, teeth/tongue, default shape and the alpha layer.
+
+2. Attach the Genus Universal HUD and Genus Animations HUD.
+
+3. Pay attention, for the correct head view you should wear default shape. After it you can modify Shape.
+
+4. Bakes on Mesh is a feature to allow system avatar baked textures to be shown on mesh attachments. Please make sure your viewer supports BOM system.
+
+5. To activate the BOM for your Genus head you must choose which option you want to use - 4K or Regular head. If you are using 4K bom, then you need to press the 4K button and then select the BOM button of the universal hood. To switch to a regular bom, you need to turn off the 4k bom, turn off the 4k head and then simply press the bom button.
+
+6. If you see a red head after activating the BOM or transparent pieces of the head, then for correctly display the textures, you need to remove the alpha layer from the avatar's head.
+After that, you can use the system textures for your head.
+
+ 7. If you use a ordinary skin applier, the head will no longer be BOM activated. To activate BOM you must repeat point 5.
+
+8. Body Skin: You need to purchase VELOUR Body Skins at Velour mainstore to match the Genus 4K skin
+
