@@ -12,9 +12,9 @@ FEATURES
 • Optional underwater lights for stunning reflections
 • Dives and jumps with realistic splash sound effect
 • Matching travertine tiles for patios & walkways & pool surrounds
+• Phatpussy, Aeros Obsdian and the Physics Cock compatible
 • PBR textures for ultra-realistic detail
 • Bento hand poses and subtle facial expressions
-• Compatible with Aeros and The Physics Cock (Adult version)
 • Lovense Sex Toy compatibility (Adult version)
 • AVsitter Experience enabled
 • 100% original mesh, Mod/copy/no transfer
@@ -72,12 +72,6 @@ Additionally, two large, texturable prims with a rectangular cutout assist with 
 
 -----
 
-PLEASE READ: BUG WHERE THE WATER TEXTURE STOPS
-
-A known animated texture bug may cause the water animation to stop for some users. Firestorm and Linden Lab are working on a fix. If this happens, simply right-click on the water, and it will start again.
-
------
-
 LOVENSE SEX TOY COMPATIBILITY
 
 You can connect your real-life Lovense sex toy to our Second Life sex furniture. When you play a masturbation, FP, or sex animation, your Lovense sex toy will vibrate. And you have full control over the intensity.
@@ -112,9 +106,15 @@ Follow these steps before each play session:
 
 -----
 
-AEROS AND THE PHYSICS COCK
+PHATPUSSY SUPPORT
 
-If one of the players is wearing an Aeros or The Physics Cock, this furniture can automatically rotate it to the best position for the played animation.
+Selected animations automatically adjust PhatPussy to the appropriate state when worn, ensuring visual consistency without manual adjustment.
+
+-----
+
+AEROS OBSIDIAN & PHYSICS COCK
+
+When worn, Aeros Obsidian or a Physics Cock will automatically align to the animations, allowing natural interaction without manual repositioning.
 
 -----
 
@@ -122,6 +122,13 @@ BENTO HANDS AND MODEST FACIAL EXPRESSIONS
 
 All animations in this design have Bento hand poses and modest facial expressions.
 
+-----
+
+NO AUTO-ASSIGN VERSION
+
+The standard swimming pool uses automatic sex assignment and is optimized for two couples. The No Auto-Assign version does not use automatic sex assignment and allows any avatar combination, for example multiple male or multiple female avatars.
+
+Important: Device support is designed for the standard couple positions. If you sit on a position not intended for your avatar type, PhatPussy, Aeros Obsidian and Physics Cock will not trigger automatically. In that case you may need to adjust tilts or states manually.
 
 -----
 

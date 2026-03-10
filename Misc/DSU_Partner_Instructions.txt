@@ -1,0 +1,26 @@
+(DSU) PARTNER ACCESS - INSTRUCTIONS
+==========================
+
+ADDING PARTNERS
+---------------------
+1. Wear the Partner Access HUD (menu opens automatically)
+2. Click "Add Nearby" to see nearby people, or "Add UUID" to paste a key
+3. Select who you want to add
+4. Remove the HUD when done
+
+CONTROLS FOR YOU AND PARTNERS
+-----------------------------------------
+• Tap = toggle dress/undress
+• Hold 2 seconds = hide outfit
+• Tap while hidden = show outfit again
+
+NOTES
+--------
+• Partner list is saved - no need to re-add after relog
+• Partners cannot add/remove other partners - only you can
+
+REMOVING PARTNERS
+------------------------
+1. Wear the Partner Access HUD
+2. Click "Remove" and select who to remove
+3. Or click "Clear All" to remove everyone
