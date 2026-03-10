@@ -1,0 +1,78 @@
+__________________________________________________________
+
+Ultima HUD Add-On Wall Walker
+__________________________________________________________
+
+Created by Taisha Emerald
+www.magic-emerald.com
+
+Mainstore :
+􀀔
+Combat region :
+􀀓
+__________________________________________________________
+[DESCRIPTION]
+
+This Wall Walker add-on allow you to walk on any surface, such as vertical walls, cells and impress your friends !
+
+__________________________________________________________
+[OPTIONAL RLV ENABLED VIEWERS ENHANCEMENTS]
+
+This spell is RLV (Restrained Life Viewer) compatible and offers many advantage if you have RLV active, it allow you to auto sit.
+
+To enable RLV on FireStrom :
+Viewer -> Preferences -> Firestorm (General tab) -> Check the "Allow Remote Script Viewers Controls (RLVa)" box (the first box)-> Apply -> Ok.
+Then relog to get it effective.
+__________________________________________________________
+[SET UP]
+
+IMPORTANT : Be sure to be in a rez and script allowed area and wear the latest version of Ultima HUD
+
+Rez the object "*Ultima HUD* Add-On - WallWalker" included in this package and TOUCH IT to transfer its contents to your Ultima HUD.
+Once the new features are added to your HUD, touch again the device to delete it. Keep the copy of your device in you inventory.
+
+Now you can access to the new features added by clicking the HUD + button (just under its logo), this add-on will be listed in "Misc" chapter.
+__________________________________________________________
+[FEATURES DETAILS & USAGE]
+
+▶ WallWalker ◀ 
+
+Select it to create an arcane circle at your feet. If you have an RLV enabled viewer, sit is automatic, if not simply click on the arcane circle to sit on it.
+
+▶ Commands ◀ 
+
+While sitting on the Wall Walker :
+- Use your arrow keys to walk.
+- Double tap forward key to run.
+- Press page up to jump.
+
+▶ Adjust Z position ◀ 
+
+The Z position of your avatar will adjust automatically depending your size, but in the case of your wear hells or platform shoes it sometimes requires a more precise adjustment. To do that enter the desired value in meters on channel 1 in the local chat. Example to adjust up the Z position of 12 cm. :
+Type "/1 0.12" in your local chat.
+
+▶ Stop ◀ 
+
+In case of you don't yet sit on the arcane circle, click the STOP button of your HUD to delete it. If you already sit on it, simply stand to remove it.
+
+__________________________________________________________
+[ADVANCED USERS]
+
+You can customize your Wall Walker animations, to do that first disable RLV if you have it enabled (and relog). Then prepare your animations, select a stand animation, a walk, a jump and a run animation and rename each of them WALK, RUN, STAND and RUN (you must have full permissions over these animations)
+Now rez the Wall Walker from the HUD and edit it, first un-check "Temporary" in the Object tab, go content tab and remove the existing animations from its content and replace them by yours.
+While done, take back the Wall Walker in your inventory.
+Click the + button of your Ultima, then select *DELETE* and then the existing Wall Walker in the list to remove it from your add-ons.
+Now click the TOOLS button on your Ultima HUD and select "Rez Add-on Device", edit the emerald crystal and drop your modified Wall Walker in its content.
+Finally click the crystal to transfer your custom Wall Walker to the HUD.
+
+__________________________________________________________
+[SUPPORT]
+
+If you have any questions or experience an issue with this item, please contact Taisha Emerald, we'll get back to you as soon as possible.
+
+__________________________________________________________
+[MORE]
+
+You can find more Magic Emerald products at our in-world main-store or in our SL Marketplace web store at :
+
+https://marketplace.secondlife.com/stores/44610?

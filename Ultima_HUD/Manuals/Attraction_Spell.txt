@@ -1,0 +1,43 @@
+__________________________________________________________
+
+Ultima HUD ADD-ON - Attraction Spell
+__________________________________________________________
+
+Created by Taisha Emerald
+October 2017 version
+www.magic-emerald.com
+
+Mainstore :
+􀀔
+__________________________________________________________
+[SET UP]
+
+IMPORTANT : Be sure to be in a rez and script allowed area and wear the latest version of Ultima HUD
+
+Rez the object "*Ultima HUD* Add-On Attraction Spell" included in this package and TOUCH IT to transfer its contents to your Ultima HUD.
+Once the new features added to your HUD, touch again the device to delete it. Keep the copy of your device in you inventory.
+
+Now you can access to the new features added by clicking the HUD + button (just under its logo), this add-on will be listed in "Spells" chapter.
+__________________________________________________________
+[FEATURES DETAILS & USAGE]
+
+▶ Cast the spell ◀ 
+Click the + button of your Ultima HUD and select the "Spells" chapter, then click on "AttractionSpell", then select a target in the dialog box.
+Please note that you can select multiple targets, to do that click the FX around you, and select a new target.
+
+▶ Details ◀ 
+Once you selected a target (avatar or physical object), it will be trapped into a lighting sphere and attracted close to you, without distance limits, it will works even in no-push areas.
+
+▶ Stop ◀ 
+To end the spell, simply click the "STOP" button of your Ultima HUD.
+__________________________________________________________
+[SUPPORT]
+
+If you have any questions or experience an issue with this item, please contact Taisha Emerald, we'll get back to you as soon as possible.
+You can also start a live chat at https://tawk.to/taisha.emerald
+__________________________________________________________
+[MORE]
+
+You can find more Magic Emerald products at our in-world main-store or in our SL Marketplace web store at :
+
+https://marketplace.secondlife.com/stores/44610?

@@ -1,0 +1,42 @@
+__________________________________________________________
+
+Ultima HUD ADD-ON - Flying Crows Summon
+__________________________________________________________
+
+Created by Taisha Emerald
+www.magic-emerald.com
+
+Mainstore :
+􀀔
+__________________________________________________________
+[SET UP]
+
+IMPORTANT : Be sure to be in a rez and script allowed area and wear the latest version of Ultima HUD
+
+Rez the object "*Ultima HUD* Add-On - Flying Crows" included in this package and TOUCH IT to transfer its contents to your Ultima HUD.
+Once the new features added to your HUD, touch again the device to delete it. Keep the copy of your device in you inventory.
+
+Now you can access to the new features added by clicking the HUD + button (just under its logo), this add-on will be listed in "Spells" chapter.
+__________________________________________________________
+[FEATURES DETAILS & USAGE]
+
+▶ Cast the spell ◀ 
+Click the + button of your Ultima HUD and select the "Spells" chapter, then click on "Crows" to summon hundred of flying crows that will follow you around.
+
+▶ Options ◀ 
+As soon as the crows appear, a dialog box will pop up to ask you how the crows should act.
+By default the crows are following you, but you can also wear them by selecting "Attach" or transform them into a static decorative object by selecting "Static" in the menu.
+
+▶Stop ◀ 
+Simply click the "STOP" button of your HUD. Also, if you leave the region, the crows will die by themselves.
+
+*Technical Note*
+Low lag & low scripted, no particles used, and only 1 script of 11Kb memory, even if there's lot of smoothly animated crows around you, this spell is low prim count (8 prims land impact) using textures animation.
+__________________________________________________________
+[SUPPORT]
+If you have any questions or experience an issue with this item, please contact Taisha Emerald, we'll get back to you as soon as possible.
+__________________________________________________________
+[MORE]
+You can find more Magic Emerald products at our in-world main-store or in our SL Marketplace web store at :
+
+https://marketplace.secondlife.com/stores/44610?

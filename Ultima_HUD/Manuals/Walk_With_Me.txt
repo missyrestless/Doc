@@ -1,0 +1,33 @@
+__________________________________________________________
+
+Ultima HUD ADD-ON - Walk With Me 1.0
+__________________________________________________________
+
+Created by Taisha Emerald
+www.magic-emerald.com
+
+Mainstore :
+􀀔
+__________________________________________________________
+[SET UP]
+
+IMPORTANT : Be sure to be in a rez and script allowed area and wear the latest version of Ultima HUD
+
+You can access to the new features added by clicking the HUD + button (just under its logo), this new add-on will be listed in the "Misc" chapter.
+__________________________________________________________
+[FEATURES DETAILS & USAGE]
+
+▶ Walk With Me ◀ 
+Click the + button of your Ultima HUD, select the "Misc chapter and click on "WalkWithMe", wait few seconds and select the name of the person of your choice in the dialog box.
+Now you can walk or un around, the person will walk close to you. If you wish to use the optional hold animation, simply grant permissions by clicking "Yes" in the next dialog pop up.
+
+▶ Stop ◀ 
+Click the "STOP" button of your Ultima HUD, that's all.
+__________________________________________________________
+[SUPPORT]
+If you have any questions or experience an issue with this item, please contact Taisha Emerald, we'll get back to you as soon as possible.
+__________________________________________________________
+[MORE]
+You can find more Magic Emerald products at our in-world main-store or in our SL Marketplace web store at :
+
+https://marketplace.secondlife.com/stores/44610?

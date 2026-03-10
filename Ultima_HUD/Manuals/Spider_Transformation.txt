@@ -1,0 +1,40 @@
+__________________________________________________________
+
+Ultima HUD ADD-ON - Spider Transformation Spell
+__________________________________________________________
+
+Created by Taisha Emerald
+Updated January 2017
+www.magic-emerald.com
+
+Mainstore :
+􀀔
+__________________________________________________________
+[SET UP]
+
+IMPORTANT : Be sure to be in a rez and script allowed area and wear the latest version of Ultima HUD
+
+Rez the object "*Ultima HUD* Add-On - Spider Transform Spell" included in this package and TOUCH IT to transfer its contents to your Ultima HUD.
+Once the new features added to your HUD, touch again the device to delete it. Keep the copy of your device in you inventory.
+
+Now you can access to the new features added by clicking the HUD + button (just under its logo), this add-on will be listed in "Spells" chapter.
+__________________________________________________________
+[FEATURES DETAILS & USAGE]
+
+▶ Cast the spell ◀ 
+Click the + button of your Ultima HUD and select the "Spells" chapter, then click on "SpiderTransform" to create an arcane circle at your feet and click it to sit on it and start transformation. Please note that if you have a RLV enabled viewer, sit is automatic.
+
+▶ Controls ◀ 
+While you'll sit on the arcane circle, you'll be transformed into a scary spider, simply use arrow keys to move around, use page up (or E) to jump. 
+You can climb on any surface, even vertical walls !
+
+▶Stop ◀ 
+To get back to your normal shape DO NOT stand, instead click the "STOP" button of your HUD, or touch the spider.
+__________________________________________________________
+[SUPPORT]
+If you have any questions or experience an issue with this item, please contact Taisha Emerald, we'll get back to you as soon as possible.
+__________________________________________________________
+[MORE]
+You can find more Magic Emerald products at our in-world main-store or in our SL Marketplace web store at :
+
+https://marketplace.secondlife.com/stores/44610?

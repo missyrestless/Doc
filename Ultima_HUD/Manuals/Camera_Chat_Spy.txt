@@ -1,0 +1,55 @@
+__________________________________________________________
+
+Ultima HUD Add-On Camera Chat Spy
+__________________________________________________________
+
+Created by Taisha Emerald
+www.magic-emerald.com
+
+Mainstore :
+􀀓
+Combat region :
+􀀔
+__________________________________________________________
+[DESCRIPTION]
+
+The Camera Chat Spy add-on allow you to listen people's chat from your camera position !
+
+__________________________________________________________
+[SET UP]
+
+IMPORTANT : Be sure to be in a rez and script allowed area and wear the latest version of Ultima HUD
+
+Rez the object "*Ultima HUD* Add-On - Camera Chat Spy" included in this package and TOUCH IT to transfer its contents to your Ultima HUD.
+Once the new features are added to your HUD, touch again the device to delete it. Keep the copy of your device in you inventory.
+
+Now you can access to the new features added by clicking the HUD + button (just under its logo), this add-on will be listed in "Misc" chapter.
+__________________________________________________________
+[FEATURES DETAILS & USAGE]
+
+▶ CamSpy ◀ 
+
+Select it to rez the Camera Chat Spy, then grant permissions to track camera.
+Once permissions granted the chat spy will follow you camera position, simply zoom at desired persons to listen their local chat.
+
+▶ Stop ◀ 
+
+Simply click the STOP button of your HUD to delete the camera chat spy and stop to listen the chat.
+
+__________________________________________________________
+[TOS COMPLIANCE - DISCLAIMERS]
+
+According to the Second Life terms of service (TOS) privacy chapter, it is not allowed to listen other residents chat without their consent.
+Even if there is few ways to detect such chat relay, we strongly recommend you to ask permission of the interested persons prior to listen their chat from a distant position. Use this device in an other way is at your own risks and responsibility.
+__________________________________________________________
+[SUPPORT]
+
+If you have any questions or experience an issue with this item, please contact Taisha Emerald, we'll get back to you as soon as possible.
+
+__________________________________________________________
+[MORE]
+
+You can find more Magic Emerald products at our in-world main-store or in our SL Marketplace web store at :
+
+https://marketplace.secondlife.com/stores/44610?
+
