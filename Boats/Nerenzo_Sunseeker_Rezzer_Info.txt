@@ -1,0 +1,60 @@
+Hi,
+this is an overview how to use the rezzer:
+=======================================
+
+A) ADJUST
+
+to ADJUST the position where the boat rezzes please:
+
+1) click on the sign/rock and select "adjust pos"
+2) a red boat will rez - position this boat wherever you want within a range of 10 meters 
+3) if you closed the menu from the rezzer click the sign again, select "get data"
+4) copy the 3 lines from the local chat - click "kill boat"
+5) click with your RIGHT mousebutton on the rezzer and go to the tab content
+6) open the NC called "config"
+7) scroll down to the end of the NC, delete the old rotation/position and paste your new one
+8) save the NC
+9) IMPORTANT -> click the sign/rock and select "read NC"
+=======================================
+
+B) PERMISSION
+
+to change the PERMISSION who can rezz the boat:
+
+1) click with your right mousebutton @ the sign/rock
+2) go to the tab "content"
+3) scroll down to the line "access_type="
+4) change from public to either "owner" or "group"
+5) save the NC
+6) IMPORTANT -> click the sign and select "read NC"
+
+special settings: you can also allow specific avatars to rezz the boat:
+1) change the permission to "owner"
+2) add the line "add_avatar=" under the line permission
+3) copy past the avatar UUID; you can find in the profile of your friend after the "="
+4) example, if you want me to be added, the line would be "add_avatar=8237b75c-b3b0-4fe1-9a3f-2e14eb5ab339"
+5) the count of this command is "almost without a limit". BUT: set ANOTHER LINE for every avatar
+=======================================
+
+C) DENIED MESSAGE
+
+to set a new "DENIED MESSAGE" 
+
+1) click with your right mousebutton @ the sign/rezzer
+2) go to the tab "content"
+3) scroll down to the line "denied_message="
+4) change the text
+5) save the NC
+6) IMPORTANT -> click the sign and select "read NC"
+=======================================
+PLEASE NOTE:
+-) every person other than the owner does not get a menu from the rezzer, the boat will be rezzed by touch.
+-) each boat will derezz (simwide) when the boat is empty for more than 30 seconds
+
+vic nerido
+nerenzo
+
+
+
+
+

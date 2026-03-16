@@ -1,0 +1,117 @@
+╔═══════╗
+i-Tech3Design ▶ Questions and answers v 2.0
+╚═══════╝       
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+██████████████████████████████████████████████████████████████████████████████████████████████
+.░░▒▓███► Skyline Yachtline Changing HUD textures 1
+
+▶ Question 1 # Can't change a texture?
+
+✳ Resolution Method 1 # Press and hold "Skyline Yacht Change Textures HUD" in the center of the screen and stay close
+
+✳ Resolution Method 2 # Sit "Skyline Yacht" and wear Skyline Yacht Change Textures HUD
+==============================================================================================
+▶ Question 2 # Do you have two "Skyline Yachts" but can't give different Textures ?
+
+✳ Resolution # Resolution # Change texture "Skyline Yachts" 1 and bring your own invariant 
+                    perform same procedure with other Skyline Yachts 2 
+                    take back Skyline Yachts 1 from your owner get two Skyline Yachts with different textures
+
+██████████████████████████████████████████████████████████████████████████████████████████████
+.░░▒▓███► Poses & Animations 
+
+▶ Question 1 # Is the animation (roles) incorrect, Man/Woman?
+
+✳ Resolution # Use the Adapt button to change the roles.
+     Ex: Male button > Male Avatar animations. 
+     Ex: Female button > Female Avatar animations.
+     
+▶ Question 1 # Is the animation (roles) incorrect, Man/Woman/Single?  
+   
+✳ Resolution # Although all animations have been carefully pre-adjusted for perfect Avatar matching
+ significant differences in avatar sizes and styles may require a
+ fine-tuning of the settings to perfectly match the size of your avatar. Using aaposite “ Adjust ” button.
+ 
+==============================================================================================
+
+▶ Question 2 # Animation does not work  ?
+
+✳ Resolution # Deactivate " AO " alternative sit again without " AO " activated 
+
+██████████████████████████████████████████████████████████████████████████████████████████████
+.░░▒▓███► Jacuzzy
+
+▶ Question 1 # I activate bubbles effect ... the bubbles remain stuck. 
+
+✳ Resolution # Turn off & on button , Deactivate & activate effect .
+
+██████████████████████████████████████████████████████████████████████████████████████████████
+.░░▒▓███► TV Media 
+
+▶ Question 1 # I can't log in with my (Youtube) account etc. ? 
+
+✳ Resolution #  CAN'T LOGIN WITH YOUTUBE ACCOUNT.THE BROWSER SYSTEM IS NOT RECOGNIZED BY THE SYSTEM (SECOND LIFE)
+
+                    - Copy "URL" and paste the string to see the video
+                    
+██████████████████████████████████████████████████████████████████████████████████████████████
+.░░▒▓███►Objects rez system  
+
+▶ Question 1 # When rez objects my boat from problems impossible to navigate ?
+
+✳ Resolution # All rez objects ... ONLY WHEN THE BOAT IS STATIONARY ! IT IS NOT POSSIBLE TO NAVIGATE WITH REZ OBJECTS! 
+==============================================================================================
+
+▶ Question 2 # I can't "rez" objects?
+
+✳ Resolution #  Make sure you are in the land of ownership to have this system (Create Objects) or zone (Open Rez) active. 
+==============================================================================================
+
+▶ Question 3 # When you rez an object, does it not stay in the same position the second time?
+
+✳ Resolution # This system has a button (Pos Sync: Position sync (ON / OFF) - 
+                    Delete "Skyline Yacht" and Rez another new "Skyline Yacht" From your inventory, 
+                    Before using the system Choose your option
+==============================================================================================
+
+▶ Question 4 # Rez vehicle, I sit down. when I get up "Disappear". ? 
+
+✳ Resolution # This system is designed to avoid primitive clutter.
+                    (In the content of the box we released the vehicle to use freely without Derez)
+
+██████████████████████████████████████████████████████████████████████████████████████████████
+.░░▒▓███► Skyline Yacht "Driving HUD
+
+▶ Question 1 # My friend wants to drive like me ?
+
+✳ Resolution # From version 4.0 it is possible to have HUD Drive via menu window (Button) HUD Drive ... 
+                    Attention give access to friend skill sit use ( Button ) Padlock 
+ 
+██████████████████████████████████████████████████████████████████████████████████████████████
+.░░▒▓███► Lighting System
+
+▶ Question 1 # The lighting system is not working properly (when I made a copy of
+                     Skyline Yacht) Sweep?
+
+✳ Resolution # Do not drag "Skyline Yacht" to make a second copy!
+                   (Lights setup script error)
+                    Rez another new "Skyline Yacht" from your inventory, The problem is solved
+
+██████████████████████████████████████████████████████████████████████████████████████████████
+.░░▒▓███►Change SIM
+
+▶ Question 1 #  Browsing by SIM and other friends with SIM loss / Skyline Yacht?
+
+✳ Resolution #  This problem is not related to "Skyline Yacht" design the causes can be: loss of connection, very heavy sim "Lag"
+
+██████████████████████████████████████████████████████████████████████████████████████████████
+
+
+This "Skyline Yacht" has undergone strict quality testing,
+
+Drive test
+HUD Drive test
+Test HUD textures
+Test the seating position
+Test the Rez scene
+Test API System
