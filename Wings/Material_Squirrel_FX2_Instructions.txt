@@ -1,0 +1,134 @@
+** Installation
+
+1.   Rez your wings on the ground. Do not attempt this while wearing the wings.
+
+2.   Right-Click on your wings and choose Edit
+
+3.   Choose the content tab
+
+4.   Delete the following scripts:
+
+        - Xcite! interface 4.2 - 1/21
+
+5.   Drag and drop the two scripts that came with this file into the contents. The scripts are:
+
+        - Material Squirrel FX2 v1.00; and
+        - Xcite! Interface 4.2.3 - 8/25
+
+6.    Select the checkbox "Edit Linked Parts"
+
+7.    On each wing segment (If there are more than 3 segments on a side, just use the top 3 on each side)
+
+        -    Click on the wing segment
+        -    Choose the content tab
+        -    Drag and drop the "Particle Driver v1.00" script into the contents of that wing
+        
+        This step must be done separately for each of the 6 wing segments.
+
+8.   Take your wings back and wear them
+
+If you have issues with the installation of the FX2 scripts, please contact Kala Bijoux. Please let her know the name of your wings that you would like the scripts installed into and she will install them for you. Please be sure you already own the wings (it will be checked).
+
+---
+** Usage
+
+    Click on your wings and select "FX2" on the blue menu after you have installed the scripts
+    
+---
+
+** Wing Compatibility
+
+FX2  will not work in 4.0 or 4.1 wings. You can upgrade your wings at the Material Squirrel main store.
+
+The FX2 effects are NOT recommended for the following Material Squirrel Wings: 
+
+-   All Monster Turck Wings
+-   All Arch Demon Wings
+-   Volkh Wings 
+-   Tavara Wings
+-   Ezriel Angel Wings
+-   Ezazel Angel Wings
+-   Fur and Claws Wings
+-   Rayl Wings
+-   Thethra Wings
+-   Shadowed Wings
+*  any wings with 1 wing prims per side
+
+ 
+FX2 is recommended for the following:
+
+- Absinthe Fairy Wings,
+- Arawn Wings  
+- Black Bones Wings   
+- All "Butterfly" Wings - “ however the *flame* effects are not very suitable
+- Carmine Wings   
+- Charmeine Mini Angel Wings 
+- Coal Wings     
+- Cobweb Fronds Wings  
+- Daray Black Wings 
+- Dark Angel Wings   
+- Draconis Wings, all colors,  including Pixie wings
+- All "Dragonfly" Wings
+- Dragon Mech Wings 
+- Elysia Fairy Wings in Blue   
+- Elysian Fairy Wings in Purple
+- Ember Wings 
+- Faylinn Fairy Wings
+- Fire Butterfly Wings
+ - All "Flux" Wings
+- Gabriel Wings    
+- Heart's Blood Wings 
+- Inuus Wings
+- Israfiel  Angel Wings     
+- Jinx Wings    
+- Lachrima Wings
+-  All "Lorelle" Wings
+- Marillac Wings   
+- Mechanique Wings 
+- Meliora Wings 
+- Mihr Angel Wings   
+- Mini Mihr Wings
+- Morgause Wings
+- Nightscape Wings     
+- Nimue Wings 
+- Nocturne in Blue Wings  
+- Omniel Angel Wings    
+- All "Pixie" Wings 
+- Seraphim Wings 
+- Storm Wings   
+- Stryker Wings   
+- Visate Wings  
+- Winter Wings  
+
+Note that the two effects "rainbow dust" and "rainbow flames" are moderately more impressive with wings that have at least 6 segments as those wings display all the 6 rainbow colors.
+
+----
+
+**Overview
+
+FX2 is the second set of effects extensions for the Material Squirrel Wings.  It had the following basic features:
+
+  -  Wing Glow effects, ranging from a subtle enhancement through to a God or devil-like presence. 
+
+  -  Wing Flames, including a jetflame, fireflame, redflame, a flame that matches the set color of the wings, and a rainbow flame   where each wing has a different colored flame. The flames follow the contour of the wings.
+
+  -  Wing Injuries, including dripping blood, one wing on fire, and a smoking wing.
+
+  -   Magic Dust particles: A set of single color or multi-color (up to six) dust particles are emitted from the wings. "SelfDust" matches the dust to the current color of the wings.
+
+
+FX2 has the following advanced features:
+
+  -  You only need to buy FX2 once and then you can add it to all of your Material Squirrel wings.
+
+  -  Integration with ColorFX.  ColorFX is a set of color effects for Material Squirrel Wings providing a visible heartbeat; emotional responses such as anger, fright, and death; and continual animated color flows. If FX2 is installed with ColorFX it will: (a) provide an integrated set of menu options for the two feature sets; (b) allows the synchronization of wings color and magic dust; (c) enhance the heartbeat and animation flows with the glow effects; (d) switch off both sets off effects when "FXOff" is selected. ColorFX is available from the main Material Squirrel main store.
+
+  -  All effects can be launched directly by saying the name of the command on channel 959. For example: /959 jetflame. The FX2 menu can be launched with: /959 fx2.
+
+  -  Compatibility with the Material Squirrel XCite! features. Any of the effects can be run from the XCite! configuration file by using the menu name of the effect as the command.  For example, you could add the following entries to your "Xcite! Commands Config"  file.  The configuration file contains a full explanation of the options available. 
+
+             self|OnFire!|%o, feeling an odd sensation in her wing, looks around and discovers %p wing is on fire.|fireinjury
+
+             other|Pluck|%t moves behind %o as if to gently collect a red lady beetle that is resting on %p wing. %o smiles at %t's apparent kindness. Instead, %t cruelly plucks a feather. A single tear falls from %p eye as %p wing begins to bleed.|bloodinjury
+
+            target|Smoke!|%t holds %o's burning wing against their chest, depriving the flame of oxygen.|smokeinjury
