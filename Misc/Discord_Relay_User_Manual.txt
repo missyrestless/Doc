@@ -1,0 +1,300 @@
+Thank you very much for purchasing our Discord Relay!
+
+Congratulations, you have acquired the most versatile and most flexible tool for Discord in SL. It was initially designed as a fun toy for personal use in 2019, but it has evolved quite a bit since then. Today, it is the leading solution for everything Discord related, and can be expanded in a flexible and economic way for personal or professional use. This product is in continuous development and receives frequent updates and improvements.
+
+
+What does it do?
+▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+This tool relays open chat to a Discord channel for any Discord server. For the time being, it is one-way only: From SL to Discord. The chat appears in Discord using the display name and profile picture of the avatar.
+
+
+What is Discord?
+─────────────
+
+Discord is a chat platform very popular among gamers. Using Discord is free, and everyone can set up a "Discord server" for free as well! In this server, you can create channels. This is what the relay works towards. For more information see https://en.wikipedia.org/wiki/Discord_(software) and https://discord.com/blog/starting-your-first-discord-server
+
+
+How does it work?
+──────────────
+
+The relay is chat activated, just like your smartphone works with "Hey Siri" or "Okay Google". Once you type the command (The default is "oi discord", but can be changed by you) open chat is transmitted to Discord.
+
+It transmits a maximum of 100 lines of text for a maximum of 20 minutes. Both values are configurable. The default is 5 lines of text within 60 seconds. The maximum limit is deliberately done in order to avoid the object to siphon open chat indefinitely. Doing this would be in violation of Second Life's Terms of Service (SL-ToS) and Community Standards (SL-CS). However, there are scenarios where an unlimited version might be acceptable. If you have the need for this, please get the "Discord Conference" add-on script available from my shop on the Second Life Marketplace.
+
+Once activated, the relay announces itself in open chat, indicating how many lines of chat and for how long it will relay. This is in accordance with SL-ToS and SL-CS (see below), and gives any avatar present enough warning to stop talking, if they don't want their chat relayed. Consequently, the relay also announces when it stops relaying the chat. It only relays actual avatar chat, but ignores objects. The chat that appears in Discord uses the display name and profile picture of the avatar.
+
+
+Getting started
+▀▀▀▀▀▀▀▀▀▀▀▀
+
+In order to be able to communicate from SL to Discord, you need to create a "webhook". To do this this, you need your own Discord server or a server you co-administer. For testing purposes, we highly recommend to make a new server (it's free!), or at least create a new channel on your existing server.
+
+The webhook is best created in the Discord web application;  NOT on the mobile app! Please refer to the video - https://www.youtube.com/watch?v=AKOIPxqHYI8 - to see how/where to get the webhook. Be aware that the way the interface looks might have changed since then.
+
+In the channel list, you will find a small cogwheel icon, that gets you to the channel configuration. Click it, chose "Integrations" and click on "Create Webhook". The name of the webhook is irrelevant (and won't show up anywhere). All you need is the webhook URL, which looks like this:
+
+https://discord.com/api/webhooks/aaaaaalotofgibberishandnumbersandsuch
+
+The webhook might also look like this:
+
+https://discordapp.com/api/webhooks/aaaaaalotofgibberishandnumbersandsuch
+
+Or like this:
+
+https://ptb.discord.com/api/webhooks/aaaaaalotofgibberishandnumbersandsuch
+
+All three versions work fine - just use whichever Discord gives you.
+
+
+Configuration
+▀▀▀▀▀▀▀▀▀▀▀
+
+Once the webhook is created, you need to configure the relay. A configuration notecard is provided. In case it is missing, create a new one with the name "discord.cfg".
+
+The notecard contains variable/argument pairs, separated by equal signs " = ". Everything the relay does not recognize, gets ignored, but you will receive a warning upon initialization.
+
+Basic configuration variables and their default settings are:
+
+start_trigger = oi
+end_trigger = fkoff
+maxrelay = 5
+maxtime = 30.0
+webhook = 
+
+"start_trigger" contains the word that activates the relay. You can put words like "hello" or "okay" or a word in a language other than English. Be aware that the relay automatically adds "Discord" to the trigger. So putting "hello" into this line would result in the trigger phrase being "hello Discord".
+
+"end_trigger", respectively, contains the word to prematurely stop the relay. This is especially useful if a long relay time is selected. There are circumstances where you don't want the relay to listen for 20 minutes before it stopping. 
+
+"maxrelay" is the number of lines the relay transmits in total, before stopping. The maximum is 100 lines; values higher than that get ignored, placing the cap at 100. Please remember that the relay only listens to avatars and ignores objects.
+
+"maxtime" is the number of seconds that the relay listens to, and transmits, information. The exception to this time is when "maxrelay" is reached. The maximum is 1200 seconds (20 minutes). Any value higher than this gets ignored. Make sure you enter the value in the correct form, which includes a period, like such: "30.0".
+
+"webhook" is simply the setting where you input your webhook URL from Discord (see above). 
+
+The relay does some basic plausibility check and will warn you if you it detects any misconfiguration. Make sure the webhook exists and is created for the proper channel. You can change it anytime, if you want to have it transmit to a different channel on your server. If you use the original mesh object, the face on the logo will turn red when it detects a configuration error.
+
+That's it! No additional configurations needed (but possible).
+
+
+Additional Configuration
+───────────────────
+
+There are a couple of other configuration variables you can use, to tailor the configuration to your needs. Additionally, the discord.cfg notecard is what contains the configuration variables for all the add-on-scripts you might have purchased. The following configuration options are available for the base script:
+
+"serverinvite" contains the Invite-URL from your Discord server. The relay acts as server/group inviter too. If you don't want to give out an invite, leave the line empty. Please note that regular Discord invites expire after 1 day. You need to manually set the invite URL to last indefinitely when you create it within Discord. See: https://support.discord.com/hc/en-us/articles/208866998-Invites-101 or check out this video https://youtu.be/o4vEDW6GDWQ
+
+"ignorewebhook" can be used to override the webhook URL check. Discord changes the format of the URL's from time to time, and the relay might refuse the webhook due to its syntax. If you are 100% sure the webhook is correct, despite the relay refusing it, you can set "ignorewebhook = true" to override the check. Use with caution.
+
+"silent = true" disables the notices on a region restart.
+
+"nostartupmsg = true" disables sending of startup-messages to Discord.
+
+Modes
+─────
+
+The "mode" configuration can take up one of four parameters:
+
+"mode = normal" This is the default and does not need to be put in the notecard.
+
+"mode = silent" is the setting to put a 'gag' on the relay and stop it from announcing itself in open chat. By default, the relay will announce its start and end trigger in chat, when someone touches it. It will also announce itself randomly when the word "discord" is mentioned in open chat. Setting "mode = silent" will stop both. If the variable "serverinvite" is set, the relay will STILL act as a touchable invite/joiner.
+
+"mode = inviteonly" puts the relay into invite-only mode. It will not react to chat, it will not relay messages, it will not announce itself in chat, but it will react to touch and hand out a server invite. You need to you have set one in the configuration, though. You still need a webhook, since the relay can still act as base for add-on-scripts.
+
+"mode = passive" reduces the relay to be a pure base for add-on-scripts. It will not relay chat, it will not react to touch, but you can include add-on-scripts (including the Discord Conference script) inside and have them perform normally. 
+
+Configuration comments
+──────────────────
+
+Comments help you organize longer discord.cfg files, especially when you use some of the available add-ons. Comments are ignored by the system, and you can have as many comments as you like. There are two ways how you can add a comment.
+
+If you want to add a comment-line, start the line with a "#" sign. This prompts the relay to ignore it: 
+
+# I am a comment
+variable = value
+# I am another comment
+variable2 = value2
+
+You can also add comments in the SAME line behind the configuration, starting them with a # as well:
+
+variable = value # I am a comment
+variable2 = value2 # I am another comment
+
+However, this can become a problem if a legitimate value contains has characters itself. A configuration like:
+
+variable3 = Join the #hashtag# group!
+
+would result in "Join the ".
+
+In order to prevent this, you need to "escape" every(!) # in the config variable with a backslash "\":
+
+variable3 = Join the \#hashtag\# group!
+
+
+Roles
+────
+
+A Discord server allows for various roles to be set, in addition to the pseudo-roles @everyone and @here. The good news is: @everyone and @here are supported by the Relay out of the box. The bad news is: In order to use your own custom roles, some work is needed on your behalf. Read on.
+
+To be able to use your custom roles in your server, the ID of the role needs to be configured. The ID is different from server to server, and is a bit cumbersome to find out. Please refer to this document if you need help: https://www.itgeared.com/how-to-get-role-id-on-discord/ - we can NOT help you with this, you have to do it yourself on your own server!
+
+As an example, let's assume you have a role @admin in your server. Find its ID as shown on the link above, then add:
+
+@admin = 946165842689448498 # the ID you found in your server
+
+in the discord.cfg to configure it. You can configure multiple roles as well:
+
+@admin = 946165842689448498
+@mods = 946165842689448793
+
+Once configured, you can mention those roles in relayed chat as well as in add-ons that support message templates.
+
+
+The Mesh object
+▀▀▀▀▀▀▀▀▀▀▀▀
+
+There are two original mesh objects included in the package. The mesh objects are original designs, explicitly made for this product, and optimized for SL. It is superior to all other Discord mesh logos you can currently find on the Marketplace, so there is no need to pay extra or go with a substandard solution. You will find the "old" Discord logo embedded in a speech bubble, as well as the new logo. As of May 14, 2021, Discord changed its branding and its logo. We have included two versions of the logo: The new standalone logo (named Clyde) with 1 LI , and a combination of the old bubble log and the new logo with 3 LI.
+
+The mesh object has an "on-air lamp" extension, that becomes visible when the relay transmits chat to Discord, and switches off when the transmission stops. The white logo-area in the middle of the blue bubble (Discord named this color "blurple") doubles as an error indicator. If the Discord relay encounters any error, the face turns from white to red.
+
+The behavior of the "on air lamp" gets controlled via the "Discord Relay On Air Light" script. This script is included with full permissions, so you can alter or change its behavior. For example, you could make the mesh object spin while it transmits, or you could change the color scheme. You could even put the script into a different prim, as long as it is linked to the prim where the main script is included in. Just go wild experimenting with it, and let us know if you come up with a cool use for it. 
+
+
+Other features
+▀▀▀▀▀▀▀▀▀▀▀
+
+If an avatar touches the object, they get an instant message telling them how to activate the object.
+
+If an avatar touches the object, the device can act as a Discord Server Joiner / Discord Server Inviter, giving the avatar the URL to join the Discord server. Within Discord, you can create an invite URL (attention: by default it is only valid for one day - you need to check the option to make it permanent) for any channel on your server. This can be stopped via the "silent" configuration setting.
+
+If someone in open chat mentions Discord in a sentence - not the trigger phrase - the object advertises itself. This can be stopped via the "silent" configuration setting.
+
+The relay reports region restarts to the designated channel. It uses a map-view of the sim as icon for those purposes.
+
+Translator HUD's / Naming HUD's and similar objects worn by an avatar, that change their chat, are now supported.
+
+
+Extensions / Add-Ons / Plugins
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+From version 1.5 onwards, the Relay's functionality can be extended by drop-in scripts. Not everybody needs all the functions we develop, or come up with, so we decided for this approach. If you need a specific functionality, check if there is a plugin-script available at: https://marketplace.secondlife.com/stores/10343 or contact us directly.
+
+Drop-in scripts need to be dropped into the same object the main script resides in. Please refer to the documentation provided with the respective drop-in scripts. The configuration of the drop-in scripts gets handled in the configuration notecard of the main script.
+
+So far, the following drop-in scripts are available:
+
+- Visitor Tracker: Reports arriving and leaving visitors with profile photo, display and legacy-name, link to profile, group tag, and rendering weight into your Discord channel. Intended for houses, shops or clubs. https://marketplace.secondlife.com/p/Discord-Visitor-Tracker-send-visitor-list-to-Discord-Chat/20839218
+
+- Parcel Tracker: Similar to the Visitor Tracker, it covers all parcels of the same owner on the region. It also shows where on the parcels the visitor is, and indicates known roaming bots. https://marketplace.secondlife.com/p/Discord-Parcel-Tracker-Get-teleport-notifications-of-visitors/22039637
+
+- Region Tracker: Intended for region-owners, the tracking is for the whole region. In addition to the data the regular visitor tracker reports, the Region Tracker also reports the parcel on which the avatar is (including clickable SLURL) and where they move from parcel to parcel. It also indicates visits from known roaming bots.
+https://marketplace.secondlife.com/p/Discord-Region-Tracker-and-Sim-Radar-for-Discord-Chat-track-avatar-movement-on-sim-region-and-parcel/21035807
+
+- Online Tracker: Keep track of the logins and log outs of up to 100 avatars. Intended for business owners, auctions, clubs, or the BDSM-community, where you need or want to take track of the online times of avatars. https://marketplace.secondlife.com/p/Discord-100-Avatar-Online-History-Tracker-log-online-offline-session-hours-to-Discord-Chat/21283237
+
+- Conference: Unlimited chat transmission for meetings etc., adhering to the requirements of Second Life Terms of Service and Community Standards https://marketplace.secondlife.com/p/Discord-Conference-chat-bot-to-send-unlimited-open-chat-to-Discord-for-conferences-meetings-and-events/21679113
+
+- Sim Stats: This add-on does short-term and long-term monitoring of the health of the region it resides on. Every hour, it reports to your Discord channel with the current sim statistics; this includes FPS and number of visitors. A rolling average (hourly, daily, monthly) is sent to Discord as well. The Sim Stats add-on also keeps track of other sim parameters and reports changes to them. https://marketplace.secondlife.com/p/Discord-Sim-Stats-Region-lag-meter-and-sim-performance-and-health-monitor-with-unique-percentage-of-scripts-run-metric/22412476
+
+- Universal Payment Logger / CasperVend Logger: Any object that receives payments (and is mod) can send the payment data to Discord now. https://marketplace.secondlife.com/p/Discord-Universal-Payment-Interface-log-payments-to-tip-jars-vendors-or-rent-boards-to-Discord/23579779
+
+- CasperLet Connector: See your rental information in Discord. https://marketplace.secondlife.com/p/Discord-CasperLet-Connector-send-tenant-renter-payments-renewals-object-limit-violations-to-Discord/24373062
+
+- Script Crash Detector: Logs crashes of scripts in the vicinity to Discord. https://marketplace.secondlife.com/p/Discord-Script-Crash-Detector-find-crashed-scripts-and-restart-crashed-objects/23409518
+
+- Discord Stage Assistant: Send automatic notifications to Discord, when a performer enters the stage. https://marketplace.secondlife.com/p/Discord-Stage-Assistant-automatic-notifications-for-DJ-and-dancer-performances-to-Discord/24142498
+
+
+Known Issues & Limitations
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+Flooding
+───────
+In order to send information from Second Life to Discord, a "http-request" needs to be made. In order to protect the SL infrastructure, the Linden Scripting Language (LSL) officially limits the number of "http-requests" being made in a certain time frame. Currently, the limit is 25 requests within 20 seconds. Every line and information sent to Discord, either by the base script, or any add-on-script, is one request and subject to the throttling. This is a limitation of SL and not of this script. There are techniques in place to mitigate the throttling, but on particularly busy sims, or at busy times, throttling might happen and cannot be avoided. Discord, too, has limits, but much more generous ones, so you will probably never run into them.
+
+Avatar icon
+─────────
+In the web interface for Discord, you can click on the names and profile photos from the "APP" lines. This is not really useful, and due to caching measures on Discord's side, the info shown when clicking these items, is often inaccurate. This has NO impact on functionality.
+
+Chat range
+────────
+Open chat can only be detected in a sphere with a radius of 20 meters. This is called the "chat range" and is a hard coded limitation of SL, not of my product. There is talk for years that SL might allow region owners to extend this limit, but so far without any results. The good news is: This product will work with larger (or smaller) chat ranges without any problem.
+If you want to cover a larger area, you can place multiple Discord Relay objects in a distance of 40 meters. You can place them closer, but then you might get overlapping messages in your Discord channel. I am currently experimenting with ways to include (certain) chat extenders into the system.
+
+Region restart
+───────────
+If you use multiple copies of the relay, you will get multiple messages upon region restart.
+
+Map icon
+───────
+If your sim uses off-sim landscaping, the map-view icon on the server restart message will most likely be a gray square. This is a limitation of SL, not of my product. There is no way I can detect this from within the script and switch to an alternative texture.
+
+Chat direction
+───────────
+Please be aware that this is a one-way-chat only relay, from SL to Discord. Two-way chat would need to have a server object outside of SL, which would incur not only a massive deal of development, but would also incur running costs, and create security and privacy issues. If you require two-way-communication, you might want to investigate into SL-Bots.
+
+
+Data processing & privacy
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+This product communicates directly from Second Life to Discord. It establishes a direct transmission from the object in Second Life to the Discord servers. At no single point does the communication get stored, relayed, routed, redirected, or otherwise processed by us, or any entity under our control. We can't, for obvious reasons, vouch for the operators of Second Life or Discord. Please refer to their respective privacy policies.
+
+Any add-ons you use communicate with the Relay via script-to-script messages, which can be intercepted by ANY 3rd party script inside the object. There is no way to know what such a 3rd party script might do with the data it intercepts. So, be careful with what scripts you add, or who you give access to, to modify your object. Truth be told, this potential attack vector is rather abstract.
+
+Some add-ons consist of 2 (or more) separate parts, which communicate with the Relay via channel-chat messages. We have gone to great lengths to secure this communication and protect it from eavesdropping, as well as any crosstalk from other people who might be using our items on the same region as you. The possibility of finding that communication is very, very small, but not zero.
+
+This product sends information about its activation to us. The information includes the name of the owner, the name and version of the product, and the region where it gets used. This information is solely used for customer service (e.g. sending a new version if your version is outdated), as well as documenting your agreement to the usage requirements (see below). At no time is any chat-information or add-on payload sent to us. Ever. (Seriously, what would we want with it?)
+
+Linden Lab's rules & regulations
+──────────────────────────
+The Lab has repeatedly refined resident's rights in various documents. As a user of this product (or any product of broadly similar nature), you are obliged to adhere to the regulations in those documents.
+
+Second Life Terms of Service: https://www.lindenlab.com/tos
+Second Life Community Standards: https://www.lindenlab.com/legal/community-standards
+Linden Lab use of personal data: https://wiki.secondlife.com/wiki/Linden_Lab_Official:Using_Personal_Data
+
+In order to use this product, and any of its add-ons, you need to confirm that you abide to the requirements laid out in those documents (and any documents the Lab might add during your usage of this product and its add-ons). Your confirmation gets logged along with your SL name.
+
+
+Suggestions, Bug Reports, Feature Requests
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+Please let us know if you run into issues with this product or have any suggestions. Also let us know if you like it. We am open to feature requests and commissioned work. Let us know on Discord: https://discord.gg/9dAUeaH (where else).
+ 
+
+Version history
+▀▀▀▀▀▀▀▀▀▀▀▀
+
+1.0 2020-06-05 Initial release
+1.1 2020-07-02 Added Discord Server Invite / Join
+1.2 2020-07-11 Better Output at Region Restart, less frequent open chat
+1.3 2020-08-29 Added support for new webhook format, updated sim restart feature
+1.4 2020-10-22 Mesh Logo object with on-air lamp, bug-fix for server invite URL (case sensitive!), better config-warnings, increased limits to 100 lines and 20 minutes
+1.5 2020-11-28 Added support for drop-in-scripts for additional functionality that does not need to go into main script, some cosmetic changes
+1.6 2020-12-04 Support for new Discord invite URL format
+1.7 2020-12-25 Maintenance Release with support for the Discord Region Tracker
+1.8 2021-01-23 Added support for new Discord URL's, added support for silent-mode
+1.9 2021-02-06 Added support for the Discord Online Tracker
+2.01.03 2021-03-29 Changed version numbering, improved http-handling under high-load situations, improved "silent" behavior, minor code optimization
+2.02.00 2021-04-29 Fixed timestamp on sim restart, better owner detection with deeded objects, improved initialization messages, improved Discord API handling, minor fixes
+2.03.00 2021-05-15 New Discord mesh logo
+2.04.00 2021-07-04 Silent/Inviteonly/Passive configuration modes, "silent" config parameter deprecated, optimized memory usage
+2.04.01 2021-07-06 Name-relaying issue from Region Tracker fixed
+2.04.02 2021-07-07 Cosmetic change in Init-output
+2.04.03 2021-12-19 Maintenance release, merged codebase with Guilded.gg Relay
+2.04.04 2022-01-23 Fixed unixtime to SLT conversion, fixed sim restart logic
+2.04.05 2022-03-13 Minor cosmetic change
+2.05.00 2022-06-17 Added support for translator HUD's
+2.05.02 2022-07-06 Fixed a memory hole during reading of long config notecards
+2.05.03 2022-09-21 Hotfix for Discord API change
+2.05.04 2022-09-22 Corrected wrong version string from Hotfix
+3.00.03 2023-04-23 Completely rewritten configuration, new avatar profile pics, improved memory handling
+3.00.05 2023-05-18 Additional functionality for add-on scripts
+3.00.07 2023-07-10 Refactored Initialization
+3.00.09 2024-02-11 Comments in discord.cfg, silent setting for region restarts, more robust start/end trigger handling, fixed default mode handling, removed version reminder
+3.00.14 2024-05-05 Reduced startup time, removed a bug that resulted in reading the config twice, added functionality for downstream add-ons
+3.01.01 2024-09-01 Major rewrite behind the scenes for future add-ons and for heavy traffic regions.
+3.01.02 2024-10-17 Support for Discord @-roles.
+3.01.04 2025-04-05 Minor fixes and formatting, preparation for next major release
+3.01.05 2025-04-27 Hotfix for Discord API change, preparations for nickname usage.
+3.01.07 2025-08-30 Major structural changes: channel management refactoring, HTTP request handling improvements, enhanced profile picture request management, improved handling of concurrent profile picture fetches, enhaned throttling handling, and streamlined trigger handling. Frontend: Better agent name formatting, improved startup flow.
