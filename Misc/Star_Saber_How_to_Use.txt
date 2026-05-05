@@ -1,0 +1,154 @@
+Hi!! 
+
+Thank you for buying the Star Saber!
+
+► A product created from the collab of TANAKA and TREVOR stores.
+
+􀀁 - https://linktr.ee/trevorios - LINKTREE
+
+􀀀 - https://linktr.ee/TANAKASL - LINKTREE
+
+=============================================================
+► PRODUCT ATTACHMENTS:
+============================================================= 
+
+✱ NOTE: You must use the right-hand saber, but the left-hand saber is optional if you want to use a dual-wielding style.
+    
+    - [TANAKA x TREVOR] - STAR SABER - (HUD)
+    - [TANAKA x TREVOR] - STAR SABER - (RHAND)
+    - [TANAKA x TREVOR] - STAR SABER - (RSHEATH)
+    - [TANAKA x TREVOR] - STAR SABER - (LHAND) → (Optional)
+    - [TANAKA x TREVOR] - STAR SABER - (LSHEATH) → (Optional)
+    
+✱ GESTURES:
+    
+    - [STAR SABER] - SKILL 1 - (F1)
+    - [STAR SABER] - SKILL 2 - (F2)
+    - [STAR SABER] - SKILL 3 - (F3)
+    
+    ✱ NOTE: For some of the Skills you need Rez Enabled.    
+        
+=============================================================
+► STAR DUEL COMPATIBLE:
+============================================================= 
+    
+    • This product is compatible with the new combat system ideal for lightsaber duels, also compatible with other accessories.
+
+    ✱ NOTE: Special compatibility also with Star Pistol.
+
+=============================================================
+► FLAMEWAR COMPATIBLE:
+============================================================= 
+    
+    • This item is compatible with the Flamewar System, so you can have fun competing with your friends.
+    
+=============================================================
+► HOW TO USE IT - (HUD BUTTONS):
+=============================================================
+
+    • DRAW / SHEATH (Power Button): Unsheathe/Sheath your saber to enter combat mode.
+
+-------------------------------------------------------------------------------------------------------------
+
+    • COMBAT MELEE:
+        
+        - Execute Attacks: Press MLB (Mouse Left Button) + WASD/←↑↓→;
+        - Defend yourself: Press MLB + PageDown/C;
+        - Defense-Breaking Attack: Press MLB + (W+S / ↓+↑) - [Consumes Stamina/Open for critical attack].
+        
+        - Damage/Defense: The damage and stamina values ​​spent during defense depend directly on the Power and Defense of your saber's stance.
+
+        - Stun: Some attacks such as defense breaks or power attacks can leave you temporarily stunned.
+
+        - Critical Damage: If you are attacked while you are not defending, counterattacking or applying a defense-breaking attack, you will receive critical damage.
+        
+        - Recharging Stamina: Your stamina recharges during combat.
+        
+        - Defense Against Saber/Power: Exchanges stamina for health points while stamina is available.
+
+        - Defense Against Blaster: Spends stamina to deflect blaster fire while stamina is available.
+
+        ✱ NOTE: If you maintain your defense while out of stamina, you will receive critical damage.
+        
+        • Star Duel System Damage (It varies depending on the Stance used).
+        
+        • Flamewar Damage (0.8 ~ 1.7 per hit).
+
+-------------------------------------------------------------------------------------------------------------
+    
+    • MINIMIZE / MAXIMIZE: Click to reduce/increase the size of the Hud by hiding/showing the product customization functions.
+
+-------------------------------------------------------------------------------------------------------------
+    
+    • SELECTED SABER (L/R or R or L Button): Toggle which saber you want to make changes to. This will impact some customization features described below:
+
+        - Stance Change;
+        - Texture Change;
+        - Saber Color Change;
+        - Dark/Light Mode Change.
+
+=============================================================
+► FATPACK ONLY: (Everything here below is exclusive to the Fatpack package)
+=============================================================
+
+    • COMBAT STANCE (Big Button): Change the type of saber you are wielding, changing your stance and directly impacting your combat setup.
+
+
+        - L/R: Alternate the type of Stance you use in combat from a list of 4 possible stances with a single saber and 20 possible stances with dual-wielding combinations.
+
+        - R: Switch between 4 possible stances with the 4 possible sabers in your right hand.
+            (Classic / Crossguard / Double-Bladed / Hexblade)
+        
+        - L: Switch the type of saber in your left hand between 5 possible ones.
+            (No Saber / Classic / Crossguard / Double-Bladed / Hexblade)
+    
+    ► NOTE: You can use 4 extra stances by combining a "Star Pistol" in your left hand.
+    
+-------------------------------------------------------------------------------------------------------------
+    
+    • TEXTURE SELECT (1/2/3/4/5 & Grip Buttons): Change the texture of your selected saber (L/R or R or L), being able to change the texture of 5 different parts of your saber separately by clicking on the numbers 1-5 or of your entire saber by selecting the Grip button.
+    
+    - 16 Different Textures: (BLACK / SILVER / BLACK+SILVER / MAUL / GOLDEN / WHITE / RED / PURPLE / PINK / BLUE / GREEN / MAUL-GOLD / MAUL-PURPLE / MAUL-PINK / MAUL-BLUE / MAUL-GREEN)
+
+    - Invisible Handle: If you click on the Full Handle button on the HUD, you will be able to access INVISIBLE mode, which makes the saber's handle completely invisible, keeping only the neon energy blade visible. This way you will be able to fit your own Handle into your hand to use.
+
+-------------------------------------------------------------------------------------------------------------
+    
+    • CHANGE SABER COLOR: Change the color of your saber blade by selecting (Crossguard Brush / Saber Brush / Saber Button), you can change the color of your lightsaber between 14 different colors, being able to select which blade you are changing the color of and which sabers you are changing the color of according to the selected saber (L / R or R or L).
+        
+         - 14 Different Colors: (GREEN / LIGHT-GREEN / CYAN / LIGHT-BLUE / BLUE / DARK-BLUE / PURPLE / PINK / LIGHT-RED / RED / ORANGE / GOLD / YELLOW / WHITE)
+    
+    ► NOTE: Next to the Crossguard Brush and Saber Brush buttons you have the link buttons, which will determine which of the blades you are coloring, varying between (1, 2 and chain), being 1 (Main Blade), 2 (Double-Bladed Secondary Blade) and Chain (Both Blades). However, by clicking on the blade of the large saber button horizontally, you change the color of all the blades of the selected saber.
+
+-------------------------------------------------------------------------------------------------------------
+    
+    • LIGHT/DARK: Ative o modo dark em todas as laminas do sabre selecionado (L/R or R or L), alterando o estilo do seu sabre e os efeitos de particula durante o combate.
+
+-------------------------------------------------------------------------------------------------------------
+    
+    • SKILL 1 (Saber Throw): Throw your saber from your right hand, making it spin in the air towards your opponent, then return to your hand.
+
+        - Stamina Cost: 20%
+    
+        - Optional Gesture: [STAR SABER] - SKILL 1 - (F1).
+
+-------------------------------------------------------------------------------------------------------------
+    
+    • SKILL 2 (Orbital Slash): Throw your saber from your right hand, making it spin around your avatar, attacking opponents around you, and then returning it to your hand.
+    
+        - Stamina Cost: 20%
+        
+        - Optional Gesture: [STAR SABER] - SKILL 2 - (F2).
+
+-------------------------------------------------------------------------------------------------------------
+    
+    • SKILL 3 (Vortex Dive): Charge at your opponent with your saber spinning and slashing your opponent with great speed.
+    
+        - Stamina Cost: 35%
+        
+        - Optional Gesture: [STAR SABER] - SKILL 3 - (F3).
+
+=============================================================
+    
+    
+    
