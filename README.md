@@ -10,11 +10,8 @@ things I own in SL.
   - Folder containing config notecards for various Animation Overriders
 - `AVsitter`
   - Folder containing config notecards for `AVsitter` and `AVsequence`
-  - Customized notecards providing sequenced animations for `Cuming Soon` furniture:
-    - [AVsitter/Cuming_Soon/Armchair](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Armchair)
-    - [AVsitter/Cuming_Soon/BabyDoll](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/BabyDoll)
-    - [AVsitter/Cuming_Soon/Quickie](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Quickie)
-    - [AVsitter/Cuming_Soon/Smash](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Smash)
+  - Customized notecards providing sequenced animations for furniture and other objects:
+    - [AVsitter Sequenced Animations](https://github.com/missyrestless/Doc/tree/main/AVsitter#readme)
 - `Bots` : instructions and info on SL bots
 - `Colors` : some frequently used color vectors
   - In LSL colors are defined as `<R, G, B>` vectors where each component (Red, Green, Blue) ranges from 0.0 to 1.0, not 0-255. To use standard RGB (0-255), you divide your values by 255 (e.g., `<67, 67, 67>` becomes `<67/255, 67/255, 67/255>`), and you use functions like `llSetColor()` or `llSetLinkColor()` with these vectors to change object or prim colors.
@@ -26,7 +23,7 @@ things I own in SL.
   - Folder containing settings and instructions for the DJ T-200 Tip Jar
 - `DonationTipJar`
   - Folder containing notecards and settings for the Donation Tip Jar
-- `Firestorm_Tips.txt`
+- [Firestorm Tips](https://github.com/missyrestless/Doc/tree/main/Firestorm_Tips.md)
   - A few tips for users of the Firestorm Viewer
 - `Furniture`
   - Folder containing instructions for furniture products
