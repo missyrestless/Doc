@@ -1,0 +1,378 @@
+
+
+IMPORTANT - IMPORTANT - IMPORTANT
+
+This is a drop-in script for the "Discord Relay and Server Joiner" at version 3.0.0 or higher, which is available at https://marketplace.secondlife.com/p/p/19908039
+
+This script WILL NOT FUNCTION WITHOUT the Discord Relay! It NEEDS the Discord Relay in order to function!
+
+IMPORTANT - IMPORTANT - IMPORTANT
+
+
+What does the Parcel Tracker do?
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+The Parcel Tracker script is an addition to the Discord Relay and will require version 3.0 or higher of the relay to work.
+It will report all avatar visits  on your parcel(s) in a single region/sim and report on arriving and leaving avatars as well as avatars that log off or crash.
+Arriving avatars have additional information shown: The parcel they are at, a guess of the avatar's gender, their premium status, current group tag worn, and avatar rendering weight. The system tracks movement of individual avatars from parcel to parcel (indicted by an abbreviated line of information) along with a clickable link to the coordinates, so a customer service representative, guide, mentor, realtor etc. can teleport directly to them.
+
+With version 3.00.17 we introduced the 'continuous scan' mode, which does not use fixed scanning cycles, but scans the area continuously, to report new visitors even faster.
+
+Reporting Arriving visitors
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+If a visitor arrives within the coordinates, the following information gets transmitted to the Discord channel configured:
+
+- Avatar profile photo.
+- Display name in bold, followed by "bot" as an indicator from Discord that this message comes from outside of Discord.
+- The ">" sign to show it is an arrival.
+- Name of the region/sim the avatar arrived into, in case you have the system deployed on more than one region.
+- Name of the parcel the avatar arrived at, as a clickable link with SLURL to their position at time of detection.
+- Legacy name, linked to the web profile of the avatar.
+- Gender guess of the avatar (be aware that this fails for gender-fluid avatars).
+- Icon for Second Life Premium user (Crown), or Premium Plus user (Medal).
+- Icon of hugging people if the user is a friend
+- Current group title, if set.
+- Avatar rendering weight (Scale-icon;  see notes below. Generally speaking: lower = better).
+- Attached scripts (Scroll icon, one number if all scripts are running, otherwise first number is the running script count and second number the total script count, lower = better).
+- Memory used by all attached scripts (Disk icon, lower = better).
+- Script run time of all attached scripts (Clock icon, lower = better).
+
+
+Moving visitors
+▀▀▀▀▀▀▀▀▀▀▀▀
+
+As the avatar moves from one of your parcels to a different of your parcels on a sim, the following information gets transmitted to the Discord channel configured:
+
+- Avatar profile photo.
+- Display name in bold, followed by "bot" as an indicator from Discord that this message comes from outside of Discord.
+- The "-" sign to indicate the avatar was already on the sim and is moving to a different parcel.
+- Name of the parcel the avatar arrived at, as clickable link with SLURL to their position at time of detection.
+- Legacy name, linked to the web profile of the avatar.
+- Gender guess of the avatar (be aware that this fails for gender-fluid avatars).
+- Icon for Second Life Premium user (Crown), or Premium Plus user (Medal).
+- Icon of hugging people if the user is a friend
+- Avatar rendering weight.
+- Attached scripts.
+- Memory used by all attached scripts.
+- Script run time of all attached scripts.
+
+Leaving visitors
+▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+If a visitor leaves, the following information gets transmitted to the Discord channel configured:
+
+- Avatar profile photo.
+- Display name in bold, followed by "bot" as an indicator from Discord that this message comes from outside of Discord.
+- the "<" sign to show it is a departure.
+- Legacy name, linked to the web profile of the avatar, in italics.
+
+Log offs  / crashes
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+If a visitor logs off or crashes while in the monitored area, certain information can't be easily acquired. Therefore the following gets transmitted to the Discord channel configured:
+
+- Avatar profile photo.
+- Name of the object the Discord scripts reside in, followed by "bot" as an indicator from Discord that this message comes from outside of Discord.
+- the "<" sign to show it is a departure.
+- Unlinked legacy name in italics, followed by the words "logged off".
+
+Configuration
+▀▀▀▀▀▀▀▀▀▀▀
+
+Your "Discord Relay and Server Joiner" (Which needs to be purchased beforehand, if you have not done so already) is the Base for this add-on. It contains a configuration notecard. Make sure you configure this notecard for your Discord Channel before continuing.
+
+Add the two scrips to the Discord Relay object. If you have more than one Discord Relay object rezzed on a sim, add the scripts to only ONE of them (no matter which). 
+
+No additional configuration needed. For ADVANCED configuration options, please scroll down.
+
+Advanced Configuration
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+Ignore specific avatars:
+───────────────────
+
+If you want to exclude yourself, friends, tenants, staff members, or other people from being tracked, you can configure the Region Tracker to ignore them. To add an avatar to the ignore list, add a configuration line to the discord.cfg notecard. The line starts with "ignore = " and is followed by the avatar UUID to be ignored. You can add the name of the avatar in a separate line as a comment, so you remember who you put on the list. Example:
+
+ignore = 99d8181a-4395-4c7f-9784-e67d774834b4 # Peter Stindberg
+
+You can have multiple "ignore = " lines, each followed by a unique avatar UUID. There is no hard limit as to how many people you can ignore. The script memory should easily manage 20-30 unique UUID's on the ignore list.
+
+Ignore my group:
+─────────────
+
+"ignoremygroup" is a configuration variable, that allows you to ignore avatars that have the same active group as the object runs under. There is no way to detect if an avatar is in a certain group. All that can be detected is the currently active group! If you set "ignoremygroup = true", those avatars get not tracked, that are currently active in the same group.
+
+Ignore my friends:
+──────────────
+
+"ignorefriends" is a configuration variable, that allows you to ignore your friends from being tracked. If you set "ignorefriends = true", your friends do not get tracked.
+
+Ignore roaming bots:
+────────────────
+
+If you don't care about roaming bots, or if you get annoyed by the sheer number in which they visit your region, you can configure the tracker to ignore them, as such:
+
+ignorebots = true
+
+ONLY showing roaming bots:
+─────────────────────
+
+If you find the whole concept of roaming bots as fascinating as we do, you might want to use the configuration so it only(!) shows known roaming bots. Maybe make a second instance of relay+tracker and send it to a separate channel? Please be aware that it does what's written on the lid: It will report no visitors to your sim at all, unless they are on the list of known roaming bots.
+
+onlybots = true
+
+Please be aware that "ignorebots" and "onlybots" can NOT be used in combination within the same object. If you set both to true, one of them will override the other.
+
+Minimal mode:
+──────────
+
+Minimal mode has been deprecated int his version. Use a message template (see below) instead.
+
+Disable gender guess:
+─────────────────
+
+Disabling gender guess has been deprecated int his version. Use a message template (see below) instead and leave the $GG variable out.
+
+Hover-text shortlist:
+─────────────────
+
+With version 1.06.04 we introduced an optional hover-text display of the people arriving on your region/parcel. This is NOT a live display, more like a log-file of people arriving. It will show approximately 10 names (depending on the length of the name) along with the date. Each name is shown only ONCE per day. No additional info gets shown. The names will be filtered according to the ignorebots/onlybots settings.
+
+hovertext = true
+
+New entries get added at the top, old entries drop out at the bottom. If the check for Roaming Bots is enabled, their name gets prefixed by a 🅱.
+
+This feature has limited usefulness. It's mostly a clean, small visitor counter. But I needed it for my exhibit at the SL19B Second Life Birthday event, so we added it.
+
+
+Group owned parcels:
+─────────────────
+
+If you have several parcels on a region, and they are owned by group, sometimes a single Tracker is not able to monitor all parcels (as it is supposed to). In that case, try adding
+
+parcelmode = single
+
+to the discord.cfg notecard.
+
+Scanning altitude layers:
+────────────────────
+
+By default, the tracker scans the whole area from ground level to the sky limit. Sometimes, you want to track a certain altitude only, for example for a shop or a club in the sky. Or you want to have different altitudes go to different Discord channels (via multiple Relays + Trackers). With the "bottom" and "top" variables, you can define one(!) such layer per Tracker instance:
+
+bottom = 1000
+top = 1500
+
+This only tracks visitors between 1000 meter and 1500 meter altitude.
+
+Removing Bot update messages:
+────────────────────────
+
+To get rid of that message, add:
+
+nostartupmsg = true
+
+to the discord.cfg. Please be aware that this command might switch off messages from other add-ons as well.
+
+Message template
+─────────────
+
+You can customize the message being sent to Discord with a message template. There is a set of variables available:
+
+$DI = Direction (Icon: ❮ and ❯)    
+$RF = Region Formatted
+$RT = Region (Text-only)
+$PF = Parcel Formatted
+$PT = Parcel (Text-only)
+$NF = Name Formatted
+$NT = Name (Text-only)
+$GG = Gender Guess (Icon: ♀️ or ♂️)
+$PR = Premium level (Icon: 👑 for Premium, 🏅 for Premium Plus, empty if none)
+$IF = is friend? (Icon: 🫂, empty if not)
+$AR = Avatar Rendering Cost (Icon: ⚖️ - don't use it, it's silly)
+$GR = Group (empty if none)
+$SR = Scripts running (Icon: 📜)
+$SM = Scripts memory (Icon: 💾)
+$ST = Scripts time (Icon: 🕓)
+$AL = Altitude
+\n = new line
+
+The default is:
+
+tracker_template = $DI $RT | $PF | $NF ($GG $PR $IF $GR, $SR $SM $ST)
+
+
+Roaming Bots
+▀▀▀▀▀▀▀▀▀▀
+
+Disclaimer: This product includes functionality to detect and highlight a number of known roaming bots. This is an additional functionality, and not part of the core functions of this product. For the time being, this functionality gets offered as a complimentary service. There is no guaranteed service for this functionality, nor a guarantee of continued availability; nor for continuous updates. The service might be canceled, or turned into a subscription based service, at any time without prior notice.
+
+What are roaming bots?
+──────────────────
+
+There are an increasing number of roaming bots, that visit sims, mostly, for no apparent reason. See https://lounetizen.com/botdata/ for some insight on the issue. For the Region Tracker, we compile a growing list of bots from our gridwide bot detection network, heuristics, and submissions. Submissions get checked by us for validity to prevent abuse of the system. In addition to the information about arriving visitors, a separate line showing a warning sign and the text "This is a known roaming bot" will be displayed. 
+
+Spotting and hunting roaming bots is a fascinating pastime and there is a small group of dedicated bot spotters in SL. However, there are a few things to consider:
+
+Bots are NOT stalking you!
+
+Yes, it may seem this way, but they have no interest in you personally. As of March 2023, there are about 500 permanently active roaming bots on the grid, usually staying under a minute on each given region. On our home region, we usually get about 10 visits per day, often by the same set of bots. This might seem like stalking to some people, but it is not. As of July 2021, there exist a little less than 27000 regions in SL. A bot that stays less than a minute can visit 1440 sims per day, so an army of just 20 bots can visit EVERY region, EVERY day. The popular survey by Lou Netizen (linked above) lists about 150 active bots, so any given region experiences on average about 8 unique visits per day. While there is the possibility that a bot (or rather: an alt) might stalk YOU specifically, this would probably be motivated by a personal enmity and carried out with a specific focus on you; but not via grid-wide roaming bots.
+
+It does NOT make sense to ban all bots (and please don't use our tool for this)!
+
+Unfortunately, we only know for a very small percentage of bots, why they exist and what they do. Those bots have their creator and purpose clearly listed in their profiles. For the majority of bots, we simply don't know, but the most common assumption is that they are most likely associated with real estate business in SL. Banning bots is a futile, and sometimes counter-productive, task.
+
+- A parcel ban-list can only hold 300 avatars, a region ban-list can only hold 500 avatars (the latter needing estate manager privileges).
+- Security devices that eject avatars add script lag.
+- To store all bots locally, you need to deploy multiple security devices (Which = more script lag).
+- networked ban devices lack transparency and oversight
+- The danger of false positives is significant,
+- You ban potentially benevolent bots.
+- It's a race you can't win: Already now we see high churn-rate bots that get created in large numbers, are active for a few days, and then get discarded.
+
+That said, please use the bot-detection abilities of the Region- or Parcel Tracker for informative purposes only. The bots shown do NOT target you personally; it's just one phenomenon of a user created environment with rich scripting opportunities.
+
+How does this product detect roaming bots?
+──────────────────────────────────
+
+This product uses various methods to detect roaming bots: 
+
+- A grid-wide network of bot-traps, manually checked for plausibility and false positives.
+- Heuristics checking for typical bot behavior.
+- User reports via our form at https://forms.gle/Rf7dbpvUUJuHPGN47
+
+Our database holds several hundred bots and gets updated frequently. The Tracker checks for new bot data every 12 hours. 
+
+What are the bot classifications?
+──────────────────────────
+
+This product categorizes bots into 3 sections: Green, amber, and red. The criteria for those classifications are as follows:
+
+Green bots:
+─────────
+
+Bots whose creator and purpose is known, and who does not exhibit disruptive behavior: 
+- Needs to state in the profile who the creator is (no layers of secrecy).
+- Needs to state in the profile what its purpose is.
+- Must not be disruptive in terms of frequency/length of visit, flooding with multiple bots, stealthy behavior, offensive names/appearances.
+
+Amber bots:
+─────────
+
+Bots where the "jury is still out", still unknown whether they are green or red:
+- Operator not known and/or multiple layers of operators.
+- Purpose not known and/or dubious and/or reasonable doubt about the purpose.
+- Behavior borderline disruptive (e.g. flooding, offensive names).
+
+Red bots:
+───────
+
+Bots who show demonstrably disruptive behavior:
+- Impersonating other operator's bots (e.g. cloned profiles, name impersonation).
+- Heavily offensive names and/or appearance.
+- Offensive profiles.
+- Failure to register as "scripted agent" (see https://wiki.secondlife.com/wiki/Linden_Lab_Official:Scripted_Agent_Policy#Identification)
+
+Those characterizations and criteria are subject to change and adjustment over time. 
+
+If you operate a bot yourself and want it included in the list, or if you want its classification changed, please fill out this form: https://forms.gle/cwDeG4KnE87daYYG7
+
+Please note: We do \1 intend to become a "keeper of secrets". The process will be as transparent as possible. If you want your bot to be categorized as green, the information required for a green listing HAS to be public and verifiable by all!
+
+Can I get a copy of your bot-list?
+──────────────────────────
+
+No. A lot of work, time, and effort has gone into the compilation and continuous maintenance of this list. The list, the bot detector network, the vetting of the list, and the report, and appeal process, are our intellectual property and we will not give it away. This is very much for the same reasons we don't give the source code of our products away.
+
+Another reason is that a bot operator might learn a lot about how we detect bots, by looking at who is on this list; and even more so, by looking at who is NOT on this list.
+
+About Avatar Render Weight
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+This script monitors the Avatar Render Weight (sometimes referred to as Avatar Render Cost or Avatar Rendering Complexity) of arriving visitors. Background information on those metrics can be found at: https://community.secondlife.com/knowledgebase/english/avatar-rendering-complexity-r770/ and http://wiki.secondlife.com/wiki/Mesh/Rendering_weight
+
+While this sounds very helpful, please be aware that the Avatar Rendering Weight measurement is far from perfect. Some long term developers, with good reputation, even say it is deeply flawed! As of this writing (April 2023), there are believed to be 8 major bugs in the calculation of the render weight. One of the most glaring ones is the so called "Fitmesh LoD bug". This is where fitted mesh is rendered at a much higher complexity than necessary (background info here https://community.secondlife.com/forums/topic/419469-rigged-mesh-lod-bug/ and here https://community.secondlife.com/forums/topic/426621-what-the-fitmesh-lod-bug-actually-means/ ).
+
+The render weight this script measures, via the only available resource, is consequently misleading at best, and totally wrong at worst. As is the output of any other script by any other developer who uses this method!
+
+So why do we even bother to have it in the script and report it?  While the reported  weights  should not be taken as an absolute truth and NEVER should be used as a reason to ban or eject visitors (please, don't!), they are still informative as a RELATIVE measurement. An individual visitor's render weight of, e.g 170.000, tells you very little. However, when the majority of your visitors have render weights in the 150.000 - 200.000 range, compared to the majority of visitors at another place in the 50.000 - 70.000 range, it gives you an idea about the type of visitors you have. So, apart from marketing considerations, this is the reason we kept the feature in.
+
+There is ANOTHER ISSUE with the render weight reporting, however.
+
+It sometimes simply does not work. There is no deterministic behavior for this, that we have found out at least, and it changes from region to region. Sometimes, up to 4/5 of visitors of a sim don't have their render weight reported. Sometimes, after leaving the sim and coming back, it gets reported. Sometimes, even not then. We made the code more robust already, querying for the render weight more than once, as an example, and will continue to improve on this. But, for the time being, we have to live with spotty reporting.
+
+Suggestions, Bug Reports, Feature Requests
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+Please let us know if you run into trouble, or have any suggestions. Also let us know if you like it. We are open to feature requests and commissioned work. Let me know on Discord: https://discord.gg/9dAUeaH (where else).
+ 
+ 
+Known Issues & Limitations
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+Throttles:
+────────
+There are two potential throttles coming into play here. SL throttles outgoing requests (SL -> Discord) and Discord throttles incoming requests. 
+
+When a SL throttle triggers, there is a penalty of 30 seconds before new requests go out. The SL throttle applies to ALL scripts of a specific user in the region, so ALL outgoing requests by that user get counted against that throttle. 
+
+The Discord throttle applies to ALL scripts of ANY user in a region, so if Discord requests arrive too fast/much from a given SL region, Discord throws the messages away.
+
+My scripts try to avoid throttle situations by slowing down by themselves, but especially on busy regions, or regions with a lot of web traffic, we might run into throttles and then messages get dumped. I assume that is what happens.
+
+Memory:
+──────
+Older versions of the Region Tracker and the Parcel Tracker had difficulties handling VERY busy regions (50+ avatars at any given time). The V3 code base has completely rewritten memory management and was successfully tested with up to 97 concurrent agents (regions in SL can hold up to 100 agents). However, the circumstances are hard to reproduce and we never had the opportunity to test it on an event location (special regions with up to 175 agents). If you experience crashes or are using this tool on an event region, please let us know. We would be interested in a testing opportunity.
+
+Channel Setup:
+───────────
+If you want to have the visitor tracking go to a different channel than the general Discord chat, you need to place TWO copies of the Discord relay. Configure the additional copy for a different channel, and place the Discord Visitor Tracker into that copy.
+
+Avatar Render Weight:
+─────────────────
+Avatar Render Weight is not reported in every case. See above.
+
+Group-owned parcels:
+─────────────────
+If the parcel the tracker resides on is group owned, only the single parcel can be tracked. If there is more than one parcel on the region that should be tracked, multiple copies of the tracker need to be deployed. If the parcels are owned by a person, only one tracker is needed.
+
+Unscheduled region restarts:
+───────────────────────
+A single confirmed incident is known where these scripts have a very high correlation to random, unscheduled region restarts. Linden Lab support and the Linden Lab server team got involved but ultimately did not find a reason. Linden Lab staff concluded that the unscheduled restarts stemmed from an as-of-yet unclear combination of the specific region and these scripts. Needless to say, that the scripts perform flawlessly on numerous other regions. Should you encounter an unusual number of region restarts after deploying these scripts, please contact Peter Stindberg.
+ 
+
+Version history
+▀▀▀▀▀▀▀▀▀▀▀▀
+
+1.0 2020-12-10 First commissioned version for specific region 
+1.1 2020-12-13 Minor fixes
+1.2 2020-12-16 Added the SLURL's to the avatars
+1.3 2020-12-27 Minor adjustments, first public release
+1.04.03 2021-03-29 Changed version numbering, minor optimizations
+1.05.00 2021-04-03  Added detection of roaming bots, more robust render weight detection and background info in manual, region fps monitoring added,
+1.05.01 2021-04-17 Minor adjustments
+1.05.02 2021-04-21 New bot list (04/21), new bot icon, new bot icon position
+1.05.03 2021-05-03 Added ignore-list feature
+1.05.05 2021-06-03 New bot list (05/21), added IGNOREBOTS and ONLYBOTS config
+1.05.06 2021-06-04 Hot-fix for ONLYBOTS config setting
+1.05.07 2021-07-30 Version for testers
+1.05.08 2021-08-01 New bot list (07/21), minimal-mode, parcel-mode
+1.06.02 2022-05-08 Enhanced output with more information
+1.06.03 2022-05-09 Added premium-user detection
+1.06.04 2022-06-21 Version for testers
+1.06.05 2022-06-22 Version for testers
+1.06.06 2022-08-31 Version for testers
+1.06.07 2022-09-06 support for group-owned parcels, support of Premium Plus user detection, new bot list (09/22), version for busy regions
+1.06.08 2022-09-08 hotfix
+1.06.12 2022-09-26 Fixed group-owned parcel tracking
+3.00.03 2023-04-17 Moved to V3 codebase, vastly improved memory handling, web-based bot update, bot-categories green/amber/red.
+3.00.04 2023-04-24 Fixed ignore parameter, added ignoremygroup parameter.
+3.00.05 2023-05-18 Re-introduced bot-names as Discord usernames
+3.00.10 2023-08-13 Fixed ignore logic, better output of bot updates
+3.00.13 2024-02-12 Altitude-layers, highlighting or ignoring of friends, minor fixes
+3.00.15 2024-06-13 Fixed parcelmode, new option "parcelmode = single"
+3.00.17 2024-09-01 Major rewrite with continuous scan and support for busy regions
+3.00.18 2024-10-07 Minor fix regarding ghosted agents at regions border, support for nostartupmsg config option.
+3.00.19 2024-10-17 Minor fix to version .18 that prevents an eternal loop for a single agent in multi-region setups.
+3.00.25 2025-04-27 Finalized rewrite, continuous scan, message templates, many fixes
+3.00.27 2025-10-25 Adaptive Scan Flow Control System and sliding scale delay algorithm for busy regions, Memory Optimizations, code opitimizations.
