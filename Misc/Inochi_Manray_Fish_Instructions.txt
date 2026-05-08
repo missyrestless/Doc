@@ -1,0 +1,58 @@
+Instructions:
+
+**** NEVER link to this object
+ 
+CREATING A PATH
+
+drag the animal from inventory
+Right Click -> Edit
+Right Click -> Touch (the menu opens)
+        
+The Menu:
+
+Record          Records the current position
+Clear             Clears all saved positions
+Clear Action   Clears the current "action"
+
+
+Speed +        Increase speed
+Speed -         Decrease speed
+
+Pause      +    Increase time to Pause at this way point
+Pause      -     Decrease time to Pause at this way point
+
+Start              Start following the path
+
+Move the animal to the place your path will begin
+set the speed if desired
+set a behavior if desired  (Pause, Feed Down, Feed Up) Behaviors vary from animal to animal
+press Record
+
+Move the animal to the next location
+set the speed if desired
+set a behavior if desired  (Pause, Feed Down, Feed Up) Behaviors vary from animal to animal
+press Record
+
+continue moving and recording, ending near the point you began
+
+Press START to start the animal swimming
+
+
+
+Be sure to visit us inworld for exclusive content available nowhere else,
+
+A new group gift every month, available ONLY that month
+Gachas & Lucky boards - all exclusive content only available here
+
+􀀁
+
+
+Thanks,  􀀀 & 􀀃
+Check our YouTube channel for the latest releases
+
+Inochi Botanicals
+
+Inworld                          􀀂
+Marketplace                  https://marketplace.secondlife.com/stores/94940
+YouTube                        https://www.youtube.com/playlist?list=PL0EvIrpbv6tbf1UHqWRW_AeN1wQAkawqH
+SL Group                      secondlife:///app/group/ecb8a055-f88d-fd7a-cb6f-fef1e9eaad50/about
