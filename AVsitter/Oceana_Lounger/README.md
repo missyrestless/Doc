@@ -1,25 +1,19 @@
-# AVsitter Sequence for BabyDoll Bed
+# AVsitter Sequence for Chez Moi Oceana Lounger
 
 This folder contains the `AVpos` and `[AV]sequence_settings` notecards for use
-with the `[AV]sequence` plugin for `AVsitter2` to provide animation sequences
-for the Cuming Soon BabyDoll Bed dialog menus.
+with the `AVsitter2` plugin `[AV]sequence` to provide animation sequences for
+the Chez Moi Oceana Lounger dialog menus.
 
 This `AVsitter` customization allows greater freedom of personal interaction in the
-sauna, eliminating the need to navigate dialog menus during moments of intimacy.
+lounger, eliminating the need to navigate dialog menus during moments of intimacy.
 
 ## Menus
 
-Sequences are configured for the following menus:
+Sequences are configured for the following menus, both male and female:
 
-- Male and Female Sit Menus
-- Male and Female Foreplay Menus
-- Together Menu
-- Front Menu
-- Rodeo Menu
-- Pound Menu
-- Rev-Ride Menu
-- Sitting Menu
-- Stand Menu
+- Solo
+- Cuddles &amp; Kisses
+- Sex
 
 ## Download the script and customized notecards
 
@@ -32,33 +26,50 @@ wget -q -O '[AV]sequence' https://raw.githubusercontent.com/AVsitter/AVsitter/re
 Download the customized `[AV]sequence_settings` notecard:
 
 ```bash
-wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Cuming_Soon/BabyDoll/AVsequence_settings
+wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Oceana_Lounger/AVsequence_settings
 ```
 
 Download the customized `AVpos` notecard:
 
 ```bash
-wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Cuming_Soon/BabyDoll/AVpos
+wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Oceana_Lounger/AVpos
 ```
 
 ## Setup
 
-To configure a Cuming Soon BabyDoll bed with AVsitter sequences:
+To configure a Chez Moi Oceana Lounger with AVsitter sequences:
 
-- Right click the couch and select `Edit`
-- Copy the `[AV]sequence` plugin script into the Contents tab
+- Right click the lounger and select `Edit`
 - Copy the `[AV]sequence_settings` notecard into the Contents tab
-- Replace the `AVpos` notecard in the Contents tab with the `AVpos` notecard found in this folder
+- Copy the `[AV]sequence` plugin script into the Contents tab
+- Drag the original `AVpos` notecard in the Contents tab into your inventory as a backup
+- Delete the original `AVpos` notecard in the Contents tab
+  - You have to delete the notecard because they made it No Modify (sheesh)
+  - Ignore and close the warning window that pops up, this is expected and ok
+- Drag the `AVpos` notecard found in this folder into the Contents tab
 - Close the `Edit` window
-- Right click the couch and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
+- Optionally, right click the lounger and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
 - Wait for the scripts to reset (this takes a few minutes)
 
-Sit on the couch and click one of the main menu entries, e.g. click `Me` or `Together`.
+Sit on the lounger and click one of the main menu entries, e.g. click `SINGLE F` or `LOVE`.
 
-You should see a menu entry of the form `SEQ ...`. Click this menu entry and your
+You should see a menu entry of the form `SEQ-...`. Click this menu entry and your
 avatar will cycle through all the animations in that submenu. Cycle times are currently
 set to 60 seconds with menu arrows to step to the next animation, previous animation,
 or pause animation sequencing.
+
+### Auto Play Sequence
+
+If you wish to automatically play a sequence when an avatar sits on the lounger
+then download the `autoplay.sl` script and copy it into the Contents of the object.
+
+```bash
+wget -q -O 'autoplay' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Oceana_Lounger/autoplay.lsl
+```
+
+The `autoplay` script detects the gender of the sitter and plays the appropriate sequence.
+In addition, it detects the number of sitters currently on the object and plays the couples
+animation sequence if more than 1 sitter is seated.
 
 ## Currently Supported Products
 
