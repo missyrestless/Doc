@@ -1,0 +1,41 @@
+The RLV version of this furnure has RLV (Restrained Love Viewer) functions added.
+It allows an avatar to capture other avatars and impose RLV restrictions upon them. 
+To be controlled by RLV, avatars must be wearing an RLV relay based on the RLV API (e.g. OpenCollar), 
+and turn on RLV in the SL viewer.
+
+A new "Control" Button added to the main menu to access all the capture functions.
+
+To enforce the roles, the role is asked to the avatar after sitting, and kept until it gets up.
+the [SWAP] button is not available in this version of the furniture.
+To change sitter position, you'll have to unsit and sit again.
+
+------------------------------------
+Note: Selecting an avatar for capture will force them to sit on the furniture and the menu will be ‘locked’, 
+meaning that only the controlling avatar can access the menu. 
+The timelock countdown is not automatically started.
+------------------------------------
+Note: If an avatar sits voluntarily and is captured then the menu will be ‘unlocked’, 
+meaning that any non-captured avatar can take control of the menu. 
+The timelock countdown is automatically started.
+------------------------------------
+Note: When an avatar is released, any RLV restrictions imposed by the furniture are removed.
+
+The Control menu contains the following options:
+
+    Capture! - capture the avatar.
+    Release! - release the captive avatar.
+    Take Keys/Drop Keys - allows the controlling avatar to “lock” or “unlock” the menu.
+    Timelock - start/stop/change the countdown timer for automatic release.
+    Restrict - toggle various RLV restrictions on the captive.
+    [STOP] - releases and unsits all avatars.
+    Browse #RLV - browse the avatar’s #RLV folder and wear/unwear folders they have set up.
+    Fast Strip - remove every item of clothing and attachments from all attachment points (except skull).
+    Undress - remove individual clothing layers.
+    Detach - remove attachments from individual attachment points.
+    Menu - goes to the regular pose menu of the captive avatar.
+
+Important: Folders starting with a period ( . ) can not be browsed. 
+Adding (nostrip) to an item’s name or folder will prevent it from being removed. 
+Many guides such as OpenCollar’s smartstrip guide 
+https://raw.githubusercontent.com/OpenCollar/opencollar/9b4a6d3fcd85ae5f621a254e41688f484e9ba22b/src/spares/readme_smartstrip
+discuss #RLV folder setup.
