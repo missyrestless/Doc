@@ -1,8 +1,10 @@
-# AVsitter Sequence for DaD Outdoor Jacuzzi Hot Tub
+# AVsitter Sequence for DaD Outdoor Sauna ADULT v1.3
 
 This folder contains the `AVpos` and `[AV]sequence_settings` notecards for use
 with the `AVsitter2` plugin `[AV]sequence` to provide animation sequences for
-the DaD Outdoor Jacuzzi Hot Tub dialog menus.
+the DaD Outdoor Sauna ADULT v1.3 dialog menus.
+
+**[Note:]** This `AVsitter` customization is for the ADULT version of the sauna only.
 
 ## Menus
 
@@ -10,48 +12,50 @@ Sequences are configured for the following menus:
 
 - Male and Female Solo Menus
 - Couples cuddles
-- Wash Menus
-- Three Adult Menus
+- Him and Her Foreplay
+- Male and Female Adult Front Menus
+- Male and Female Adult Behind Menus
+- Male and Female Adult Riding Menus
 
 ## Download the script and customized notecards
 
-The DaD Outdoor Jacuzzi Hot Tub already has the `[AV]sequence` script and the
+The DaD Outdoor Sauna already has the `[AV]sequence` script and the
 `[AV]sequence_settings` notecard configured. Replace the `[AV]sequence_settings`
 and the `AVpos` notecards with those downloaded here.
 
 Download the customized `[AV]sequence_settings` notecard:
 
 ```bash
-wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Hot_Tub/AVsequence_settings
+wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Sauna/AVsequence_settings
 ```
 
 Download the customized `AVpos` notecard:
 
 ```bash
-wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Hot_Tub/AVpos
+wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Sauna/AVpos
 ```
 
 ## Setup
 
-**[NOTE:]** Make sure you have a backup of your tub before modifying just in case.
-If you do not already have a copy in your inventory, right click the hot tub and
+**[NOTE:]** Make sure you have a backup of your sauna before modifying just in case.
+If you do not already have a copy in your inventory, right click the sauna and
 select `Take` then `Take copy`.
 
-To configure a DaD Outdoor Jacuzzi Hot Tub with customized AVsitter sequences:
+To configure a DaD Outdoor Sauna with customized AVsitter sequences:
 
-- Right click the hot tub and select `Edit`
+- Right click the sauna and select `Edit`
 - Select the Contents tab in the Edit window
 - Click the `Edit linked` checkbox
-- Using `Ctrl .` (press both the Ctrl key and the Period key) locate the notecards (Link number 6)
+- Using `Ctrl .` (press both the Ctrl key and the Period key) locate the notecards (Link number 3)
 - Delete the `[AV]sequence_settings` and `AVpos` notecards
-- Copy the `[AV]sequence_settings` notecard into the Contents tab
-- Copy the `AVpos` notecard into the Contents tab
+  - You can ignore and close the Warning window that pops up
+- Copy the `[AV]sequence_settings` notecard into the Contents tab of this linked prim
+- Copy the `AVpos` notecard into the Contents tab of this linked prim
 - Close the `Edit` window
-- Right click the hot tub and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
+- Right click the sauna and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
 - Wait for the scripts to reset (this takes a few minutes)
 
-Sit in the hot tub and click one of the main menu entries, e.g. click `Single` then `Females`
-or `Adult` then `Start`.
+Sit in the sauna and click one of the main menu entries, e.g. click `Single` or `Cuddles`.
 
 You should see a menu entry of the form `SEQ-...`. Click this menu entry and your
 avatar will cycle through all the animations in that submenu. Cycle times are currently
@@ -60,8 +64,8 @@ or pause animation sequencing.
 
 ## See Also
 
-- Customized notecards providing sequenced animations for `DaD Outdoor Sauna`:
-  - [AVsitter/Sauna](https://github.com/missyrestless/Doc/tree/main/AVsitter/Sauna)
+-  Customized notecards providing sequenced animations for `DaD Outdoor Jacuzzi Hot Tub`:
+  - [AVsitter/Hot_Tub](https://github.com/missyrestless/Doc/tree/main/AVsitter/Hot_Tub)
 - Customized notecards providing sequenced animations for `Cuming Soon` furniture:
   - [AVsitter/Cuming_Soon/Armchair](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Armchair)
   - [AVsitter/Cuming_Soon/BabyDoll](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/BabyDoll)

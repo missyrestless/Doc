@@ -62,6 +62,8 @@ or pause animation sequencing.
   - [AVsitter/Cuming_Soon/Smash](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Smash)
 - Customized notecards providing sequenced animations for `DaD Outdoor Jacuzzi Hot Tub`:
   - [AVsitter/Hot_Tub](https://github.com/missyrestless/Doc/tree/main/AVsitter/Hot_Tub)
+- Customized notecards providing sequenced animations for `DaD Outdoor Sauna`:
+  - [AVsitter/Sauna](https://github.com/missyrestless/Doc/tree/main/AVsitter/Sauna)
 - Customized notecards providing sequenced animations for `Trompe Loeil Pool`:
   - [AVsitter/Pool](https://github.com/missyrestless/Doc/tree/main/AVsitter/Pool)
 - Customized notecards providing sequenced animations for `Lalou 3some Outdoor Shower`:
