@@ -9,11 +9,19 @@ pool, eliminating the need to navigate dialog menus during moments of intimacy.
 
 ## Menus
 
-Sequences are configured for Sitter 0 and Sitter 1 menus, both male and female:
+Sequences are configured for Sitter 0 and Sitter 1 menus, both male and female.
+The 3rd and 4th sitter menus do not have sequences configured - you're on your
+own with 3-ways and 4-ways.
+
+Currently configured sequenced menus include:
 
 - Solo Menus
 - Cuddle Menus
 - Foreplay and Tongue Play Menus
+- Blow Job Menus
+- Butt Stuff Menus
+- Fuck Menus
+- Hard Sex Menus
 
 ## Download the script and customized notecards
 
