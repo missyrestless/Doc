@@ -1,0 +1,268 @@
+[SP] EXP Smart Teleporter - Setup Guide
+=======================================
+
+The [SP] EXP Smart Teleporter is a versatile tool that adapts to your needs, 
+making setup a breeze. This guide will walk you through the process, from basic 
+to advanced configurations.
+
+Important: Before setting up, ensure that the Starchild Productions experience 
+is enabled on your region or parcel. This allows the script to teleport you and 
+your guests smoothly. The experience permission pop-up only needs to be accepted 
+the first time.
+
+=======================================
+Quick Setup
+=======================================
+
+1) Simple One-Way Teleport (Using a Landmark)
+---------------------------------------------
+1. Drop the script into any prim.
+2. Add a landmark to the prim's inventory.
+
+Touch the prim to teleport instantly.
+
+1a) Teleport with Directional Facing (Using a Landmark)
+-------------------------------------------------------
+1. Drop the script and a notecard named 'destinations' into your prim.
+2. Edit the LM_LOOK_AT variable in the notecard. Copy the position of the object 
+   you want to face after teleporting and paste it here 
+   (e.g., LM_LOOK_AT = <110.220.330>).
+
+Now, when you touch the prim, you'll teleport and face the direction of the object 
+specified.
+
+Example: Create a landmark that leads to your front door. Then, grab the object 
+position of your door and set it as the LM_LOOK_AT target. This ensures you teleport 
+and face your front door.
+
+Note: Our script uses advanced workarounds to ensure this feature works reliably, 
+unlike other scripts that might fail due to a longstanding bug in Second Life.
+
+=======================================
+Intermediate Setup
+=======================================
+
+2) Multi-Destination Teleport
+-----------------------------
+1. Drop the script into a fresh, empty prim.
+2. Add a notecard named 'destinations' with the following structure:
+
+   name1=slurl1
+   name2=slurl2
+
+Example:
+
+   Office=http://maps.secondlife.com/secondlife/Crystal%20Island/121/107/3012
+   Event=http://maps.secondlife.com/secondlife/Crystal%20Island/131/130/23
+
+A menu will appear when the teleporter is activated, allowing users to choose 
+their destination.
+
+Note: A maximum of 50 destinations can be added due to memory limitations.
+
+2a) Multi-Destination with Directional Facing
+---------------------------------------------
+Follow the steps in section 2 and add optional LOOK_AT vectors after the SLURLs:
+
+   name1=slurl1 <lookat1>
+   name2=slurl2 <lookat2>
+
+Example:
+
+   Office=http://maps.secondlife.com/secondlife/Crystal%20Island/121/107/3012 <111,222,33>
+   Event=http://maps.secondlife.com/secondlife/Crystal%20Island/131/130/23 <123,123,2000>
+
+Tip: Create a SLURL that lands two meters in front of your tier terminal, then use 
+the terminal’s object location as your LOOK_AT target. You’ll now face the terminal 
+after teleporting.
+
+=======================================
+Extras
+=======================================
+
+Using Sounds
+------------
+- Drop a sound clip into the inventory. It will play automatically before teleporting.
+- Note: You may need to configure a delay (see below) to ensure the sound plays before 
+  the teleport occurs.
+
+Using Animations
+----------------
+- Drop an animation into the inventory. It will play automatically before teleporting.
+- Note: Configuring a delay (see below) can help the animation play convincingly, 
+  such as when walking down a ladder.
+
+=======================================
+Advanced Configuration (Destinations Notecard)
+=======================================
+
+# ACCESS - Either 'Anyone', 'Group' or 'Owner'
+# NOTE: make sure you have a group set on your teleporter object when you want to use group access.
+
+ACCESS                  = Anyone
+
+# ACCESS_DENIED - a custom message to display when the user has no access to use the teleporter. 
+# NOTE: the tag [ACCESS] will be replaced by the actual access level set above.
+
+ACCESS_DENIED  = I'm sorry this teleporter is set to be used by [ACCESS] only.
+
+# HOVER_TEXT - A text displayed in hovertext. Like 'Teleport' or 'To the event'...
+# Note: clear the value if you wish to clear the hover text. ie: HOVER_TEXT          = 
+# Default: Destinations
+
+HOVER_TEXT          = 
+
+# INFO_TEXT - Allows you to remove even the temporary informative text like 'busy' when in use.
+# Note: in case you want a completely invisible prim this could help. otherwise not recommended.
+# Note: format: 'Yes' or 'No'  Default: Yes
+
+INFO_TEXT               = Yes
+
+# TOUCH - activate on touching the prim.
+# Note: In case no animation is present,,the user gets the menu or gets instantly teleported depending on the presence of a LM inside.
+# Note: In case there IS an animation present, the user is made to sit on the prim on touch first, 
+# then either gets the menu, or gets teleported after sitting, depending the presence of a LM inside.
+# Note: format: 'Yes' or 'No'
+
+TOUCH                     = Yes
+
+# TOUCH_TEXT - Short txt displayed on the pie menu when right clicking the prim for touch
+# Note: clear the value if you wish to have the default touch text. ie: TOUCH_TEXT          = 
+
+TOUCH_TEXT          = Teleport
+
+# COLLISION - activate on bumping into the prim. great for an invisible prim in a dark tunnel 
+# Notes: PHANTOM objects get locked to phantom state by the script to still detect avatars!
+# Set Collision to 'No' and save to unlock Phantom, then disable phantom on the object. 
+# You can now re-enable collision again to detect avatars bumping the solid object now.
+# Note: format: 'Yes' or 'No'  Default: No
+
+COLLISION              = No
+
+# SIT_TEXT - Short txt displayed on the pie menu when right clicking the prim for sit
+# Important: SIT ABILITY will *automatically activate* when an animation is present in inventory.
+# Note: this feature is unused without an animation present in inventory.
+# Note: clear the value if you wish to have the default sit text. ie: SIT_TEXT          = 
+# Default value is empty and recommended with touch enabled and touch text set .
+
+SIT_TEXT              = 
+
+# FORCE_SIT - When an *animation is present*, we will force the user to sit on the object on touch
+# Note: Useful when the animation makes more sense on some object like a ladder down a wishing well
+# Note: in case of a general animation that can be played anywhere like a dance, you can disable.
+# Note: this feature is unused without an animation present.
+# Note: format: 'Yes' or 'No'
+# Default is Yes
+
+
+# MENU_TEXT - Menu text in the main menu. Default: Choose a destination:
+MENU_TEXT       = Choose a destination:
+
+FORCE_SIT           = Yes
+
+# ANIM_OFFSET - a positional offset vector to adjust the animation position.
+# Note: this setting is ONLY used when an animation  is present in inventory.
+# Default (Fanatik's classic well 'ladder' animation) ANIM_OFFSET         = <0, 0.15, 0.95> 
+
+ANIM_OFFSET         = <0, 0.15, 0.95>
+
+# ANIM_ROTATION - a rotational vector to adjust the animation rotation
+# Note: this setting is ONLY used when an animation  is present in inventory.
+# Default (Fanatik's classic well 'ladder' animation) ANIM_ROTATION    = <0, 0, 90, 90> 
+
+ANIM_ROTATION    = <0, 0, 90, 90> 
+
+# SOUND_VOL - the volume of any sound played. valid ranges are 0.1 (low) to 1.0 (loudest)
+# Note: this is only used when a sound is present in inventory.
+# Note: Default: 1.0.
+
+SOUND_VOL               = 1.0
+
+# SOUND_RADIUS - limit sounds to this many meters around the teleporter. 0 means  unlimited.
+# Note: this is only changed when a sound is present in inventory.
+# Note: when no sound is present in inventory, the prim property radius is restored to unlimited.
+# Note: Default unlimited. ie: SOUND_RADIUS        = 0
+
+SOUND_RADIUS        = 0
+
+# DELAY_TIME - the time to force delay before teleporting, even when using LM or the destination is chosen quicker.
+# Note: this can be used to give any animation or sound present a decent chance to play. 
+# Note: this feature can still be used when no sound or animations are present so turn off if undesired.
+# Note: the teleporter nicely substracts any seconds the user spends choosing a destination. 
+# Note: Recommended with animation or sound: 4.0
+# Default 0.0
+
+DELAY_TIME               = 0.0
+
+# ALLOW_FOLLOW - traveling in pairs or in groups? its a nice to know where the other(s) went.
+# Note: Enabling this enables the second person to use the teleporter within 30 seconds to follow the first person easily.
+# Note: the destination will be revealed in the info text, and that next user gets a menu asking if they want to follow.
+# Note: this does not force the user to follow, they can click no and get their own destinations menu.
+# Note: after 30 seconds the teleporter clears and any new users get the normal destinations menu again.
+# Available values are 'Yes' and 'No' default: Yes
+
+ALLOW_FOLLOW       = Yes
+
+# LM_LOOK_AT - a positional vector to be facing after teleporting using the single landmark inside.
+# Note: this is only used when a landmark is inside, completely overruling the menu/destinations below.
+
+LM_LOOK_AT           =  <83.46187, 137.83514, 2011.13098>
+
+# DEBUG - For the developer to assist with debugging any potential future issues you might find..
+# Note: debug will spam lots of extra developer information relevant to the internal functioning of the script. 
+# Note: In case the script is acting out the creator may request you to enable this for more developer info. 
+# Note: a special code will be given to you in case you're requested to turn this on.
+
+DEBUG                       = 
+
+
+##################
+#  OTHER / ADVANCED #
+##################
+# Want more options? with a bit of scripting knowledge using the included API example script you can do anything you like .
+# Want to trigger extra custom messages ? want to start and stop a particle effect ? offer inventory before they go ?
+# An open (modifiable) API script is included with the system for scripters  that shows how to use the different events.
+# The example script shows how to trigger particles. You could put the script in another *linked* prim to be the source..
+# Look for the script called: '[SP] Smart Exp Multi Teleporter API example'
+
+
+=======================================
+Use Cases
+=======================================
+
+- Invisible Teleporters: Use in a dark tunnel to teleport users on collision.
+- Animated Teleporters: Animate a user through a small door or into a pit before teleporting.
+- Multi-Use Teleporters: Combine touch, sit, or collision options for a variety of teleportation experiences.
+- Event-Specific Teleportation: Override the destination menu with a single landmark for special events, like weddings or live performances.
+
+=======================================
+Example Setup: FANATIK Teleporter with Multi-Destination and Directional Facing
+=======================================
+
+1. Purchase the FANATIK Teleporter: 
+   https://marketplace.secondlife.com/p/FANATIK-Teleporters-animated-experience-teleporters-mesh-with-materials/23439527
+2. Rez the classic well.
+3. Remove everything from the inventory except the Ladder animation.
+4. Follow the basic or intermediate setup steps.
+5. Set ANIM_OFFSET = <0, 0.15, 0.95>.
+6. Set ANIM_ROTATION = <0, 0, 90, 90>.
+7. Optionally, add a sound clip to enhance the teleport experience.
+
+=======================================
+Example: Multi-Function Sim Teleporter
+=======================================
+
+If you have a sim with multiple attractions:
+1. Create a 'destinations' notecard with SLURLs to all points of interest, 
+   including look-at targets to impress your visitors when they land.
+2. Remove any landmark to activate the multi-destination menu.
+
+For special events:
+- Drop a landmark into the teleporter to override the menu and direct guests to a 
+  specific location without hassle.
+
+After the event, remove the landmark to revert to the multi-destination menu.
+
+Enjoy using your [SP] Smart EXP Multi Teleporter!
+If you find this product useful, please consider leaving a review. 
+For assistance, contact 􀀀

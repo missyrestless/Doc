@@ -1,0 +1,84 @@
+The WDC PARCEL BORDER TRACER quickly marks out a land parcel's boundaries by creating a virtual "fence" along its edges.
+It's especially handy for tasks in the sky or when parcel edges aren't easily visible!
+
+The WDC PARCEL BORDER TRACER is ideal for:
+
+-     Creators : Whether you're building structures, landscapes, or decorative elements, this tool helps you visualize and define parcel boundaries.
+    -  Builders : Use it to precisely mark out land edges, ensuring accurate placement of objects within your parcel.
+    -  Designers : The tracer assists in maintaining consistent parcel dimensions and aesthetics.
+    -  Decorators : Easily create virtual "fences" around your parcel, enhancing its visual appeal.
+    -  Anyone Working in the Sky : When you're high above the ground, the tracer ensures you stay within your parcel's boundaries.
+    -  Users with Invisible Parcel Edges : If your parcel edges aren't visible, the tracer provides a clear reference.
+
+FEATURES:
+
+    -  Parcel Border Tracing : The tracer outlines the edges of any parcel you can rez in.
+    -  Menu driven and easy to use, Newbie friendly.
+    -  Easy Clear Option : Conveniently remove all rezzed border elements with a single command.
+    -  Efficient Prim Usage : The tracer utilizes as few prims as possible, employing prims up to 64 meters in length.
+    -  Customization : Use your textures for each border element or group profile picture or owner profile picture.
+    -  Reliable Creator : Created by a long-standing Second Life (SL) creator, ensuring free updates and excellent customer service.
+
+BEFORE:
+
+1. Ensure you are on land that you own.
+2. Alternatively, be on land where anyone is allowed to build (such as a sandbox).
+3. The land should be deeded to the group that owns it.
+4. Set the land to the same group that owns it, and make sure the parcel flag 'allow group to build' is enabled.
+
+FOLLOW THESE INSTRUCTIONS:
+
+1. Rez the WDC PARCEL BORDER TRACER anywhere within the parcel.
+For optimal results, ensure that this box is positioned above ground.
+
+2. Touch the tracer for the menu and select REZ. After a few seconds, border elements will appear along the parcel boundary.
+If you notice that some border elements are missing, consider adjusting the height of the box.
+Raising it may help ensure that all border elements become visible.
+Repeat the process until you can see all the border elements.
+
+3. Continue touching the tracer for additional options:
+    - TEXTURES: Choose one of the textures to apply to the border elements.
+    - DEL SCRIPTS: Delete the scripts inside each border element.
+    - DEREZ: Remove all border elements from the parcel.
+    - DEREZ ALL: Delete all border elements across the entire sim.
+    - HELP: Retrieve this help notecard.
+    - SETTINGS MENU:
+    - H+/H-: Adjust the height of each border element.
+    - S+/S-: Change the size of each border element (default is 4x4 meters).
+    - PHANTOM/NO PHANTOM: Toggle whether avatars can pass through the border pieces.
+    - 0%/25%: Adjust the transparency of the border elements (0% means completely opaque).
+    - PROFILE PIC: Set the owner's profile picture on each border element.
+    - GROUP PIC: Set the group's profile picture on each border element.
+
+ADDING CUSTOM TEXTURES:
+
+1. Drag your desired textures from your inventory into the content tab of the tracer.
+2. The tracer will automatically restart.
+3. Touch the tracer for the menu and select Textures.
+4. Choose the texture you want to apply to the border elements.
+
+APPLY DIFFERENT THE GROUP PROFILE PICTURE:
+
+1. To set a different profile picture for the tracer, follow one of these methods:
+
+a. Easy Way:
+    - Delete the existing tracer.
+    - Wear the group tag of the desired group.
+     - Rez a new copy of the tracer.
+
+b. Longer Way:
+    - Edit the existing tracer.
+    - Click on the button located to the right of where the current group is displayed.
+    - Choose the desired group from the list.
+    - Click "OK."
+    - Touch the tracer for the menu and select "Restart".
+
+Touch the tracer for the menu > Settings > Group profile.
+
+HAPPY BUILDING
+
+SUPPORT AND CUSTOM SERVICE IM/NOTECARD WalloGo Dingson.
+
+HOW THIS MAGICAL GADGET WORK ?
+
+This script creates an agent that precisely follows a parcel's perimeter at 0.25-meter intervals, turning only at corner points.
