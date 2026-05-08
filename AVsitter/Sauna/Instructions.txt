@@ -51,3 +51,10 @@ To configure a DaD Outdoor Sauna with customized AVsitter sequences:
 Sit in the sauna and click one of the main menu entries, e.g. click 'Single' or 'Cuddles'.
 
 You should see a menu entry of the form 'SEQ-...'. Click this menu entry and your avatar will cycle through all the animations in that submenu. Cycle times are currently set to 60 seconds with menu arrows to step to the next animation, previous animation, or pause animation sequencing.
+
+Auto Play Sequence
+==================
+
+If you wish to automatically play a sequence when an avatar sits on the sauna then drag & drop the 'autoplay' script into the Contents of the object.
+
+The 'autoplay' script detects the gender of the sitter and plays the appropriate sequence. In addition, it detects the number of sitters currently on the object and plays the couples animation sequence if more than 1 sitter is seated.
