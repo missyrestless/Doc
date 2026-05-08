@@ -12,7 +12,7 @@ TOMENU COUPLES
 TOMENU COUPLES {A}
 
 MENU SOLO SWIM
-SEQUENCE SEQ SWIM
+SEQUENCE SEQ_SWIM
 POSE Circles|0296 Swim Circles X A
 POSE Float|Backfloat-2
 POSE Backfloat1|z-float
@@ -28,7 +28,7 @@ POSE Drift|be-float1
 POSE Swim|be-swim
 
 MENU SOLO SIT
-SEQUENCE SEQ SIT
+SEQUENCE SEQ_SIT
 POSE Poolside|[RNP] Pollside #7_Female_38 Seconds
 POSE Dangle|[RNP] Pollside #8_Female_50 seconds
 POSE Hang Out|bt1
@@ -56,7 +56,7 @@ POSE Sploosh|be-swushing
 
 
 MENU COUPLES
-SEQUENCE SEQ COUPLES
+SEQUENCE SEQ_COUPLES
 SYNC Gotcha|F Capture
 SYNC Embrace|F CloserIGet
 SYNC Join Hands|F FromMeToYou
@@ -74,7 +74,7 @@ SYNC Got You|F Precious&Afew
 SYNC Hold You|F Shiver
 
 MENU COUPLES {A}
-SEQUENCE SEQ ADULT
+SEQUENCE SEQ_ADULT
 SYNC Hand Job|F LHTA1
 SYNC Finger|F LHTA2
 SYNC Blow Job|F LHTA3
@@ -177,7 +177,7 @@ TOMENU COUPLES
 TOMENU COUPLES {A}
 
 MENU SOLO SWIM
-SEQUENCE SEQ SWIM 2
+SEQUENCE SEQ_SWIM_2
 POSE Circles|0296 Swim Circles X A
 POSE Float|Backfloat-2
 POSE Backfloat1|z-float
@@ -191,7 +191,7 @@ POSE Drift|be-float1
 POSE Swim|be-swim
 
 MENU SOLO SIT
-SEQUENCE SEQ SIT 2
+SEQUENCE SEQ_SIT_2
 POSE Poolside|[RNP] Pollside #7_Female_38 Seconds
 POSE Dangle|[RNP] Pollside #8_Female_50 seconds
 POSE Hang Out|bt1
@@ -219,7 +219,7 @@ POSE Sploosh|be-swushing
 
 
 MENU COUPLES
-SEQUENCE SEQ COUPLES 2
+SEQUENCE SEQ_COUPLES_2
 SYNC Gotcha|M Capture
 SYNC Embrace|M CloserIGet
 SYNC Join Hands|M FromMeToYou
@@ -237,7 +237,7 @@ SYNC Got You|M Precious&Afew
 SYNC Hold You|M Shiver
 
 MENU COUPLES {A}
-SEQUENCE SEQ ADULT 2
+SEQUENCE SEQ_ADULT_2
 SYNC Hand Job|M LHTA1
 SYNC Finger|M LHTA2
 SYNC Blow Job|M LHTA3
