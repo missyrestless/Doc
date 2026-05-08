@@ -1,0 +1,34 @@
+////////////////////////////////////////////////
+// 
+// TotalControl bot management library
+// (C) SmartBots, 2010-2019
+
+Thank you for buying TotalControl library!
+
+This library allows you to 100% control your Second Life bot:
+- bring it online and offline
+- teleport
+- talk
+- manage groups
+- manage inventory
+- and do much more amazing things!
+
+Check https://mysmartbots.com/dev/docs/TotalControl_for_LSL/Commands
+for the list of available commands.
+
+The comprehensive documentation is available here
+https://mysmartbots.com/dev/docs/TotalControl_for_LSL
+
+The usage examples are available here:
+https://mysmartbots.com/dev/docs/TotalControl_for_LSL/Examples
+
+If you need help scripting, contact SmartBots support at
+https://mysmartbots.com/en/contacts.html
+and tell you want to get a LSL development help.
+
+Any feedback is appreciated!
+
+// https://mysmartbots.com
+// 􀀍
+// 
+////////////////////////////////////////////////
