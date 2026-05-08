@@ -1,0 +1,61 @@
+Thank you for purchasing this set.
+>>> Jungle Bar set <<<
+
+Update version 1.2
+
+Set is COPY/MOD, bonus drink accessories - copy only. 
+____________________________________
+UNBOXING:
+Boxed using the rez2 system.
+
+1. Place rez box on ground or water level and touch the box.
+
+2. Select "Rez" from the menu.  Wait while the entire structure rezzes in a pile and then snaps into position.
+
+3. Move and rotate the rez-box to get perfect position of structure.
+
+4. When you're done, click "FINISH!", which will freeze your build into position.  You may then delete the Rez package.
+
+P.S. you may also derez-the item before selecting "FINISH!" and rezzing again as much as you need (if all parts don't rez as designed if there is some SIM lag or other problems)
+
+__________________________________
+FEATURES:
+
+* Touch hanging lights to turn them on/off.
+
+SIT:
+
+* Sit on bar stools for single sit animations. Re-arrange stools as desired.
+* Sit on hanging chairs for single sit animations.
+* Sit on left hanging chair for couple animations.
+* Sit on the drink tap for bartender animations.
+* Sit on the carved wooden poles in the middle of bar for some fun animations. 
+__________________________________
+
+*All couple animations are sync - any of partners can change them easy!
+
+Touch the item YOU are sitting on to open animations menu and chose animation for you or if couple sits used - for both!
+__________________________________
+
+AMBIENT SOUNDS:
+
+Use these commands (in local chat) while standing in the middle of the set to change sound volume:
+
+/10 birdsOFF
+/10 birdsLOW
+/10 birdsMID
+/10 birdsHIGH
+/10 birdsMAX
+
+__________________________________
+
+
+WARNING ! ! !  
+* Never unlink the entire set. If you want to move/delete a part, select it with "edit linked" tool and only then unlink. 
+* Do not resize the entire set. Animations positions don't scale. IF you still decide to do so, keep parts of the set with animations the same size or remove animations.
+
+
+-------------------------------------------------
+For any questions or assistance: IM Eduardos Ducatillon
+
+Headhunter's Island

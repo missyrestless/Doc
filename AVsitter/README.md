@@ -52,3 +52,8 @@ and a customized `AVpos` notecard specifically tailored for the product.
 - [Lalou 3some Outdoor Shower](https://github.com/missyrestless/Doc/tree/main/AVsitter/Outdoor_Shower)
 - [Lalou Miami Sun Lounger](https://github.com/missyrestless/Doc/tree/main/AVsitter/Miami_Sun_Lounger)
 - [Lalou Pool Float](https://github.com/missyrestless/Doc/tree/main/AVsitter/Pool_Float)
+
+### Customized notecards providing sequenced animations for Headhunter furniture
+
+- [Headhunter Hanging Beach Bed](https://github.com/missyrestless/Doc/tree/main/AVsitter/Hanging_Bed)
+- [Headhunter Jungle Bar](https://github.com/missyrestless/Doc/tree/main/AVsitter/Jungle_Bar)

@@ -1,8 +1,8 @@
-# AVsitter Sequence for Super Armchair
+# AVsitter Sequence for Headhunter Hanging Beach Bed
 
 This folder contains the `AVpos` and `[AV]sequence_settings` notecards for use
-with the `[AV]sequence` plugin for `AVsitter2` to provide animation sequences
-for the Super Armchair dialog menus.
+with the `AVsitter2` plugin `[AV]sequence` to provide animation sequences for
+the Headhunter Hanging Beach Bed dialog menus.
 
 This `AVsitter` customization allows greater freedom of personal interaction in the
 sauna, eliminating the need to navigate dialog menus during moments of intimacy.
@@ -11,12 +11,9 @@ sauna, eliminating the need to navigate dialog menus during moments of intimacy.
 
 Sequences are configured for the following menus:
 
-- Male and Female Sit Menus
-- Together Menu
-- Foreplay Menu
-- Front Menu
-- Ride Menu
-- Pound Menu
+- Male and Female Solo Menus
+- Male/Female Couples Menus
+- Male/Female Adult Menus
 
 ## Download the script and customized notecards
 
@@ -29,33 +26,46 @@ wget -q -O '[AV]sequence' https://raw.githubusercontent.com/AVsitter/AVsitter/re
 Download the customized `[AV]sequence_settings` notecard:
 
 ```bash
-wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Cuming_Soon/Armchair/AVsequence_settings
+wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Hanging_Bed/AVsequence_settings
 ```
 
 Download the customized `AVpos` notecard:
 
 ```bash
-wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Cuming_Soon/Armchair/AVpos
+wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Hanging_Bed/AVpos
 ```
 
 ## Setup
 
-To configure a Cuming Soon Super Armchair couch with AVsitter sequences:
+To configure a Headhunter Hanging Beach Bed with AVsitter sequences:
 
-- Right click the couch and select `Edit`
+- Right click the bed and select `Edit`
 - Copy the `[AV]sequence` plugin script into the Contents tab
 - Copy the `[AV]sequence_settings` notecard into the Contents tab
 - Replace the `AVpos` notecard in the Contents tab with the `AVpos` notecard found in this folder
 - Close the `Edit` window
-- Right click the couch and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
+- Right click the bed and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
 - Wait for the scripts to reset (this takes a few minutes)
 
-Sit on the couch and click one of the main menu entries, e.g. click `Me` or `Together`.
+Sit on the bed and click one of the sequence buttons: `SEQ SINGLES`, `SEQ COUPLES`, or `SEQ SEX`.
 
-You should see a menu entry of the form `SEQ ...`. Click this menu entry and your
+Sequence menu buttons are of the form `SEQ ...`. Click this menu entry and your
 avatar will cycle through all the animations in that submenu. Cycle times are currently
 set to 60 seconds with menu arrows to step to the next animation, previous animation,
 or pause animation sequencing.
+
+### Auto Play Sequence
+
+If you wish to automatically play a sequence when an avatar sits on the hanging beach bed
+then download the `autoplay.sl` script and copy it into the Contents of the object.
+
+```bash
+wget -q -O 'autoplay' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Hanging_Bed/autoplay.lsl
+```
+
+The `autoplay` script detects the gender of the sitter and plays the appropriate sequence.
+In addition, it detects the number of sitters currently on the object and plays the couples
+animation sequence if more than 1 sitter is seated.
 
 ## Currently Supported Products
 
