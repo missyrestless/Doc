@@ -1,7 +1,11 @@
 ATR MULTI-REZZER V1 SYSTEM DOCUMENTATION
 =========================================================
+This documentation is also available on-line: https://t.ly/7aPw2
+=========================================================
 WHATS INCLUDED:
 =========================================================
+
+NOTE: This is a rez/inventory management tool. It does NOT save/store saved placement/last position of objects. Future versions may.
 
 ** 2 versions of Rezzer each with 21 different Sample Objects and 'objects' Notecard in CONTENTS
 
@@ -28,7 +32,7 @@ and 21 'DisplayName' buttons (because there are no objects defined yet in the no
 
 ** Simply click 'Ignore' to close it. 
 
-You will also see a menu appear like you would for an object placed INSIDE a Rezzer - with a 'KILL SCRIPTS' and 'CLOSE' button. 
+You will also see a menu appear like you would for an object placed INSIDE a Rezzer - with a 'KILL SCRIPT' and 'CLOSE' button. 
 
 ** Simply click 'Ignore' or 'CLOSE' to close it. 
 
@@ -56,7 +60,7 @@ Click on it and accept 3 files: (ignoring the extra menus as explained above)
 
 The scripts will then be found in your Scripts folder and objects notecard in your Notecards folder (look under Recent Objects).
 
-** Note: If you click on the 'KILL SCRIPTS' button by mistake it will delete the 'ATR-REZONE21-RCV' script that gets used in the objects that are put in a Rezzer. 
+** Note: If you click on the 'KILL SCRIPT' button by mistake it will delete the 'ATR-REZONE21-RCV' script that gets used in the objects that are put in a Rezzer. 
 ** Simply rez another copy of the MULTI-REZZER SCRIPTS-NOTECARD (BOX) and try again.
 
 USING REZZERS PROVIDED:
@@ -121,7 +125,7 @@ DisplayName|ObjectName|UUID-021
 
 ========EXAMPLE NOTECARD ENDS===============
 
-How the Menus/Pagination Works:
+How the Pagination Works:
 
 Page Layout:
 
@@ -142,6 +146,7 @@ Capacity:
 Maximum 21 objects supported
 Automatically adds pagination when more than 8 objects
 Shows page number (e.g., "Page 2 of 3")
+Works with both direct touch and remote control
 
 ========================================
 

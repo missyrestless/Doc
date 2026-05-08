@@ -1,0 +1,378 @@
+ATR MULTI-REZZER V1 SYSTEM FEATURES
+=========================================================
+This documentation is also available on-line: https://t.ly/IyAU9
+=========================================================
+TOTAL: 207+ FEATURES / UP TO 21 OBJECTS PER REZZER
+=========================================================
+
+This comprehensive multi-channel object rezzing system offers professional-grade functionality for serious Second Life builders, decorators, event planners, and business owners!
+
+NOTE: This is a rez/inventory management tool. It does NOT save/store saved placement/last position of objects. Future versions may.
+
+# Complete Feature List - Organized by Usage Type
+
+## 1. CORE REZZING FEATURES
+
+### Basic Object Management
+1. **Touch-Activated Menu System** - Simple touch interface to access all functions
+2. **Menu-Based Object Selection** - Click object names to rez them
+3. **Toggle Rez/Derez** - Click same object to remove it (no separate derez menu needed)
+4. **Bulk Derez Function** - DEREZ ALL button removes all objects at once
+5. **Object Inventory Storage** - Store unlimited objects in base prim
+6. **Notecard-Based Configuration** - Easy text-based setup for object lists
+
+### Positioning & Placement
+7. **Automatic Centered Positioning** - Objects always rez centered on base
+8. **Precise Height Calculation** - Consistent 0.005m gap above base surface
+9. **Object Size Detection** - System automatically measures each object
+10. **Dynamic Height Adjustment** - Accounts for varying object heights
+11. **Rotation Inheritance** - Objects match base prim's rotation
+12. **Multi-Rotation Support** - Works regardless of base orientation
+13. **Bounding Box Calculation** - Accurate positioning for complex/linked objects
+
+### Object Communication
+14. **Two-Way Communication System** - Base and objects exchange information
+15. **Size Reporting Protocol** - Objects report their dimensions when rezzed
+16. **Position Confirmation** - Objects confirm placement completion
+17. **Channel-Based Messaging** - Organized communication prevents interference
+
+---
+
+## 2. MULTI-REZZER FEATURES
+
+### Channel Management
+18. **Independent Channel System** - Run up to 10 rezzers simultaneously
+19. **SET CHANNEL Button** - Easy channel selection from menu
+20. **Channel Selection Menu** - Choose from channels 0-9
+21. **Channel Offset Configuration** - Each rezzer operates on unique frequency
+22. **Channel Display in Menu** - Shows current channel in menu header
+23. **Automatic Script Reset on Channel Change** - Clean transition between channels
+24. **Channel Persistence** - Objects remember which channel they belong to
+25. **No Cross-Channel Interference** - Rezzers don't affect each other's objects
+26. **Start Parameter Channel Assignment** - Objects receive channel info at rez time
+27. **Multi-Listen Support** - Objects listen on all 10 channels simultaneously
+
+### Organization & Workflow
+28. **Multiple Collection Support** - Different rezzers for different item sets
+29. **Theme-Based Organization** - Group objects by theme, room, category
+30. **Independent Operation** - Each rezzer works completely separately
+31. **Scalable System** - Add more rezzers as needed (up to 10)
+32. **Location Flexibility** - Place rezzers anywhere in the region
+
+---
+
+## 3. USER INTERFACE FEATURES
+
+### Menu Systems
+33. **Main Dialog Menu** - Primary control interface
+34. **Channel Selection Submenu** - Dedicated channel configuration
+35. **Object Context Menu** - Touch rezzed objects for options
+36. **Button Layout Optimization** - Up to 9 objects + 3 control buttons
+37. **Menu Auto-Timeout** - 60 seconds for main menu
+38. **Object Menu Timeout** - 30 seconds for rezzed object menus
+39. **BACK Button Navigation** - Return to main menu from channel menu
+40. **Close Button** - Exit menus without action
+
+### Visual Feedback
+41. **Status Messages** - Clear confirmation of all actions
+42. **Rez Confirmation** - "Rezzed: [name]" message
+43. **Derez Confirmation** - "Derezzed: [name]" message  
+44. **Channel Assignment Feedback** - Shows when channel changes
+45. **Object Count Display** - "Loaded X objects" on startup
+46. **Debug Position Information** - Height calculations shown in chat
+47. **Error Messages** - Clear alerts for problems
+48. **Startup Notification** - Confirms script is running
+49. **Current Channel Announcement** - Shows active channel on startup
+
+### User Experience
+50. **Touch Text Display** - Visual cue that prim is clickable
+51. **Click Action Setting** - Ensures touch works properly
+52. **Random Menu Channels** - Prevents dialog conflicts
+53. **Listen Handle Cleanup** - No memory leaks from old listeners
+54. **Owner-Only Messages** - Status updates only to owner (reduces spam)
+
+---
+
+## 4. CONFIGURATION & CUSTOMIZATION FEATURES
+
+### Notecard System
+55. **Text-Based Configuration** - Simple notecard editing
+56. **Three-Field Format** - DisplayName|ObjectName|UUID structure
+57. **Custom Display Names** - Menu names different from object names
+58. **Comment Support** - Lines starting with # are ignored
+59. **Whitespace Trimming** - Extra spaces automatically removed
+60. **Line-by-Line Parsing** - Processes notecard sequentially
+61. **Pipe Delimiter** - Clear field separation
+
+### Flexible Naming
+62. **Descriptive Display Names** - User-friendly names in menus
+63. **Space Support in Names** - Display names can contain spaces
+64. **Case-Sensitive Matching** - Exact object name matching
+65. **UUID Tracking System** - Custom identifiers for each object
+66. **Object Name Independence** - Display and actual names can differ
+
+### Adjustability
+67. **Configurable Gap Height** - Easily change 0.005m default
+68. **Rotation Customization** - Objects can have custom rotations
+69. **Position Offset Modification** - Adjust where objects appear
+70. **Channel Range** - 10 channels available (0-9)
+
+---
+
+## 5. DATA MANAGEMENT FEATURES
+
+### List Management
+71. **Display Name List** - Stores menu labels
+72. **Object Name List** - Stores actual object names
+73. **UUID List** - Tracks unique identifiers
+74. **Rezzed Object List** - Tracks currently active objects
+75. **Paired Data Storage** - UUID and key pairs for tracking
+76. **Dynamic List Updates** - Lists update on notecard reload
+77. **List Synchronization** - All lists stay in sync
+
+### State Tracking
+78. **Rez State Monitoring** - Knows which objects are currently rezzed
+79. **Key-Based Identification** - Tracks objects by their keys
+80. **UUID to Key Mapping** - Links notecard IDs to live objects
+81. **State Persistence** - Remembers state until derez or reset
+82. **Multi-Object State** - Tracks multiple rezzed objects simultaneously
+
+### Data Validation
+83. **Object Existence Checking** - Verifies object in inventory before rezzing
+84. **Notecard Existence Validation** - Checks for "objects" notecard
+85. **Empty Configuration Handling** - Graceful handling of empty notecards
+86. **Duplicate Prevention** - Won't rez same object twice
+87. **Index Validation** - Ensures valid list access
+
+---
+
+## 6. AUTOMATION FEATURES
+
+### Automatic Operations
+88. **Auto-Position Calculation** - No manual positioning needed
+89. **Auto-Size Detection** - Measures objects automatically
+90. **Auto-Rotation Application** - Applies base rotation to objects
+91. **Auto-Channel Assignment** - Objects get channel from rez parameter
+92. **Auto-Script Reset** - Resets on rez and channel change
+93. **Auto-Notecard Reload** - Reloads on inventory change
+94. **Auto-Listen Setup** - Configures listeners automatically
+95. **Auto-Menu Channel Generation** - Random channel selection
+
+### Smart Detection
+96. **Inventory Change Detection** - Knows when contents change
+97. **Rez Event Detection** - Triggers when object appears
+98. **Message Type Detection** - Identifies command types
+99. **Channel Offset Detection** - Objects detect their channel
+100. **Script Presence Detection** - Knows if objects have scripts
+
+---
+
+## 7. OBJECT CONTROL FEATURES
+
+### Individual Object Management
+101. **Object Touch Menu** - Touch rezzed objects for controls
+102. **Kill Script Function** - Remove script from rezzed object
+103. **Script Self-Removal** - Script can delete itself
+104. **Permanent Placement Option** - Make objects permanent by killing script
+105. **Object Independence** - Killed objects become normal objects
+
+### Derez Controls
+106. **Targeted Derez** - Derez specific objects by UUID
+107. **Key-Based Derez** - Send derez command to specific object
+108. **Broadcast Derez** - DEREZ ALL sends to all objects
+109. **Channel-Specific Derez** - Only affects objects on same channel
+110. **Self-Destruction Protocol** - Objects can delete themselves
+
+---
+
+## 8. COMMUNICATION FEATURES
+
+### Messaging System
+111. **Region-Wide Communication** - llRegionSay for efficiency
+112. **Targeted Messaging** - llRegionSayTo for specific objects
+113. **Multi-Channel Support** - 10 derez channels (-99999 to -99990)
+114. **Multi-Channel Listening** - Objects listen on all channels
+115. **Command Protocol** - Structured message format (derez|key)
+116. **Position Protocol** - Position command format (position|vector|rotation)
+117. **Ready Protocol** - Objects announce readiness (ready|key|size)
+
+### Channel Organization
+118. **DEREZ_CHANNEL Base** - Channel -99999 for derez commands
+119. **OBJECT_CHANNEL Base** - Channel -99998 for positioning
+120. **Menu Channel Randomization** - Unique channels for each menu
+121. **Channel Offset Addition** - Adds offset to base channels
+122. **Channel Range Checking** - Validates channel numbers
+
+---
+
+## 9. ERROR HANDLING FEATURES
+
+### Detection & Alerts
+123. **Missing Notecard Alert** - Warns if notecard not found
+124. **Missing Object Alert** - Error if object not in inventory
+125. **Empty Configuration Warning** - Alerts when no objects loaded
+126. **Script Error Prevention** - Validates before operations
+127. **Index Range Checking** - Prevents out-of-bounds errors
+
+### Graceful Degradation
+128. **Safe Default Values** - System works without configuration
+129. **Error Message Clarity** - Clear, actionable error text
+130. **Continue on Error** - Doesn't crash on single failure
+131. **Owner Notification** - Errors reported to owner only
+
+---
+
+## 10. PERFORMANCE FEATURES
+
+### Efficiency
+132. **Minimal Script Memory** - Lightweight script design
+133. **Event-Driven Architecture** - Only acts when needed
+134. **Listen Handle Management** - Removes unused listeners
+135. **Timer-Based Cleanup** - Automatic resource cleanup
+136. **List Optimization** - Efficient list operations
+137. **Selective Listening** - Only listens when necessary
+138. **Region Say Efficiency** - Uses region chat vs object chat
+
+### Resource Management
+139. **Listen Handle Removal** - Prevents listener buildup
+140. **Timer Reset** - Clears timers when not needed
+141. **Memory Cleanup** - Removes old data
+142. **Script Reset Protocol** - Clean restart capability
+143. **State Reset on Rez** - Fresh start when rezzed
+
+---
+
+## 11. SETUP & INSTALLATION FEATURES
+
+### Easy Setup
+144. **Two-Script System** - Only two scripts needed total
+145. **Copy-Paste Scripts** - Simple installation
+146. **No Compilation Required** - Scripts work as-is
+147. **Minimal Configuration** - Just notecard needed
+148. **Default Channel Zero** - Works immediately without setup
+149. **Example Notecard Format** - Documentation included
+
+### Documentation
+150. **In-Script Comments** - Code is documented
+151. **Comment Header** - Explains purpose
+152. **Variable Naming** - Self-documenting code
+153. **Function Comments** - Each function explained
+
+---
+
+## 12. MAINTENANCE FEATURES
+
+### Updates & Changes
+154. **REFRESH Button** - Reload notecard without restart
+155. **Inventory Auto-Reload** - Detects inventory changes
+156. **Script Reset Capability** - Clean restart option
+157. **On-Rez Reset** - Fresh start when moved
+158. **Channel Change Reset** - Clean transition
+
+### System Management
+159. **State Preservation** - Maintains rezzed object list
+160. **Clean Shutdown** - Proper cleanup on reset
+161. **Version Independence** - Objects work with any rezzer
+162. **Backward Compatibility** - Old objects work with new scripts
+
+---
+
+## 13. ADVANCED FEATURES
+
+### Vector Mathematics
+163. **Position Calculation** - Complex vector math
+164. **Rotation Application** - Quaternion operations
+165. **Offset Transformation** - Rotation-adjusted offsets
+166. **Height Summation** - Base + gap + object calculations
+
+### Object Properties
+167. **Bounding Box Reading** - llGetBoundingBox usage
+168. **Scale Detection** - llGetScale for dimensions
+169. **Position Getting** - llGetPos for location
+170. **Rotation Getting** - llGetRot for orientation
+171. **Object Details Query** - llGetObjectDetails for info
+
+### Type Handling
+172. **Vector Casting** - String to vector conversion
+173. **Rotation Casting** - String to rotation conversion
+174. **Key Casting** - String to key conversion
+175. **Integer Parsing** - String to integer conversion
+176. **List String Extraction** - llList2String operations
+
+---
+
+## 14. SAFETY FEATURES
+
+### Protection
+177. **Phantom Prevention** - Base not phantom by default
+178. **Touch Action Lock** - CLICK_ACTION_TOUCH set
+179. **Inventory Drop Block** - Prevents accidental drops
+180. **Owner-Only Control** - Only owner can operate
+181. **Channel Isolation** - Channels don't interfere
+
+### Reliability
+182. **Delay on Rez** - 0.5s wait for object stability
+183. **Position Delay** - 0.2s before size reporting
+184. **Existence Checks** - Verifies before operations
+185. **Safe List Access** - Checks bounds before reading
+186. **Error Recovery** - Continues after errors
+
+---
+
+## 15. WORKFLOW FEATURES
+
+### Professional Use
+187. **Quick Scene Setup** - Fast object deployment
+188. **Rapid Scene Changes** - Switch themes quickly
+189. **Event Setup** - Temporary installations
+190. **Display Management** - Store/showroom applications
+191. **Photography Support** - Quick prop changes
+192. **Staging Capability** - Theater/event staging
+
+### Organization
+193. **Collection Management** - Group related objects
+194. **Category Separation** - Different rezzers per category
+195. **Theme Switching** - Change entire scenes
+196. **Room-Based Organization** - Rezzer per room
+197. **Function-Based Grouping** - By object type
+
+---
+
+## 16. EXTENSIBILITY FEATURES
+
+### Future Growth
+198. **Modular Design** - Easy to add features
+199. **Function Separation** - Clear code organization
+200. **Protocol Standards** - Consistent message format
+201. **Channel Expansion** - Could support more channels
+202. **Script Compatibility** - Works with object scripts
+
+### Customization Potential
+203. **Adjustable Parameters** - Many values can be changed
+204. **Custom Commands** - Easy to add new menu items
+205. **Extended Menus** - Room for more buttons
+206. **Protocol Extensions** - Can add new message types
+207. **Variable Positions** - Could add multiple rez points
+
+---
+
+## FEATURE SUMMARY BY CATEGORY
+
+**Core Rezzing:** 13 features
+**Multi-Rezzer:** 15 features
+**User Interface:** 23 features
+**Configuration:** 21 features
+**Data Management:** 15 features
+**Automation:** 13 features
+**Object Control:** 10 features
+**Communication:** 12 features
+**Error Handling:** 9 features
+**Performance:** 12 features
+**Setup:** 7 features
+**Maintenance:** 9 features
+**Advanced:** 14 features
+**Safety:** 10 features
+**Workflow:** 11 features
+**Extensibility:** 13 features
+
+---
