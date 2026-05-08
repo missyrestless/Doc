@@ -1,0 +1,28 @@
+# Lines starting with # symbol are just comments and wont affect the script.
+# NOTE:Change settings after '=' and do not remove any lines!
+# ADVICE: open the notecard larger, for better displaying the options.
+
+#----------- Turning ON/OFF -----------#
+# ON to activate OFF to turning off.
+System = OFF
+
+#----------- MESSAGE LIST -----------#
+#You Must type at least one message to Work.
+#Command BLANK Means NO message.
+#Replace every blank below:
+Message 1 = BLANK
+Message 2 = BLANK
+Message 3 = BLANK
+Message 4 = BLANK
+Message 5 = BLANK
+
+#----------- TIMER (in Seconds) -----------#
+#Set Number in seconds for each NEXT message to announce.
+#NOTE: USE ONLY NUMBERS.
+Timer(Seconds) = 20
+
+#----------- Verbose system -----------#
+#WHISPER for 10 meters Range.
+#SAY for 20 meters Range.
+#SHOUT for 96 meters Range.
+Verbose = SAY

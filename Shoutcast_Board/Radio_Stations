@@ -1,0 +1,42 @@
+# Lines starting with # are just comments and wont affect the scripts.
+#Each line below is split in 3 Parts, and the sections are as follows:
+#URL stream | Radio Station(Display Board/Menu) | UUID or command DEFAULT
+#Works With Seperators with the Symbol:  |  and must NOT remove it  for any reason.
+#1st Part. add the url Radio streamer.
+#2nd  Part. add the Radio station name for showing to the board & the menu.
+#3rd  Part. you add a UUID photo.(UUID is the texture key) OR the command: DEFAULT
+#NOTE FOR 2nd PART: try to avoid a huge names (24 characters is the limit).otherwise you have error.
+#NOTE FOR 4th  PART: you don't know what is UUID? type the command: DEFAULT. 
+#WARNING: DO NOT LEAVE GAPS IN EACH LINE
+#Video Tutorials here: https://www.youtube.com/watch?v=krzhsepo_Z8&list=PLW_RZ8e_yDeokDO8oh6YQLZ_T-zhlHDPA
+#--------------- Add Informations for every Radio Station Each New line Below -----------------#
+http://stream.neoman.dev:8000|Truth Radio|c37cf05b-d1d4-cea9-20a0-fcaf389e1961
+http://cast5.magicstreams.gr:8276|DG Radio|de80bbec-edab-38d6-0e74-4bec1c74d2b4
+http://cast.magicstreams.gr:9111|Psyndora Psytrance|671e02f8-f8ae-4c2c-8da0-0a52f06a83f7
+http://live.na.lightmanstreams.com:9390|Decode Ashdene|DEFAULT
+http://xanadu.sl-radio.online:8050|Xanadu|DEFAULT
+http://server1.chilltrax.com:9000|Chill Trax|DEFAULT
+http://stream.radioparadise.com/mp3-192|Radio Paradise|DEFAULT
+https://goreanwhip.radioca.st|Whip Radio|DEFAULT
+http://94.75.227.133:7005|IBIZA SONICA RADIO|0edf1b94-91e7-43c6-af63-f1d2bd36babb
+http://198.15.94.34:8006|DEEP HOUSE LOUNGE|fb9dc6c7-0c86-957b-2fd9-e42bf2ea1353
+http://51.89.148.171:8022|Dance UK Radio|20b5fe6e-51f1-0cc2-2767-cab203e888fd
+http://s1.slotex.pl:7494|Radio MRS|71e311ec-9979-6271-9da5-d0e23011ed8e
+http://94.23.6.107:8178|House Station Radio|b8a7a953-e537-1184-8175-99253db86777
+http://my.idjstream.com:8542|XOF Radio|08bd8cf2-0fc6-23e7-2fa8-08f5fe57a949
+http://komplex2.psyradio.org:8010|psyradio fm progressive|0e177d8f-b35a-5c6e-ef29-b5e3fb2ea958
+http://rdmlovestation.i-stream.online:8008|RDM LOVESTATION|b688e20b-7396-c2a2-6c13-f9d04c674dc5
+http://cast.streams.ovh:8008|Trance Athena Radio|7bd7dc8b-9929-80ff-973a-44257b997910
+https://sp.streams.ovh:8020|Psyland Radio|f7ca0078-5f6f-418e-fb24-1591f786df02
+http://107.161.29.166:8000|Space Unicorn Radio|993c7d42-4211-163b-b485-eb962b616d46
+http://uk7.internet-radio.com:8000|MoveDaHouse|631ed5c7-aacf-dba1-c3f8-ec88b149f46a
+http://uk4.internet-radio.com:8049|Dance Attack FM|e8b5ca15-7861-20c4-d605-2f73c6c8a9a4
+http://uk4.internet-radio.com:8019|Buzz FM|75294137-e151-8964-698d-51e0584d88c3
+http://uk5.internet-radio.com:8185|Polymer Radio|4356b375-7bc0-4e99-4368-48913a76d9d9
+http://uk5.internet-radio.com:8270|HARDSTYLE MUSIC|1ce12d95-07b3-038f-3a4e-2018baeeea0d
+http://uk6.internet-radio.com:8428|Eye Of Destiny Radio|5be5a037-51ba-1a26-aefe-567aee0f1559
+http://94.130.242.5:8010|PVR : PSYTRANCE|3253b94c-0ca2-958e-7cd0-664f30524481
+http://94.130.242.5:8046|PVR : TECHNO|3253b94c-0ca2-958e-7cd0-664f30524481
+http://www.partyviberadio.com:8040|PVR : DUBSTEP|3253b94c-0ca2-958e-7cd0-664f30524481
+http://94.130.242.5:8046|PVR : HOUSE|3253b94c-0ca2-958e-7cd0-664f30524481
+http://94.130.242.5:8040|PVR : ELECTRO|3253b94c-0ca2-958e-7cd0-664f30524481

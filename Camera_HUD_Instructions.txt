@@ -1,0 +1,38 @@
+Advanced Camera HUD- Instructions
+
+1.Drag the box onto the floor and then copy the Advanced Camera HUD to your inventory
+
+2. Right click the Advanced Camera HUD  in your inventory  and click add to show the HUD  on your screen
+
+4. Touch one of the three camera Icons on the HUD  to  activate and make your camera leave your body.
+ 
+IMPORTANT! - whichever Camera icon you touch to detach your camera, must touch THE SAME Icon again to return your camera, before you touch another Camera Icon, or to return your camera to normal
+ 
+Left  camera icon is fast speed for camming around an area quickly, covers distance much faster than traditional camera controls
+
+Centre  camera Icon  is medium speed, approximate to walking speed
+ 
+Right camera icon  is slow motion speed, ideal for recording  camming around interiors etc
+ 
+
+ use the following control to steer your camera:
+
+W = Forward
+
+A = Left
+
+S = Back
+
+D = Right
+
+E = Up
+
+C = Down
+
+
+
+
+5. PLEASE NOTE! this product will ONLY work in script enabled areas
+
+
+Any problems or questions, please contact evonic Ordram

@@ -1,0 +1,90 @@
+## Edit options below to customize your greeter!
+## Do not use fancy characters, only alphanumeric characters.
+
+# Location Name - Will be displayed at the click dialog.
+# Option: Any name that makes sense to you, like store name, etc...
+LOCATION_NAME = Club Truth & Beauty
+
+# Slideshow interval in seconds
+# Option: any number from 10 to 180 representing seconds (Default:10)
+# Valid only if more than 1 picture is available inside the gadget
+SLIDESHOW_INTERVAL = 10
+
+# Slideshow fade to black effect
+# Options: 1 for Enabled, 0 for Disabled
+# Valid only if more than 1 picture is available inside the gadget
+SLIDESHOW_FADE = 1
+
+# Click message  (if enabled above)
+# Options: Your custom message
+# Up to 254 characters, you may use \n as a new line marker
+CLICK_MESSAGE = Welcome to Club Truth & Beauty!\n\nPlease feel free to explore the club, shop, and attractions. Jump on the trampoline!\nAdd our 320k bps club radio station to your land: https://stream.neoman.dev:8443
+
+# Notify owner when a guest clicks on the display
+# Options: 1 for Enabled, 0 for Disabled
+NOTIFY_OWNER = 0
+
+# Group UUID for group joiner
+# Options: UUID key of the group you want to invite the user to join (displayed at the click dialog).
+GROUP_UUID_KEY = 6b88c18b-72c3-940f-eea1-e9f5232fd4e2
+
+# Owner Profile
+# Shows owner button at the click dialog.
+# Options: Any word up to 12 characters
+# Leave empty to disabled
+OWNER_BUTTON = 
+
+# Conversation button
+# Shows button to open conversation window with owner
+# Options: Any word up to 12 characters
+# Leave empty to disabled
+IM_BUTTON = 
+
+# Link 1 name to display as an option at the click dialog.
+# Leave empty to disabled
+# Label: Any word up to 12 characters
+# Link: Any web link
+LINK_1_LABEL = Marketplace
+LINK_1_LINK = https://marketplace.secondlife.com/stores/44210
+
+# Link 1 name to display as an option at the click dialog.
+# Leave empty to disabled
+# Label: Any word up to 12 characters
+# Link: Any web link
+LINK_2_LABEL = YouTube
+LINK_2_LINK = https://www.youtube.com/@missyrestless
+
+# Link 3 name to display as an option at the click dialog.
+# Leave empty to disabled
+# Label: Any word up to 12 characters
+# Link: Any web link
+LINK_3_LABEL = Blog
+LINK_3_LINK = https://missyrestless.blogspot.com
+
+# Link 4 name to display as an option at the click dialog.
+# Leave empty to disabled
+# Label: Any word up to 12 characters
+# Link: Any web link
+LINK_4_LABEL = Primfeed
+LINK_4_LINK = https://www.primfeed.com/missy.restless
+
+# Link 5 name to display as an option at the click dialog.
+# Leave empty to disabled
+# Label: Any word up to 12 characters
+# Link: Any web link
+LINK_5_LABEL = DeviantArt
+LINK_5_LINK = https://www.deviantart.com/missyrestless
+
+# Landmark Button
+# To activate the Landmark button, just add one landmark to gadget contents.
+# First landmark found (alphabetically) will be used, if none found, option will be hidden.
+
+# Gifts Button
+# To activate the Gifts button, just add one or more objects to gadget contents.
+# Up to 37 objects can be sent in a folder to a user that selects the Gifts button, if none found, option will be hidden.
+
+# Notecard Button
+# To activate the Notecard button, just add one notecard to gadget contents.
+# First notecard found (alphabetically) other than Settings and instructions manual will be used, if none found, option will be hidden.
+
+#### End of settings

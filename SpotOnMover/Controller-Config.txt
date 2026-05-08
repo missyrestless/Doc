@@ -1,0 +1,28 @@
+# Any line with a # in front of it is a comment and will be ignored! Remove the # to enable that feature.
+
+# Use this directive to configure a dance to be played when the user clicks pause.
+@idledance XF-Bento-SLOW DANCE 1
+
+# Enable this option, to allow members of the object's group to use the controller
+# Uncomment (remove the # mark) on the next line, if you wish to enable this behavior.
+@group
+
+# Set a height offset
+# How many meters above or below the controller do you want the movers to rez?
+# the maximum allowed value is -5 to 5 meters.
+@height_offset 0
+
+# Access List. List the names of avatars you wish to add to the system, remember to use legacy names and not display names!
+Missy Restless
+Angelus Portal
+Martin Yeats
+Galilla Sinatra
+Rug Halberd
+
+# Enable silent mode to block messages from the controller
+# WARNING: this may make it difficult to debug configuration errors!
+#@silent_mode
+
+#Smooth Dancer Invite for those experienced who wish to override the animations in the controller.
+#WARNING:  Must manually remove dancers or dancers can type /99stop in chat to stop dancing.
+#@sd_invite

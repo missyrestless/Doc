@@ -1,0 +1,57 @@
+Thank you for purchasing Kitten Sisters' VapeOS!
+_________________________________________________________________________________________
+
+How to use:
+
+Wear the VapeOS attachment. This system is worn on the mouth and tracks RLV effects and the smoke effects.
+
+To start smoking, attach any Kitten Sisters vape or smokable and click it or VapeOS to get the menu.
+_________________________________________________________________________________________
+
+PsycheHUD:
+
+The PsycheHUD is an optional HUD that will apply a psychedelic kaleidoscope effect. The strength of the effect will be synced to the VapeOS, so the longer you smoke, the stronger the effect will be.
+
+The HUD contains a notecard, which allows you to customise the strength of the effect, allowing you to tailor it to your preference.
+_________________________________________________________________________________________
+
+VapeOS menu:
+
+- START: Click this to start vaping/smoking and start relaxing!
+- STOP: This stops you smoking. NOTE: This does not stop the RLV effects! The effects will slowly fade away over time until you're back to normal.
+- EXHALE STYLE: This toggles your smoke exhale between two styles - 1 large exhale or blowing 3 rings of smoke.
+- FLAVORS: This lets you change the flavour (shown in chat) and the colour of the smoke you'll be exhaling. Flavours are stored in the vape/smokable, so each vape you own can have it's own different selection.
+- RLV: This allows you to fine tune which effects will be active, and the amount of time it takes to feel the effects.
+        - RLV - toggles all whether RLV is on or off, like a master toggle. This must be active for any following effects to occur.
+        - BLUR - toggle the blur effect. PLEASE NOTE: At the time of release, there is a graphical bug in Firestorm (and maybe other viewers) when using this blur effect. We anticipate this will be fixed in the future, so have left this blur feature in, but it is off by default
+        - ACHROM - toggle the colour-splitting visual effect
+        - CHAT - toggle to enable and disable the chat changes (slurring, muddling and pausing your speech)
+        - NAMES - toggle the visibility of nametags and radar names.
+        - ENV - toggles the environmental colour effects (the sky/horizon and fog will cycle colours and glow)
+        - SLOW, NORMAL, FAST - changes the time it takes to feel the effects - tip: set FAST while smoking, then SLOW just before you stop smoking, and the effects will last much longer!
+- STYLE: This allows you to configure the look and feel of the vape/smokable, changing materials, colours and lights. Each vape will have a slightly different style menu, but will largely contain:
+        - ANIMATION: Changes the vaping/smoking animation.
+        - COLOUR: Each vape may have a selection of colour or textures to customise the look and feel of the vape.
+- HELP: Gives this notecard.
+_________________________________________________________________________________________
+
+Troubleshooting guide:
+
+PROBLEM: The attachments are worn ok, and the RLV effects work, BUT I see a lot of RLV messages!
+    - Check that you disable "show debug messages" in your viewer's RLVa menu. This setting shows all RLV messages in chat and can be overwhelming!
+
+PROBLEM: The attachments are worn ok, BUT I see a lot of RLV messages and the RLV effects do NOT work!
+    - There should be an initial chat announcement to confirm RLV is enabled.
+    - Check that your viewer's RLV is enabled. You do not need a relay, as these attachments at worn so work directly with your viewer.
+    - If the problem continues, please let us know via our Kitten Sisters group, and I'll look into the issue!
+
+PROBLEM: The system will suddenly zoom my view in, and where I click does not line up with the object I'm aiming at.
+    - This appears to be a graphical bug with the RLV BLUR method that the system uses in current versions of Firestorm (and maybe other viewers). You can disable the BLUR toggle in the VapeOS RLV menu to prevent this method, in case your viewer has a problem with this effect.
+_________________________________________________________________________________________
+
+Version history:
+
+v1.0     - Initial release
+
+Any questions, problems or suggestions, please tell us via our group, Kitten Sisters! ♥
+secondlife:///app/group/bd742e4b-af58-a487-1b9e-87e9cb06fe74/about

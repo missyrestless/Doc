@@ -1,0 +1,23 @@
+### Synthetik Greeter settings notecard
+### all settings are in the following format: variable=value
+
+### The "message" variable holds the greeting message that is sent to avatars in range. 
+### The message can contain a special placeholder {NAME}, that will get replaced with avatar's
+### full name.
+
+message=Greetings {NAME}, welcome to Restless Studio. Touch the Subscribe sign to be informed of new products, updates, special sales, parties, and free gifts! Select "Erotica" at one of the teleporters to tp up to my gallery of erotic art and books.
+
+### The "dialog" variable controls whether the avatars get the greeting as a blue dialog popup,
+### or as an instant message. Set this to false or 0, if you want to send greetings as IMs.
+
+dialog=false
+
+### The "range" variable sets the sensor range in meters. Only avatars in the specified range around
+### the greeter will receive the greeting. 30m or less recommended, especially in busy areas.
+
+range=30
+
+### The "rate" variable sets the sensor rate in seconds. The greeter will scan for new avatars at
+### this specified interval. 10 seconds or more recommended, especially in busy areas.
+
+rate=30

@@ -1,0 +1,50 @@
+
+The Complete Guide To the PoseAnywhere HUD
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+
+★ If you only read one thing, make it this: ★
+
+ ║  There are a few different ways to install poses into the HUD, but
+ ║  none of them involve rezzing the HUD on the ground and putting things
+ ║  directly into its inventory! This won't work!
+ 
+ 
+There are three easy ways to get poses installed into the HUD:
+ 
+  • Use pre-packaged pose packs 
+  • Install poses from your inventory, using the Pose Installer
+  • Copy poses from existing prims (pose stands, etc) using the Copier script
+  
+ The PoseAnywhere HUD helps you keep your poses organized by using "pose packs" which can also be thought of as pose categories, or sets. Poses are grouped into named pose packs, whether you get them from a 3rd party, or install them yourself. Each HUD has a capacity of 25 pose packs, and each pose pack can hold hundreds of poses. Since the HUD is copiable, there is no limit to the number of poses you can organize.
+
+
+• Installing via pre-packaged pose packs
+ ------------------------------------------------
+ Simply click the pose pack box and pick the Install menu choice. The rest is done for you automatically.
+
+  
+• Installing poses from your inventory
+ ------------------------------------------------
+❶ Rez the "[PA2] Pose Installer" object
+❷ Drag poses from your inventory until the contents of the Pose Installer reflects the pose pack you'd like to install.
+❸ Click the Set Name button, and chat a name for the pose pack.
+❹ Press Install
+
+After the poses have been installed, you may press the Clear button and repeat from step ❷.
+
+
+• Installing poses from other sources
+ ------------------------------------------------
+If you have the first version of the PoseAnywhere HUD, or if you have pose stands containing animations, you can easily install these animations into the HUD.
+
+❶ Drag a copy of the "PA2 PoseCopier" script from your inventory, and drop it on top of the prim containing poses. 
+❷ Name the pose pack by putting a name into the description field of the prim containing the poses.
+❸ Click on the prim and select "Install" from the menu. The poses in the prim will be installed.
+
+
+Using the HUD
+▔▔▔▔▔▔▔▔▔
+This image explains all the HUD's functions:
+
+􀀀
+

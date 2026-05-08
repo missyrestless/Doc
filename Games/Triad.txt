@@ -1,0 +1,274 @@
+
+Triad
+By Karsten Rutledge
+
+Triad can be purchased from the K.R. Engineering store at 􀀀 or on the SL Marketplace at: https://marketplace.secondlife.com/stores/2356
+
+For web-based instructions and version changelog, please visit our Support Wiki at: http://wiki.karstenrutledge.com/
+
+
+
+
+== Introduction ==
+
+Triad is a set-making style of card game that uses a proprietary deck of cards, rather than a traditional deck of cards. The card game features heavily in the TV series BattleStar Galactica, both the original series in the 1970s/80s and the more recent series from 2004-2009, as well as presumably Caprica and the upcoming Blood and Chrome series. The premise of the game is to form pyramids of increasing size with 3, 5 or 6 cards in attempt to beat the other players. There are a total of 15 possible pyramids to be formed using the 3 different cards in 4 suit colors.
+
+
+
+
+== Acknowledgement ==
+
+We are well aware that some people will be upset that this game is known as Triad rather than as Pyramid. For those who don't know, this game was known as Pyramid in the original 1970s BattleStar Galactica, and a sport more akin to Basketball was known as Triad. In the 2004 remake, the director got the two confused and switched them, labeling the card game as Triad and the sport as Pyramid. I've chosen to label the game based on the current set of TV series (BattleStar, Caprica, Blood & Chrome) rather than the original series because it seemed more relevant. If you disagree then my apologies, just don't ask me to make you a table called Pyramid.
+
+Also, it is important to note that there are no official rules for Triad or Pyramid as developed by the creative team behind BattleStar Galactica, the actors merely improvised each scene (translation: made shit up on the spot). The rules in this game are fan-made rules built around the card deck shown on TV. Should disputes arise about the rules, feel free to suggest alternate rules to me, which I may choose to incorporate as optional rules in future releases.
+
+
+
+
+== House Rules ==
+
+Most K.R. Engineering games have a variety of options or "house rules" that can be turned on and off by the game owner to change how the game plays. These options can include changing the winning criteria for a game, adding new rules or disabling other rules, or just placing time limits on how long you can be away before the game skips you. It is often helpful to know what house rules you are playing with when you sit down at a game. To that end, you can touch the game logo on any K.R. Engineering game to see a list of which options are enabled and which are not.
+
+For owners/administrators wishing to change these options, please see the Administration section.
+
+
+
+
+== Joining The Game ==
+
+Most K.R. Engineering games can be played simply by right-clicking on a chair and choosing "Play."
+
+K.R. Engineering games can be played on a variety of themed furniture objects, and the "chairs" may not always look like chairs. For example, on the Chess theme, the "chairs" are the giant chess pieces. If you are unsure what is a chair and what isn't on a particular, that's okay! You can right-click and select 'Play' on any part of a theme and it will automatically place you in an available chair, even if you didn't click on a chair specifically.
+
+'''Important:''' K.R. Engineering games use a rezzing system. This means that the GAME (buttons, dice, cards, game boards, etc) is a separate object from the furniture/rezzer/theme. You must right-click on the THEME to play, not the game itself, as you cannot sit on the game pieces (such as dice, game boards, cards, etc). You must sit on the furniture around the game to play, not the game pieces.
+
+While ''MOST'' game themes are furniture that you can sit on, there may be some exceptions. The Pocket theme for example cannot be sat on, as it has no chairs. Instead, you can join a game on a Pocket theme by clicking the MENU button on the game.
+
+
+
+
+== Game Play ==
+
+''' Important: To play Triad, you must be wearing the Triad HUD. To get a HUD, press the 'HUD' button on the table. You will be given an object called Triad Game HUD. Find this object under your Objects folder and wear it. '''
+
+In order to explain the game play of Triad, it is first important that we establish terminology for the unique card deck that Triad uses:
+
+* 1st Order Card (also known as 1st Level) - Three tiny triangles along each edge with an empty center.
+* 2nd Order Card (also known as 2nd Level) - Two tiny triangles along each edge with a large hollow triangle in the center.
+* 3rd Order Card (also known as 3rd Level) - One medium triangle along each edge and a large filled triangle in the center.
+
+In addition, the Triad card deck is composed of 4 suits of cards. The suits are Purple, Green, Orange and Black. Each Triad deck contains 55 cards in the following numbers:
+
+* Purple Suit:
+** (3) 1st Order cards
+** (6) 2nd Order cards
+** (9) 3rd Order cards
+* Green Suit:
+** (3) 1st Order cards
+** (6) 2nd Order cards
+** (9) 3rd Order cards
+* Orange Suit:
+** (3) 1st Order cards
+** (6) 2nd Order cards
+** (9) 3rd Order cards
+* Black Suit:
+** (1) 3rd Order card (a.k.a. Capstone)
+
+The single Black card has a special name, it is known as a Capstone card and is a wildcard. It may be used in place of any other card of any order, and can be used to form the most powerful pyramid in the game.
+
+It is important to note that the game may choose to use anywhere from 1 to 4 card decks per game. The following situations should help illustrate this:
+
+* 1-4 players, single discard (fast game) - 1 deck of cards
+* 1-4 players, double discard (non-fast game) - 2 decks of cards
+* 5-8 players, single discard (fast game) - 2 decks of cards
+* 5-8 players, double discard (non-fast game) - 4 decks of cards
+
+At the beginning of each round, players are dealt 6 cards each. Their goal is now to discard as many cards as they choose, up to all 6 of them. They may also choose to discard none at all.
+
+* To discard cards, select (click on) the cards you wish to discard on your HUD. Each selected card will pop up from the rest of the cards. Once you have all of the cards you wish to discard selected, press the green checkmark above your HUD.
+* If you choose to discard no cards, simply press the green checkmark above your HUD with no cards selected.
+
+If fast game is disabled, you will have a second chance to discard cards after all players have discarded. If not, then the game jumps immediately to scoring, where you must choose 3, 5 or 6 of the cards in your hand to place against the other players. As a player, your goal is to create the most powerful pyramid possible using your six playing cards. There are 15 possible pyramids that can be played, each one worth more than the previous:
+
+* First Level pyramid - (2) 3rd Order cards and (1) 2nd Order card, of any colors.
+* Second Level pyramid - (3) 3rd Order cards and (2) 2nd Order cards, of any colors.
+* Third Level pyramid - (3) 3rd Order cards, (2) 2nd Order cards and (1) 1st Order card, of any colors.
+
+These pyramids are known as non-perfect pyramids, because they can be comprised of any combination of suits (or colors), as long as the card orders are correct. If your pyramid contains the correct cards AND the cards are all the same color, then you have what is known as a perfect pyramid. Perfect pyramids always beat non-perfect pyramids of the same level (i.e. a perfect first level pyramid beats a non-perfect first level pyramid, but not a second level pyramid of any kind.)
+
+In addition to perfect and non-perfect pyramids, there is a final type of pyramid, the most powerful, known as the Capstone Pyramid. The Capstone Pyramid is achieved by having a perfect third level pyramid where the black Capstone card is in the place of the first order card (at the very top). Capstone pyramids beat all other pyramids, with the possible exception of a better Capstone pyramid.
+
+It is important to note that the Capstone card does not make a pyramid non-perfect when it is employed as a wildcard, as long as all the other cards used in the pyramid are the same color.
+
+The 15 possible pyramids, ranked in order of worst to best:
+
+* Non-perfect first level pyramid
+* Perfect ORANGE first level pyramid
+* Perfect GREEN first level pyramid
+* Perfect PURPLE first level pyramid
+* Non-perfect second level pyramid
+* Perfect ORANGE second level pyramid
+* Perfect GREEN second level pyramid
+* Perfect PURPLE second level pyramid
+* Non-perfect third level pyramid
+* Perfect ORANGE third level pyramid
+* Perfect GREEN third level pyramid
+* Perfect PURPLE third level pyramid
+* ORANGE Capstone pyramid
+* GREEN Capstone pyramid
+* PURPLE Capstone pyramid
+
+Once all players have chosen their cards and laid them on the table (done the same way as discarding cards works), then the player with the highest pyramid wins. If you are unable to form a pyramid of any kind, you may simply fold (or forfeit) by pressing the green checkmark on your HUD with no cards selected.
+
+In the event of a tie for the highest pyramid, the player with the highest remaining card(s) in their hand wins the tie. If the remaining cards in their hands are equal both in suit and level or if there are no remaining cards, then the players split the victory. High cards are considered thusly:
+
+* 1st Order cards beat 2nd and 3rd order cards.
+* 2nd Order cards beat 3rd order cards.
+* Likewise with pyramids, if players have two cards of the same order, then suit color determines the highest. PURPLE beats GREEN, GREEN beats ORANGE.
+* If the first remaining cards turn out to be an exact tie, again, then they are discarded and the 2nd highest cards remaining in the players' hands are used, until all remaining cards are exhausted.
+
+Once a round has been scored, a new round may be started by pressing the START button again, it is not necessary to reset the game between rounds.
+
+
+
+
+== Bug Fixes & Upgrades ==
+
+Owners of K.R. Engineering games are entitled to free upgrades to newer versions of the game. However, you cannot update the game directly! Instead, you should update any themes that you own. Updated themes include the latest version of all games supported by that theme. To do this, please follow these instructions:
+
+** Click and hold your mouse button on part of the theme for 3 seconds until a menu appears, click 'Update.'
+** If you don't see the "Update" button, try pressing the <<< button until you see it. The admin menu has multiple pages.
+** If you cannot find an "Update" button, you may have opened the GAME's admin menu instead of the THEME's Admin menu. You can switch between these with the "Game ↗" and "↙ Rezzer" buttons.
+** A new, updated theme should be sent to you from our update servers within a few minutes. If it's not, please try again. If you are unable to get an update, please contact us for assistance.
+
+If you are having problems with your game, please instant message Karsten Rutledge in Second Life or send email to [mailto:support@karstenrutledge.com support@karstenrutledge.com] for product support. If the problem you are having has not previously been encountered, a new game version will be released with a fix as soon as possible.
+
+DISCLAIMER: The appearance and feature set of games are subject to revision between versions as the capabilities of Second Life change over time. Please see the detailed ChangeLog for new versions before upgrading by visiting the K.R. Engineering Support Wiki at http://wiki.karstenrutledge.com/. By continuing with the update you are agreeing to accept any and all changes that have been imposed on the updated version of the game.
+
+
+
+
+== How To Change Theme ==
+
+K.R. Engineering games use a rezzer system to play games on-demand. These rezzer systems ARE the themes! If you want to use a different theme/rezzer, simply visit our store in Second Life or on the Second Life Marketplace and purchase another themed rezzer. Any game licenses that you already own will work on any newly purchased rezzer, you do not need to buy additional licenses to change which theme you are running them on! See the top of this notecard for links and landmarks to our stores.
+
+
+
+
+== Player Experience ==
+
+At K.R. Engineering, we believe that playing games in Second Life is about more than just the game. It is about socializing and enjoying the game the way you like it. To that end, our game tables incorporate features that go beyond game mechanics. Once you are seated at one of our game tables, a number of options become available to customize your experience.
+
+These options most frequently include camera and animation controls, but may also include other features that are theme specific. To access these features at any time you can click on the chair you are seated in, OR press the MENU button if a game is loaded on the theme.
+
+=== Persistence ===
+
+Our themes will store your custom settings on our web server, so that the next time you sit down to play on the same themed game system it will automatically restore your previous settings. Your avatar seating position, your camera settings, your last chosen animation, etc. will be saved and reloaded.
+
+This applies to all instances of the same theme. If you sit down at a Hot Tub theme and choose a new animation, then stand up and move to a different Hot Tub theme in a different region, it will still remember your settings!
+
+=== Animations ===
+
+The animations available will vary from theme to theme and are shown in the menu. Press the numbered button that corresponds to the animation you wish to use.
+
+There may be more animations than can fit on a single 'page' of the menu. Use the >>> and <<< buttons to turn pages and see more animation options.
+
+If you are using a couples animation and your animation becomes out of sync, you can press the SYNC button to try and get them back together. This can happen because animations in Second Life are played CLIENT-SIDE and sometimes they do not start playing at the same time or speed depending on internet connection and computer hardware.
+
+=== Seating Position ===
+
+From the animation menu, you can press the ADJUST button to change your avatar's seating position, including scooting forward, back, up, or down. Press RESET to restore to the default seating position.
+
+=== Camera View ===
+
+From the animation menu, press the CAMERA button to change your camera view. There are multiple settings here with different effects.
+
+* Save Default: If you are the theme owner, you can press this button to save your current camera settings as the default that all players will start with until they change it.
+
+* Disable: Turn off control over your camera. The game will not attempt to control the position of your camera in any way.
+
+* Third: Use a third-person perspective of the game, looking over your shoulder.
+
+* Birdseye: Use a top-down perspective of the game.
+
+* Persp. On: Enabled perspective-based camera. By default, the camera always appears from the perspective of "player 1" on the game, so everyone sees the same game perspective, which is generally the most readable and functional way to view many games. However, if you turn this on then the camera will be rotated so that you're looking at the game from the position your avatar is seated at, instead of the player 1 position. If you are seated opposite of player 1, this may make the game appear "upside down."
+
+* Persp. Off: Disable perspective-based camera. When off, the game will always be viewed from the perspective of Player 1, and not your own seating location.
+
+* Zoom In: Move your camera view closer to the game.
+
+* Zoom Out: Move your camera view farther from the game.
+
+It is important to note that your camera can be overridden at any time by you. If you decide to move your camera, the game will always let go. If you are pressing camera buttons and nothing seems to be working then your camera may have been 'taken away from' the game at some point. To fix this, simply press the ESC key on your keyboard a couple times. This will cancel any manual control over your camera that you have done and let the game control it again.
+
+
+
+
+== Administration ==
+
+To access the game's administrative menu, simply click and hold your mouse button down on any part of it for 2 seconds and a menu will pop up on your screen displaying current settings and providing options to change them. (In slow simulators, this may take slighter longer than 2 seconds, just hold the mouse button down until you see a menu.)
+
+It's likely that you may accidentally open the THEME/REZZER's administrative menu instead of the GAME's administrative menu, depending on where you clicked. This is okay! If you are in the THEME/REZZER's admin menu, you can switch directly over to the GAME's admin menu by pressing the "Game ↗" button. Likewise if you open the GAME menu by mistake, and wish to switch over to the THEME/REZZER menu, you can simply press the "↙ Rezzer" button.
+
+Some elements of the administration menu are accessible only by the owner, while others can be accessed by anyone who is considered an administrative user, either explicitly added or implicitly through the Group Admin feature.
+
+There are too many options to fit in a standard dialog window, so the window has been divided into pages. You can use the <<< and >>> buttons at the bottom of the admin menu to change which page of options you are currently viewing. If you don't see the option you want then it is on another page!
+
+=== Rezzer Options ===
+
+Many options that were formerly in the game admin menu have been moved to the rezzer admin menu! These are options that are game-independent, such as admin users, branding, sound volume, and updating. These options are now set on the rezzer/theme and apply automatically to whatever game is being played on that rezzer.  You can access the rezzer's admin menu from the game's admin menu by using the "↙ Rezzer" button.
+
+=== Owner-Only Options ===
+
+* Indicators: A menu for changing the color of the turn indicator lights on the game board.
+
+* Color: An alternate way to access the color/theme menu for the table. This is the same as pressing the Color button on the table top.
+
+* Cards: Access the card customization menu. See the 'CUSTOM CARDS' section below for more information.
+
+=== Administrative User Options ===
+
+* ↙ Rezzer: This button will directly open the rezzer's administrative menu instead of the game's menu.
+
+* Players: Access the player management menu to skip or evict players from the game.
+
+* Abandoned: Select this button to change the number of seconds the table waits to reset an abandoned game after all players have left.
+
+* Timeout: Select this button to change the number of seconds the table waits for idle players to begin their turn. If they don't roll before the timeout occurs, the game will skip them for this round.
+
+* Quiet: Enable quiet mode, reducing the amount of chatter that the game will send to local chat.
+
+* Chatty: Disable quiet mode.
+
+* Fast On: Enable fast game, allowing only 1 round of discarding.
+
+* Fast Off: Disable fast game, allowing 2 rounds of discarding.
+
+
+
+
+== Prizes & Betting ==
+
+As of September 1st, 2014, it is a violation of the Second Life Terms of Service for this game to have betting or buy-in options. As a result, K.R. Engineering games do not accept or facilitate any Linden Dollar money transactions.
+
+
+
+
+== Customer Support ==
+
+If you are having a problem that is not covered by our Customer Support Wiki (http://wiki.karstenrutledge.com/), please send an instant message (do not send notecards) to Karsten Rutledge, or send an email to support@karstenrutledge.com with a detailed explanation of your problem and with what game you are experiencing the problem on.
+
+Messages that are simply "hello" or "are you online" or "I need help" with no explanation or description of what you need help with will be ignored. If you need assistance, you must include a description of your problem.
+
+We do not accept friendship requests from customers.
+
+
+
+
+== ChangeLog ==
+
+Please visit our Support Wiki at http://wiki.karstenrutledge.com/ for detailed product ChangeLogs.
+
+
+
+

@@ -1,0 +1,84 @@
+NanoGunk AV Shape Proportions Instructions Female V 2.1
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Starting using your current shape height:
+
+1) Check and remove any system 'shoes' you are wearing !  􀀁  􀀀 
+    (if you do not remove system 'shoes' the height in shape Edit Appearance will be wrong ! )
+    If you have a mesh body, set Flat feet, No Hair :)
+
+2) Add the HUD and click the top slider where it says DETACHED
+    A [RIG] will rezz in front of you and ask you if OK to attach. After you click Yes, the rig will attach to your avatar.
+     If the bottom of the RIG is in the ground, use HOVER to bring it up. Hover does not affect the measurements.
+     
+     ⚠ NOTE: if you are on land where you cannot rez objects, you will have to attach the rig from the inventory folder.
+     
+3) Now Edit Appearance - Look at the Height in upper Right 
+
+4) Use the HUD head height + - buttons to make the Hud calculated  SHAPE HEIGHT as close to 
+    the Height in Edit Appearance window as it will go. This number is not critical, just close.
+
+5) Now the Caliper jaws will be adjusted to the correct head height for your Shape Height.
+     In Edit Appearance - increase / decrease you Head Size so your head just fits between the Caliper jaws. (top of head, under chin)
+     As needed move the RIG Attachment up or down using only the HUD buttons,  until your head is between the caliper jaws.
+     
+6) Edit the rest of your shape, taking care to keep the edit appearance Height approximately the same.
+     Example: if you make the Torso longer, then shorten the legs, if you want a longer neck, then reduce torso or legs and so on.
+     Read more notes a) b) c) below.
+     
+✱  Using a new shape height:  
+     4) Use the HUD head height + - buttons to make the Hud calculated  SHAPE HEIGHT what you want the NEW shape height to be.
+     step 5) and 6) above is the same procedure.
+
+Notes:
+There are no 'exact' or 'perfect' numbers to use.  Adjust to what is a pleasing shape to you.  
+Please read the more notes below.
+
+==========================
+BACKGROUND INFO
+Human shapes vary a great deal, but they do tend to stay within certain PROPORTIONS and this 8 head tall Rig is useful as a guide to achieving SL human proportional shapes.
+ 
+In Second Life many factors influence in how residents adjust shapes - some factors are: 
+Camera angles - looking down makes heads appear larger - legs shorter,
+The size of your friends!
+Having no clue what human proportions are etc.
+
+This rig can give you confidence that your shape is human proportioned, eliminating tiny heads, short arms, unrealistic long legs and so on.
+Proportions are vertical, you can can be skinny, curvy or fat - proportions don't change.
+The rig does not dictate what height you should be, it's just a proportional reference, so tweak away. 
+
+
+MORE NOTES:
+
+a)  No less than eight sliders affect an avatar's height.
+    ★ Body Height - Head Size - Egg Head - Chin depth - Neck Length - Torso Length - Hip Length - Leg Length
+    To scale your avatar larger or smaller you cannot simply use the body height slider. 
+    The height slider does not 'scale' the avatar how you would expect. 
+    You need to adjust your proportions after each height slider adjustment.
+     
+b) Almost all the sliders affect other sliders so your shape editing is a process of going around and around
+     moving some sliders again & again.  
+
+c) The idea that '50' on a slider is 'average' is NOT true,  50 is simply the 'middle' of the range for that slider.
+
+-------
+
+A) Arm Length slider set to  98 is about the proportional wrist mark for female shapes for height of ~ 6 foot (1.82m) and more than 100 if     taller ! so its impossible for very tall shapes. (you can try increase shoulder width).
+    This is the classic female shape issue of short arms, it seems wrong to set the slider to 98-100 but you need to be able to wipe! ㋡ 
+    Use POSE 3 to see your arm length.
+    For most people, their total arm span, finger tip to finger tip, is about equal to their height.
+
+B) Small changes to head height results in 8 X times the change to proportional avatar height !
+    So the Chin Depth (and Egg Head) slider affects the head height directly - and therefore also the caliper measured head height.
+
+* doing  Avatar > Avatar Health > Undeform Avatar seems to clear any AO effects - 
+I always do this before adding the Rig.
+
+
+
+Robin Lobo - March, 2024
+
+ps. Yes, I am aware that the real average human proportions is closer to 7.5 heads. 
+However 8 heads seems to be how we 'see' each other and so 8 heads is what artists and sculptors use. 
+So sculpt your SL avatar shape today ! 
+best wishes RL.

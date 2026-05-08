@@ -1,0 +1,59 @@
+
+
+CONFIGURING A CUSTOM MESH CLUB TIPJAR
+===========================
+
+This short video might help you:
+https://www.youtube.com/watch?v=xdYIuBRFT_Q
+
+
+Method 1:
+======
+
++ Edit the milotips tip box, go to its content, drag all the items from there into a folder in your inventory.
+
++ Then rezz your own object, edit it, go to the contents tab, and drag the content of the folder (from your inventory) into the object content. 
+
+IMPORTANT !!!
+
+This method might not work properly with certain mesh objects that have been incorrectly oriented in the first place by the creator.
+
+The hovertext might be misplaced, and/or the spinning or floating jars may have an incorrect orientation once used and if you use a giver, you would see the tipjars upside down.
+
+In this case you need to use the following method:
+
+
+
+Method 2:
+======
+
+1. Rezz your object next to the MILOTIPS TIP BOX
+
+2. Enter build mode (right click and edit the MILOTIPS TIP BOX)
+
+3. Resize the tip box so it is close to the custom object shape. Make it a bit bigger.
+
+4. Now, still in build mode:
+
++ Select the custom object (click on it, it will show arrows around it, just like you would move it).
+
++ HOLD your keyboard SHIFT KEY
+
++ Touch the TIP BOX
+
++ In the building window, click LINK
+
+Note that the order is important !  Always select the box at last, so it becomes the parent/root prim.
+
++ Adjust the box size so it covers the object:
+
+Still in build mode, check the Edit Linked checkbox, this will let you select each link independently using the little arrows in the build window. You can now move each link as you like making so the milotips tip box link contains the custom object. 
+
++ Make the BOX transparent:
+With the link 0 (root prim) selected, go to Textures, and set transparency to 100%.
+
+
+
+ 
+ 
+ 

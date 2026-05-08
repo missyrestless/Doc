@@ -1,0 +1,228 @@
+
+-----------------------------------------------------------------------
+MILOTIPS 2.77: ADVANCED TIPJAR CONFIGURATION
+-----------------------------------------------------------------------
+
+The 2 minimum necessary parts of milotips are 
+
+1) the milotips server
+2) the tipjar (obviously)
+
+Most of the general configuration is made from the server, and the tipjars have their own individual settings that either complete the server global settings, or override some of those settings to offer more flexibility.
+
++ configuration notecard(s)
+There is no configuration notecard needed. All is made from the tipjar SETTINGS menu.
+
++ dialog
+The most common tipjar settings are accessible from their SETTINGS and DEDICATED menu.
+Make sure the tipjar is NOT used, and click on it to access its menu. 
+
+
+========================
+               TIPJAR SETTINGS
+========================
+
+To access the tipjar settings, make sure it's not used, and click on SETTINGS
+
+1. CHANNEL
+
+If your version supports multiple channels, you can create a multiple networks configuration, with more than one server.
+Default jar channel is 1, so it will connect to the server set on channel 1.
+
+If you set a server to an other channel, you need to change the channel on the jars you want to be linked to this server.
+
++ This can be done from the settings menu, using the CHANNEL button (click on it and enter the channel number).
+
+2. SPREAD
+
+This button will apply the exact tipjar settings to all other tipjars set on the same channel and same subconfig (a,b,c), that is set in CONFIG. This subconfig system allows you to have 3 different kinds of jars with different settings on 1 channel.
+
+3. RENAME
+
+This button lets you rename the tipjar object name. (this is equivalent to edit the object and change its name).
+
+4. PRESET
+
+This button lets you quickly set a typical scenario configuration: STANDARD, PERMANENT and DONATION.
+
+5. LOGIN
+
+5.1. log dist: lets you set the maximum distance from the jar user and the tipjar. If the go past this distance, the jar will log out. You can set this distance to 0, in this case, the jar will log out once the user leaves the land.
+
+5.2. perma log
+
+This setting will prevent the tipjar to logout automatically when its user leaves the place. It allows you to set donation jars, and works better in combination with the dedicated mode.
+See the PERMANENT LOGIN guide.
+
+5.3. sync log
+
+This option activates the synchronized login mode. If someone logs in this jar, they will also be logged in the same configured tipjars on the channel. It can be used for DJays for instance, who would be logged in multiple jars at once.
+
+
+6. TIPS
+
+6.1. discount %
+
+This is a lovense option. The jar would allow certain people within the same group as the tipjar to pay less for a similar toy reaction.
+
+6.2. discount tag
+
+This lets you precise a unique tag that would benefit from the discount
+
+6.3. secure
+
+If activated, the discount would occur only if the guest group is the same as the tipjar. otherwise, you must define a discount tag, and it won't verify the actual group, but only the tag.
+This can be needed in case you use the remote hud and have a separate land group from guests group.
+
+6.4. sync / sync rcv / forget tot
+
+Those are option for synchronized tips mode. See the PERMANENT LOGIN user guide to know more. 
+
+6.5. Split %
+
+Jars users get a percentage of the tip defined on the server, that depends on if they are registered as users or not, or their group tag, and on their rank if the are registered.
+
+This jar individual option allows to bypass the server setting, and will force a defined split% on this particular jar.
+
++ To revert back to normal, click on Split %, enter 0 and validate.
+
++ Don't write the % symbol.
+
+6.6. tipall
+
+If deactivated, this option will spare this jar from the tip all jar (addon).
+
+
+7. FOLLOW
+
+Those are the follow settings.
+
+7.1. nofollow
+
+Let's say your server is set to FOLLOW. The tipjars will then automatically follow the logged in dancers. Yet there is a way to force certain tipjars to stay in place, allowing a mix of follow and no follow tipjars on the same server.
+
+7.2. hide
+
+This will hide the follow button from the user menu.
+
+
+8. HOVER TEXT
+---------------------
+
+8.1. title
+
+By default, the title is displayed in the hover text and based on the "Tipjars Name" option defined on the server (TIPJARS/TEXT).
+You can override the jar name display by setting a "title".
+
++ The "title" checkbox will make the jarname/title visible even if the jar is currently used.
+
+Those options are also present in the jar config notecard (jarTitle and showTitle).
+
+
+8.2. show title
+
+This checkbox will say if the title is visible when the tipjar is in use
+
+
+8.3. user name
+
+This checkbox will say if the user name is visible or not in the hover text.
+
+
+8.4. 2nd line
+
+This lets you edit the 2nd line of the hover text (by default saying "touch me to log in".
+
+
+9. OTHER
+--------------
+
+9.1. spin speed
+
+This button lets you change the spin speed. You can force a tipjar to not spin by setting this to 0, in case of the server settings makes the tipjars spin.
+A reasonable value is between 0.003 and 1.0
+
+
+10. CONFIG
+--------------
+
+This menu lets you manage your configuration.
+
+(a,b,c) lets you set a subconfiguration. It used in conjunction with the spread buttons to make up to 3 groups of jars within a single channel.
+
+RESET: resets the advanced settings
+
+SPREAD: spreads the current settings with sibling tipjars.
+
+
+11. DEDICATED
+----------------------
+
+You can set a tipjar to allow only certain agent to log into it.
+
+The DEDICATE menu has several options:
+
++ UUID: Lets you set the dedicated agent, leave it empty and validate to deactivate the feature.
+
++ NAME: lets you modify the name.
+
++ SETTINGS / TIP / forget tot: When you set a dedicated user to a jar, it will remember the total paid to this user after relogging. If you uncheck this option, the total will be reseted to zero.
+
+Note: As the owner, you can log in a dedicated tipjar for the dedicated person (menu USER MENU/LOGIN), in this case, use the perma login option. This lets you configure donation jars for certain users without their presence around you.
+
+
+----------------------------
+auto dedicate mode
+----------------------------
+
+Alternatively, you can make the jar becoming dedicated as soon as someone logs in it. to do that, check the auto button. This mode is in between a normal jar and a dedicated jar. Once someone logs in it, it will be seen as a dedicated jar for this user, meaning if the perma option is on, the jar would automatically relog after a sim crash for instance.
+
+And when the user manually logs out their tipjar, it will back be free to login.
+
+
+
+..........................................................
+13. Using your own tipjars objects
+..........................................................
+
+You can use your own tipjars objects. i won't be responsible for any dysfunction that would result from doing it.
+
+To do so :
+
+METHOD A
+
+1) in the milotips TIP BOX generic tipjar, edit and go to the content folder.
+2) drag the content to your inventory. 
+3) in the destination tipjar, cleanup the content folder from any script that may interfere.
+4) drag the milotips TIP BOX content from your inventory to the destination object. 
+
+METHOD B
+
+Rezzz both your custom mesh and the milotips tip box, then enter edit mode, select your mesh THEN the milotips tip box, and click on link. It makes it a single object with the milotips tip box containing the scripts the main part. You can then edit the main link, move and resize it to adopt the shape of your custom object. then click on texture, and make the transparency 100%.
+
+
+============================
+                  SOUND AND COSMETICS
+============================
+
+1. Tipjar color
+.......................
+
+To change your milo tipjar color, go to VISUALS then click COLOR.
+The color and other visual settings will be saved as a smart setting, meaning it will be maintained after duplicating the tipjar. They can also be spread with the SPREAD button.
+
+
+2. Sound
+.................
+
+Sound is now a server setting, found in the server / TIPJARS / SOUND
+
+
+3. Particles
+..................
+
+Your tipjar includes an evolved particles system.
+Now with the persistent settings and spread feature.
+
+There will be a user guide for the particles. Yet to be written!
+

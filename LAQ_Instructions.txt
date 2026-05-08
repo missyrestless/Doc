@@ -1,0 +1,253 @@
+
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Era2 by LAQ - Finest Detailed Heads 
+~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Congratulations on your Era2 Head by LAQ! This creation features beautiful designs and cutting-edge technology. We hope you'll enjoy wearing this piece of art. Please join our group for LAQ exclusive benefits!
+
+While Era2 offers 3 UV maps, we want to emphasize the benefits of our exclusive SupremeUHD map, that makes the center of the face supremely detailed. 
+How can it? Does it slow down performance? The answer is no: UHD is not 4 skins tiled together. Nor does it have separate ears. 
+So what is UHD? Developed by veteran skin designers. UHD optimizes the UV space to emphasize the details of the face, while the ears and back of head is slightly out of focus - like you would see in portrait photos. Keeping everything in one texture actually means faster loading. 
+
+To summarize: SupremeUHD means 4x the details of other skins, and 2x faster loading. This, in our humble opinion, makes SupremeUHD the pinnacle of skin quality!
+
+Somparison of all 3 UV maps:
+􀀀
+
+
+--------------------------------
+HOW TO WEAR ERA2:
+--------------------------------
+
+- Wear the HEAD in your Era2 folder. Note that there are 3 different heads with different UV maps: SupremeUHD, EvoX and Standard. 
+
+1. SupremeUHD: As detailed above, the latest in SL skin technology. 
+
+2. EvoX: EvoX skins can be worn with this head version!
+
+3. Standard: For vintage skin lovers, this head version is for you!
+
+
+- Wear SKIN:  
+Make sure your skin matches the head you intend to wear; SupremeUHD, EvoX or standard. SupremeUHD skins are included with your purchase and will work on the SupremeUHD Head.
+
+- Wear the SHAPE.
+
+- Wear the ALPHA MASK. 
+
+- Wear the HUD for full customization of your head.
+
+- The EYES fit our heads perfectly and can be customized with the HUD. 
+
+
+Example:
+.HEAD by LAQ. Era2 Elle 1. SupremeUHD
+.EYES by LAQ. Era2 Subtlest Animated Eyes
+.HUD Era2. Finest Details. Subtlest Motions.
+.SHAPE. by LAQ.
+Eyebrows. Era2 Eyebrow shape
+And any included skin
+
+
+
+--------------------------------
+THE HUD:
+--------------------------------
+
+
+
+SETTINGS
+In the first tab, Settings, you control the different features of the head.
+
+
+--------------------------------
+EYES:
+
+Eye overlay:
+Eye overlay lets you wear shading and eye reflections on a separate layer. This way, shading and reflections stay intact even when your avatar moves the eyes. Your eyes can reflect light in the evening.
+- Textures
+- Opacity slider
+
+BOM: Switches eyes to BOM.
+
+Colors: Click the left or right side of the irises colors, to switch color of the corresponding eye.
+
+Animate iris: Subtle pupil dilations of the eyes, mimicking a lifelike response to your surroundings.
+
+Position: Lets you move the position of the irises. Up, down, further apart and closer together. The X repositions them to default.
+
+Size: Allows you to adjust the size of your irises.
+
+--------------------------------
+ULTRA HD SKIN:
+
+Adjust color tint by clicking the little golden droplet.
+
+BOM: Switches skin to BOM.
+
+Skin Materials: Changes bump and specular. Flat, Glossy, Glowy, Smooth, Wet, Tears, Wrinkles, Pores. Adjust strength by clicking the little golden droplet. 
+
+Hide scalp: Toggles top of head part on/off.
+
+Hairbase: Click to toggle hairbase on/off. The black droplet allows you to tint the hairbase.
+
+--------------------------------
+HD EYEBROWS:
+
+Wear a skin with no brows, and then you can pick an eyebrow in this section.
+
+X: Removes the eyebrow add-on.
+
+Slider: Adjusts the eyebrows opacity. Lighter opacity gives appearence of blonder eyebrows.
+
+Position: Allows you to make the eyebrows wider or narrower, move them further up and down. The X repositions them to default.
+
+Adjust color tint by clicking the little golden droplet. 
+
+--------------------------------
+UPPER EYELASHES:
+
+Hide: Hides and shows the upper eyelashes.
+
+Slider1: Adjusts the length of your upper eyelashes from natural to glamorous. 
+
+8 Upper eyelashes styles.
+
+Adjust color tint by clicking the little golden droplet. 
+
+--------------------------------
+LOWER EYELASHES:
+
+Hide: Hides and shows the lower eyelashes.
+
+Slider1: Adjusts the length of your lower eyelashes from natural to glamorous. 
+
+8 Lower eyelashes styles.
+
+Adjust color tint by clicking the little golden droplet. 
+
+--------------------------------
+EARS:
+
+X: Hides and shows the Right vs Left ears.
+
+((((R)) Adjust your Right ear protrusion. 
+((((L)) Adjust your Left ear protrusion. 
+
+Caps: Size of holes with ears off.
+
+Human ears/Elf ears
+
+If ears turn RED: First try "Reset all layers" in the bottom right corner of the HUD. If this doesn't work, get a new copy of the head. 
+
+--------------------------------
+HD EYELIDS:
+
+Eyeliners, eyemakeups, eyelids styles. 
+
+X: Hides and shows Eyelids layer. 
+
+Slider: Opacity for Eyelid layer.
+
+Adjust color tint and material strength by clicking the little golden droplet. 
+
+--------------------------------
+HD LIPS:
+
+Lips and lipstick styles.
+
+X: Hides and shows Lips layer. 
+
+Slider: Opacity for Lips layer.
+
+Adjust color tint and material strength by clicking the little golden droplet. 
+
+--------------------------------
+MOUTH:
+
+X: Hides and shows Tongue and inner mouth layer.
+
+Regular/Split Tongue
+
+Open mouth Animation to see what you wear.
+
+Light Pink Tongue
+Dark Pink Tongue
+Wet Light Pink Tongue
+Wet Dark Pink Tongue
+Bloody Tongue
+
+Adjust color tint by clicking the little golden droplet. 
+
+--------------------------------
+TEETH:
+
+Teeth can now be adjusted in position to suit your avatars shape and style. 
+
+Hide/Show Upper Teeth
+Hide/Show Lower Teeth
+
+4 Teeth textures: White, Beige, Yellow, Bloody
+
+Teeth styles:
+A-List - Straight teeth
+Birkin - Gap Teeth
+Yaeba - Strong Corner Teeth
+Vampire
+
+Adjust color tint by clicking the little golden droplet. 
+
+Reset all Layers: Resets the Head to Default state.
+
+
+ANIMATIONS:
+In the second tab, Animations, are all your face motion capture movement.
+
+The moods can be selected as your default animations. The expressions you choose to play below will go back to your default mood if you have one activated. You can play animations individually or choose several to play at random. Your chosen animations highlights in blue. Active animations are green.
+
+Eye pupil positions: If you want your avatar to look in a certain direction, use this controller to place the pupils. The link button next to it makes both eyes move in the same direction. Unchecked, you can make the eyes go different ways, like cross-eyed etc.
+
+Static face posing: Effortlessly fine-tune your look with built-in face tweaking.
+
+Ear: Animations for the elf ears.
+
+Sync: syncs with animations in, for example, animated furniture etc.
+
+Talk: Enables your avatar to talk when you are typing in nearby chat.
+
+Stop: Stops all animations. 
+
+Neck: Animates face without any head movements.
+
+Sweat: Makes your avatar sweat!
+
+Blush: Makes your avatar blush!
+
+Cry: Makes your avatar cry :õ)
+
+
+----------------------------------------------------
+
+
+LOOKS:
+
+In the Looks section, you can save your favorite skin and makeup combinations and easily preview them before wearing. Click the faces and a menu will pop up with the options. 
+
+
+----------------------------------------------------
+
+
+Since our establishment in 2006, LAQ has consistently been a pioneer in creating exceptional avatar faces. Realism, innovation, and diversity have always been core principles of our design philosophy. Our unwavering commitment to quality and integrity is fueled by a deep appreciation for our customers. Your loyalty and support are invaluable to us, you continuously inspirie us to exceed expectations and redefine what's possible. ♥
+
+
+LAQ
+
+Designer: Mallory Cowen
+Manager: Risa Bright 
+Moderators: 
+Zimbgirl
+Pixy
+Gypsy
+Lady Ren

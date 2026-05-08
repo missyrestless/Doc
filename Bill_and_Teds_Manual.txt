@@ -1,0 +1,77 @@
+
+Thank you for purchasing Bill and Ted's Most Ultimate HUD
+
+
+This is Version 3.3 as of December 2020 
+
+This new HUD update is designed to work with the new Time Travel POD installer Box.
+Nine months in the making we finally present you the ultimate upgrade
+New Booths, New Scripting, New Sounds, New Adventures
+This HUD is created from the ground up to be faster and more responsive than ever before.
+
+
+Getting Started:
+
+Wear the HUD found in the folder
+When asked for permissions you must say "yes" to enable teleporting. (This is only asked once and then stored)
+
+HUD Functions:
+
+* Click the Blue and red guitar pick on the HUD to bring up the menu
+* Call Booth (This summons either The Excellent Adventure booth or Bogus journey, Face The Music, or the new Time Pod - If installed.)
+* You will have a choice of either SFX or FAST for each Booth.
+* Fast rezzes the phone booth quickly from the ground.
+* SFX Will give you various full effects sequences based on each movie.
+* Door Open/Door Close HUD control this can also be done by clicking the doors manually
+* Kill Booth will send it on its way when you wish to delete with it style
+* Rez On/ Rez Off, Toggle this for the booth to rez on teleport as a poofer (Rez around you as you teleport to your chosen location)
+* Sensor On/Sensor Off, when enabled the booth will depart when you are 96m away from the booth
+* Landmarks is a quick way of setting your location to travel too, Once chosen click Dial on the HUD pop up sub-menu.
+* Locate, click this to locate the phone booth in sim if you loose it
+* Set Booth chooses which booth you want to rez on teleport around you 
+* Set Defaults, This can set certain defaults on each booth type including, Automatic doors open and closing.
+
+***To use the Booth manually***
+
+1: Open the doors and click the back wall to sit your avatar into its animated position
+2: Click the black phone receiver and a pop up menu will show of your loaded locations, choose one
+3: Click the black phone receiver once more to dial and the sequence will begin
+
+***Extended Booth Manual Features***
+
+*Touch the antenna on the top of the booth to bring up a menu 
+*Hum On/Off this toggles the Humming sound
+*Autoclose on and off to toggle the automatic control of the doors
+*Sensor On/Off with this enabled the booth will leave when the owner is not present or not nearby.
+
+
+
+(Please note On Rez teleport will only work on land that enables rez so check that first)
+(Occasionally some third party animation override HUDS and may effect the hide and pose functions, disable those if this happens.
+
+for more info visit www.vortechgroup.co.uk and don't forget those 5 Stars on Marketplace purchases if you like what you see.
+
+Join Our Official Exclusive members group here for Cheeky Perks --->  secondlife:///app/group/d3f21f29-69f0-fcdd-6303-c19b2b02de89/about
+
+Mesh Phone Booth designs by Lexi Lane 
+Sound and Effects by Christina Riederer
+Scripting by Mishelle Rayna 
+
+
+Want more cool stuff from Bill and Ted?
+Out Now - Kelly's Time Travel POD from Bill and Ted Face the music 
+This HUD 3.3 is fully compatible with our new range of Excellent expansion packs.
+
+􀀀
+􀀁
+
+On the rare occasion that Second Life crashes you may loose your permissions in the HUD and it may be shown as an error, to reboot the HUD edit and reset scripts. This will then ask you once more for TP Permissions, click yes.
+
+***UPDATE INFORMATION***
+
+New to Version 3.3
+
+*Added installer function script in order to install expansion packs
+*Toggle Feature added to The HUD and Booths to tweak hum sounds and automatic doors
+*Reworked internal communications to help compensate for unreliable SL conditions
+*Tweaked departing on Booths to avoid getting stuck in the ground 

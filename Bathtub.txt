@@ -1,0 +1,67 @@
+Hello!
+
+Thank you for purchasing the Nerenzo bathtub "Valencia" - I hope you'll enjoy it!
+
+
+To use your new item simply rez it and wait till the menu has loaded. Once it has loaded click it with your right mousebutton and select "sit" from the pie menu.
+
+*********************
+▨WATER & REZZABLES◎
+
+▨WATER▨
+At the same second you press sit, the bathtub will be filled with water!
+
+You can - of course - turn the tab on/off or also simulate hot water:
+In the menu, click the button "OPTIONS", WATER.
+Just select either the faucet or the steam.. or turn on the water sound.
+In case you do not hear any water sound, please click the button "ADJUST" in that menu, and click on the button "[SOUND]. You'll then see the information in the local chat if the sound of the bathtub is turned on or off. Once it is turned on, please press again "♬SOUND♬".
+
+◎REZZABLES◎
+You can rez things if you click the button "OPTIONS" in the menu, then navigate to either Bathtub or Surround.
+Once a rezzable is selected, it will rez automatically.
+
+-> To unrez, please click the button UNREZ and select the object you want to unrez from the menus given there.
+
+--> ATTENTION: If you get up from the bathtub, all items will also derez automatically, that helps saving prims.
+--> ATTENTION: if you want that the rezzables stay rezzed, please rez any item you want to stay, click it with your RIGHT mousebutton and go to the tab "content". In the content you'll find a script named "[AV]object" -> simply delete it by right clicking and select "delete". Your rezzable will now stay till you delete it manually! 
+*********************
+
+
+◐ ACCESS◑
+I put an access script into the bathtub which allows you to define who can use it.
+The default settings for your bathtub is: everyone -> which means, everyone can use the object.
+
+********************
+You can adjust these settings (usage of the item) by:
+
+*) right clicking the bathtub
+*) go to the tab "content"
+*) wait till everything has loaded, then open the notecard "access_config" by double clicking it
+*) set your permissions (who can use the menu & denied message for the item).
+*) ps: you can set the permission script to owner & add other avatars UUID in the last line (example inside)
+*) -> TAKE THE ITEM TO THE INVENTORY & RE-REZ IT
+
+further information regarding the permissions to the whole menu can also be found here:
+􀀀
+It's easy :)
+********************
+
+The ADD-ON
+I also put a box called add-on in the box, it's nothing you have to rez, i just wanted to give you an option for a nice set-up, i hope you'll like it :)
+
+here's a snapshot: 
+􀀂
+
+
+If you have any problems with the Nerenzo bathtub "Valencia" or need support, please drop a notecard to 
+
+􀀁
+
+ or write an email to support@nerenzo.com
+
+Again, thank you for you purchase & see you soon at Nerenzo
+
+vic nerido
+nerenzo
+
+PS: Just a word on the "particles": Depending on your viewer settings, the windlight, plus the amount of other objects in your draw distance which use particles, the bathtub effects (steam & faucet) can vary. 

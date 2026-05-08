@@ -1,0 +1,221 @@
+1. Where are the setup videos?
+2. How do I wear it?
+3. Why is my V deformed?
+4. How can I see the original maitreya groin shape?
+5. Where can I buy the omega relay for the V?        
+6. How do I setup the V for omega?
+7. Why isn’t omega isn’t working for me?
+8. Why can’t I see the shine on my body or the V?
+9. How can I hide the V behind clothes better?
+10. How do I access the redness layer?
+11. Why is my HUD not responding when I click it?
+12. How do I adjust the shine?
+13. How do I stop the deformers?
+14. How do I access the cum layer?
+15. How do I position the pubes?
+16. How do I use the remote HUD?
+17. Will you bring the V and P together?
+18. Where can I get a redelivery/update?
+19. Will you add more piercing/accessories options?
+20. When I enter the RGB in the texture hud, the V turns pure black?
+21. Why can’t I hear the sounds?
+22. Is there a way to transfer the color/texture/personal settings to the updated V?
+23. Can I make custom textures?
+24. Can I add my own piercings?
+25. How can I replace the updated V in all my previous outfits?
+26. Why does my V look like it's hidden behind the body?
+27. My hands are moving but my breasts are not. My breasts are moving but my hands are not.
+28. Why does my V flicker?
+29. Is my old V BoM skin compatible with the new V?
+30. Where can I see all 55 states?
+31. Why can’t other people see my V?
+32. Why is my face stuck when playing a face animation? Why doesn’t it look good on my head?
+33. Why aren’t the face animations playing?
+34. Why is my V red?
+35. Why can’t I click the hud? Why isn’t the hud working for me?
+
+
+
+
+
+
+1. Where are the setup videos?
+http://sessionskins.com/tutorials/
+
+
+2. How do I wear it?
+In your inventory, right click > add. It should be attached to your stomach.
+
+
+3. Why is my V deformed?
+You're probably wearing another attachment/vagina that is animating or using the same bones. Through a process of elimination, you can find out which one it is. Start by removing all attachments except the V. Then right click your avatar and select 'reset skeleton'. Then add them one at a time until it deforms again.
+
+
+You might have worn another custom bento attachment before wearing the V. Often times, we use the same bones but our rigs/bones are in different locations. If you switch from one bento vagina/P to the V, right click your avatar and select “reset skeleton” or relog into SL.
+
+
+4. How can I see the original groin shape?
+In the options menu, there’s a way to show the original maitreya groin shape when you press the eye icon. This only works for BoM skins. https://i.gyazo.com/a7bdeaa343acb8ad62e65525b5c7466f.mp4
+
+
+5. Where can I buy the omega relay for the V?
+It's currently only available inworld for $99L at this slurl http://maps.secondlife.com/secondlife/kunst/212/228/23
+You can paste that SLURL in local chat and click on the link to TP. It's located on this wall: https://i.gyazo.com/d069fb15c000b6b5477e8004bb0389c8.jpg
+
+
+6. How do I setup the V for omega?
+Please watch the one minute omega setup video: http://sessionskins.com/tutorials/
+
+
+7. Why isn’t omega working for me?
+From our experience, 9/10 times, the user’s skin isn’t an omega applier skin but a maitreya skin applier. The V isn’t compatible with maitreya applier skins because that’s proprietary code that only applies to maitreya bodies. The good news is, most skin creators offer free BoM and Omega versions inside your skin folder. BoM is recommended though. It’s simple to use and future-proof.
+
+
+8. Why can’t I see shine on my body or the V?
+You most likely have windlight/EEP settings that is washing out the shine. Press ctrl shift y to set your windlight/eep to midday. You’ll be able to see shine much better in that windlight.
+Windlights that will wash out shine/spec: CalWL, Nam’s, and other skin windlights.
+
+
+9. How can I hide the V behind clothes better?
+There are three ways you can do this. The first is to use the “push in” button in the Vagina Look menu. There’s also state 39 for maitreya users. The second way is to hude the V completely by clicking the eye icon at the top left corner. The last way is to go to the options menu and select “Eye icon shows original BoM groin”. You can find the push-in button in 3 places on the hud: http://somup.com/criqhhYY5z
+
+
+10. How do I access the redness layer?
+Open your texture hud and go to the outer labia menu. From there, click the radio button for adding “Texture with Redness” https://i.gyazo.com/b4dd3b97006ded15f4f550a866e1055f.mp4        
+
+
+11. Why is my HUD not responding when I click it?
+You most likely have another hud around the V hud making it impossible to click. Try removing the other surrounding huds. They may not look like they’re in the way but this is a common issue. Most of the time, it’s the maitreya or genus hud.
+
+
+12. How do I adjust the shine?
+Open the shine HUD to adjust the shine of the body and V separately. https://i.gyazo.com/ce9f5b4604e11542597d74248b3bcbf2.mp4
+
+
+13. How do I stop the deformers?
+Hold the stop button for 3 seconds to reset the deformers. If you're still not satisfied, right click your avatar and select "reset skeleton". (video: https://i.gyazo.com/1f0f0b9100b958f2f172327c77f35588.mp4 )
+
+
+14. How do I access the cum layer?
+Inside the options menu: https://i.gyazo.com/9ca2cced1798136d29d8511d1af01df5.mp4
+
+
+15. How do I position the pubes?
+Right click on the pubes and select edit > then check the box for “edit linked”. From there, you can position them where you want. Make sure the curved part of the pubes matches up with your body: https://i.gyazo.com/8a82713fa288641f97b76db93a2cdbc5.png
+We made a setup video for positioning the pubes: http://sessionskins.com/tutorials/
+
+
+16. How do I use the remote HUD?
+The HUD is copy/transfer. Send one to your partner and then go to the options menu > remote access > and give them access (group/public/private/guest list)
+
+
+Once you give them access, all they need to do is wear the hud and it will ask them if they want to control you. 
+
+
+***If you put someone on the guest list, make sure you write their first and last name. If you were to add me, it would be anj4 Resident.
+***You must detach your hud in order to send it to someone because you can’t transfer objects while they’re worn.
+
+
+17. Will you bring the V and P together?
+Yes definitely! We will make custom animations that will animate both the P and V. 
+
+
+18. Where can I get a redelivery/update?
+You can get a redelivery at the terminal in our inworld store ( http://maps.secondlife.com/secondlife/kunst/212/228/23 ). Updates are automatically done through casper.        
+If you bought it on the marketplace, you can **also** get it redelivered directly from the marketplace listing by clicking the date of purchase at the top > redeliver (video: https://i.gyazo.com/b61fd0d699fb9a93e85c71e207fda9d6.mp4 )
+
+
+19. Will you add more piercing/accessories options?
+Absolutely. We are putting together a free accessory pack with lots of additional attachments. To get the accessory pack (when it’s available), all you have to do is leave an honest review for the vagina on the marketplace and you get it for free. If you bought it inworld, just rate the V demo. Everyone who has already rated the V will get the accessory pack.
+
+
+If you received something as a gift on the MP, you can get it redelivered like this: go to My Account > Received gifts > redeliver from there
+
+
+20. When I enter the RGB in the texture hud, the V turns pure black?
+You need to insert <123,23,23> brackets for it to work
+
+
+21. Why can’t I hear the sounds?
+Answer 1: Detach and reattach your V.
+Answer 2: Your sound settings might have ambient/sounds off. Here’s how you adjust your sound settings should look: https://i.gyazo.com/e8ae06f4cf385bfb0987506488e822c9.mp4
+Answer 3: The land your on might have sounds disabled for non group members: https://i.gyazo.com/e52f339127d8c88c05a9a779564867c4.png
+
+
+22. Is there a way to transfer the color/texture/personal settings to the updated V?
+Maybe in a future update. For now, just remember the texture tone + RGB and enter that manually in the texture hud.
+
+
+23. Can I make custom textures?
+dIf you’re a texture artist who intends to make custom textures to sell custom V textures, contact us and we will send you the texture dev kit. It comes complete with a PSD including a sample texture, UV maps, and an applier script.
+
+
+24. Can I add my own piercings?
+You can attach unrigged piercings to groin without issues
+
+
+25. How can I replace the updated V in all my previous outfits?
+In firestorm, you can replace the links in an outfit: https://youtu.be/KY9Dy8SU-NQ
+
+
+26. Why does my V look like it's hidden behind the body?
+Answer 1: When you add the BOM add-on maitreya mesh parts and activate the Pelvis, The V Bento is somewhat swallowed: https://gyazo.com/28c8ccff8e2f39b54f5473105975aa08 Disable that.
+Answer 2: When you wear the V as an outfit, maitreya auto hide of the groin doesn't work. Just attach and reattach the V for auto hide.
+
+
+27. My hands are moving but my breasts are not. My breasts are moving but my hands are not.
+Please wait for the animations to load. The breast animations and hand/body animations are separate files. They might not be in sync so when they play out of sync, just pause and play the animation again.
+
+
+28. Why does my V flicker?
+Please open your maitreya HUD, go to the alpha section and press the triangle alpha to hide the V area. Or detach and reattach the V for auto-alpha.
+
+
+29. Is my old V BoM skin compatible with the new V?
+Unfortunately the old V skin doesn't have a defined texture in that area. Any other BoM skin will work *except* the original V skin.
+
+
+30. Where can I see all 55 states?
+States 6-20 gradually open up the V (so you can save your partner's exact P size). States 21-55 Show unique looks. Just press the back arrow button to see those states.
+
+
+31. Why can’t other people see my V?
+This is because you have too many attachments worn on the same attachment point. This isn’t as much of an issue as before because previous versions of the V used the pelvis which is one of the most common attachment points. This version of the V attaches to the stomach.
+
+
+32. Why is my face stuck when playing a face animation? Why doesn’t it look good on my head?
+Every head is rigged slightly different. To add to the complexity of that, even changing your head shape further from the middle of the shape sliders influences how animations are played on your head. There's no set standard for head animations due to many technical reasons. If you don't want anyone using the face animations, please disable them in the options menu. If your face is stuck in an animation, try playing another face animation or right click your avatar and select "reset skeleton". We apologize in advance
+
+
+33. Why aren’t the face animations playing?
+You might have disabled face animations in the options menu. Also, your head may have an AO on that has animations that are overriding the V face animations. Try turning off your head AO.
+34. Why is my V red?
+Your V is red because it's currently set on BoM mode. If your V is red, that means you're wearing a body alpha. Simply remove your body alpha to see the V with a BoM skin applied to it.
+
+
+There are 3 types of skins that can apply to maitreya bodies.
+
+
+#1 Maitreya body appliers
+#2 BoM
+#3 Omega
+
+
+The V is not compatible with #1 Maitreya body applier skins because that's proprietary maitreya code.
+
+
+
+
+If you want to setup BoM, please watch the first video @ http://sessionskins.com/tutorials/
+
+
+If you want to setup Omega, please watch the second video @ http://sessionskins.com/tutorials/
+
+
+35. Why can’t I click the HUD? Why isn’t the HUD working for me?
+
+
+Answer: Most likely you have another invisible hud in the area that is blocking the vagina hud from being clicked.
+
+
+Try detaching surrounding huds or move the vagina hud to the center of the screen to be sure.

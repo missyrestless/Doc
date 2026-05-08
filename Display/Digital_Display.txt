@@ -1,0 +1,72 @@
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Digital Display v2.1
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+Neat and modern looking all-in-one gadget, displays your advertising, invite users to your group, hands out landmark, gifts, notecards and up to 5 links to your social media, blog or websites! 
+From a quiet gadget that just displays a slide show of your ads, to a more interactive tool, you are in control, one settings notecard, with instructions to setup each option.
+
+Main features:
+
+      ✔ Slide show or static presentation of your advertising or pictures, works with 4x3. 1x1, 1x2 aspect ratio textures.
+      ✔ Slide show automatic for 2 or more pictures.
+      ✔ Slide show with optional fade effect.
+      ✔ Dialog on click with optional buttons for Owner IM, Owner Profile, Join Group, Gifts, Landmark, Notecard, up to 5 links to your social media pages, website or blog.
+      ✔ All options on a click dialog menu which can be enabled or disable. 
+      ✔ Option to notify you when someone clicks on the board..
+      ✔ One settings notecard, with instructions for each option, you are in control!
+      ✔ Modern look, flat design with rounded display panels, enhances your product/ad presentation!
+      ✔ Single sided and Double sided models included.
+      ✔ 2 LI (Single and Double Panels).
+      ✔ 6 models included (4x3, 1x1, 1x2 in single and double sided panels)
+      ✔ 10 PBR materials on menu plus 1 fallback.
+
+All settings are set per board, which means, you can assign different settings for each location... from quiet to interactive, specific information for each, etc.
+You may setup one board, and take a copy, using it as a template for all your locations. (Rez it wherever you like, change its Location Name... that's it!)
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Setup
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+1-) Add one or more pictures/textures (logo or related texture) to the gadget contents (Edit, Content tab). If more than one texture is found, the gadget will display a slide show (fade effect) showing the pictures in the same sequence they are found.
+
+2-) A notecard named "Settings" is available inside the gadget (Edit, Content tab), please open it (double click) and edit as needed, instructions for each option are included in the same notecard.
+
+3-) Click the gadget and select "On" on menu. (Make sure to turn Off and On again after making changes to the Settings notecard.)
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Menu
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+Options:
+
+[On] - Turns the gadget on reading current settings.
+
+[Off] - Turns the gadget off.
+
+[Test Click] - Allows you to see the dialog sent when an avatar clicks on the gadget. You will see all buttons according to your settings.
+
+[Manual] - Hands out this manual, if still available inside the gadget.
+
+[Done] - Close the menu.
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Thank you!
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+Update v2.0:
+
+✔ Added 4x3 models to the set.
+✔ 10 PBR materials plus 1 fallback for legacy viewers.
+✔ New mesh for PBR.
+
+Update v2.1:
+✔ Fix parsing and display of url addresses.
+
+Thank you for your business! I hope you will enjoy the gadget as much as I enjoyed creating it!      
+Any questions feel free to IM me. Have fun!
+
+Sincerely,
+    
+Andred Darwin
+LunaMare Designs Owner/Scripter.
+

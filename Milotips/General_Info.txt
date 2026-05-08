@@ -1,0 +1,128 @@
+
+Thank you for purchasing this tipjars system for clubs on milo's Bazar.
+
+Important: I'm constantly improving my products, and want to offer the best experience possible.
+If you ever meet an issue, i invite you to IM me anytime. I will be pleased to respond you asap.
+
+Me: secondlife:///app/agent/749e8776-9d02-4e28-a3bc-aaaaaf087c36/about
+My Store : https://marketplace.secondlife.com/stores/209179
+
+?
+
+I strongly suggest you join the group so i can more easily keep you informed about the updates.
+group: secondlife:///app/group/1c2a36ee-8dcc-381d-2b29-551a0f509e3d/about
+
+
+Thank you for purchasing this tipjars system for clubs on Milo's Bazar.
+
+Important: I'm constantly improving my products, and want to offer the best experience possible.
+If you ever meet an issue, i invite you to IM me anytime. I will be pleased to respond you asap.
+
+Me: secondlife:///app/agent/749e8776-9d02-4e28-a3bc-aaaaaf087c36/about
+My Store : https://marketplace.secondlife.com/stores/209179
+
+
+**************************************
+*****   MILOTIPS v2.77 user guide   *****
+**************************************
+
+------------------------
+1. PRESENTATION
+------------------------
+
+The milo's tipjars system for clubs (MILOTIPS) was created and developed to offer an easy to use, reliable and optimized system to deploy a set of login tipjars in a club. 
+
+The system works with all milo's tipjars. It can also be integrated in a custom mesh jar.
+
+
+--------------------------
+2. MAIN FEATURES
+--------------------------
+
+2.1. QUICK AND EASY SETUP VIA THE ON-TOUCH DIALOG
+2.2. BASED ON A LOCAL SERVER (100% SL)
+2.4. MULTIPLE NETWORKS (standard and pro versions)
+2.5. ALL SETUP IS MADE FROM THE DIALOGS (no notecard)
+2.6. COMMON SETTINGS ARE MANAGED BY THE SERVER
+2.7. GROUP, LISTED USERS, GROUP TAGS and OPEN ACCESS
+2.8. 4 SPLIT % PER SERVER + CUSTOM SPLIT % PER TIPJAR
+2.9. MANAGERS LIST (ACCESS TO THE SERVER AND OPTIONAL SHARE BENEFITS)
+2.10. TIPS STATISTICS
+2.11. FLOATING / NON FLOATING TIPJARS / HYBRID - REGION WIDE FLOATING
+2.12. AUTO LOGOUT / PERMANENT LOGIN / DONATIONS and more 
+2.13. DEDICATED USER / GROUP TAG TIPJAR
+2.14. CUSTOMIZABLE TEXTS AND LOCAL MESSAGE
+2.15. PERSISTENT SETTINGS (Visuals, particles and tips settings)
+2.16. INSTANT SHARE SETTINGS (Visuals, particles and tips settings)
+
+
+OPTIONAL ADDONS: TOP/LEADER BOARD FOR DANCERS AND TIPPERS TEXT AND PICTURE VERSIONS AVAILABLE, TIP THEM ALL JAR, MILOV LOVENSE PLUGIN; TIPPERS STATS MODULE, TIMECLOCK MODULE
+
+
+The best way to start: Read the HOW TO: BASIC SETUP GUIDE
+
+
+*******************
+*** 3. CONTENT ***
+******************
+
+Your milotips package contains:
+
+3.1. THE DOCUMENTATION
+-------------------------------------
+
+3.2. THE MILOTIPS SERVER: 
+-------------------------------------
+The server is the center of your network. It manages the common settings, the tipjars login, and the payments.
+
+If you own the standard or ultimate editions, you can use multiple separate networks in the same region. Note that your system won't interfere with other owner systems.
+
+Using multiple servers is very useful if you have different families of tipjars configured for different needs or locations.
+
+
+3.3. THE MILOTIPS DIAMOND
+----------------------------------------
+This one is a preconfigured, ready to use tipjar;.
+
+Also included: The TIP BOX is a prim version of the tipjar. It allows you to configure a custom copy/mod object as a milotips tipjar.
+
+
+3.4. THE MILOTIPS TIPS STATS module:
+------------------------------------------------------
+
+This module will record the tips for a specified period of time.
+It can also be used to synchronize tips among several jars, even on different channels.
+
+
+3.5. THE MILOTIPS JAR GIVER:
+-----------------------------------------
+The jar giver (or dispenser) is used to automatically rezz new floating jars once a user picks one.
+It prevents you to rezz many jars around, saves your prim count and script usage.
+
+
+3.6. UPDATERS
+---------------------
+The updaters are provided on request.
+
+
+*********************************
+*** ABOUT DEBIT PERMISSION ***
+*********************************
+
+When rezzing the server, you will be asked for debit permissions. For those who never saw this, it can be a little scary. Don't panick! :) This debit permission is needed by the server to pay the dancers according to the percentage you defined in the server settings.
+
+How it works?
+
+When a tipper tips a tipjar, since you are its owner, you are the one who will get paid first.
+The tipjar will tell the server about this tip, and it will calculate the amount due to the dancer.
+The server will then use the debit permissions you accepted to pay immediately the dancer from your account.
+
+Me, as the tipjars system creator won't get any linden from you, and the system has been intensively tested so that nobody else than the dancer will get paid the correct calculated amount. The amount shared with the dancer won't exceed the amount you got from the tip.
+
+
+
+
+
+
+
+

@@ -1,0 +1,101 @@
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Stand Directory Teleporter v1.2
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+Neat and elegant tool that allows you and your visitors teleport to any location in the grid, managed by you.
+Simple setup, just a landmark, no notecards or hassles! 
+
+Two sets included, one with Auto Name Rendering models (4, 5, 6 or 8 panels), another texture based DIY models (4, 5, 6 or 8 panels).
+The Auto Name Rendering models will render the name of the location automatically in each panel (Up to 16 characters per location).
+The DIY models, require you to create a texture with the name of the location to teleport, displayed on each panel.
+Also included: 3D words pack to help you customize if needed.
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Setup Land Experience
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+You must own the land where you want to place the teleporter.
+If you rent the land, the landlord may be able to assist you by enabling the "experience" required for this teleporter to work as explained below.
+Works on land that is set to a group, however, it will need to be setup by the group owner before deeding the board to the group.
+
+For your parcel:
+    1) Open the About Land settings, select tab "Experiences".
+    2) Under Allowed Experiences, click Add.
+    3) Click Choose Experiences, type LunaMare and hit Go.
+    4) Select the experience LunaMare Gadgets (by Andred Darwin) and hit OK.
+
+For your region:
+    Same steps as for a parcel, but you will do it under "Region/Estate" settings. 
+
+Done, now you can rez your teleporter.
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Setup Teleporter
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+1)  Go the exact place you want your visitors (or yourself) to teleport, create a landmark.
+2)  Rename the landmark following this pattern: X ## Location Name, where X is used to determine the location sequence (alphabetically) to be displayed on panels from top to bottom, as for the Location Name you may use any, up to 16 characters.
+
+Example:
+
+1 ## Teleporters
+2 ## Spring Up Decor
+3 ## Rezzer Machines
+4 ## Home & Garden
+
+Basically, the script will parse the name of each landmark and use whatever is left of "##" to determine the sequence of each location on the panel (top to bottom alphabetically), first found, first displayed... and whatever is right of "##" will be displayed as the name of the location up to 16 characters on Auto Name Rendering models.
+There is a texture/picture included in the set showing an example of how the contents of the teleporter would look like (Based on the one we use at our main store).
+􀀂
+
+3)  Add the renamed landmarks inside the stand. (Edit, Contents tab).
+4)  Click on the stand, and select "Reset" on menu.
+5)  If you are using an Auto Name Rendering model, add your logo texture to the respective face. (You may use a mesh as your logo, following the instructions at the end of this notecard)
+5b) If you are using the a DIY model, you will need to create a texture with the name of the location on a transparent background (256px x 43px or 512px x 85px) and add it to the respective panel face (Click "Reset" on menu first to display default texture). 
+
+Thats it! 
+
+The board will ask permission to teleport you (and your visitors) just once after clicking on a panel.
+
+The owner menu is presented when clicking on the stand itself.
+
+Its a common practice to rez another stand at the destination (if applicable) so your visitors can return or select another area to visit.
+Also a common practice to setup one stand with all locations, then just rez a copy where needed, you may remove the current location landmark from the stand or your visitor would teleport to the same area.
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Customization
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+All models come with mod and copy permissions, you may select a material on menu (Materials) and edit it as you see fit.
+I recommend you to not unlink or link any extra prim/mesh to the teleporter, if you really need and want to, here is the required sequence to link it back. (The script will not work if prims/meshes are not linked in the following order and it may "ruin" your custom mesh)
+
+Link order for Auto Rendering model: (from first selection to last selection in-world)
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+- Any custom meshes or prims you may are adding to the model (logos, decor, words, etc...)
+- Each Auto Name Rendering panel from right to left, bottom to top (2 meshes per panel)
+- Word Teleporter mesh (You may use your own as long as it is 1 mesh/prim)
+- Word Directory mesh (You may use your own as long as it is 1 mesh/prim)
+- Word Welcome mesh (You may use your own as long as it is 1 mesh/prim)
+- Logo mesh / prim (You may use your own as long as it is 1 mesh/prim)
+- Main Stand (Root prim)
+- Link it.
+
+All Auto Name Rendering models have options on menu to "hide" or "show" some "Elements", such as words and logo.
+
+Link order for DIY model: (from first selection to last selection in-world)
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+- Any mesh, prim, or linkset other than the Main Stand and Teleport panels (logos, decor, words, etc.).
+- Each teleport panel from bottom to top (1 mesh per panel)
+- Main Stand (Root prim)
+- Link it.
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Thank you!
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+Feel free to reach out in case you have any questions, I'll do my best to help!
+I hope you enjoy it!
+
+Andred Darwin
+

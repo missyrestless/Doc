@@ -1,0 +1,478 @@
+If you do a transfer settings from your old HUD to the new P3.1, make sure you detach the P afterward, then attach the old and new HUD and match all settings like this: https://gyazo.com/98cafd4124498e0e38315481dc69e9a9
+
+If you don't sync HUDS, your settings *displayed in the HUD* might be out of sync.
+
+---------------------------------------
+
+𝐒𝐞𝐜𝐭𝐢𝐨𝐧𝐬:
+① 𝐒𝐞𝐭𝐭𝐢𝐧𝐠 𝐔𝐩 𝐓𝐡𝐞 𝐏 - 𝑸𝒖𝒊𝒄𝒌 𝑺𝒆𝒕𝒖𝒑 𝑮𝒖𝒊𝒅𝒆 (4 Steps)
+② 𝐇𝐨𝐰 𝐓𝐨 𝐔𝐬𝐞 𝐓𝐡𝐞 𝐏
+③ 𝐓𝐫𝐨𝐮𝐛𝐥𝐞𝐬𝐡𝐨𝐨𝐭𝐢𝐧𝐠 𝐈𝐬𝐬𝐮𝐞𝐬 𝐚𝐧𝐝 𝐅𝐫𝐞𝐪𝐮𝐞𝐧𝐭𝐥𝐲 𝐀𝐬𝐤𝐞𝐝 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬
+④ 𝐒𝐞𝐭𝐭𝐢𝐧𝐠𝐬 𝐌𝐞𝐧𝐮 𝐄𝐱𝐩𝐥𝐚𝐢𝐧𝐞𝐝
+⑤ 𝐇𝐔𝐃𝐬 𝐄𝐱𝐩𝐥𝐚𝐢𝐧𝐞𝐝
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+① 𝐒𝐞𝐭𝐭𝐢𝐧𝐠 𝐔𝐩 𝐓𝐡𝐞 𝐏 - 𝑸𝒖𝒊𝒄𝒌 𝑺𝒆𝒕𝒖𝒑 𝑮𝒖𝒊𝒅𝒆 (4 Steps)
+
+● Step 1: Position The P to your body. This can only be done through the HUD since this is a rigged object and can't be positioned with edit tools. It's in the cock precision tab (icon with double crossing arrows). https://i.gyazo.com/636f1a202a21caea2eef4a30810a2a86.mp4
+
+● Step 2: Go to the settings page of the "Play HUD" and save your preferred flaccid and erect state. You can then access these tilts by pressing "default ▲/▼" in many parts of the HUD. You can save the girth, length, tilt and circumcision (skin/no skin) for flaccid. You can only save length and circumcision for erect. See "Advanced Setup" below to customize your default erect girth.
+
+Now that you've finished step 2, 90% of you will be satisfied using one of the many mini HUDs, 90% of the time. Everything you need is there: https://i.gyazo.com/4da3238664d0ebbce417cb95fd28bfef.mp4
+
+● Step 3: Open the texture HUD, select a matching texture and find the right specular values/shininess value for you (0-255). Next, go to the color picker and tint if needed.
+
+● Step 4: Wear one of the included physics layers so your balls move! Video: https://i.gyazo.com/cd027225a83d81bebeec6768cdf2ef58.mp4
+
+★ Advanced Setup ★
+
+◆ Custom Tilts - There are 5 tilts that you can customize. You can access this menu inside the cock precision tab (icon with double crossing arrows). From there, you can rotate the cock and ball bones and position the balls to your preference and save them in the save slots. You can then access them all over the HUD.
+
+Here's a video on how to use the cock deformer with the Custom 1-5 tilts in 30 seconds https://screencast-o-matic.com/watch/c0enfeVyMcf
+
+◆ Setting girth preferences. Having the maximum length and minimum girth is not a good look. Let's go to settings to set our preferred girth to play with each length.
+
+◆ Inside settings, there are a number of other customizations you can make such as finding the right cum, drip and pee particles, automatically playing your saved flaccid animation on teleport or hiding the P completely on teleport. Play around with the settings to find the right fit for you.
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+② 𝐇𝐨𝐰 𝐓𝐨 𝐔𝐬𝐞 𝐓𝐡𝐞 𝐏
+
+A. Modifying The P
+B. Using the AO
+C. Redelivery and Updates
+D. Unrigged Attachments/Piercings That Move With The P
+E. Making custom textures
+F. Using Compatible Furniture With The P
+G. Where can I get more piercings?
+H. Using the remote HUD or menu feature
+I. Transfer all settings to another cock shape or update
+J. Tinting the pubes
+K. Making the cock swing when you dance.
+L. Setting your favorite animation, sound and face animations
+
+► A. Modifying The P
+
+The P is modifiable but you'll have to rez it to make modifications since the scripts inside the object are no mod.
+
+When you rez The P, you may get this error "Script trying to trigger animations but PERMISSION_TRIGGER_ANIMATION permission not set". Ignore that. It gives you that because The P scripts are expecting it to be attached.
+
+If you decide to link/unlink some prims, please do this afterwards:
+
+1. After linking/unlinking prims, reset scripts by dropping this on top. No need to load the contents of the prim(s): 􀀁
+
+2. Go to the last page of settings in The P HUD and transfer your settings to the edited cock.
+
+► B. Using the AO
+
+The AO offers generic idle movement that will work with any AO. Currently we only support Visa, Oracul, and Sinse AOs. The timing for other AOs might work but you’ll have to try and see.
+
+We also included 2 custom full body walking animations if you prefer that. Those can be selected by clicking the "Custom 1" and "Custom 2" buttons. Do note, the AO will not automatically swing your P when you walk if you choose to use your own AO's walking animations.
+
+There are custom full body stationary and roaming animations. Just press cycle stands and those stands will override the current stands in your AO (they are priority 5 animations).
+
+The default settings will work for most people. If you play around with the settings, this is how the default settings should look if you want to revert back 􀀃
+
+The default settings play "default ▼" while standing and it will swing while walking. If you select a different tilt, it will hold that tilt until you press the stop button, then it will default to "default ▼" when you walk and stop.
+
+The AO is not perfect and completely optional. We are aiming to improve it in the future.
+
+► C. Redelivery and Updates
+
+You can get a redelivery at the terminal in our inworld store (http://maps.secondlife.com/secondlife/Dynamite%20Beach/206/157/4085). Updates are automatically done through casper. If you bought it on the marketplace, you can get it redelivered directly from the marketplace listing by clicking the date of purchase at the top > redeliver (video: https://i.gyazo.com/b61fd0d699fb9a93e85c71e207fda9d6.mp4)
+
+► D. Unrigged Attachments/Piercings That Move With The P
+
+If you want to attach an unrigged piercing (or anything) and want it to move when the P moves, you'll want to make sure it's attached to the tail tip. You can literally attach anything to the "tail tip". In this video example, I fit a draped flag that's not rigged and "no mod" to the tip of The P https://screenpal.com/watch/c0i2VPVgKtz
+
+Obviously, you wouldn't want to attach your pubes to the tail tip since they need to be in a fixed position. The pelvis would be more suitable for that.
+
+► E. Making custom textures
+
+We sell the UV maps with a full perm BoM example here: https://marketplace.secondlife.com/stores/222823
+
+► F. Using Compatible Furniture With The P
+
+There are thousands of compatible furniture designs and dozens of supporting creators who make your virtual experience as pleasurable as possible by supporting The P and The V. Just head on over to the marketplace and search those magic words: "physics cock".
+
+► G. Where can I get more piercings?
+
+Inside your folder, there's a HUD with a condom, 2 piercings, a cock ring and a ball ring. You can get 9 more piercings (and other add-ons) inside our accessory pack here: https://marketplace.secondlife.com/stores/222823
+
+► H. Using the remote HUD feature
+
+The HUD is copy/transfer. Send one to your partner and then go to the settings in the main HUD (icon with three dots) > remote access > and give them access (group/public/private/guest list)
+
+Once you give them access, all they need to do is wear the HUD and it will ask them if they want to control you. You must detach your HUD in order to send it to someone because you can’t transfer objects while they’re worn.
+
+Alternatively, someone else with access can control your P if they touch the tip. They'll get a menu to control the basic functions of the P.
+
+► I. Transfer all settings to another cock shape or update
+
+On the last page of settings, you can click the button to send all your settings to a new cock shape or update. It takes about 2 minutes.
+
+There's one caveat! It's the HUD that stores all your settings so if you use a new HUD, your settings won't transfer over to the new HUD (they will be inside the cock you transfer to though). You will want to set that new HUD up again to load all your settings and textures.
+
+► J. Tinting the pubes
+
+It's our pleasure to provide pubes for you, that you can find in your P folder. The Pubes are modifiable. You can use the edit tools. https://i.gyazo.com/ff64e415f08dcc77884222bcd864a98d.mp4
+
+► K. Making the cock swing when you dance.
+
+Since there is no cock physics calculated in real time within second life, all physics movement is done custom in our ASA MoCap Studios. You can use the included dance anims or use some idle swinging animations which offer generic idle movement to simulate physics. You can find those anims at the end of the animation menu.  Liam's favorite, to use when using a third party dance machine, is "body roll".
+
+L. Setting your favorite animation, sound and face animations
+
+By default, your favorite animation, tilt and face animation will not play anything until you save them. This also applied to your favorite face animation or sound to play with the sound button. You can save them in their respective menus: https://gyazo.com/c33611c28442f0fbb0a7a97cb5f2c88e
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+③ 𝐓𝐫𝐨𝐮𝐛𝐥𝐞𝐬𝐡𝐨𝐨𝐭𝐢𝐧𝐠 𝐈𝐬𝐬𝐮𝐞𝐬 𝐚𝐧𝐝 𝐅𝐫𝐞𝐪𝐮𝐞𝐧𝐭𝐥𝐲 𝐀𝐬𝐤𝐞𝐝 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬
+
+➤ 1. Why can’t I see the cum/pee?
+➤ 2. Why is my P gray? How do I wear the cum layers/tattoos?
+➤ 3. Why can’t I hear the sounds?
+➤ 4. Why can’t I make the balls bigger?
+➤ 5. Why can’t you make it bigger/longer/smaller/shorter?
+➤ 6. Do you have more cum options?
+➤ 7. Why is my length changing when I play an animation?
+➤ 8. My cock is deformed. How do I fix it?
+➤ 9. Is the cock compatible with BoM/Omega skin?
+➤ 10. How can I match the cock to my skin tone?
+➤ 11. How do I add custom sounds?
+➤ 12. How can I make my arms reach my cock?
+➤ 13. Why are my balls stuck in one position?
+➤ 14. How do I troubleshoot issues?
+➤ 15. The HUD text is too small for me. What can I do?
+➤ 16. What are the differences between the cock shapes?
+➤ 17. What's the difference between "The P" and "The P MAX"?
+➤ 18. Can I link the piercings together so I don't use so many attachment points?
+➤ 19. Why isn't the cock getting hard?
+
+➤ 1. Why can’t I see the cum/pee?
+
+Answer 1: You likely disabled attached particles in firestorm settings. Here’s how you can get them back: https://i.gyazo.com/0a4a3ccadacf9daeb9ed9d977c73fce6.png
+
+Answer 2: You might have too many particles around your parcel/sim and have them maxed out. Try TPing to another sim to see if you can see them.
+
+Answer 3: Your max particle settings are too low or off. Try turning them up: https://i.gyazo.com/88e6650d4423698a853f1351baf85a82.mp4
+
+Answer 4: You could have disabled attachment particles in viewer preferences: https://i.gyazo.com/787b9ff064ba9783bd1fe62d7884d3fb.png
+
+➤ 2. Why is my P gray? How do I wear the cum layers/tattoos?
+
+Answer 1: The BoM layer didn't bake right. Try detaching and re-attaching a BoM texture or toggle the BoM layer off completely. https://i.gyazo.com/89490e5e6d751d0232898c488d24c929.mp4
+
+Answer 2: You may not be wearing a BoM layer at all. Try wearing the included cum layer or tattoo. https://i.gyazo.com/89490e5e6d751d0232898c488d24c929.mp4 If you have the tattoo layer toggled with no bom texture applied to it, it will be grey.
+
+➤ 3. Why can’t I hear the sounds?
+
+Answer 1: Detach and reattach your P.
+
+Answer 2: Your sound settings might have ambient/sounds off. Here’s how you adjust your sound settings should look: https://i.gyazo.com/e8ae06f4cf385bfb0987506488e822c9.mp4
+
+Answer 3: The land you’re on might have sounds disabled for non group members: https://i.gyazo.com/e52f339127d8c88c05a9a779564867c4.png
+
+Answer 4: You could have disabled sounds in cock settings: https://i.gyazo.com/5e15adee596e0803e4d4b86b8f91d424.mp4
+
+➤ 4. Why can’t I make the balls bigger?
+
+Each shape comes with a regular and large balls version.
+
+➤ 5. Why can’t you make it bigger/longer/smaller/shorter?
+
+There are 5 lengths and 8 girths. Any larger or smaller and there will be issues with the animations clipping the cock into the balls or into the body. Also, we envisioned a cock that won’t clip through vaginas/mouths/bodies/etc. There are plenty of enormous cocks on the market. We are going for realism.
+
+Rigged objects can’t be resized. If you rez the cock object, you'll see something like this: https://i.gyazo.com/c84f7eced091f1d50b62ecd84b6ccd2b.jpg
+In this image, you can see that each girth had to be created manually outside of SL in our 3D program.
+
+We also owe it to the animators who are supporting the cock such as Ruckus, WarmAnimations, N4RS, Unbound Spirit, and many others. If we change the size, their anims won't look as intended.
+
+➤ 6. Do you have more cum options?
+
+Yes! There are 6 types of cum selectable in the options menu.
+
+➤ 7. Why is my length changing when I play an animation?
+
+You will only see this when using the Soft2Hard and Breathing tilts if you adjust the starting and ending length in settings. You can disable this feature if you accidentally enabled it in settings. 
+
+In settings, make your cock grow in length as you increase the vertical tilt. Combine this with the setting "Customize Girth To Length" to increase the girth as well: https://screenpal.com/watch/c0ebcuV4Ao7
+
+➤ 8. My cock is deformed. How do I fix it?
+
+You're probably wearing another attachment/bento cock/tail that is animating or using the same bones. Through a process of elimination, you can find out which one it is. Start by removing all attachments except the P. Then right click your avatar and select 'reset skeleton'. Then add them one at a time until it deforms again.
+
+You might have worn another bento cock before wearing the P. We use the same bones but our rigs/bones are in different locations. If you switch from one bento cock to the P, right click your avatar and select “reset skeleton” or relog into SL.
+
+➤ 9. Is the cock compatible with BoM/Omega skin?
+
+It's a little difficult to explain but we'll try.... 
+
+There's no such thing as a cock skin built into the SLUV layer of your typical body skin. Here's a visual image of what skin creators use for a lower body skin: https://i.gyazo.com/3d3064efc0268c1d81fe0f6e9218233d.png
+So a cock can't really use the BoM SLUV layer.
+However, there's a tattoo layer that uses a BoM layer on an aux channel for things like custom textures, tattoos/ink, cum layers, etc.
+So to get the right tone, you'll have to use the included texture HUD.
+
+➤ 10. How can I match the cock to my skin tone?
+
+Most RL cocks are slightly darker than your body skin. It doesn't have to be a perfect match but if you want the closest match, we'd suggest going one shade lighter then tinting it darker (with the color picker) to fit your tone. Also, you can get the RGB of your skin tone by going to developer menu (ctrl alt q) > show info > color under cursor. Skin tones have dozens of tones and shades so find the closest one and tint the cock like that, then bring the darkness down and you should be spot on.
+
+“134 71 56 9” would be <134,71,56>
+
+Pubes will help the cock blend with your body too.
+
+➤ 11. How do I add custom sounds?
+
+THIS IS NOT FOR THE FAINT OF HEART!
+
+-You can add up to 8 custom sounds.
+-Rename your sounds to SOUND1_11 through SOUND1_18
+-Add a space, then the numbers 01, then add a # symbol plus the number of seconds the sound is in decimals.
+Example: SOUND1_11 01#29.99 where 29.99 seconds is the length of the sound file and the time where the script should loop.
+-Custom 1 = SOUND1_11 & Custom 8 = SOUND1_18
+-Open the contents of the P and delete SOUND1_11 through SOUND1_18
+-Replace with your custom sounds 
+
+➤ 12. How can I make my arms reach my cock?
+
+If your avatar has human male proportions, it should fit just fine. The main thing is having your arm span = your height. There are several factors to consider including:
+
+Your height
+Your arm length
+Your shoulder width
+Your torso thickness
+Your hip width
+
+➤ 13. Why are my balls stuck in one position?
+
+You might have a custom tilt saved that has your balls in that position. Try going to the cock precision tab (double crossing arrows) and click reset. Then re-save your tilts.
+
+➤ 14. How do I troubleshoot issues?
+
+Through a process of elimination, detach all attachments and add the body and cock back and each attachment one-by-one until you find the culprit.
+
+If you have a specific issue, you can visit the redelivery terminal in our inworld store (http://maps.secondlife.com/secondlife/Dynamite%20Beach/206/157/4085) and see if there's an update. Updates are usually for bug fixes or new features.
+
+➤ 15. The HUD text is too small for me. What can I do?
+
+Don't worry about reading the circular text. It's one of the many tilt indicators in the HUD. 􀀀
+
+You can try to resize the HUD or if that's too big, consider making the HUD larger and using one of the many mini HUDs ?
+
+➤ 16. What are the differences between the cock shapes?
+
+The only difference is the design. Whether you want the impressive girth and smaller head of "Titus" or a more modest showpiece like "Litus", there's a shape that is tailored to your distinctive preference.
+
+➤ 17. What's the difference between "The P" and "The P MAX"?
+
+The only difference is The P MAX is 50% larger.
+
+➤ 18. Can I link the piercings together so I don't use so many attachment points?
+
+Absolutely. Start by rezzing all the piercings you intend to wear.
+
+Unlink the Root Prims: For every piercing, there is a 'root prim'. You'll want to select the root prim (this will be highlighted differently than the other parts), unlink it and then delete it. This is done for all the piercings except for one – this one will be the 'main' piercing to which the others will be linked.
+
+For example, if you've rezzed 5 piercings, you will delete the root prims of 4 of them.
+Linking: With only one root prim remaining, select all the other piercings (ensure you are in 'Edit' mode) and link them to this remaining root prim. When done correctly, all your piercings will now act as a single object.
+
+Optional Step - Deleting Unused Girths in Piercings: If you find that you don't use some of the girths such as girths 1-4, you can also unlink and delete them.
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+➤ 19. Why isn't the cock getting hard?
+
+You might be wearing a cock rubber that makes the cock soft when nobody is rubbing it. You can probably temporarily disable it.
+
+Or you're in the flaccid state. Move it to 0 degrees on the horizontal axis or try one of the other tilts.
+
+-OR- there may be a Firestorm setting that needs fixin'... 
+Please make sure that “Fix Bento Idle Animation” is NOT checked in your firestorm viewer preferences.  If it is, please uncheck it, and relog. It will fix the issue.
+https://gyazo.com/7604e45408db6832e00e3f42dcf449fe
+
+-OR- You're using the firestorm pose stand which temporarily deforms The P.
+
+④ 𝐒𝐞𝐭𝐭𝐢𝐧𝐠𝐬 𝐄𝐱𝐩𝐥𝐚𝐢𝐧𝐞𝐝
+
+ᐅ 1. AO Settings
+ᐅ 2. Save Default Erection Position
+ᐅ 3. Save Default Flaccid Position
+ᐅ 4. Remote Control
+ᐅ 5. Sounds On/Off
+ᐅ 6. Face Animations On/Off
+ᐅ 7. Dick Light On/Off
+ᐅ 8. AVsitter Plug-in Auto Tilt
+ᐅ 9. Hide on Teleport
+ᐅ 10. Flaccid on Teleport
+ᐅ 11. Scripted Length Changes
+ᐅ 12. Play Fav Ball Animation
+ᐅ 13. Hide Balls
+ᐅ 14. Vista Ball Lock
+ᐅ 15. Soft2Hard/Breathing Min and Max Length
+ᐅ 16. Remove Foreskin After -30 When Using Soft2Hard or Breathing
+ᐅ 17. Cum Style
+ᐅ 18. Drip Style
+ᐅ 19. Pee Style
+ᐅ 20. Unlimited Cum
+ᐅ 21. Short Cum Shots
+ᐅ 22. Play Favorite Face Animation With Cum
+ᐅ 23. Play Favorite Sound With Cum
+ᐅ 24. Customize Girth To Length
+ᐅ 25. Customize Anicum™ Add-on
+ᐅ 26. Jizz Settings "Gender Preferences"
+ᐅ 27. Jizz Settings "Target Particles"
+ᐅ 28. Jizz Settings "Cum Particles"
+ᐅ 29. Jizz Settings "Disable/Ignore The Jizz"
+ᐅ 30. Transfer Settings
+
+ᐅ 1. AO Settings
+
+The AO offers generic idle movement that will work with any AO. Currently we only support Visa, Oracul, and Sinse AOs. The timing for other AOs might work but you’ll have to try and see.
+
+We also included 2 custom full body walking animations if you prefer that. Those can be selected by clicking the "Custom 1" and "Custom 2" buttons. Do note, the AO will not automatically swing your P when you walk if you choose to use your own AO's walking animations.
+
+There are custom full body stationary and roaming animations. Just press cycle stands and those stands will override the current stands in your AO (they are priority 5 animations).
+
+The default settings will work for most people. If you play around with the settings, this is how the default settings should look if you want to revert back 􀀂
+
+The default settings play any tilt you want while standing and it will swing while walking.
+
+The AO is not perfect and completely optional. We are aiming to improve it in the future.
+
+ᐅ 2. Save Default Erection Position
+
+Save your preferred erect state. You can then access it by pressing "default ▲" in many parts of the HUD. You can save the girth, length, tilt and circumcision (skin/no skin).
+
+ᐅ 3. Save Default Flaccid Position
+
+Save your preferred flaccid state. You can then access it by pressing "default ▼" in many parts of the HUD. You can save the girth, length, tilt and circumcision (skin/no skin).
+
+ᐅ 4. Remote Control
+
+The HUD is copy/transfer. Send one to your partner and then go to the settings in the main HUD (icon with three dots) > remote access > and give them access (group/public/private/guest list)
+
+Once you give them access, all they need to do is wear the HUD and it will ask them if they want to control you. You must detach your HUD in order to send it to someone because you can’t transfer objects while they’re worn.
+
+Alternatively, someone else with access can control your P if they touch the tip. They'll get a menu to control the basic functions of the P.
+
+ᐅ 5. Sounds On/Off
+
+Disable or enable all sounds coming from your cock.
+
+ᐅ 6. Face Animations On/Off
+
+Disable or enable face animations inside your cock.
+
+ᐅ 7. Dick Light On/Off
+
+Can't let your fantastic cock fade into the shadows? Well, worry no more! Click our Dick Light™ button on your HUD, and behold as your cock bursts into an awe-inspiring glow, making it the talk of the town even in the murkiest conditions!
+
+ᐅ 8. AVsitter Plug-in Auto Tilt
+
+Turn this feature off if you want to make adjustments yourself. This will work for 90% of furniture but won't work for furniture that has custom P animations.
+
+ᐅ 9. Hide on Teleport
+
+Teleport in comfort and confidence; hide your cock faster than you can say 'no more awkward rezzing moments'!"
+
+ᐅ 10. Flaccid on Teleport
+
+Ever feared the cheeky surprise of a swift teleport reveal? Fear not, with our transforming flaccid state! It magically morphs into your favorite hanging position mid-jump, ensuring you never arrive in a new place with more on show than you bargained for. 
+
+ᐅ 11. Scripted Length Changes
+
+Ever felt like your cock's got a mind of its own? Fret not! With a single tap on your HUD, you can seize control of your cock's rebellious growth spurts, and show those third-party meddlers who's really boss of your cock's length. We say power to the cock-owner!
+
+ᐅ 12. Play Fav Ball Animation
+
+When you enable this feature in settings, it will play over most animations. You can save balls "move", or "rotation" or both in the positioning menu (icon with crossing arrows). If you save only the ball movement/translation, then your balls will still rotate with other animations. If you save only the balls' rotation, then your balls will still move up/down and around with other animations. While this feature puts your balls in a fixed position, ball physics will always play if you're wearing the ball physics layer.
+
+ᐅ 13. Hide Balls
+
+Ever felt your balls cramping your style in those open jeans? Well, worry no more! With a tap on our 'Hide Balls' feature, your balls will magically hide behind your taint, ensuring no clipping! You can find this inside the second page of settings.
+
+ᐅ 14. Vista Ball Lock
+
+Update your vista AO and you will likely not need this feature.
+
+ᐅ 15. Soft2Hard/Breathing Min and Max Length
+
+Make your cock grow in length as you increase the vertical tilt. Combine this with the setting "Customize Girth To Length" to increase the girth as well: https://screenpal.com/watch/c0ebcuV4Ao7
+
+ᐅ 16. Remove Foreskin After -30 When Using Soft2Hard or Breathing
+
+Automatically swap from uncircumcised to circumcised as you increase the vertical tilt above -30 degrees when using the Soft2Hard and Breathing tilts.
+
+ᐅ 17. Cum Style
+
+Play around with the cum particles to find the right fit for you. There are 5 cum particle types to choose from.
+
+ᐅ 18. Drip Style
+
+Play around with the drip particles to find the right fit for you. There are 4 drip particle types to choose from.
+
+ᐅ 19. Pee Style
+
+Play around with the pee particles to find the right fit for you. There are 3 pee particle types to choose from.
+
+ᐅ 20. Unlimited Cum
+
+This feature is not recommended but added after quite a few requests. It emits particles every 10 seconds. It will also trigger INM and fertility HUDs every 10 seconds. Standard particles are very limited. 
+
+Consider buying our accessory pack for the best particle experience. Inside is an add-on called Anicum™ which combines animations in sync with particle bursts: https://i.gyazo.com/98744e59a595b35560b32bd6d462e00c.mp4
+
+ᐅ 21. Short Cum Shots
+
+Preferred method if you want to trigger some cum directly inside your partner.
+
+ᐅ 22. Play Favorite Face Animation With Cum
+
+First you must go to the face animations tab, select your favorite animation and then click "Assign To Cum Button". Enable this feature and it will play when you cum.
+
+ᐅ 23. Play Favorite Sound With Cum
+
+First you must go to the sounds tab, select your favorite sound and then click the "Assign To Cum Button". Enable this feature and it will play when you cum.
+
+ᐅ 24. Customize Girth To Length
+
+Increases the girth with each length change: https://screenpal.com/watch/c0ebcuV4Ao7
+
+ᐅ 25. Customize Anicum™ Add-on
+
+This is our favorite add-on for The P ever. It's only available inside our accessory pack. Anicum™ combines animations in sync with particle bursts: 
+
+ᐅ 26. Jizz Settings "Gender Preferences"
+
+When you're around a jizz wearer and cum, you get to decide if the menu will show you male, female or any jizz wearing avatar to potentially cum on.
+
+ᐅ 27. Jizz Settings "Target Particles"
+
+When this is enabled, your particles will emit from your cock and hit the desired target. Must see to believe: https://i.gyazo.com/1543ab0eba67611d2f726c808d19902f.mp4
+
+ᐅ 28. Jizz Settings "Cum Particles"
+
+Disables the target particles and emits normal particles.
+
+ᐅ 29. Jizz Settings "Disable/Ignore The Jizz"
+
+Ignore the jizz completely when you press the cum button.
+
+ᐅ 30. Transfer Settings
+
+Transfer all of your settings from one cock shape to another. Textures, cock tinting, favorite face animations, cum style, default flaccid and erect, and so on and so forth. This process takes just 2 minutes.
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+⑤ 𝐇𝐔𝐃𝐬 𝐄𝐱𝐩𝐥𝐚𝐢𝐧𝐞𝐝
+
+➩ 1. Play HUD
+➩ 2. Texture HUD
+➩ 3. Condom, Ring & Piercing Dispenser HUD
+
+➩ 1. Play HUD
+
+This is where the magic happens. The play HUD performs every function of the P except change textures.
+
+➩ 2. Texture HUD
+
+This is where you find the perfect texture, tint the skin to match your body, tint the glans/head, adjust glossiness, normals and apply textures and tinting to your piercings and condoms.
+
+➩ 3. Condom, Ring & Piercing Dispenser HUD
+
+This HUD gives you the exact piercings and condoms to fit your preferred shape.

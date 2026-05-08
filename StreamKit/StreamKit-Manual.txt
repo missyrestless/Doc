@@ -1,0 +1,188 @@
+What does it do?
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+This device scans your parcel music stream continuously for changes of the stream URL, station, artist and title.
+A one-of-its-kind, the package contains an announcement board for venues, showing the artist photo, name and title of the currently played song, as well as the 4 last played songs in a nicely designed way. The display board only needs a single(!) prim/LI, dropping the clumsy, LI-heavy xy-text "solution" other DJ-boards use, in favor of a modern, lean, stylish technology. The modern PBR design comes with Blinn-Phong fallback textures and looks good in any club. The board is fully configurable to match the interior and genre of your venue.
+
+The package also comes with DJ-/Host-titlers displaying a configurable hovertext over their heads, that shows artist/title as well. The hovertext shows the currently played song, artist, listeners and peak listeners and can work as a display in your home, club or venue. The hovertext can be fully customized with message templates.
+
+The system supports Shoutcast and Icecast streaming providers, indicating which is which next to the stream upon stream change.
+
+Works on individually owned land as well as on group land with the help of a separate object that needs to be deeded to the land group.
+
+
+Configuration
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+Individually owned parcels
+────────────────────────────────
+If you are the owner of the parcel ("About Land" shows you as the owner), no additional configuration is needed.
+
+Group owned parcels
+────────────────────────────────
+If "About Land" shows the name of a group as owner, the parcel is group owned. In this case, rez the provided "Group Land Stream Detector" object. It will confirm wether the land is indeed group owned, in which case you need to deed the object to group (Edit → General → Share [checkbox] → Deed).
+
+Not your parcel at all?
+────────────────────────────────
+If you don't own the parcel, or the parcel is group owned but you can't deed the Detector to group, there is a third way to let the system know what stream to use. This configuration will tell the system which stream to listen to, and display track changes:
+
+stream = http://jenny.torontocast.com:9002/stereo
+
+This is particularly useful for DJ's and performers, that want to use this system for their performances at various places.
+
+Please be aware that this will NOT change the actual parcel stream! It's simply telling this system which stream to use.
+
+General configuration
+────────────────────────────────
+If you want to add your individual configuration, you do so via the babel.cfg notecard. A sample notecard is included, you find the actual configuration inside the object.
+
+Message template
+────────────────────────────────
+You can customize the hovertext(s) with a message template. There is a set of variables available:
+
+$T = Title
+$A = Artist
+$I = Artist image
+$L = Listeners (how many people are listening right now)
+$P = Peak listeners (maximum number of listeners since stream start)
+$M = Max listeners (maximum listener capacity)
+$S = Station name
+$T12 = Timestamp in the format "hh:mm am/pm" (11:17 pm)
+$T24 = Timestamp in the format "hh:mm" (23:17)
+
+The two config lines (including their defaults) are:
+
+# this gets displayed above the Relay object
+stream_hovertext = $T by $A\n$L / $P ($M)\n$S
+
+# this gets displayed on the DJ-/Host-titlers 
+staff_hovertext = $S\n$T\n$A
+
+The "\n" creates a line break in the message. You can set the messages to whatever you like, and you do not have to use all the variables. A minimal configuration would be:
+
+stream_hovertext = $T
+staff_hovertext = $S
+
+Station fallback / override
+────────────────────────────────
+Some DJ's forget to configure a stream name, in which case either nothing, or something like "Undefined description" gets shown. With 'station_fallback' you can set a custom station name for those cases:
+
+station_fallback = The DJ forgot to set a stream name
+
+Similarly, you can override ANY station name set in the stream, regardless wether any is set or not:
+
+station_override = My club rulz
+
+
+The Club Display
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+The club display is a single prim in concert/stage/club design, which you can place near your DJ booth. The display will show a large artist photo for the currently playing song, as well as up to 4 miniatures with the previously played songs. The name of the song as well of the artist is displayed along with the artwork. The name of the station and the current listeners are displayed on top.
+
+In order for the board to show the data, visitors need to have media enabled, and need to click the board once. This is standard SL functionality. For those guests who do not know how to enable it, a placeholder graphic shows what they need to do.
+
+You can resize the display to suit your needs - it should display the song information gracefully at any side and aspect ratio. The original aspect ratio is 2:1, so any multiplier of that should do. Additionally, you can rez as many displays as you like.
+
+If you rez the display for the first time, it will update AFTER the FIRST song change!
+
+Customization
+────────────────────────────────
+You can customize the DJ board so it fits the interior and genre of your club. You can customize fonts, colors, and the background.
+
+Fonts:
+──────
+We use BunnyFonts, a GDPR-compliant alternative to Google Fonts. BunnyFonts covers most of the fonts Google offers as well, usually with the same font-name. You find the list at https://fonts.bunny.net/
+
+The board can be configured with two fonts, one for headline text, and one (optionally) for regular text. Add the following lines to your cfg-notecard to chose the fonts. Give the name exactly as found on BunnyFonts:
+
+font = Fascinate
+font2 = Farro
+
+The font color needs to be configured in the web color format, see https://www.color-hex.com/
+
+font_color = 354d62
+
+Please note that you MUST NOT have a # in front of your color code, as this would be interpreted as a comment and ignored by the object. 
+
+Background color:
+─────────────────
+You can set a background color for the DJ board, using the web color format, see https://www.color-hex.com/. If you set an (optional) second color, they will form a gradient from top left to bottom right.
+
+bg_color = 718ca1   
+bg2_color = d7f2f7
+
+Please note that you MUST NOT have a # in front of your color code, as this would be interpreted as a comment and ignored by the object.
+
+
+Background image (web):
+────────────────────────
+You can add any texture you find on the web as background textures - even animated ones!
+
+background = https://upload.wikimedia.org/wikipedia/commons/3/3b/Choo_Choo_TRAIN_Dance_%28up%29_2014-12-04.gif
+
+The texture needs to be available without login. Most image(!) file formats - most prominently static JPEG, as well as static and animated GIF and WEBP - are supported. We tested it with fringe formats like BMP, PNG and the animated formats APNG and AVIF and they worked as well. If your specific file format does not work, there is nothing WE can do about it. Just convert it already.
+
+
+Background image (local):
+──────────────────────────
+If you add a (full-perm) texture named "background" to the object inventory, it gets displayed as a background image for the DJ board. Due to technical limitations, the background texture does not get displayed in full resolution, and it gets tiled across the surface of the board.
+
+Due to those limitations, we recommend using desaturated, seamless, structural background (metals, stone, paper, cloth) without much detail.
+
+If background color(s) are defined, the background image gets tinted with he color or the gradient.
+
+Local textures override web background images.
+
+
+Placeholder graphics
+────────────────────────────────
+For patrons who have not (yet) media enabled, a placeholder graphic gets shown. We tried to design the graphic so it fits a wide range of music venues. You can use your own graphic for that, that fits the genre and design of your venue better. The texture needs to be placed in the Club Display's inventory and has to be named 'placeholder', and it has to be full perm. You get best results if the layout is designed for a 2:1 aspect ratio.
+
+Similarly, if no artist photo can be found, a placeholder is being used in a similar design like the startup graphic. Placing a full perm texture with 1:1 aspect ratio named 'noartist' into the Club Display will replace it.
+
+
+The DJ-/Host-titlers
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+Your system comes with a rezzer for DJ- or host/staff titlers. The rezzer is designed to fit a club/stage environment. Upon clicking the box(!), the titler asks to attach to your avatar. It is a temporary, invisible attachment to your head. Once the current song changes, the titler will display the new song as hovertext, hovering over your head. The text follows the message template set above (see above). Upon every song change, the hovertext will change a short moment later.
+
+To detach the titler, simply click your head. The rezzer can rez as many titles as you like. It will also work for your guests.
+
+
+Suggestions, Bug Reports, Feature Requests
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+Please let me know if you run into trouble, or have any suggestions. Also let me know if you like it. I am open to feature requests and commissioned work. Let me know on Discord: https://discord.gg/9dAUeaH (where else).
+
+
+Known Issues & Limitations
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+Stream not detected
+────────────────────────────────
+Icecast and Shoutcast have a gazillion of sub-formats (seriously, don't ask). We tried to recognize as much as we can, but chances are good that some streams are out there we don't recognize. 
+
+As a first experiment, copy your stream address into your web browser and see if the address changes. Often something like "romantic.streamservice.com" changes into something similar to "streamservice.com:8123/romantic". In that case, use this changed address as your stream - in many cases, this gadget will pick up the info correctly then.
+
+If that fails, please give Peter Stindberg the URL of that stream, so we can analyze it and possibly implement it in the next update.
+
+Wrong artist photo
+────────────────────────────────
+Sometimes the photo shown is of a different artist, or a solo artist instead of a group, or no artist at all. The less mainstream your station is, the more frequently this happens (though we were surprised for how many niche genres there are photos). If in doubt, the database we query tries to deliver a "best guess" photo. For example during our tests an obscure 60s Reggae band returned a photo of Bob Marley.
+
+The better your title/artist information in the stream is, the better the results will be: It's "The Beatles", not "Beatles". It's "Apollo 440", not "Apollo440". Even so, every now and then, a wrong result will be shown. Nothing really we can do about it. The database's algorithm prefers false positives over not delivering an image. 
+
+Group deeding
+────────────────────────────────
+If your parcel is owned by a group, but does not have group deeding enabled, you need to ask the owner of your land to enable group deeding.
+
+Cap not found
+────────────────────────────────
+Not a Marvel reference, but an error message from the streaming media. It often resolves itself after the next song update. If it persists, reset both the Relay and the Club Display. If the error persists, let me know please.
+
+
+Version history
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+1.00.01 - 2024-12-15 Forked from the Discord-reliant version
+1.00.02 - 2025-02-11 First public version
+1.01.01 - 2025-03-16 More robust artist detection. Configurable DJ board with fonts, colors, and background
