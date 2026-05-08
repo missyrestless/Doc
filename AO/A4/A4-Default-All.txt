@@ -1,0 +1,29 @@
+[ Standing ]|dz513-Stand.N (Adult)|dz505-Stand.N (Adult)
+[ Standing ]dz506-Stand.N (Adult)|dz733-Stand.N (Adult)|dz729-Stand.N (Adult)|dz726-Stand.N (Adult)|dz833-Stand.N (Adult)|dz302-Stand.N (Adult)|dz330-Stand.N (Adult)|dz320-Stand.N (Adult)|dz304-Stand.N (Adult)|dz270-Stand.N (Adult)|dz266-Stand.N (Adult)
+[ Standing ]MAYFEM1ANIMHP|MAYANIM5FEM08HP|EXTRAFEM1ANIHP|MAYANIM2FEMHP|MAYANIM8FEMHP|julyanim5xfem
+[ Standing ]julyanim6fem|julyanim7fem|julyanim12femX|julyanim44xxxfem|POSEAPR6XXXRL|POSEAPR5XXXRL|POSEAPR4XXRL|poseapr3xxRL|poseapr2xxRL
+[ Standing ]D0038-Stand.N|D0039-Stand.N|D0040-Stand.N|D0042-Stand.N
+[ Walking ]sexywalk|APRFEMWALK|APRFEMWALK2|JULFEMWALK2HIP3|JULFEMWALKHIP3|dz773-Walk.N|dz779-Walk.N|dz326-Walk.N|dz308-Walk.N|dz475-Walk.N|dz474-Walk.N
+[ Sitting ]crosslegsit|APRSIT3|APRSIT1|APRSITANIM1|dz743-Sit.N|dz788-Sit.N
+[ Sitting On Ground ]sitground2|sitground3|APRSITGROUND3|APRSITGROUND2|dz378-Sit.G (Adult)|dz738-Sit.G (Adult)|dz296-Sit.G (Adult)
+[ Crouching ]crouch lounge
+[ Crouch Walking ]furrycrawl
+[ Landing ]MAYLANDINGx
+[ Flying Down ]JULYflightdown
+[ Flying Up ]julyflightup
+[ Flying ]MAYflight
+[ Flying Slow ]FLIGHTSLOWAPR
+[ Hovering ]dz322-Hover.N
+[ Running ]VISTARUN
+[ Turning Right ]VISTATURNR
+[ Turning Left ]VISTATURNL
+[ Swimming Forward ]dz582-Swim.N
+[ Typing ]
+[ Standing Up ]dz269-Step.B
+[ Falling ]dz285-Falling
+[ Jumping ]julyjump2
+[ Pre Jumping ]MAYPREJUMP
+[ Floating ]sirena
+[ Swimming Up ]dz265-Swim.U
+[ Swimming Down ]sirenadown
+
