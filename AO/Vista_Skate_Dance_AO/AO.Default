@@ -1,8 +1,7 @@
 [ Standing Calm ]VATAHIST006|VATAHIST007|VATAHIST008|VATAHIST009|VATAHIST010|VATAHIST012|Simple Cute
-[ Standing mode 1 ]VATAHIST006|VATAHIST001|VATAHIST003|VATAHIST004|VATAHIST005|VATAHIST007|VATAHIST008|VATAHIST009
-[ Standing mode 1 ]VATAHIST010|VATAHIST011|VATAHIST012|VATAHIST013|VATAHIST015|Hands Up|Simple Cute
-[ Standing mode 2 ]Kawaii|Simple Cute|Playful|Heart 1|Hands Up|Rockstar
-[ Standing mode 2 ]Bored Rolling|Fuck You|Ballerina|Heart 2|Disoriantated
+[ Standing mode 1 ]VATAHIST006|VATAHIST001|VATAHIST003|VATAHIST004|VATAHIST005|VATAHIST007|VATAHIST008|VATAHIST009|VATAHIST010|VATAHIST011|VATAHIST012|VATAHIST013|VATAHIST015
+[ Standing mode 1 ]Kawaii|Simple Cute|Playful|Heart 1|Rockstar|Bored Rolling|Fuck You|Heart 2
+[ Standing mode 2 ]Kawaii|Simple Cute|Playful|Heart 1|Rockstar|Bored Rolling|Fuck You|Heart 2
 [ Walking ]Relaxed|Casual Walk|Fairy|Cutie Doll|Confused|Run|VATAHIAWALK004|VATAHIAWALK002|VATAHIAWALK003|VATAHIAWALK010|VATAHIAWALK011
 [ Sitting ]VATAHISIT001|VATAHSIT10|Cute Sit
 [ Sitting On Ground ]Seductive|Cute Lay|Overthinking|VATAHISITG001|VATAHISITG002
@@ -11,17 +10,17 @@
 [ Landing ]VATAHLAN
 [ Standing Up ]VALARAHLAN
 [ Falling ]fall2_VA_fly3
-[ Flying Down ]VANINAFyD2
-[ Flying Up ]VANINAFyU2
-[ Flying ]VANINAFy02
-[ Flying Slow ]
-[ Hovering ]VATAHHO01
+[ Flying Down ]JULYflightdown
+[ Flying Up ]julyflightup
+[ Flying ]MAYflight
+[ Flying Slow ]FLIGHTSLOWAPR
+[ Hovering ]dz322-Hover.N
 [ Jumping ]VATAHJUMP02|VATAHJUMPR001
 [ Pre Jumping ]VATAHPREJ
 [ Running ]Running
-[ Turning Right ]VATAHTURNR9
-[ Turning Left ]VATAHTURNL9
-[ Floating ]
+[ Turning Right ]Ballerina
+[ Turning Left ]Hands Up
+[ Floating ]sirena
 [ Swimming Forward ]VAXUSWIM01
 [ Swimming Up ]VAXUSWIMU01
 [ Swimming Down ]VAXUSWIMD01
