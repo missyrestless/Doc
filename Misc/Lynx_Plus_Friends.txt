@@ -1,0 +1,65 @@
+▓▓▓▓▓ Eredita Lynx ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+Lynx by Eredita: Keep Your Connections Alive
+
+Ever met someone in Second Life who made an impression, but you're not ready to add them to your friends list? Maybe you had a great chat with a fellow creator or someone special caught your eye at an event. Don't let those connections fade away—Lynx helps you keep track without any commitment.
+
+Stay Connected Without the Clutter
+
+Lynx is a sleek, simple menu-driven HUD that lets you store and monitor the online status of anyone in Second Life—even if they're not on your friends list. It's your personal social radar.
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+ADDING A FRIEND
+
+Step 1: Wear the Lynx HUD
+
+Step 2: Click the Lynx HUD button
+
+Step 3: In the popup menu, click Add
+
+Step 4: In the Text box, enter either your friend's Account Name or UUID Key. See below for more information.
+
+ACCOUNT NAME FORMATS
+
+For accounts with First and Last names:
+FirstName LastName
+FirstName.Lastname
+
+For accounts with only a Username:
+Username Resident
+Username.Resident
+Username
+
+*Note: Online status updates may experience delays of up to 10 minutes due to Second Life server limitations.
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+REMOVING A FRIEND
+
+Step 1: Click the Lynx HUD button
+
+Step 2: In the popup menu, click Remove
+
+Step 3: In the Text box, enter either your friend's Account Name or UUID Key. See below for more information.
+
+ACCOUNT NAME FORMATS
+
+For accounts with First and Last names:
+FirstName LastName
+FirstName.Lastname
+
+For accounts with only a Username:
+Username Resident
+Username.Resident
+Username
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+EXPORTING FRIENDS LIST - LYNX PLUS ONLY
+
+Step 1: Click the Lynx HUD button
+
+Step 2: In the popup menu, click Export
+
+This will cause your entire stored friends list to print to your chat via the Owner channel, so only you will be able to see it. Each friend will have their full Account Name and UUID Key displayed, allowing you to copy everything for your own safekeeping.
