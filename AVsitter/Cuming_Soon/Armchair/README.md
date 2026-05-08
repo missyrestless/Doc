@@ -1,8 +1,8 @@
-# AVsitter Sequence for Super Smash Quickie
+# AVsitter Sequence for Super Armchair
 
 This folder contains the `AVpos` and `[AV]sequence_settings` notecards for use
 with the `[AV]sequence` plugin for `AVsitter2` to provide animation sequences
-for the Super Smash Quickie dialog menus.
+for the Super Armchair dialog menus.
 
 ## Menus
 
@@ -26,18 +26,18 @@ wget -q -O '[AV]sequence' https://raw.githubusercontent.com/AVsitter/AVsitter/re
 Download the customized `[AV]sequence_settings` notecard:
 
 ```bash
-wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Cuming_Soon/Quickie/AVsequence_settings
+wget -q -O '[AV]sequence_settings' https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Cuming_Soon/Armchair/AVsequence_settings
 ```
 
 Download the customized `AVpos` notecard:
 
 ```bash
-wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Cuming_Soon/Quickie/AVpos
+wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsitter/Cuming_Soon/Armchair/AVpos
 ```
 
 ## Setup
 
-To configure a Cuming Soon Super Smash Quickie couch with AVsitter sequences:
+To configure a Cuming Soon Super Armchair couch with AVsitter sequences:
 
 - Right click the couch and select `Edit`
 - Copy the `[AV]sequence` plugin script into the Contents tab
