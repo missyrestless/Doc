@@ -8,11 +8,6 @@ the Trompe Loeil Pool dialog menus.
 
 Sequences are configured for the following menus:
 
-MENU SOLO SWIM
-MENU SOLO SIT
-MENU COUPLES
-MENU COUPLES {A}
-
 - Solo Sit Menus
 - Solo Swim Menus
 - Couples Cuddle Menus
@@ -65,3 +60,5 @@ or pause animation sequencing.
   - [AVsitter/Cuming_Soon/Quickie](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Quickie)
 - Customized notecards providing sequenced animations for `DaD Outdoor Jacuzzi Hot Tub`:
   - [AVsitter/Hot_Tub](https://github.com/missyrestless/Doc/tree/main/AVsitter/Hot_Tub)
+- Customized notecards providing sequenced animations for `Lalou 3some Outdoor Shower`:
+  - [AVsitter/Outdoor_Shower](https://github.com/missyrestless/Doc/tree/main/AVsitter/Outdoor_Shower)
