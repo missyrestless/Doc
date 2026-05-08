@@ -1,0 +1,35 @@
+Thank you for buying the 2Xtreme seagulls, i hope this will add a bit of life to your beacharea/sim.
+The gulls freefly around their startingposition, make gull-sound and flap their wings. They also contain a "fly together" animation.
+
+To install, just place the bird in the sky and click it to make it start.
+
+To adjust:
+
+edit the notecard inside the bird and change the numbers, 
+for the range, the higher the number the further the bird will fly around its starting position
+for the sound, 0.0 is silent and 1.0 is loudest
+
+
+DO NOT CHANGE THE LINES IN THE NOTECARD, ONLY CHANGE THE NUMBERS
+
+after you saved the notecard the bird will tell its new range and soundlevel. If not, re-rezz the bird.
+
+The birds have an automatic simborder detection script, If it goes offworld it will jump back to its original starting point and restart from there. This does not look real authentic so its best to keep the birds far away enough form the simborders. 
+
+IF your birds however disappear due to a sl hickup or a sim problem check LOST AND FOUND, they will probably be there.
+
+YOU CAN FLY TOGETHER WITH THE BIRD, JUST SIT ON IT.
+(the first time you sit, it wont work like it should, just stand up and resit and from then on it will work like a charm.)
+
+for questions and or remarks,
+
+feel free to IM me,
+
+tunes Meness,
+:: 2Xtreme ::
+
+
+
+
+
+􀀀
