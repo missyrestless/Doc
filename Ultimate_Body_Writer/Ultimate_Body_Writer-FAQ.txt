@@ -1,0 +1,41 @@
+Here, you will find answers to some common questions that might come up while using the Ultimate Body Writer
+
+__________________________________________________________________________
+
+Q1: Others can’t use my Ultimate Body Writer. They click but they do not get menu.
+A1: By default, the Public Access is closed. You can either add the names of the avatars you want to be able to use the writer in your Trust List (Access> (+)Trust), or tick the Public option in the Access Menu (Access > ☐ Public).
+
+Q2: Added a name in my Trust List (or Blacklist) but it doesn’t seem to work.
+A2: You need to make sure that you wrote the username correctly. Also needs to be in current format. For avatar without last name, you need to use as last name the word “Resident” after a space.
+
+Q3: The letters are way too small. Changing font doesn’t help. What should I do?
+A3: Some areas are larger by default. For example, areas in chest area are much larger than those on your arms. Also using a text with more than 8 characters forces the use of small characters. Limit your text to 8 characters per area, or using larger areas (like those in Upper Front area) will help.
+
+Q4: Some areas have numbers in the end. Are those share their message area?
+A4: Kind of. They are the one under the other. This allows you to manage your text in a way that will keep the text size less than 8 characters per area, so, it will appear larger and bonder.
+
+Q5: What are the different fonts that are included?
+A5: The first three fonts (Handwrite 1-3) are regular writing, like those you would be able to do with a pen. The other 3 will give a bolder look (they will still occupy roughly the same area). The fonts that are marked with an asterisk (*) won’t support diacritical marks and special letters like Á, Ö, Ñ or ß. For Japanese there are 2 fonts included, one handwritten and a regular one that looks like it made with marker.
+
+Q6: I want others to be able to select Color and/or Font. How I will allow them to do so?
+A6: Go to Settings and tick the “☐ Temp Color” and “☐ Temp Font” buttons. This will allow everyone with access select a color and/or font from an extra menu at the main menu of your Ultimate Body Writer.
+
+Q7: How can I resize/move the touching area. I can’t see it.
+A7: Hold Ctrl+Alt+T to make the transparent objects visible. Then you can edit the sphere on your belly (it's the touching point of the writer). If you need to make it smaller, but it doesn’t get any smaller, check the Edit Linked (in the editing menu) and try to resize only the touching area.
+
+Q8: I’m touching the belly area, but doesn’t give me any menu.
+A8: Make sure there is not something covering that area (like other spankers or clickable items). If they do, try to remove the other items to edit the touching area of your Body Writer so it doesn’t interfere with them. Alternatevely you can use the "/7 XX writer menu" command where XX are the first 2 letters of you firstname/username.
+
+Q9: I have added another person as owner but the Body Writer says it is self-owned, is this wrong?
+A9: No, if the wearer is also added as owner, then outranks other owners (can easily remove other owners and remove restrictions), hence the self-owned tag.
+
+Q10: If I blacklist an avatar that is in my ownerlist (or trustlist) will prevent them from accessing my Body-Writer?
+A10: No. The access lists are checked in order (ownerlist > trustlist > blacklist). An avatar gets the access permissions of that highest order list is found into.
+
+__________________________________________________________________________
+
+Please also check the “Venus's Closet - Ultimate Body Writer - Complete Guide” that it is included in your package. It describes what every button does. 
+
+If you still have any questions, please IM me!
+
+Dea Venus
