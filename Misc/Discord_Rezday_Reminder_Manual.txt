@@ -1,0 +1,167 @@
+IMPORTANT - IMPORTANT - IMPORTANT
+
+This is a drop-in script for the "Discord Relay and Server Joiner" at version 3.01 or higher, which is available at https://marketplace.secondlife.com/p/p/19908039
+
+This script WILL NOT FUNCTION WITHOUT the Discord Relay! It NEEDS the Discord Relay in order to function!
+
+IMPORTANT - IMPORTANT - IMPORTANT
+
+
+
+What does it do?
+▀▀▀▀▀▀▀▀▀▀▀▀▀
+The rezday (the day someone created their Second Life account) holds special significance for many residents of SL. Not everyone noticed it at signup, but over the years, more and more people like to observe it as their SL “anniversary.” With this add-on to the Discord Relay, you stay one step ahead and never miss a rezday or birthday. With full birthday support (with or without the year), you can celebrate both Second Life anniversaries and real-life milestones with ease.
+
+In addition to Discord notifications, this script can display hovering text above the in-world item, showing the day's special events right where everyone can see. Because birthdays can feel more personal than rezdays, we've included a privacy feature that lets you easily suppress birthdays from the hovertext if needed. By default, both rezdays and birthdays appear in the hovertext, but with a simple configuration setting, you can keep birthdays visible only in Discord—giving you the flexibility to celebrate publicly or maintain discretion in shared spaces.
+
+Now with an upcoming events preview, you won’t just see what’s happening today: Discord notifications and in-world hovertext let you glance up to a week ahead, making it easy for active groups to prep for each day’s celebrations or send an early message.
+
+Each Discord reminder gives you:
+- A clickable username linking to their Second Life profile
+- The exact rezday or birthday date
+- The avatar’s current SL age (for rezdays, calculated to the year)
+- The avatar’s current RL age (if birthdays are entered with years)
+- One-click Google Calendar links so it’s easy to keep track—even outside SL!
+
+This script is designed as an addition to the Discord Relay and will require version 3.0 or higher to function. Every day, your Discord channel receives a well-organized list of rezdays (Second Life birthdays) and optionally birthdays that occur on that day—or soon to come—and you’ll also get optional hovertext reminders in-world.
+
+With heavy testing on large data sets (over 900 avatars' rezday and birthday records), this system never broke a sweat. We’re confident it’ll handle hundreds—or even thousands—of avatars with ease, keeping your community connected and ensuring that no milestone goes unnoticed.
+
+Quick Start
+▀▀▀▀▀▀▀▀▀
+1. Purchase and configure the Discord Relay (version 3.0+) if you haven't already
+2. Add this Rezday Reminder script to your Discord Relay object
+3. Open the discord.cfg notecard
+4. Add lines for each person: "{rezday} = <UUID>" and/or "{birthday} = <UUID>:yyyy-mm-dd"
+5. Save the notecard and wait for registration (can take quite a while for large lists)
+6. Enjoy automated reminders in Discord and optional hovertext display!
+
+
+Configuration
+▀▀▀▀▀▀▀▀▀▀▀
+Your "Discord Relay and Server Joiner" (Which needs to be purchased beforehand, if you have not done so already) is the Base for this add-on. It contains a configuration notecard. Make sure you configure this notecard for your Discord Channel before continuing.
+
+Add this script to the Discord Relay object. Then open the discord.cfg notecard in your Discord Relay object, and start adding the people you want to receive reminders for. You will need their UUID for this, which is found in their profile.
+
+Add one line for every person you want to add to the Rezday Reminder device: 
+
+{rezday} = d1cd5b71-6209-4495-9cf0-771bf679ce10
+{rezday} = ea321b5f-753e-4392-9b88-0903bdebb7c2
+
+Birthdays
+────────
+To add birthdays to the system, we need a slightly different method, where you need to add the actual birthdate as well:
+
+{birthday} = d1cd5b71-6209-4495-9cf0-771bf679ce10:2002-07-27
+
+So you take the UUID of the person, a colon, and then the birthday either in yyyy-mm-dd or mm-dd format. If you use the full yyyy-mm-dd format, the system will calculate and display the person's current age in both Discord and hovertext. If you use mm-dd only, just the date will be shown without an age.
+
+{birthday} = uuid:yyyy-mm-dd
+{birthday} = uuid:mm-dd
+
+If you want the birthday AND the rezday of a person, you need to add TWO lines:
+
+{rezday} = d1cd5b71-6209-4495-9cf0-771bf679ce10
+{birthday} = d1cd5b71-6209-4495-9cf0-771bf679ce10:2002-07-27
+
+
+Startup process
+─────────────
+Once you save the discord.cfg notecard, the system will restart and read its new configuration. After that, it will start to register your various {rezday}- and {birthday}-lines.
+
+THIS PROCESS IS SLOW!
+
+During our tests with over 900 names, the startup process from start to end routinely took up to 20 minutes! There is not really much we can do about this - we optimized the script as much as possible - the slowness is due to deliberate timing "penalties" in the LSL scripting language and factual slowness of SL data queries. 
+
+The system will keep you informed on what it is doing, so you are not confronted with minute-long silence, but the overall timing is as it is. On subsequent startups, it will go significantly faster, as we applied some extensive caching.
+
+Once started up, the system will send the names of people who have their rezday or birthday on this day (if any) to Discord, and show them in hovertext. The next update will be on Midnight SLT the next day.
+
+Deleting names
+───────────
+Unfortunately, you can NOT simply delete a {rezday} line from your discord.cfg, in order to remove reminders for these people. Instead, change {rezday} to {delete}, as shown in the example:
+
+{rezday} = ea321b5f-753e-4392-9b88-0903bdebb7c2
+{birthday} = ea321b5f-753e-4392-9b88-0903bdebb7c2:2005-02-27
+
+replace "rezday" or "birthday" with "delete":
+
+{delete} = ea321b5f-753e-4392-9b88-0903bdebb7c2
+
+To delete ONLY a birthday while keeping the rezday:
+{delete} = ea321b5f-753e-4392-9b88-0903bdebb7c2:2005-02-27
+
+To delete ONLY a rezday while keeping the birthday:
+{delete} = ea321b5f-753e-4392-9b88-0903bdebb7c2
+
+To delete both, use either format—the system will remove all entries for that UUID.
+
+Upon saving the discord.cfg, the system restarts and those names will be taken out of the reminder. Once this is completed, you can safely remove the {delete} lines.
+
+Hovertext
+────────
+The hovertext display of the daily rezdates is switched ON by default. If you want to switch it off, use the line:
+
+hovertext = false
+
+You can chose to remove the birthdays from the hovertext display, if you don't want to advertise your friends RL birthdates and ages to the public. Add this to the config:
+
+birthday_hovertext = false
+
+Comments
+───────
+Especially if you have a large number of keys, it can be helpful to add a comment after each key as to who the person is. Separate the comment with a "#" sign.
+
+{rezday} = a2e76fcd-9360-4f6d-a924-000000000003 # Philip Linden
+
+Heartbeat
+────────
+The system announces "empty" days as well, mostly to prevent you from wondering if it still works ;-)
+
+You can switch this off with:
+
+heartbeat = 0
+
+
+How to find the UUID
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+UUID for a single person can be found in their profile, under the name.
+
+UUID's for group members can be exported from the group profile via the Firestorm viewer if you have sufficient permissions to do so (the group owner usually has). See https://wiki.firestormviewer.org/group_roles_tab for details.
+
+UUID's for your complete friends list is a cumbersome process and can - up to our knowledge - only be achieved with the Firestorm viewer, where you can backup contact sets (see https://wiki.firestormviewer.org/fs_contact_sets and https://wiki.firestormviewer.org/fs_backup_settings). The process is complex - ONLY start it if you are tech-savy. Please DON'T ask us for support!
+
+
+
+The Mesh object
+▀▀▀▀▀▀▀▀▀▀▀▀
+We have included an original mesh object in the form of an abstract birthday cake in this package. In combination with the hovertext display of rezdays, you can use this object as a public display in homes, clubs, etc.
+
+Add your two Discord Relay scripts (Relay + Helper), the discord.cfg notecard, and the Rezday Reminder script into the cake-object for it to work.
+
+
+
+Suggestions, Bug Reports, Feature Requests
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+Please let me know if you run into trouble, or have any suggestions. Also let me know if you like it. I am open to feature requests and commissioned work. Let me know on Discord: https://discord.gg/9dAUeaH (where else).
+ 
+ 
+Known Issues & Limitations
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+Speed:
+─────
+The registration of new users can take up a long time. The system tries to give a time estimate, but the timing does not seem to be very deterministic. Particularly with several hundred names, please expect long initial startup times.
+
+Removing names:
+─────────────
+Deleting an avatar from the list is a two step process. It is NOT enough to remove the line with the UUID. Please read the specific section above.
+
+
+ 
+Version history
+▀▀▀▀▀▀▀▀▀▀▀▀
+1.00.00 2024-01-14 First public release.
+1.00.01 2024-02-11 Allowed for comments after the key, changed [] for {}
+1.00.04 2024-05-05 Maintenance release for Relay V3.00.14
+1.01.00 2025-12-29 Added birthday support (with/without year), privacy controls for birthday hovertext, 7-day preview of upcoming events, delete functionality improvements.
+1.01.01 2026-01-01 Fixed a bug showing an incorrect age between December 25 and December 31 for avatars with their birth/rezdays between January 1st and January 6.
