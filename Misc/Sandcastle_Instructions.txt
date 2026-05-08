@@ -1,0 +1,77 @@
+S24.a The Sandcastle Beach scene ADT anims [BOX]
+
+Permission: COPY/ MODIFY /NO TRANSFER
+
+The box contains
+
+[The SandCastle] Beach scene ADT anims. S24.a
+Land Impact 8
+
+The scripts inside is not Modify, if you see that the piece is not modify is only for this reason
+The pieces is 100% mesh, if you modify size the prim count (Land Impact) will change up or down, same applies if you unlink or link other pieces 
+----------------------------
+
+The Blanket Contain Menu without poseball (simply sit)
+* Menu Cuddle PG + ADULT and singles animations for 2 persons (bento animations included):
+- COUPLES PG: 89 couple poses (178 cuddle PG animations 30 sec loop x each)
+- ADULT: 80 couple pose (160 sex-erotic ADULT animations 30 sec loop x each)
+- SEQU PG: 7 PG Sequence (for couple). Play up to 8 mins of scene (looping x each)
+- SEQ_ADT: 6 ADULT Sequence (for couple). Play up to 8 mins of scene (looping x each)
+- SOLO (F or M): 2 single sit, 86 animations
+
+-- Avatars can easily adjust position and rotation while sitting
+-- Can remember a large number of custom positions for avatars who use the "[ADJUST]" menu to adjust poses. Pose memory stores personal adjustments saved by avatars.
+-- "Swap" ability (only on menu for 2 persons)
+
+HOW TO USE COUPLE AND SINGLE ANIMATION
+1) Simply Sit, the menu not use poseball. (Male sit first or use swap button).
+2) Select a submenu containing animation and select a pose, touch to change or adjust the animation
+when choose new pose on menu SEQUENCE or COUPLES automatically change the two avatar position.
+3) How to use SEQUENCE:
+Choose menu SEQU_PG for cuddle scene or SEQ_ADT for adult scne, in submenu choose the scene for starter/stop sequence looping scene
+When use a menu for Couples or Sequence PG some animations will ask you to wear objects, accept the pop-up window in order to wear the glass of wine or book or guitar or eat.
+
+**Original mesh**
+--------------------------------------------------------------------------
+
+IF MY CREATION IS NOT WORKING CORRECTLY (POSES NOT WORKING, MENU NOT RESPONDING).
+
+- Your item is not set to the correct rental/land (script setting in group land or scripts Not Running)
+Make sure you activate your group tag before you rez any items.
+If you need to change an item that is already rezzed, right click and select Edit, click Set under the General tab, and select your rental group, then click OK.
+
+- You may have accidentally set your scripts to Not Running. In this case, right click your item and select Edit, and while the Edit Box is open, go to the upper menu and click Tools Set Scripts to Running in Selection. In Viewer 2, go to the upper menu and click Build Set Scripts to Running in Selection.
+________________________________________________________________________
+
+Thank you to have purchased my creation
+
+For information, question, customization or suggestions please send im
+In any case, for any problem please contact me, I am glad to be able to help you
+Please remember that we do not have the same hours (my SL time +9), I usually answer even though I'm offline (except when I sleep :))
+Before writing negative review on marketplace, please contact me in order to solve the problem without getting angry, remember we are all here to relax and everything is resolved.
+Thank
+Sweet Sl
+tm Susanowa
+􀀁
+---------------------------------------
+Join .:Tm:. Creation group for get informed about new product and gift :)
+Copy and paste in local chat
+secondlife:///app/group/dcda6b1b-c88d-8c8f-2d0e-8f5e3a40c3fa/about
+
+.:Tm:.Creation
+
+MARKETPLACE
+https://marketplace.secondlife.com/stores/23454
+
+FACEBOOK
+https://www.facebook.com/Tm.Susanowa
+
+Group: https://www.flickr.com/groups/3900609@N24/
+
+Page: https://www.facebook.com/Tm.Creation.tm.Susanowa/
+
+FLICKR
+https://www.flickr.com/photos/tami_susanowa/
+
+FLICKR Group
+https://www.flickr.com/groups/3900609@N24/

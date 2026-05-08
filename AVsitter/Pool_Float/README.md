@@ -52,8 +52,8 @@ wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsi
 To configure a Lalou Pool Float with AVsitter sequences:
 
 - Right click the float and select `Edit`
-- Copy the `[AV]sequence` plugin script into the Contents tab
 - Copy the `[AV]sequence_settings` notecard into the Contents tab
+- Copy the `[AV]sequence` plugin script into the Contents tab
 - Replace the `AVpos` notecard in the Contents tab with the `AVpos` notecard found in this folder
 - Close the `Edit` window
 - Right click the float and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
@@ -117,3 +117,7 @@ animation sequence if more than 1 sitter is seated.
 ### Customized notecards providing sequenced animations for Chez Moi furniture
 
 - [Chez Moi Oceana Lounger](https://github.com/missyrestless/Doc/tree/main/AVsitter/Oceana_Lounger)
+
+### Customized notecards providing sequenced animations for Tm Creation products
+
+- [Adult Sandcastle](https://github.com/missyrestless/Doc/tree/main/AVsitter/Sandcastle)

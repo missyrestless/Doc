@@ -63,3 +63,7 @@ and a customized `AVpos` notecard specifically tailored for the product.
 ### Customized notecards providing sequenced animations for Chez Moi furniture
 
 - [Chez Moi Oceana Lounger](https://github.com/missyrestless/Doc/tree/main/AVsitter/Oceana_Lounger)
+
+### Customized notecards providing sequenced animations for Tm Creation products
+
+- [Adult Sandcastle](https://github.com/missyrestless/Doc/tree/main/AVsitter/Sandcastle)
