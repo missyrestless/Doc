@@ -1,0 +1,43 @@
+Installation:
+
+-  Rez your wings on the ground
+-  Right-Click on your wings and choose 'Edit'
+-  Click the 'More' button to display the tabs (if edit window is half closed)
+-  Choose the 'Content' tab
+-  Delete the script named 'Xcite! interface 4.2 - 1/21'
+-  Wait a few seconds for the Content tab to refresh, and verify that the script has been deleted
+-  Drag and drop the two scripts that came with this file into the contents. The scripts are:
+    1)  Material Squirrel ColourFX v1.00
+       and
+    2)  Xcite! interface 4.2.2 - 4/9
+- Take the wings back into your inventory
+- Wear the wings
+- (optional) Click the 'Reset' button on your Material Squirrel HUD
+
+Thats it! The scripts can be copied, so you can place them in all your Material Squirrel wings
+
+Usage:
+
+From Menus
+Click on your wings to bring up the blue dialog menu. 
+Then click on 'ColorFX'.
+The ColorFX Dialog will start. If you do not get a blue dialog menu, turn on 'Touch Xcite' using your Material Squirrel HUD.
+ 
+From Chat
+    Use channel 959 to communicate with you Material Squirrel Wings.
+    /959 ColorFX starts the ColorFX Dialog
+    /959 <any dialog option> will start the effect with that name. Eg "/959 dead" or "/959 rainbow" or "/959 flows"
+
+
+Color Effects:
+ - HeartBeat  : The wings pulse (brighten) at a normal pulse rate. It takes a couple of seconds to 'beat' regularly.
+ - FastHeart   : as above but for an "excited" heart rate
+ - Angry           : The wings change gradually to a dark red from their current color
+ - Scared        : The wings change gradually (but quickly) to a dark grey
+ - Dead           : The wings change gradually to black over 60 seconds
+ - Recover      : The wings change gradually back to their default color
+ - Default      : Turns off all color effect. The wings also go back to all defaults.
+ - Flow            : Opens a dialog with a set of color pairs or "Rainbow". The wings cycle slowly through the colors 
+                        selected, or though all the colors of the rainbow
+
+Note: Since the 'ColorFX' button is on the main menu, this means you can only have 9 custom Xcite commands in the 'self' category.
