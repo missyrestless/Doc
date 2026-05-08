@@ -1,0 +1,677 @@
+For complete instructions on how to use OpenCollar, see https://opencollar.cc/docs/Complete-User-Guide
+
+OpenCollar User Guide
+*****************************
+This User Guide has been copied from the OpenCollar Wiki (http://code.google.com/p/opencollar/wiki/UsersGuide).  I've provided it here for easy reference by my customers.  Please direct questions about OpenCollar Use and scripts to the OpenCollar Chatter Group or the OpenCollar R&D Group.
+*****************************
+
+OpenCollar (OC) is a set of scripts for a D/s collar similar to other scripted collars in Second Life.
+
+Unlike the other collars, however, OpenCollar is open source.
+
+You are free to copy and redistribute the OC scripts, provided that you leave them full perms.
+Read the entire OpenCollar License in the notecard accompanying the scripts.
+The OpenCollar architecture is plugin-based, allowing for new features to be added in the future.
+
+Features not found in other collars include:
+
+menu-driven support for the Restrained Love Viewer (formerly Restrained Life Viewer), usually referred to as RLV
+ability to automatically punish a sub for saying any word from a list you specify
+optional group control, in addition to control by owners and secondary owners (secowners)
+menu-driven color and texture settings
+automatic updates
+online database settings that survive script resets and are automatically transferred if/when the collar is updated
+best of all, free open-source code!
+Please report any bugs you find or feature requests to the OpenCollar bug tracker at http://code.google.com/p/OpenCollar/issues.
+
+Important
+
+OpenCollar automatically sets the command prefix to the wearer's initials. Enter the wearer's initials before all the commands below. For example, if Greta Grumpsalot were wearing the collar, she would prefix all commands with her initials "gg", typing for example "ggnadu" rather than simply "nadu". Use the prefix command (section 4.0, below) to change the prefix if one other than the default initials is desired.
+
+To give a command to two or more subs at once, use * in place of the usual prefix. For example, *kiss makes all the subs near you in whom you have some degree of ownership (as owner, secowner or member of owning group) give you a kiss. The additional prefix # is for subs who also own other subs: commands prefixed by # will work on the collars of all subs in your neighborhood in whom you have rights directly or indirectly, but not on your own collar.
+
+•.¸.✰.¸.•✰•.¸.✰.¸.•✰•.¸.✰.¸.•✰•.¸.✰.¸.•✰•.¸.✰.¸.•✰•.¸.✰.¸.•✰•.¸.✰.¸.•✰•.¸.✰.¸.•✰•.¸.✰.¸.•
+
+Table of contents
+Introduction
+Table of contents
+1.0 Menu collar commands
+1.1 - Menus and help
+1.2 - Main collar menus/submenus
+1.2.1 - Lock/Unlock
+1.2.2 - AddOns menu
+1.2.3 - Animations menu
+1.2.4 - Appearance menu
+1.2.5 - Help/Debug menu
+1.2.6 - Leash menu
+1.2.7 - Owners menu
+1.2.8 - RLV menu
+1.2.9 - Remote menu
+2.0 - Ownership commands
+3.0 - Appearance commands
+4.0 - Control commands
+4.1 - Safeword
+4.2 - Poses/animations/couples
+4.2 - Adding poses/animations
+5.0 - Leash commands
+6.0 - Badwords commands
+7.0 - Cuffs commands
+8.0 - Restrained Love Viewer
+8.1 - RLV chat commands
+8.2 Exceptions menu
+8.3 - Map/TP menu
+8.4 - Misc menu
+8.5 - Relay menu
+8.6 - Sit menu
+8.7 - Talk menu
+8.8 - Un/Dress menu
+9.0 - RLV shared folders
+10.0 - Relay control
+11.0 - Spy menu
+12.0 - Updating collar
+13.0 - Keyholder Plugin
+13.1 - Keyholder Menu
+13.2 - Keyholder Configuration Menu
+13.3 - Keyholder Auto Return Configuration Menu
+14 - Timer
+14.2 Timer chat commands
+•.¸.✰.¸.•✰•.¸.✰.¸.•✰•.¸.✰.¸.•✰•.¸.✰.¸.•✰•.¸.✰.¸.•✰•.¸.✰.¸.•✰•.¸.✰.¸.•✰•.¸.✰.¸.•✰•.¸.✰.¸.•
+
+1.0 Menu collar commands
+Notes
+
+The command prefix is explained above. When typing the prefix, do not include the brackets shown in the commands listed below.
+When using the chat commands, there is no space between the prefix and the command. See further examples below.
+
+Typing /1 with a space before the prefix and command will cause the command not to appear in local chat; for example, /1 ggkneel will cause Greta Grumpsalot to kneel, but no one other than the person typing the command will see it.
+1.1 - Menus and help
+<prefix>menu -- gives you the main menu, from which you can access and issue nearly all commands
+
+<prefix>help -- gives you this help page on a notecard
+
+1.2 - Main collar menus/submenus
+Notes
+
+Menus change with different features and versions, also depending on whether you're using RLV or cuffs (these are explained below). The menus and items listed here are for a typical configuration.
+
+Main menu submenus
+
+*Lock*/*Unlock* -- locks or unlocks the collar; if owned, only the owner can unlock it
+
+AddOns -- gives you the submenu for collar !addons such as badwords, bell, camera etc., and cuffs if the OpenCuffs !addon has been installed and the cuffs are worn
+
+Animations -- gives you the animation menu
+
+Appearance -- gives you the appearance menu
+
+Help/Debug -- gives you the help/debug menu, with which you can upgrade your collar and perform other functions
+
+Leash -- gives you the leash menu
+
+Owners -- gives you the owners menu, for setting or removing your owner or owners
+
+RLV -- gives you the menu for Restrained Love Viewer (RLV) functions
+
+Remote menu - gives you the remote menu, for communication with the Owner HUD and the Web interface, and for enabling of the WebMap function
+
+1.2.1 - Lock/Unlock
+*Lock*/*Unlock* locks or unlocks the collar; if owned, only the owner can unlock it
+
+1.2.2 - AddOns menu
+The addons menu provides access to various addon submenus, detailed below.
+
+1.2.3 - Animations menu
+The animations menu gives you the following commands:
+
+()AnimLock/(*)AnimLock -- locks the animation in place or unlocks it (only the owner can unlock)
+
+()HeightFix/(*)HeightFix -- allows enabling or disabling of automatic adjustment for some of the poses; on by default
+
+AO Menu -- brings up the Sub AO menu, enabling update and various adjustments
+
+AO OFF/AO ON - permits turning the Sub AO on and off via the menu rather than from inventory
+
+Couples -- gives you a listing of couples animations to select from and, following selection of an animation, asks you to pick the person with whom to do it. You can also set how long the animation plays, and stop it. If the sub uses RLV, the couples animator will align the pose properly to the view direction of the partner.
+
+Give AO - downloads the current version of the Sub AO
+
+Pose -- gives you a listing of all available collar poses and plays the one selected; also enables release from a pose
+
+1.2.4 - Appearance menu
+The appearance menu gives you the following commands:
+
+()Lock App/(*)Lock App -- allows owners to set the collar appearance options so that its colors, font, hide/show state, position, rotation, size, and textures can or cannot be modified
+
+colors -- allows you to set the color of the float text, and of any of the elements of the collar (this changes for different collars)
+
+Font -- allows you to set the font of the collar's label
+
+Hide/Show -- allows you to make the collar or parts of it visible or invisible
+
+Position -- allows you to set the position of the collar
+
+Rotation -- allows you to set the rotation and angle of the collar
+
+Size -- allows you to set the size of the collar.
+
+Textures -- allows you to set the textures of different elements of the collar (textures and editable elements vary from collar to collar)
+
+1.2.5 - Help/Debug menu
+The help/debug menu provides the following options:
+
+()Online/(*)Online -- turns the database (DB) for your collar on or off
+
+Dump Cach -- clears the cache in the DB
+
+Fix Menus -- fixes the menus if they misfunction or don't display properly
+
+Guide -- gives you this guide
+
+Online Guid -- allows you to open the guide on the wiki
+
+ResetScript -- resets the scripts in the collar
+
+Sync<-DB -- links the collar to the DB; use this if your collar removes the owner when you take off the collar or log in
+
+update -- updates the collar; see section 11.0 below
+
+1.2.6 - Leash menu
+The leash menu provides the following options:
+
+Grab -- grabs the sub
+
+L-Options -- provides various modifiable leash options (texture, density, gravity, color, size, glow) and the ability to reset the leash defaults
+
+LeashTo -- leashes the sub to a nearby object (object must contain leash script)
+
+Length -- changes the length to a preset number; use <prefix>length in chat if you want a custom length
+
+Post -- gives you the post
+
+Rez Post -- rezzes the post near your avatar
+
+Unleash -- releases the sub (if set by primary or secondary owner, only owner can unleash)
+
+Yank -- yanks the sub to you
+
+give Holder -- gives a temporary leash to someone nearby, who does not need to be secowner in order to use it
+
+Stay/Unstay -- keeps the slave from moving or permits movement; if set by primary or secondary owner, only owner can unset it
+
+Rotate/Don't Rotate -- has the wearer face the leasher; Only wearer can set it
+
+1.2.7 - Owners menu
+The owners menu provides the following options:
+
+Add Owner -- gives you a list of persons around you to set as your owner. If the desired owner is offline, type <prefix>owner <full name> in open chat to set the name.
+
+Add Secow -- adds a secowner to the collar, giving him or her power over the sub; only the owner or secowner can remove the secowner
+
+Add Blackli -- adds selected name to the blacklist, preventing group or open access
+
+Rem Owner -- removes the owner; can only be done by the principal owner, not by a secowner
+
+Rem Secow -- removes selected secowner (secowner can remove self)
+
+Rem Blackli -- removes selected name from the blacklist
+
+Set Group -- sets the collar to a group (may be necessary to rez the collar on the ground for this to take effect); make sure that you are in the group and that it is activated in your groups list when you select this
+
+SetOpenAc/UnsetOpen -- sets/unsets the collar to open access, allowing or not allowing anyone to control the sub
+
+LimitRange/UnLimitRan -- sets or removes limit to range of selectable owners
+
+Reset All -- resets the DB and clears out all owner information; can only be done by the sub
+
+List Owners -- gives you the list of owners and secowners in open chat
+
+1.2.8 - RLV menu
+The RLV menu provides the following options (details in section 8 below):
+
+*Turn On*/*Turn Off* -- turns RLV features on and off
+
+*Clear All* -- clears all restrictions
+
+Exceptions -- sets RLV-command exceptions for owners, secowners and others (section 8.2)
+
+Map/TP -- opens the map/TP menu (section 8.3)
+
+Misc -- opens menu providing options to forbid or allow various functions (section 8.4)
+
+Relay -- opens menu regulating various aspects of the RLV relay (section 8.5)
+
+Sit -- opens the sit menu (section 8.6)
+
+Talk -- opens the talk menu (section 8.7)
+
+Un/Dress -- opens the un/dress menu (section 8.8)
+
+1.2.9 - Remote menu
+( )Remote/(*)Remote -- enable/disables the access via the remote or the HTTP interface.
+
+( )Public Web Access/(*)Public Web Access -- enable/disables the access via the HTTP interface for EVERYONE not only users. (only visible if remote is enabled)
+
+( )WebMap/(*)WebMap -- shows the position of the sub in the web interface. (only visible if remote is enabled). Please Note: This option is OFF by default and can only be enabled by the sub!
+
+Public Web Interface -- gives the clicker the URL of the public web interface (only visible if remote is enabled)
+
+Web Interface -- gives the clicker the URL of the web interface (only visible if Public Web Access is enabled)
+
+The remote menu gives you the remote menu, for communication with the Owner HUD and the Web interface, and for enabling of the WebMap function.
+
+2.0 - Ownership commands
+<prefix>owner <full name> -- will add the owner to the collar; owner does not need to be near or online for it to work
+
+<prefix>secowner <full name> -- will add a second owner to the collar; secowner does not need to be near or online for this to work
+
+<prefix>setgroup -- will set the group to your currently active group; collar may need to be removed for this to take effect, in which case it should be rezzed on the ground and picked up afterwards
+
+<prefix>runaway -- will remove your current owner and set you as the owner (default state when the collar is first worn); also works if group is set as owner
+
+<prefix>setopenaccess -- sets open access to the collar, allowing anyone to control the sub
+
+<prefix>unsetopenaccess -- removes open access from the collar
+
+<prefix>blacklist <full name> -- blacklist this avatar (prevents group or open access)
+
+<prefix>remblacklist <full name> -- removes this avatar from the blacklist
+
+<prefix>reset -- resets the collar itself, ideally without modifying the DB entries
+
+3.0 - Appearance commands
+<prefix>label <text> -- will set the text on the certain OC collars
+
+<prefix>text <text> -- sets floating text above your avatar (works with all collars); you can use \n to force a line break in the floating text, so that to insert an empty line you would type, for example: "my text\n\nmore text after an empty line"
+
+<prefix>textoff -- removes the text, if any, from the collar
+
+<prefix>color -- brings up the color menu, which enables setting different parts of the collar to different colors
+
+<prefix>hide -- hides the collar if shown
+
+<prefix>show -- shows the collar if hidden
+
+<prefix>texture -- brings up a menu to select the desired collar texture
+
+4.0 - Control commands
+<prefix>prefix <letters> -- when changing the prefix be sure to note the new setting, as all commands including prefix itself will need to be done with the chosen prefix; the prefix is at first defaulted to the initials of the sub wearing the collar
+
+<prefix>channel <number> -- sets the private channel for the collar to listen to. The default private channel is /1, but the channel number can vary from 1 through 2147483647. There are two listeners for collar commands in each collar; the public channel (main chat channel 0) and a second private listener. To disable the public channel listener, type <prefix>channel -1; to enable it, use the channel your collar is set on to enter <prefix>channel 0.
+
+<prefix>settings -- displays the current color settings, owner, second owner, badwords, blacklist, etc.
+
+<prefix>lock -- locks the collar in place, following which a message will be sent to the owner if removed, even if owner is offline; if used with RLV will make the collar undetachable
+
+<prefix>unlock -- unlocks the collar; once set can only be unlocked by the owner
+
+<prefix>remoteon -- turns on the remote TP function (allows you to force TP the sub remotely); if you're using RLV you don't need to use the remote, just use the normal SL TP as the sub can't reject it
+
+<prefix>remoteoff -- turns off the remote TP function
+
+<prefix>tosub:<message> -- sends contents of <message> to the sub
+
+4.1 - Safeword
+The collar provide a safeword feature. It will free you from all restrictions which are put on you by your owners or other people, but the collar will stay locked, if it was locked before. Additionally your primary owners will be notified that you used the safeword feature.
+
+The safeword is case sensitive and the default safeword used by the collar is SAFEWORD. You can issue it in 4 ways:
+
+in open chat. Example: SAFEWORD
+on channel 1. Example: /1SAFEWORD
+using your <prefix> and the safeword. Example: ccSAFEWORD
+As OOC chat, which should always be allowed, even if your chat is blocked by RLV. Example: ((SAFEWORD))
+You can also change your safeword. To do so type "<prefix>safeword NEWWORD". Example: ccsafeword HELPMEOUT
+
+4.2 - Poses/animations/couples
+Notes
+
+The poses can be activated thought the menu or in open chat.
+Instructions are included for adding more poses.
+Subs using RLV will be aligned properly to the partner.
+List of poses
+
+beautystan, belly, bendover, bracelets, cutie, display, doggie, fall, kneel, nadu, naduw, open, pleat, shock, sleep, squirm, submit, subsit, tower, underground (and others; poses included vary with each collar)
+
+<prefix>pose -- brings up a list of poses currently in the collar
+
+<prefix><animation> -- sets pose (see above list); if set by the owner, only the owner can unset it
+
+<prefix>release -- stops all currently playing collar animations (not others)
+
+<prefix>kiss <name> -- makes the sub kiss the designated person; owners and secowners need to designate their own names at the end, but can use an abbreviation of any length as long as it is unique among the persons in the area
+
+<prefix>hug <name> -- makes the sub hug the designated person; owners and secowners need to designate their own names at the end, but can use an abbreviation of any length as long as it is unique among the persons in the area
+
+4.2 - Adding poses/animations
+Poses and animations may be easily added to the collar. Simply rez it on the ground, copy the pose/animation to it, put it back on and check in the animation button to confirm that it appears.
+
+5.0 - Leash commands
+Note
+
+The leash only works if the sub is in chat range; it won't work with shouting.
+
+<prefix>grab -- leashes the sub to the person using the command
+
+<prefix>yank -- yanks the sub to the person using the command
+
+<prefix>unleash -- releases the sub
+
+<prefix>length <number>-- sets length of the leash to a maximum of 18 meters; the default setting is 3 meters
+
+<prefix>giveholder -- gives a temporary leash holder to a selected person in the vicinity
+
+6.0 - Badwords commands
+Notes
+
+Setting a first badword via the chat command below activates the badwords function. A penance phrase or word for the sub to say to end the punishment should be set at the same time.
+
+If a sub is owned and his/her owner turns badwords on, the sub cannot turn it off or remove words from the list.
+
+The badword animation may be customized by simply adding your own (see section 4.2).
+
+<prefix>badword <word>-- adds badword to the collar, activating the badwords function if it is the first to be entered
+
+<prefix>rembadword <word> -- removes the badword from the list
+
+<prefix>badwordanim <animation> -- sets the animation played when the sub says the badword
+
+<prefix>penance <phrases or word> -- sets the phrase or word that the sub has to say to stop the punishment
+
+After the first badword has been set and the badwords function activated, the function may be toggled on and off using the badwords menu under the main addons menu. Complete menu commands are:
+
+List Words -- shows the list of badwords in open chat to the person issuing the command
+
+Clear ALL -- clears all the badwords set in the database (DB)
+
+Say Penanc -- displays in chat the phrase or words that you have set the sub to say
+
+ON/OFF -- turns badwords on or off; if you delete all the badwords it will automatically turn off
+
+Quick Help -- gives you a blue box with some directions on how to use badwords
+
+7.0 - Cuffs commands
+Note
+
+The following local chat cuffs command works only if scripted cuffs are worn and the cuff script is in the collar.
+
+*cuffmenu -- opens the cuffs menu (works only with Cuffs 1.027 or higher)
+
+The cuffs menu commands, accessed as the badword commands via the main addons menu, are:
+
+Cuff Menu -- opens a separate cuffs menu corresponding to the general collar menu and offering similar options, including return to the collar menu
+
+Upd. Colors -- updates the cuff colors if not auto synchronized
+
+Upd. Textures -- updates the cuff textures if not auto synchronized
+
+(Un)Lock Cu -- locks or unlocks the cuffs
+
+Show/Hide -- displays or hides the cuffs
+
+Sync On/Sync Off -- toggles automatic synchronization of the cuff colors with those of the collar
+
+8.0 - Restrained Love Viewer
+Notes
+
+Visit http://www.erestraint.com/realrestraint/ to get the correct version of the Restrained Love Viewer (RLV) for your operating system. It is not now necessary to use the RLV viewer itself, as RLV functions are currently supported for example by the Emerald Viewer though not by the standard Linden viewer.
+
+These notes will help you with RLV setup and installation for Windows Vista, but the process is similar for the other platforms.
+
+To use RLV features, the wearer of the collar must be using RLV, and its features must be enabled. Following initial installation this will normally occur on login into SL, but may not if the wearer logs on in a script-free or heavily lagged zone.
+
+If the collar did not manage to realize that the RLV is running on log-in, then you will find a button in the RLV menu called *Turn On*. Press this one to activate the RLV features. You will receive a message if the collar was able to find the RLV or not. If the collar found the appropriate client, the main RLV menu will be available from now on.
+
+If the collar did manage to find RLV on login, you will have immediate access to the main RLV menu.
+
+8.1 - RLV chat commands
+Note
+
+For list of main RLV menu commands see section 1.2.8 above.
+
+<prefix>rlvnotify on -- makes the collar notify you each of each restriction applied.
+
+<prefix>rlvnotify off -- turns off notification of restrictions
+
+8.2 Exceptions menu
+The RLV exceptions menu is accessed via the main RLV menu. Via this menu an owner accessing a sub's menu may set separate restriction permissions for him- or herself (owner), secondary owners (secowners), or other designated persons (other). Use the add button to place a new person in the vicinity on this list. "Enforce" means that the owner, secowner, or other designated person may enforce the restriction on the sub, while "Exempt" means that he or she may not.
+
+The specific restriction settings are:
+
+IM - can't send IMs
+
+RcvIM - can't receive IMs
+
+RcvChat - can't receive chat
+
+RcvEmote - can't receive emotes
+
+Lure - can't be teleported by friend
+
+RefuseTP - can't refuse TP offer
+
+Exempt All - owner, secowner or other person can enforce no restriction
+
+Enforce All - owner, secowner or other person can enforce all restrictions
+
+list - lists enforced/exempted restrictions
+
+defaults - restores the default exemptions
+
+Add: Is to add others not on the collar (can not control sub) to be exempt from the restrictions placed on the sub by Owner or Secondary Owners.
+
+Others: Names will show up from adding them under "add" this is the menu to which you can exempt or restrict them without giving them control over the sub. Lets say special privileges for non-Owners. The only button that is not there from this menu is the list button cause of course those people will appear in menu form when clicking other.
+
+8.3 - Map/TP menu
+Forbid/Allow LM -- prevents (or allows; only forbid descriptions shown here and below) teleport to a landmark
+
+Forbid/Allow Loc -- prevents teleport to a location (i.e. by using the map)
+
+Forbid/Allow Lure -- prevents accepting a teleport offer from a friend
+
+Forbid/Allow Map -- prevents using the map
+
+Forbid/Allow Minimap -- prevents using the minimap
+
+Forbid/Allow ShowLoc -- hides location in the status bar
+
+Allow All -- removes all restrictions in this menu
+
+Forbid All -- applies all restrictions in this menu
+
+8.4 - Misc menu
+Forbid/Allow Names -- hides names of avatars in vicinity
+
+Forbid/Allow Fly -- disallows flying
+
+Forbid/Allow Touch -- prohibits touching objects more than 1.5m away (useful to prevent escape from a cage)
+
+Forbid/Allow Edit -- prevents editing objects
+
+Forbid/Allow Rez -- prevents rezzing objects
+
+Forbid/Allow Inventory -- prevents using the inventory
+
+Forbid/Allow Notecard -- prevents reading and opening notecards (some subs use notecards to get around IM/speak limitations - bad bad sub!)
+
+Forbid/Allow Scripts - prevents reading and opening scripts (some subs use scripts to get around IM/speak limitations - bad bad sub!); needs at least OpenCollar 3.6 and RLV 1.23
+
+Forbid/Allow Textures -- prevents opening textures (some subs use textures to get around IM/speak limitations - bad bad sub!); needs at least OpenCollar 3.6 and RLV 1.23
+
+Forbid/Allow Hud: prevents seeing hover text from HUD objects; needs at least OpenCollar 3.3 and RLV 1.19
+
+Forbid/Allow World -- prevents seeing hover text from objects in world; needs at least OpenCollar 3.3 and RLV 1.19
+
+Allow All -- removes all restrictions in this menu
+
+Forbid All -- applies all restrictions in this menu
+
+8.5 - Relay menu
+Off/Restricted/Ask/Auto -- Off mode disables RLV relay features. Restricted mode enables RLV relay features for authorized objects (whitelisted, or designated by landowner or playful settings). Ask mode is same as restricted, but will ask the wearer for every unknown object and silently reject blacklisted ones. Auto mode sets the relay to accept commands from all objects except blacklisted ones.
+
+()Playful/(*)Playful -- If enabled, relay commands that do not set permanent restrictions are automatically executed by the relay in all modes except off.
+
+()Land/(*)Land -- If enabled, commands from objects placed by the landowner are automatically executed by the relay in all modes except off.
+
+()Safeword/(*)Safeword -- If enabled, the wearer when restricted will be able to use the safeword button in the relay menu and be freed from any RLV relay restriction.
+
+8.6 - Sit menu
+Forbid/Allow Stand -- hides the stand button. This prevents the wearer from standing up when sitting or using a poseball. This will also force the wearer to sit on the item when they relog.
+
+Forbid/Allow Sit -- prevents sitting on objects further than 1.5m away (useful to prevent escape from a cage)
+
+SitNow -- forces the sub to sit
+
+StandNow -- forces the sub to stand up
+
+Allow All -- remove all restrictions in this menu
+
+Forbid All -- applies all restrictions in this menu
+
+8.7 - Talk menu
+Forbid/Allow Chat -- prevents sending messages to local chat
+
+Forbid/Allow IM -- prevents sending IMs
+
+Forbid/Allow RcvChat -- prevents receiving local chat messages
+
+Forbid/Allow RcvIM -- prevents receiving IMs
+
+Forbid/Allow Emote -- prevent using emotes (/me command)
+
+Forbid/Allow RcvEmote -- prevents receiving emotes; needs at least OpenCollar 3.3 and RLV 1.19
+
+Allow All -- removes all restrictions in this menu
+
+Forbid All -- applies all restrictions in this menu
+
+8.8 - Un/Dress menu
+Clothing -- opens the clothing menu
+
+Attachment -- opens the attachment menu
+
+LockAll/UnLockAll -- locks/unlocks all worn attachments in place and prevents attaching of new items. When all items are locked, the individual attachment menu is not available anymore.
+
++Folder -- lists the #RLV folders available and offers to add them to the outfit
+
+-Folder -- lists the #RLV folders available and offers to remove them from the outfit
+
+Clothing menu -- offers the ability to strip a selected item of clothing, or all items
+
+Attachment menu -- Offers the ability to remove an item from a selected attachment point
+
+9.0 - RLV shared folders
+<prefix>save -- saves the list of items currently worn by the sub
+
+<prefix>restore -- makes the sub wear the items in the saved list
+
+<prefix>+<pattern> -- searches for the first folder name in the sub's shared root folder whose name contains <pattern> and makes them wear it
+
+<prefix>-<pattern> -- searches for the first folder name in the sub's shared root folder whose name contains <pattern> and makes them remove it
+
+10.0 - Relay control
+<prefix>relay -- opens the relay menu
+
+<prefix>relay auto -- switches to auto mode, in which the relay will accept every command except from banned sources
+
+<prefix>relay ask -- switches to ask mode, in which the relay will request acceptance for every command from unknown sources
+
+<prefix>relay restricted -- switches to restricted mode, in which the relay will reject every command except from trusted sources
+
+<prefix>relay off -- disables the relay
+
+<prefix>relay playful on/off -- toggles playful submode; if enabled, the relay will accept every non-restraining command
+
+<prefix>relay land on/off -- toggles landowner submode; if enabled, the relay will accept every command from objects of the landowner of the sim where the sub is located
+
+<prefix>relay safeword on/off -- toggles safewordable submode; if enabled, the sub can safeword
+
+<prefix>relay safeword -- releases the sub from every object controlling the relay
+
+<prefix>relay pending -- displays the oldest unanswered relay authorization dialog, if any
+
+<prefix>showrestrictions -- displays RLV restrictions the sub is subject to, and lists the objects having issued them (collar and devices controlling the relay)
+
+11.0 - Spy menu
+(Important: Ask your sub if it's okay to use this feature; it will record all the sub's open chat and send it to the owner.)
+
+The spy menu, located under AddOns in the main menu, provides the following options:
+
+Trace On/Off -- allows you to see when and where the sub TP's to
+
+Radar On/Off -- turns on the radar and let you see who has been within eight meters of sub; updates every two minutes
+
+Listen On/Off -- lets the owner hear what the sub is saying
+
+RadarSettin -- changes the radar settings
+
+12.0 - Updating collar
+Note: In order to update you will need to be in a sim where you can rez objects on the ground, with your appropriate group activated if necessary.
+
+When you receive an OpenCollar updater:
+
+Rez the updater on the ground.
+Remove your collar and then rez your collar near to the updater.
+Click on the collar or enter the menu command in chat; in the main menu open Help/Debug, and in the submenu Update (not Get Update).
+Wait for the updater to update your collar, and then take the collar back into your inventory. You will then have more than one collar of that type, so you can delete the old version.
+Note: You can and will need to repeat steps 2-4 for any other OC collars you may have and wish to continue using. Having more than one updater rezzed at the same time may cause errors when updating.
+
+13.0 - Keyholder Plugin
+The keyholder plugin allows for temporary ownership. By default it is disabled, and must be turned on in it's configuration menu. It is only useful when either used with the public access mode of the collar, or when set to Public Key mode.
+
+13.1 - Keyholder Menu
+Note: This menu is dynamic and changes with various states and options. Not all the buttons listed below will be available at the same time.
+
+Take Key -- This takes the collar's key and gives you temporary group-level access to the collar.
+
+Return Key -- If you have taken the key, this returns the key to the lock.
+
+Force Return -- With Owner level access the key may be forcefully returned to the lock.
+
+Lockout -- This locks the submissive out of the collar's menus until the key is taken and returned. This is typically used by self-owned submissives.
+
+Configure -- This gives access to the Configuration menu.
+
+13.2 - Keyholder Configuration Menu
+Note: Owner level access is required to configure this module.
+
+()On -- Is the keyholder module turned on?
+
+()Lock -- Does the collar lock when the key is taken?
+
+()No Open -- Does the collar disable open access mode when the key is taken?
+
+()Pub.Key -- Is the key accessible even with open access mode off?
+
+()Global -- Enables Global mode. When a toy with Global mode has it's key taken, all other toys worn with Global mode enabled will also automatically give their key. For example, if used with Keyholder enhanced Open Cuffs, taking the collar's key would also take the cuff's key.
+
+Auto Return -- Access the Auto Return configuration menu.
+
+13.3 - Keyholder Auto Return Configuration Menu
+Note: Times are given in: Days, Hours:Minutes:Seconds.
+
+()Time -- Picking a time will turn the Auto Return feature on. This will cause the timer module to start a real-life timer that will cause the key to be returned when the timer expires. Altering the timer will require Owner level access after this.
+
+()Auto Off -- Disables this feature.
+
+14 - Timer
+The purpose of the timer for the Open Collar collars is to allow a timed release feature for several functions of the collar. The timer can do up to 3 different things when it goes off: 1. Unlock the collar. 2. Unleash the sub wearing the collar 3. Clear all RLV restrictions.
+
+Any or all of the 3 functions can be done with the same timer, for example, unleashing and RLV release can be done together.
+
+The timers can use RL time, or SL time, or a combination of both. RL is real time that continues to run even if logged off. SL time only runs while the sub is online. Note that both timers can be used together, so for example, you can lock a sub for 2 hours SL, or 12 hours RL, which ever comes first.
+
+There are three ways to use the timer: self bondage, Owner controlled bondage and bondage controlled by either secondary-owner, group owned, or open access.
+
+1. Self bondage is where the collar wearer is the owner and sets the timer for themselves. The timer can unlock the collar, unleash the collar, and/or clear all the RLV setting. Once the timer is started, the wearer can not get into the collar menu, until it expires! Examples of usage would include: A. The sub leashes themselves to something, then sets the timer. They are stuck until the timer expires. B. The sub sits on a toy, or somewhere and sets forbid stand, then set the timer to get freed. Again, they are stuck.
+
+2. Owner controlled bondage. This where the owner locks the sub in some manner, then set the timer to free the sub later. The timer can unlock the collar, unleash the collar, and/or clear all the RLV settings. Once the timer is started, the wearer can not get into the collar menu, until it expires! Examples of usage would include: A. owner locks the collar and sets the RL timer so that it unlocks and the collar is unlocked for the weekend. B. The owner leashes the sub someplace, then sets the timer. the sub is stuck until the timer expires. C. The sub is forced to sit on a toy or somewhere and the owner sets forbid stand, then sets the timer to free the sub later. Again, they are stuck.
+
+3. Secondary-owner, group owned, or open access bondage. This where the Top locks the sub in some manner, then sets the timer to free the sub later. The timer can unleash the collar and/or clear all the RLV settings. Once the timer is started, the wearer can not get into the collar menu, until it expires! It does not matter if there is a primary owner or not, in this mode. Examples of useage would include: A. The Top leashes the sub someplace, then sets the timer. the sub is stuck until the timer expires. B. The sub is forced to sit on a toy, or somewhere and the Top sets forbid stand, then sets the timer to free the sub later. Again, they are stuck.
+
+To set a timer, go into the collar menu, press AddOns button, then Timer button. Next to the following: 1. Choose which item/items you wish do: ()unlock, ()unleash. and/or ()clearRLV. 2. Set the time by choosing the reattime or online and setting up a time. 3. Press the start button.
+
+Note: The sub will be locked out of the menu while the timer is running, to keep them from adjusting the timer. Also the sub will NOT be allowed to unlock themselves, if they do not have the access to unock the collar, in other words, the sub can not use the timer to unlock themselves, if the owner locked it. The same applies to unleashing and RLV.
+
+14.2 Timer chat commands
+<prefix>timer -- brings up the timer menu
+
+<prefix>timer [on|online|real|realtime] [+|-]hh:mm -- will add or subtract time to the corresponding timer
