@@ -1,0 +1,54 @@
+Congratulations for choosing the No59 Cocktails set
+
+1:)If you click on it , you get a glas in the hand via Experience or temp attach.
+    If you click "GIVE TO" on the cardboard at one of the cocktails you can choose who should get a cocktail.
+    In the Folder you will find the "HUD select the type of give". 
+    With this HUD you can choose how you want 
+    your drink to be served, via Experience or with Temp Attach.
+
+2:)In the set there is also a Glas for permanent wear on avatar for the Owner,
+    the cocktails endet with "PermaWear"
+    are not rigged to the avatar, so you can move it in your hand in the edit 
+    mode. "No mod" is displayed because of the scripts it contains, but you can 
+    also change the size as it is modifiable.
+    
+----------------
+! IMPORTANT !
+----------------
+    The default setting is "Experience",
+    it could be that you have to add my experience to the land first if you don't get any drink
+    if it is not possible to add experience to your land, wear the "HUD select the type of give" and choose "Temp attach".
+    
+3:) How to Add Experiences to your Land:
+    Click the Land icon on the Upper right.
+    Click "About Land".
+    Choose "EXPERIENCES" and then "Add".
+    Enter "caroline planer" in the entry field and click "Go".
+    Choose "Experience caroline Planer" and then "OK"
+    and the experience is installed.
+    To make it a little easier, please see the photo: 􀀀
+
+4:)Known problems:
+    1:) Animation issue:
+    Unfortunately there are AO's that contain animations with the highest priority, 
+    in this case the glas and drinking animation will unfortunately be overwritten and 
+    not played. if two animations with the same priority are active, the one that 
+    was activated last will be played. To check this, you can switch off your 
+    AO or Pose and check whether you are holding the glas correctly.
+    
+5:)UPDATES:
+    [20240902] Add Cocktails 5 permanent wear for Owner
+    [20240903] Cocktail umbrellas had no surfaces on the bottom
+
+...so long, Happy Party :)
+
+Kind regards Caroline Planer.
+PS.:
+I invite you to follow me on Flickr and Facebook 
+Flickr:
+https://www.flickr.com/photos/164868967@N06/
+My Flickr Group
+https://www.flickr.com/groups/3966056@N20/
+
+Facebook
+https://www.facebook.com/No59SL
