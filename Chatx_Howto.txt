@@ -1,0 +1,71 @@
+
+
+creator and support:
+􀀀
+
+Thank you for purchaing the chatx system.
+
+chatx: a chat extender system
+
+
+presentation:
+..........................
+
+This is a chat extender system, that allows to extend the normally limited chat range in a sim beyond the 20 meters limit.
+This notecard aims to respond some commonly asked questions.
+
+
+How to limit the distance from where people will be automatically connected?
+====================================================
+
+On the server, click on "scanner", then "distance", and write down a distance number. 
+Beyond this distance, people won't be given a hud or a connection to the system automatically.
+Set this to 0 to remove the limit. In this case the connection will be made based on the scanner "scope" which is defined to the current parcel by default.
+
+
+How to limit the distance from where people will be heard from each other?
+==================================================
+
+On the server, go to options, then click on "rcv dist", and write down a distance number.
+Set this to 0 to remove the limit.
+
+This option allows to limit the receiving distance, so beyond that distance, even when connected, you won't hear anything from the distant chat.
+
+
+How to limit the distance from where people chat will be actually emited to the system?
+==========================================================
+
+On the server, go to options, then click on "emit dist", and write down a distance number.
+Set this to 0 to remove the limit.
+
+This option lets you set a zone where you can still hear the distant chat (within the limit optionally set for the receiving distance), but from where nobody will hear you, except people at close chat range (<20 meters).
+
+The emission distance is based on the server position. 
+
+
+How to set the server permissions?
+========================
+
+If your land is owned by you, and not a group, there is no particular thing to do, it will just work.
+
+if your land is owned by a group, then you must make sure this group is allowed to "build" in the parcel options window, and set the chatx server to this land group. (right click and edit the server, then use the wrench icon).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
