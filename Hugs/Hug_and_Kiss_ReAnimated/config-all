@@ -1,0 +1,24 @@
+/////////////////////////////////////////////////////////////////////////////
+//
+// Hug & Kiss Animator 3 : ReAnimated - setupcard
+//
+// syntax:
+// Display Name,height adjust system(0 or 1), walk to (0 or 1),animation f,animation m,time in seconds (0 to disable)
+// 
+// 
+Sweet Hugs,1,1,sweethugs,sweethugs,30
+Sweet Kiss,1,1,sweetkiss,sweetkiss,30
+Warm Hug,1,1,warmhug,warmhug,5
+Three kisses,1,1,threekisses,threekisses,5
+Swept Away,1,1,swept,swept,30
+Hand Kiss,1,1,handkiss,handkiss,3
+Handstand,1,1,handstand,handstand,30
+Heart to Heart,1,1,heart,heart,10
+High 5,1,1,highfive,highfive,0
+Jump Hug,1,1,jumphug,jumphug,30
+In My Arms,1,1,holdkiss,holdkiss,30
+Pounce Cuddle,1,1,pounce,pounce,30
+Round & Round,1,1,round,round,30
+Slow Dance,1,1,slowdance,slowdance,30
+Twirl Sway,1,1,twirlsway,twirlsway,30
+Together,1,1,together,together,10
