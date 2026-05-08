@@ -1,0 +1,21 @@
+Store Page:
+https://marketplace.secondlife.com/stores/209664
+... ... ... ... ... ... ... ... ... ... ... ... ... ...  
+ 
+Instructions:
+--------------
+To use a morph, simply select one in a size of your choice and wear or attach it to your avatar.  Depending on the morphs, their sizes may be labeled with numerical Depth, Height, and Width values:
+
+Regarding Size Values:
+
+•The higher the Height value, the further downward the morph pushes the body part
+•The higher the Depth value, the deeper backward the morph will push the body part
+•The higher the Width value, the closer towards the avatar centerline the morph will push the body part
+
+A few notes to keep in mind when using morphs:
+
+•Morphs can be worn/attached to any part of your avatar and they will still affect the intended body part.
+•You can freely mix & match morphs as long as they are for different parts of the body.
+•Only 1 size can be worn at a time for the particular part of the body that the morph is labeled for.
+•When changing morph sizes for the same part of the body, first take off the one you are already wearing before attaching the replacement.
+•Body physics will still work just fine while wearing morphs.
