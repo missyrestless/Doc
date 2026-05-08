@@ -1,0 +1,26 @@
+Hello, and thank you for purchasing MD Smart Unpacker
+
+In this pack you will find:
+1. MD Smart Unpacker Script 
+2. [ADD ON] MD Smart Unpacker Online Services HUD
+
+------------------------------------------------------------------
+
+* How do I setup the MD Smart Unpacker Script ?
+Change the script next owner permission from COPY&TRANSF to COPY-ONLY, then drop the MD Smart Unpacker Script into your HUD or box; then click on it to get the owner menu.
+Full user manual is available here:  https://bit.ly/3w6Rinj
+
+* What is MD Labs Online Services?
+   MD Labs Online Services is a responsive website designed to let you interact with the products released by MD Labs. In order to access the website you will need to register an account.
+
+* How do I register to MD Labs Online Services?
+   Simply wear the Online Services HUD provided to activate the product purchased and set a password for your account @ MD Labs Online Services. Once these steps are completed you can detach the HUD and forget about it. For further help, a step by step guide is available here: http://www.mdlabsonline.com/md-labs-online-services-support/
+
+* I registered my account, how do I log in?
+  Go to the MD Labs Online Services homepage here: http://services.mdlabsonline.com/
+Login using your avatar name or key (UUID) and the password chosen through the Online Services HUD. You can also change password anytime from the MD Labs Online Services or using the Online Services HUD.
+
+
+For any further help, please IM or send a notecard to Mattia Delwood.
+
+2021 MD Labs
