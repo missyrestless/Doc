@@ -1,0 +1,51 @@
+Welcome to new Tahiris skates Bento Ao
+
+Tahiris is a roller or ice skate AO. Innocent and playful, really young style.
+
+It is a Bento ao with fingers movement, and with one facial mood (innocent) included for several heads. 
+
+We included free ice skates from Kokoia. More versions available at Kokoia store.
+
+
+VERSIONS INCLUDED IN THE PACK
+BENTO CURVY
+BENTO REGULAR SIZE
+
+ANIMATIONS INCLUDED IN THE AO:
+13 stands
+4 dances
+5 walks (select walk speed via HUD)
+2 sits 
+2 grounds
+3 gestures
+Flights etc
+Talk
+1 facial mod (several heads versions)
+1 Basic couple anim
+
+
+YOUTUBE PROMO
+https://www.youtube.com/watch?v=er8e9WxR0dM
+
+ INFORMATION ABOUT THE HUD 5.X 
+ http://www.vistanimations.com/NEWHUDAO5/
+ 
+ HOW TO EDIT VISTA AO
+ https://www.youtube.com/watch?v=14Uivw7M0Ss
+ 
+ 
+ 
+ 
+ 
+:::::::::::::::::FAQ::::::::::::::::::::::
+ 
+This Ao will only work on Bento viewer. To see finger movements, you need bento compatible hands.
+My fingers do not move: If you have bento hands and the fingers doesn't move, check if you are wearing a HUD with static hands pose animation on it. (ex Maître hud)
+My Ao only show a few stands: Check if you have proximity ON, or you have selected the model Calm or MODE2. Also check if you have the cycling ON.
+What is proximity?: Is a radar that will detect near people and will deactivate the "walking stands" avoiding collisions with other avatars.
+ 
+The stands take a while to load: These are bento animations, that take a little longer to load, also they need to reload more often in the cache. So, use next arrow to pass through all the stands making them load in cache.
+I am sitting under the ground!: The Ao include 3 levels of sitting that activate automatically. But really short avatars or extremely tall could not match a correct position on the sit grounds.
+Could I Add animations to my Ao?: Yes! It is mod, but take care, the memory is really limited. Try to add a few animations and test, and so on.
+Could I combine with other Bento AO’s?: Yes, but remember the memory limits, also Miriam has 60 seconds stands, this is 30. We made them 30 because they load faster.
+
