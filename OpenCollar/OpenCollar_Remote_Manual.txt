@@ -1,0 +1,25 @@
+These Instructions are for the OpenCollar Remote for OpenCollar V8. 
+
+https://opencollar.cc/docs/Remote 
+
+The V8 compatible OpenCollar Remote is an AddOn.  It can be used on your own collar or on any collar you have access to.  
+Add the Remote to an HUD point.   Pressing the Remote button in the OpenCollar AddOns menu brings you to the Gear menu of the Remote.  The Gear button allows you to add favorites once you have connected the remote to their collar, and controls the position and number of buttons on the Remote .
+
+-- To Connect:
+
+If you are wearing or have access to a collar nearby:
+
+Open the Nearby People Icon near the last row of the Remote.
+
+ Press the number corresponding to your name or the name of someone nearby whose collar you have access to.  
+
+The Remote will tell you it has Connected and the profile pic will appear in the last button of the Remote.  You can use that button to disconnect.
+
+Once you have connected, If it is not there automatically, add the connected collar wearer to Favorites using the Gear button.  Their name will appear in the Star button.
+
+The V8 OpenCollar Remote handles one active collar at a time.  
+You can easily switch between active collars by pressing the Star button.  
+
+If this Remote does not connect and you are sure you have access to the collar, check the version of the collar.  The collar must be OpenCollar V8.  You can see the collar version in the collar Help/About menu.
+
+For more detailed instructions, visit https://opencollar.cc/docs/Remote .
