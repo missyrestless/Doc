@@ -1,0 +1,117 @@
+                                   Killer Gesture HUD v.0.0.1.5
+                                   Kreation Date  :  5-26-2025
+
+🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩
+
+🧿 INSTRUCTIONS ON HOW TO PLAY LOADED GESTURES 🧿
+
+1. WEAR HUD & THE SPEAKER OR YOU WILL HEAR NO SOUNDS WHEN YOU PLAY YOUR GESTURES
+
+2. Click the only button you see to make your Dialog Window drop down.
+
+3. Press the name of a Gesture you want to play and click it.
+
+🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩
+                                 
+🧿 MENU BUTTONS EXPLANATION 🧿
+
+1. LOOP BUTTON - Loop Button toggles the (Looping) feature ON & OFF inside the HUD.
+
+Keep in mind that this works ONLY for animations that are PREDEFINED AS LOOPING. 
+
+You can find that by double clicking the animation you want to add and and window will pop up on your screen. 
+
+THEN in the lower left hand side of that window you will see where it says "Loop:Yes" or "Loop:No". 
+
+Please refer to this image i created to show you where its at.          
+  
+ ⚠     􀀁    ⚠
+
+Any NON looping animations need to be marked NO in that section of the gestures notecard so the hud knows not to allow it to be played when looping is selected. 
+
+It avoids a LOT of confusion down the road when playing them, TRUST ME ON THAT.
+
+Click once to either turn it ON or OFF, it will tell you on the button and in local what you have selected
+
+2. RELOAD BUTTON - Reload simply reloads the notecard if you need to make quick changes on the fly, NO DETACH. Make your changes and then click reload.
+
+3. STOP BUTTON - Stop button STOPS ALL ANIMATIONS AND SOUNDS WITHOUT WAIT. So no longer have to sit through the ENTIRE gesture if you are just over it. 
+
+4. NAMED BUTTONS - Those are your GESTURES. If you add yours correctly they will automatically appear in that very menu after you reload the notecard after saving it.
+
+🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩
+
+🧿 HOW TO MAKE YOUR GESTURES 🧿
+
+1. Rez your Gesture (HUD) on the ground to ensure it will take the ANIMATIONS. ⚠️ HUD ONLY TAKES ANIMATIONS ⚠️
+
+2. Rez your Gesture (SPEAKER) on the ground to ensure it will take the SOUNDS. ⚠️ SPEAKER ONLY TAKES SOUNDS ⚠️
+
+3. Make sure your animations & sounds have the CORRECT PERMISSIONS or they will NOT work. (COPY, TRANSFER) , modify is OPTIONAL.
+
+3. Drag your ANIMATIONS from your inventory into the contents folder of your (HUD) on the ground.
+
+4. Drag your SOUNDS from your inventory into the contents folder of your (SPEAKER) on the ground.
+
+⚠️ THIS STEP CAN BE COMPLETED WITH HUD REZZED ON THE GROUND OR WHEN WORN ⚠️
+⚠ SO YOU CAN PICK UP AND WEAR BOTH (HUD) & (SPEAKER) FOR THE NOTECARD STEP  ⚠
+
+4. Open the Notecard inside the HUD and lets look at the FORMAT and READ BELOW to understand it.
+
+🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩
+
+🧿 NOTECARD FORMAT 🧿
+
+1. NOTECARD MUST BE NAMED "Gestures" or the HUD cannot find it so please NEVER change the name of this notecard or it WILL BREAK.
+
+2. NOTECARD IS FORMATTED LIKE THIS - Name | anim | sound | message | loopable | cooldown
+
+EXAMPLE 1: 
+
+Wave | wave | wave | Hello! | YES | 6.5
+  ⬍          ⬍       ⬍          ⬍          ⬉            ⬉
+Name | anim | sound | message | loopable | cooldown
+
+⚠️  IMPORTANT TO NOTE ⚠️
+
+A. ANY ANIMATION FILE YOU DRAG INTO THE (HUD) MUST BE NAMED THE SAME AS IN THE NOTECARD
+B. ANY SOUND FILE YOU DRAG INTO THE (SPEAKER) MUST BE NAMED THE SAME AS IN THE NOTECARD
+C. BOTH files can be named anything you want under 12 characters for the menu button or it will fail.
+
+
+
+EXAMPLE 2:
+
+Clap | clap |              | Applause!  | NO       | 4.0     - We went with NO sounds,, leave separator lines but empty space. 
+   ⬍      ⬍           ⬍           ⬍             ⬍            ⬍
+Name | anim | sound | message | loopable | cooldown
+
+
+3. Type your MESSAGE in the section after SOUND as you want and you have plenty of room to do it.
+
+4. Now set your LOOP for each animation by putting YES or NO in the correct space as shown in the examples.
+    It will make an X appear on the Dialog window and prevent them from playing if they are NON LOOPING.
+    REMEMBER to check to see which animation you have for the best experience.
+    Instructions on how to do that are in MENU EXPLANATION in the above sections. ⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆
+    
+5. Now you must set the time for each GESTURE because you want it to play until its done and not stop short.
+    The best way to do this is figure what is longer playing, the animation or sound and set the time to match THAT.
+    So if your animation is 10 seconds long and your sound is 20 seconds, set it to 20 so it dont stop the sound.
+    Same for animation, 30 second animation and 5 second sound you want 30 in that space in the notecard.
+
+6. MAKE YOUR CHANGES AND DOUBLE CHECK BEFORE SAVING THE NOTECARD, THEN SAVE IT.
+
+4. If you have not picked up your (HUD) & (SPEAKER) yet do that NOW and WEAR THEM BOTH. If done correctly you should now have your NEW gestures named as buttons.
+
+🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩
+
+🗲🗲🗲 FEATURES LIST 🗲🗲🗲
+
+✅ Load gestures from a note card.
+✅ Display gesture names in the dialog buttons.
+✅ Supports menu paging (more than 12 gestures) add as many as you like.
+✅ Includes a loop toggle.
+✅ Plays an animation, sound, & sends a local message when triggered.
+✅ Includes a STOP button to stop all animations immediately, no need to wait ANYMORE.
+✅ Marks non-loopable GESTURES & prevents them from playing to prevent confusion.
+✅ Prevents overlapping gestures with precise per-gesture cool downs controlled in the notecard.

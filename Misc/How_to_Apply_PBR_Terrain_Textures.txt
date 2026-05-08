@@ -1,0 +1,52 @@
+Applying PBR Textures to Terrain 
+
+YOU MUST BE THE ESTATE OWNER TO BE ABLE TO CHANGE TERRAIN TEXTURES!!!!
+
+What you need
+
+A PBR material set: Base Color (Albedo), Normal, ORM (Occlusion/Roughness/Metallic)
+
+(YOU SHOULD HAVE THIS IN THE BOX YOU PURCHASED)
+
+A viewer with PBR enabled
+__________________________________________________________________________________
+Steps
+
+1 Open WORLD (at the top of your screen) -> Select 'REGION DETAILS'  and select the Terrain tab.
+
+2 Go to the Terrain Tab
+
+3 Choose one of the terrain texture slots (Low / Mid / High / Steep).
+
+4 Click the texture preview and switch to PBR mode.
+
+5 Apply the PBR textures/texture you want to use to each window.
+
+6 Click off and back on the 'PBR Metallic Roughness' check box above the windows and then click 'Apply'
+
+SEE THIS GYAZO - https://gyazo.com/826ddca63159042fd0ae0262bf7db2b0
+
+7 Adjust scale and repeats so the texture tiles cleanly across the land. see notecard below if you do NOT see a 'Transforms' sub tab like this->
+􀀁
+
+IF YOU DO NOT SEE IT..READ THIS ->
+􀀀
+________________________________________________________________________________
+
+Extra stuff and tips
+
+*Terrain should be non-metallic → keep Metallic (B channel) at or near black.
+
+*Roughness controls shine: lighter = dull dirt, darker = wet/muddy.
+
+*Use subtle normals—strong normals look crunchy at distance.
+
+*Match all four terrain layers for smooth blending between heights.
+
+*Test at different windlight / EEP settings—PBR reacts strongly to lighting.
+
+
+
+That’s it. Paint smart, keep it subtle, and let the lighting do the heavy lifting.
+
+HAVE FUN AND STAY AWESOME! ♥
