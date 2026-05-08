@@ -1,5 +1,8 @@
 # AVsitter Custom Sequenced Animations
 
+**[MOVED]** The custom sequenced AVsitter animations have moved to a separate repository
+at [AVsitter Sequenced Animations Repository](https://github.com/missyrestless/AVsequences#readme).
+
 These folders contains `AVpos` and `[AV]sequence_settings` notecards for use with
 the `AVsitter2` plugin `[AV]sequence` to provide animation sequences for several
 vendor's dialog menus. In addition, an `autoplay` script is provided to automatically
