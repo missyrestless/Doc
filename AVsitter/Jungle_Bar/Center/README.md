@@ -69,6 +69,15 @@ Drop the `autoplay` script into each of the linked prims you configured above.
 When an avatar sits on any of the `autoplay` configured center poles, the
 animation sequence for that pole will automatically play.
 
+## Second Life Marketplace Listings
+
+The following custom sequenced animations are available on the Second Life Marketplace:
+
+- [Nerenzo Orgy Towel Sequenced Customization Marketplace Listing](https://marketplace.secondlife.com/p/AVsitter-Sequences-for-Nerenzo-Orgy-Towel/27945140)
+- [Nerenzo Hot Bangers Pool Sequenced Customization Marketplace Listing](https://marketplace.secondlife.com/p/AVsitter-Sequences-for-Nerenzo-Hot-Bangers-Pool/27942775)
+- [Cuming Soon Super Smash Couch Sequenced Customization Marketplace Listing](https://marketplace.secondlife.com/p/AVsitter-Sequences-for-Cuming-Soon-Super-Smash-Couch/27943028)
+- [Lalou 3some Outdoor Shower Sequenced Customization Marketplace Listing](https://marketplace.secondlife.com/p/AVsitter-Sequences-for-Lalou-3some-Outdoor-Shower/27944763)
+
 ## Currently Supported Products
 
 `AVsitter` customized animation sequences are available for the following products:

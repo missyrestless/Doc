@@ -7,6 +7,11 @@ the Lalou 3some Outdoor Shower dialog menus.
 This `AVsitter` customization allows greater freedom of personal interaction in the
 shower, eliminating the need to navigate dialog menus during moments of intimacy.
 
+The notecards and scripts for this customization of the Lalou 3some Outdoor Shower
+are available on the Second Life Marketplace at:
+
+[https://marketplace.secondlife.com/p/AVsitter-Sequences-for-Lalou-3some-Outdoor-Shower/27944763](https://marketplace.secondlife.com/p/AVsitter-Sequences-for-Lalou-3some-Outdoor-Shower/27944763)
+
 **[Note:]** Currently this customization is for the Lalou 3some Outdoor Shower
 with GloryHole. Adjustments to the notecards will be necessary to enable animation
 sequences in the outdoor shower without glory hole.
@@ -31,6 +36,10 @@ Sequences are configured for the following menus:
 - Variations of these for a 3rd person in the shower
 
 ## Download the script and customized notecards
+
+Purchase the packaged product for this customization of the Lalou 3some Outdoor Shower at
+[https://marketplace.secondlife.com/p/AVsitter-Sequences-for-Lalou-3some-Outdoor-Shower/27944763](https://marketplace.secondlife.com/p/AVsitter-Sequences-for-Lalou-3some-Outdoor-Shower/27944763)
+or download them and upload to Second Life as follows:
 
 Download the `[AV]sequence` plugin script:
 
@@ -86,6 +95,15 @@ wget -q -O 'autoplay' https://raw.githubusercontent.com/missyrestless/Doc/refs/h
 The `autoplay` script detects the gender of the sitter and plays the appropriate sequence.
 In addition, it detects the number of sitters currently on the object and plays the couples
 animation sequence if more than 1 sitter is seated.
+
+## Second Life Marketplace Listings
+
+The following custom sequenced animations are available on the Second Life Marketplace:
+
+- [Nerenzo Orgy Towel Sequenced Customization Marketplace Listing](https://marketplace.secondlife.com/p/AVsitter-Sequences-for-Nerenzo-Orgy-Towel/27945140)
+- [Nerenzo Hot Bangers Pool Sequenced Customization Marketplace Listing](https://marketplace.secondlife.com/p/AVsitter-Sequences-for-Nerenzo-Hot-Bangers-Pool/27942775)
+- [Cuming Soon Super Smash Couch Sequenced Customization Marketplace Listing](https://marketplace.secondlife.com/p/AVsitter-Sequences-for-Cuming-Soon-Super-Smash-Couch/27943028)
+- [Lalou 3some Outdoor Shower Sequenced Customization Marketplace Listing](https://marketplace.secondlife.com/p/AVsitter-Sequences-for-Lalou-3some-Outdoor-Shower/27944763)
 
 ## Currently Supported Products
 

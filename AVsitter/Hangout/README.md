@@ -71,6 +71,15 @@ avatar will cycle through all the animations in that submenu. Cycle times are cu
 set to 60 seconds with menu arrows to step to the next animation, previous animation,
 or pause animation sequencing.
 
+## Second Life Marketplace Listings
+
+The following custom sequenced animations are available on the Second Life Marketplace:
+
+- [Nerenzo Orgy Towel Sequenced Customization Marketplace Listing](https://marketplace.secondlife.com/p/AVsitter-Sequences-for-Nerenzo-Orgy-Towel/27945140)
+- [Nerenzo Hot Bangers Pool Sequenced Customization Marketplace Listing](https://marketplace.secondlife.com/p/AVsitter-Sequences-for-Nerenzo-Hot-Bangers-Pool/27942775)
+- [Cuming Soon Super Smash Couch Sequenced Customization Marketplace Listing](https://marketplace.secondlife.com/p/AVsitter-Sequences-for-Cuming-Soon-Super-Smash-Couch/27943028)
+- [Lalou 3some Outdoor Shower Sequenced Customization Marketplace Listing](https://marketplace.secondlife.com/p/AVsitter-Sequences-for-Lalou-3some-Outdoor-Shower/27944763)
+
 ## Currently Supported Products
 
 `AVsitter` customized animation sequences are available for the following products:

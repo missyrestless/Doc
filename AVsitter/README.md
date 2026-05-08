@@ -1,8 +1,9 @@
 # AVsitter Custom Sequenced Animations
 
-These folders contains `AVpos` and `[AV]sequence_settings` notecards for use
-with the `AVsitter2` plugin `[AV]sequence` to provide animation sequences for
-several vendor's dialog menus.
+These folders contains `AVpos` and `[AV]sequence_settings` notecards for use with
+the `AVsitter2` plugin `[AV]sequence` to provide animation sequences for several
+vendor's dialog menus. In addition, an `autoplay` script is provided to automatically
+detect the gender of the sitter and start the appropriate animation sequence.
 
 Animation sequenced `AVsitter` customization allows greater freedom of personal
 interaction, eliminating the need to navigate dialog menus during moments of intimacy.
@@ -24,6 +25,15 @@ wget -q -O '[AV]sequence' https://raw.githubusercontent.com/AVsitter/AVsitter/re
 
 Each of the folders here contains a customized `[AV]sequence_settings` notecard
 and a customized `AVpos` notecard specifically tailored for the product.
+
+## Second Life Marketplace Listings
+
+The following custom sequenced animations are available on the Second Life Marketplace:
+
+- [Nerenzo Orgy Towel Sequenced Customization Marketplace Listing](https://marketplace.secondlife.com/p/AVsitter-Sequences-for-Nerenzo-Orgy-Towel/27945140)
+- [Nerenzo Hot Bangers Pool Sequenced Customization Marketplace Listing](https://marketplace.secondlife.com/p/AVsitter-Sequences-for-Nerenzo-Hot-Bangers-Pool/27942775)
+- [Cuming Soon Super Smash Couch Sequenced Customization Marketplace Listing](https://marketplace.secondlife.com/p/AVsitter-Sequences-for-Cuming-Soon-Super-Smash-Couch/27943028)
+- [Lalou 3some Outdoor Shower Sequenced Customization Marketplace Listing](https://marketplace.secondlife.com/p/AVsitter-Sequences-for-Lalou-3some-Outdoor-Shower/27944763)
 
 ## Currently Supported Products
 
