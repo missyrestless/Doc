@@ -1,0 +1,58 @@
+                                                  GENUS MORPH 
+                                ...make your own rare personal heads...
+                             
+    GENUS is very excited to introduce their newest Head:  GENUS MORPH
+    
+Unlike any other Genus head, GENUS MORPH gives you the freedom to  build YOUR own head. Let your Creativity Flow.
+
+
+How to build your new Genus Morph Head
+----------------------------------------------------
+
+SELECT YOUR HEAD SHAPE
+You have options for Oval, Square or Triangle. Right click and add. 
+
+Step 1: Select your BOM option
+---------- For 4K, click the 4K so that it has a check mark in it and click the 4K Bom button so that it has a check mark in the circle. --> https://gyazo.com/c60e6dc6a74dfc7ee0d99f3ad21db043
+
+----------  For regular Bom, uncheck the 4K button and click the bom button so that it has a check mark in the circle. --> https://gyazo.com/9024a8245d0d36944e1473d2894b4ecb
+
+Step 3: Add your skin according to your settings. 4K skin for 4K  settings and regular Bom for Regular Bom settings (note: you can swap them at any time)
+
+SELECT YOUR FEATURES
+You have options for ears, eyes, noses, and mouths.  They are labeled as EarMorph, EyeMorph, NoseMorph and MouthMorph. 
+
+Ears: Human Ears, Elf Ears, Pixie Ears, Human Medium Tunnels, Human Large Tunnels and Human Extreme Tunnels
+Eyes:  Foxy, Puppy, Round, Almond and Monolid
+Noses: Aqualine, Bulbous, Button and Straight
+Mouth: Bow, Heavy, Natural and Natural with Lip Ring 
+
+Step 1: Right click on the ears that you have purchased and ADD. Wait a moment and the skin will appear
+Step 2. Right click on the eyes that you have purchased and ADD. Wait a moment and the skin will appear
+Step 3. Right click on the nose that you have purchased and ADD. Wait a moment and the skin will appear
+Step 4. Right click on the mouth that you have purchased and ADD. Wait a moment and the skin will appear
+
+Note: You can replace any aspect of the features by removing the item ro replace and right click and Add the replacement Item.
+
+EDITING YOUR HEAD
+
+Just like with your previous head, you can right click on your body then  click appearance then edit shape and modify all aspects of your head.
+
+THE HUD
+
+Genus Project has released an all new Hud. Right click and ADD your Universal Hud. 
+
+1. When it open you have the Bom Options.
+
+2. PARTS is for Genetic options such as I color and Sclera and Lacrimal options, You can also add teeth Type and tongue peircing options ( make sure that you added the teeth and tongue) . The option to remove the tongue and add and remove braces are in this section also
+
+3. LAYERS is where you go to add Makeup, Lashes, Brows and Head Decorations. In previous versions Opacity was managed in the Layer Control window. Now you can manage it right below the object, such as eyeshadow or lipstick.
+
+4. MATERIALS is where you go to manage Materials
+
+5. SETTINGS At the top right of your hud is the Settings Tab. This is where you go to manage layers, use your color palette for tinting aspects of your head. This Tab will also give you options for rotating ears, hiding ears and hiding your scalp. 
+
+NOTE: Changing your Head base will require that you reapply your bom settings.
+
+ 
+
