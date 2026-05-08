@@ -1,0 +1,76 @@
+--------------------------------------------------------------
+Easy Streaming  TV (Rev. 5.11) - YouTube / DailyMotion / Vimeo / Twitch / More
+--------------------------------------------------------------
+
+The Easy Streaming TV supports many streaming services!
+
+    YouTube
+    Vimeo
+    Twitch
+    Daily Motion
+    Shoutcast (1000's of stations)
+    Pluto TV
+    Tubi TV
+    Kosmi TV Sharing
+    Kick Streaming Service
+
+The Easy Streaming TV is a simple, configurable TV that gives you fast and easy access to Streaming videos and playlists. No need to buy an expensive TV bogged down with tons of features and links you will never use. This TV will work on any land without having to enter cumbersome media properties. You will never have to deed this TV to your land to make it work. The TV displays its videos on the full screen through a rock solid encrypted server to make viewing of high quality videos safe and easy. Videos can be synchronized for all TV watchers.
+
+Two TVs in the Box:
+------------------
+
+This product comes with two versions of the TV. One version has the stand attached, and the other one is for wall mounting, without the TV stand. Rez the appropriate TV and resize it to fit your needs. Also included in the box is a default example playlist, which you can use as a template to add your own playlist notecards to the TV. The TV comes with a simple TV Remote HUD which attaches to the lower right of your screen. The TV also comes with a modern "Mini Remote" presentation HUD which is simplier and can be rezzed inworld. Many more features are included with this TV. See the Help Kiosk at the SimCaster store inside SecondLife for FAQ and other helpful information regarding this TV.
+
+How to Use:
+----------
+
+To turn the TV on, click anywhere on the TV frame. The power light will change to green. When the TV menu comes up, you can enter your Streaming  URL, select a Streaming  URL from the default playlist, use the YouTube web interface, or even call up a standard web browser. You can also choose Play, Loop, Zoom the screen or change any of the options. URLs can be for a single Streaming video or a mixed Streaming playlist. 
+
+You can view videos in different different ways:
+
+1. Enter a YouTube URL directly. Just copy the YouTube URL from your favorite browser and paste it into the pop-up box.
+
+2.  Playlist (Notecard inside the TV). Drop a playlist notecard on the TV with a list of videos. Then select your video from the "Playlist" menu.
+3. Standard YouTube web interface.
+
+When inputting a URL directly or using a playlist, URLs can be for a single YouTube or streaming video or a YouTube / Streaming playlist.  Add as many playlist notecards to the TV as you want.  Each playlist notecard can contain up to 50 videos.  You can use the menu to switch between any of the playlists added to the TV.  You can select any individual videos through the playlist menu, or play all videos.
+
+Land Media Ready with Connector:
+-------------------------------
+
+The Easy YouTube TV uses Prim Based Media which makes the setup and use of the TV very easy. There are times where you will want more out of this TV than the Easy YouTube TV can offer. With the purchase of the optional LAND MEDIA CONNECTOR, you can supercharge this TV and transform it into a more robust LAND MEDIA TV. The TV is then played using your Parcel Media settings. Performance features include:
+
+* The Land Media TV will allow you to watch a video seamlessly anywhere on your parcel.
+* You can rez as many TVs as you want and let them all play the same picture at the same time without any distortion.
+* A Land Media based TV makes for perfect synchronized viewing of videos when more than one person is present.
+
+Helpful Hints:
+-------------
+
+You can choose "play all" from the playlist, and have the TV play all the videos on the notecard playlist. YouTube videos from the playlist are sent to the YouTube API and presented as a YouTube native playlist.
+
+YouTube often displays a panel of recommended videos at the end of your video playback. If you would like to view one of the recommended videos, click once on the video you want and press the [Space] bar on your keyboard to start it.
+
+Synchronized viewing: Two or more people can enjoy watching the TV together. This is a great way to share an intimate time together with a friend or partner, or to operate the TV as a movie screen. First, load the proper video. Click "Stop" from the menu.  Ask everyone to click on the TV so they can see the paused video screen, click on "Play" in the menu.  The video will start to play for everyone watching.
+
+If any problems arise, use the refresh button (circular arrow) from the mini-browser menu at the top of the TV. Also try using the home button on the mini-browser. If all else fails, reset the TV from the options menu. These options will fix almost anything.
+
+To hear the sound from your video anywhere on the parcel, you can go to the Sound & Media settings and change the "Starts getting quieter" to 512 and "Completely disappears at" to 512 in your viewer preferences.
+
+Other Options:
+-------------
+
+* Color changing on most TV Styles
+* Set the TV to zoom in on the screen when clicked.
+* You can rez a TV Remote HUD which operates the TV from a distance.
+* You can set the access to OWNER, GROUP, ACCESS LIST or ALL.
+
+---------------------------------
+
+Thanks for purchasing this TV. We hope you will enjoy this TV a long time to come!
+
+Join our group to receive free updates to this product and to receive special product offers.
+
+Thanks,
+Maui Mike
+SimCaster LLC.
