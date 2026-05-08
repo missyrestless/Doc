@@ -75,6 +75,7 @@ or pause animation sequencing.
 - [Nerenzo Hot Bangers Pool](https://github.com/missyrestless/Doc/tree/main/AVsitter/Bangers_Pool)
 - [Nerenzo Orgy Towel](https://github.com/missyrestless/Doc/tree/main/AVsitter/Towel)
 - [Nerenzo little hangout](https://github.com/missyrestless/Doc/tree/main/AVsitter/Hangout)
+- [Nerenzo Waterfall Tamdi](https://github.com/missyrestless/Doc/tree/main/AVsitter/Waterfall)
 
 ### Customized notecards providing sequenced animations for DaD furniture
 

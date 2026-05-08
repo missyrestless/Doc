@@ -37,7 +37,6 @@ To configure a Tm Creation Adult Sandcastle with AVsitter sequences:
 - Using `Ctrl .` (press both the Ctrl key and the Period key) locate the notecards (Link number 2)
 - Delete the `AVpos` and `[AV]sequence_settings` notecards in the Contents tab
 - Drag and Drop the `[AV]sequence_settings` notecard into the Contents tab
-- Drag and Drop the `[AV]sequence` plugin script into the Contents tab
 - Drag and Drop the `AVpos` notecard into the Contents tab
 - Close the `Edit` window
 - Wait for the scripts to reset (this takes a few minutes)
@@ -78,6 +77,7 @@ animation sequence if more than 1 sitter is seated.
 - [Nerenzo Hot Bangers Pool](https://github.com/missyrestless/Doc/tree/main/AVsitter/Bangers_Pool)
 - [Nerenzo Orgy Towel](https://github.com/missyrestless/Doc/tree/main/AVsitter/Towel)
 - [Nerenzo little hangout](https://github.com/missyrestless/Doc/tree/main/AVsitter/Hangout)
+- [Nerenzo Waterfall Tamdi](https://github.com/missyrestless/Doc/tree/main/AVsitter/Waterfall)
 
 ### Customized notecards providing sequenced animations for DaD furniture
 
