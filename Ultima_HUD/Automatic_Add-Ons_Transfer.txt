@@ -1,0 +1,29 @@
+_____________________________________________________________
+
+AUTOMATIC ADD-ONS TRANSFER - ULTIMA HUD
+_____________________________________________________________
+Versions compatibility :
+3.10 and later
+–––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+How to automatically transfer your add-ons while updating your Ultima HUD :
+
+-0- Be sure to be in a script enabled area.
+
+-1- Be sure to use both compatible HUD versions (3.10 and up)
+
+-2- Keep on screen or wear your current version - the older one- of the HUD (if you just attached it, wait it to show "Connected !")
+
+-3- Unpack the new version received from our server, or if you already unpacked it, find the correspondent folder in your inventory.
+
+-4- Select the HUD in that folder, right click it and choose "Add" in order to wear it over the previous version.
+
+-5- Wait add-ons transfer to be completed, the older HUD will detach by itself.
+
+-6- Replace your old Implant by the new one corresponding with the update version number.
+
+Now you are ready to use the latest version of Ultima HUD, and you'll find all your previous add-ons in it !
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––
+*NOTE*
+Earlier versions than 3.10 may re-install their add-ons manually

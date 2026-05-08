@@ -1,0 +1,42 @@
+__________________________________________________________
+
+Ultima HUD ADD-ON - Invisible Cage
+__________________________________________________________
+
+Created by Taisha Emerald
+October 2017 version
+www.magic-emerald.com
+
+Mainstore :
+􀀔
+__________________________________________________________
+[SET UP]
+
+IMPORTANT : Be sure to be in a rez and script allowed area and wear the latest version of Ultima HUD
+
+Rez the object "*Ultima HUD* Add-On Invisible Cage" included in this package and TOUCH IT to transfer its contents to your Ultima HUD.
+Once the new features added to your HUD, touch again the device to delete it. Keep the copy of your device in you inventory.
+
+Now you can access to the new features added by clicking the HUD + button (just under its logo), this add-on will be listed in "Attacks" chapter.
+__________________________________________________________
+[FEATURES DETAILS & USAGE]
+
+▶ Use the add-on ◀ 
+Click the + button of your Ultima HUD and select the "Attacks" chapter, then click on "InvisiCage" button and select a target.
+
+▶ Details ◀ 
+Once the target selected, its moves will be blocked. This cage has the particularity to be invisible even with ctrl-alt-t and won't show events in the bumps & collisions window, making it almost undetectable.
+
+▶Stop ◀ 
+To end the attack, simply click on the "STOP" button of your HUD.
+__________________________________________________________
+[SUPPORT]
+
+If you have any questions or experience an issue with this item, please contact Taisha Emerald, we'll get back to you as soon as possible.
+You can also start a live chat at https://tawk.to/taisha.emerald
+__________________________________________________________
+[MORE]
+
+You can find more Magic Emerald products at our in-world main-store or in our SL Marketplace web store at :
+
+https://marketplace.secondlife.com/stores/44610?

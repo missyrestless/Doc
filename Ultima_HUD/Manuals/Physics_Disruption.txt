@@ -1,0 +1,38 @@
+__________________________________________________________
+
+Ultima HUD ADD-ON - Physics Disruption 1.0
+__________________________________________________________
+
+Created by Taisha Emerald
+www.magic-emerald.com
+
+Mainstore :
+􀀔
+__________________________________________________________
+[SET UP]
+
+IMPORTANT : Be sure to be in a rez and script allowed area and wear the latest version of Ultima HUD
+
+Rez the object "*Ultima HUD* Add-On - Physics Distruption1.0" included in this package and TOUCH IT to transfer its contents to your Ultima HUD.
+Once the new features added to your HUD, touch again the device to delete it. Keep the copy of your device in you inventory.
+
+Now you can access to the new features added by clicking the HUD + button (just under its logo), these add-ons will be listed in the "Defense" chapter.
+__________________________________________________________
+[FEATURES DETAILS & USAGE]
+
+▶ DiruptShield ◀ 
+Click the + button of your Ultima HUD, select the "Defenses" chapter and click on "DisruptShield" to create an invisible magnetic shield around you which will push away all physical objects in a 20 meters range. Works on bullets, physical followers, moving vehicles, physical pets, any physical object. Good complement to a classic shield. Works only in push enabled zones, does not work on objects owned by you. Press the HUD "STOP" button to remove the shield. A timer is also included, which will make it automatically die alone after 5 minutes.
+
+▶PhysicDisrupt ◀ 
+Click the + button of your Ultima HUD, select the "Defenses" chapter and click on "PhysicDisrupt" to access the list of physical objects in a 96 meters range. Then, select one object in the list to carry it to the edge of world, this will have for effect to return the object to its owner's inventory. Works only in push enabled zones. Press the HUD "STOP" button to end it.
+
+▶PhysCleaner◀ 
+Click the + button of your Ultima HUD, select the "Defenses" chapter and click on "PhysCleaner" to create two giant walls which will push physical prims to the edge of world and return them to their owner's inventory (example : griefers physical prim on a sandbox). Press the HUD "STOP" button to end it.
+__________________________________________________________
+[SUPPORT]
+If you have any questions or experience an issue with this item, please contact Taisha Emerald, we'll get back to you as soon as possible.
+__________________________________________________________
+[MORE]
+You can find more Magic Emerald products at our in-world main-store or in our SL Marketplace web store at :
+
+https://marketplace.secondlife.com/stores/44610?

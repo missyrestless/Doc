@@ -1,0 +1,83 @@
+__________________________________________________________
+
+Ultima HUD ADD-ON - Machine Gun
+__________________________________________________________
+
+Created by Taisha Emerald
+www.magic-emerald.com
+
+Mainstore :
+􀀔
+__________________________________________________________
+[SET UP]
+
+IMPORTANT : Be sure to be in a rez and script allowed area and wear the latest version of Ultima HUD
+
+Rez the object "*Ultima HUD* Add-On - Machine Gun" included in this package and TOUCH IT to transfer its contents to your Ultima HUD.
+Once the new features added to your HUD, touch again the device to delete it. Keep the copy of your device in you inventory.
+
+Now you can access to the new features added by clicking the HUD + button (just under its logo), this add-on will be listed in "Attacks" chapter.
+__________________________________________________________
+[CREATE A NEW MACHINE GUN]
+
+▶ Rez the Machine Gun ◀ 
+Click the + button of your Ultima HUD and select the "Attacks" chapter, then click on "MachineGun" to rez it in front of you. While the machine gun is rezzed, you'll see its menu appear, you can also access it anytime by clicking the machine gun.
+
+*Note*
+Each machine gun is composed of 3 different parts, if you want to move the gun to an other location, or adjust its position, be sure to select those 3 parts in edit mode prior to move them.
+__________________________________________________________
+[MENU]
+
+Access the menu anytime by clicking the machine gun.
+
+Available buttons and their usage :
+
+▶ *START* ◀ Click it to start the machine gun, by default the machine gun will scan around for any avatar (except you as owner) Once pressed the button *START* will change for *STOP* button.
+
+▶ *STOP* ◀ Click it to stop the machine gun.
+
+▶ WhiteList ◀ Click to access the white list sub-menu.
+▷ +ADD+ ▷ Click to add someone in the white list, enter the name in the text box.
+▷ View ▷ Click to view the white list (displayed in chat)
+▷ -DELETE- ▷ Click to remove names from the white list, select the desired name in the next dialog box.
+▷ Load ▷ Click to load the white list from an other machine gun in the region.
+▷ Group ▷ Click and activate or disable white list by group with ON or OFF
+
+*NOTE* By default your name is in the white list (as owner), if you want the machine gun to attack yourself, just remove your name from the list.
+
+▶ Laser ◀ Click to activate or deactivate the laser with ON or OFF buttons in the next dialog box.
+
+▶ Targets ◀ Click to and choose the target selection mode.
+▷ Auto ▷ Activate it to make the machine gun automatically target the closest avatar that is not in the white list.
+▷ Select ▷ Activate it to manually select an avatar in range as target.
+
+▶ Range ◀ Click it to select the scanning and shooting range of the machine gun, from 5 to 90 meters.
+
+▶ BulletType ◀ Click to select the bullet type, any combination is possible
+▷ Push ▷ Bullets will have a small push effect (only in push enabled areas if you are not the land owner)
+▷ Damage ▷ Bullets does Linden damage
+*Following options are effective only if you have the appropriate rights over the land :
+▷ Eject ▷ Bullets eject the target from the land
+▷ Ban ▷ Bullets banish the target from the land
+▷ TP-Home ▷ Bullets teleport to home the target
+
+▶ MenuAccess ◀ Click to select who can access the menu
+▷ Owner ▷ Only you can access the menu
+▷ Group ▷ Only the same group can access the menu (by default the group set is the one you had active while you rezzed the machine gun, to change it, edit the machine gun and change the group in general tab)
+▷ WhiteList ▷ Only the persons listed in the white list can access the menu.
+▷ Everybody ▷ Anyone can access the menu (not recommended)
+
+▶ Destructible ◀ Activate or deactivate it through ON / OFF buttons, while activated the machine gun is destructible using ranged weapons or collisions. When destructed, the machine gun will re-generate alone after 60 seconds, keeping all your settings in memory.
+
+▶ Meter ◀ A complement to the destructible option. Activated to display the machine gun "life" over it, using life bar and percentage.
+
+▶ !DELETE! ◀ Click it to delete the machine gun.
+
+__________________________________________________________
+[SUPPORT]
+If you have any questions or experience an issue with this item, please contact Taisha Emerald, we'll get back to you as soon as possible.
+__________________________________________________________
+[MORE]
+You can find more Magic Emerald products at our in-world main-store or in our SL Marketplace web store at :
+
+https://marketplace.secondlife.com/stores/44610?

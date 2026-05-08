@@ -1,0 +1,36 @@
+__________________________________________________________
+
+Ultima HUD ADD-ON - No Push Orbiter
+__________________________________________________________
+
+Created by Taisha Emerald
+www.magic-emerald.com
+
+Mainstore :
+􀀔
+__________________________________________________________
+[SET UP]
+
+IMPORTANT : Be sure to be in a rez and script allowed area and wear the latest version of Ultima HUD
+
+Rez the object "*Ultima HUD* Add-On - No Push Orbiter" included in this package and TOUCH IT to transfer its contents to your Ultima HUD.
+Once the new features added to your HUD, touch again the device to delete it. Keep the copy of your device in you inventory.
+
+Now you can access to the new features added by clicking the HUD + button (just under its logo), this add-on will be listed in "Attacks" chapter.
+__________________________________________________________
+[FEATURES DETAILS & USAGE]
+
+▶ Start attack ◀ 
+Click the + button of your Ultima HUD and select the "Attacks" chapter, then click on "NoPushOrbit", finally select the target to start the attack.
+This orbiter has been designed to work in push restricted areas.
+
+▶Stop ◀ 
+Simply click the "STOP" button of your HUD.
+__________________________________________________________
+[SUPPORT]
+If you have any questions or experience an issue with this item, please contact Taisha Emerald, we'll get back to you as soon as possible.
+__________________________________________________________
+[MORE]
+You can find more Magic Emerald products at our in-world main-store or in our SL Marketplace web store at :
+
+https://marketplace.secondlife.com/stores/44610?

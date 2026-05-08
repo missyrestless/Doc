@@ -1,0 +1,49 @@
+Ultima HUD 3 R-Evolution
+Created by Taisha Emerald
+www.magic-emerald.com
+__________________________________________________________
+[MAGIC EMERALD]
+
+Mainstore :
+􀀁
+
+Combat Area :
+􀀀
+
+Marketplace :
+https://marketplace.secondlife.com/stores/44610
+__________________________________________________________
+[QUICK START]
+
+*IMPORTANT* Prior to wear your HUD for the first time, be sure to be in a script enabled area.
+
+Simply wear Ultima HUD and the Magic Emerald Implant*
+(Default UI position Attach to HUD >> Top Left)
+__________________________________________________________
+
+*NOTE* The HUD can work without the implant for most of its contents.
+The implant is needed only for the following features :
+-Drag Avatar
+-No-Rez Particles Attacks
+-Mouse look shooters
+-Extra implant plugins
+__________________________________________________________
+
+Click the "?" button on the HUD to access the integrated help and learn everything about Ultima HUD 3.
+Click the "?" icon on the top right of each page to report directly to the correspondent help section.
+
+Use to the HUD settings to resize and customize your HUD options.
+Re-position your HUD to its optimal position :
+􀀂
+__________________________________________________________
+[RLV ENABLED VIEWERS ENHANCEMENTS]
+
+Ultima HUD R-Evolution is RLV (Restrained Life Viewer) compatible and offers many advantage if you have RLV active, as example it allow you to auto sit on objects rezzed from the HUD that requires it.
+
+To enable RLV on Firestrom :
+Viewer -> Preferences -> Firestorm (General tab) -> Check the "Allow Remote Script Viewers Controls (RLVa)" box (the first box)-> Apply -> Ok.
+__________________________________________________________
+
+Welcome on Ultima HUD 3 R-Evolution !
+__________________________________________________________
+©Copyright Magic Emerald

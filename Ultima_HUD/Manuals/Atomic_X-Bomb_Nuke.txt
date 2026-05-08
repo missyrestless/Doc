@@ -1,0 +1,60 @@
+__________________________________________________________
+
+Ultima HUD ADD-ON - Atomic X-Bomb Nuke
+__________________________________________________________
+
+Created by Taisha Emerald
+version 1.0 .190610
+www.magic-emerald.com
+
+Mainstore :
+􀀔
+__________________________________________________________
+[SET UP]
+
+IMPORTANT : Be sure to be in a rez and script allowed area and wear the latest version of Ultima HUD
+
+Rez the object "*Ultima HUD* Add-On X-Bomb" included in this package and TOUCH IT to transfer its contents to your Ultima HUD.
+Once the new features added to your HUD, touch again the device to delete it. Keep the copy of your device in you inventory.
+
+Now you can access to the new features added by clicking the HUD + button (just under its logo), this add-on will be listed in "Attacks" chapter.
+__________________________________________________________
+[FEATURES DETAILS & USAGE]
+
+USAGE :
+▶ Rez the X-Bomb ◀ 
+Click the + button of your Ultima HUD and select the "Attacks" chapter, then click on "X-Bomb".
+
+▶ Set-up a countdown ◀ 
+Touch the X-Bomb metallic case to open it. A dialog box will show up with different predefined countdowns (from 10 sec. to 60 min.)
+Select the countdown time of your choice. You can also define a custom countdown by selecting "*Custom*" and then enter the desired value in seconds in the next text-box, and submit.
+Once selected, the countdown will start immediately and display on screen.
+
+▶ Stop ◀ 
+To stop the countdown, simply click the screen and select "STOP" in the dialog box.
+
+▶ Abort / Delete ◀ 
+Select "!DELETE!" to erase the X-Bomb nuke case.
+
+OPTIONS :
+▶ Restart the countdown (after stopping) ◀ 
+Touch the screen, and select "Restart" in the dialog box to restart a previously stopped countdown, you can also select a new countdown time.
+
+▶ Open / Close the metallic case ◀
+Open / Close the metallic case by simply touching it, it won't affect the countdown which will continue if already started, 
+
+EXPLOSION :
+At the end of the countdown, the X-Bomb will explode, creating a huge fireball with push effects in a wide range (>= 100m.) affecting all surrounding avatars and physical objects (including you).
+
+CRATER :
+The explosion will leave behind a giant crater which will self delete after 120 seconds (2 minutes)
+__________________________________________________________
+[SUPPORT]
+
+If you have any questions or experience an issue with this item, please contact Taisha Emerald, we'll get back to you as soon as possible.
+You can also start a live chat at https://tawk.to/taisha.emerald
+__________________________________________________________
+[MORE]
+You can find more Magic Emerald products at our in-world main-store or in our SL Marketplace web store at :
+
+https://marketplace.secondlife.com/stores/44610?

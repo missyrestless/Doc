@@ -1,0 +1,55 @@
+__________________________________________________________
+
+Ultima HUD Add-on Weather
+__________________________________________________________
+
+Created by Taisha Emerald
+Orginal idea from Tanyja
+www.magic-emerald.com
+
+Mainstore :
+􀀔
+Combat region :
+􀀓
+
+__________________________________________________________
+[DESCRIPTION]
+
+This add-on includes 2 scenic spells (non attacking), with the most realistic snow and rain effect currently available in SL.
+Full mesh animated effects, low scripted and low lag, without particles.
+__________________________________________________________
+[SET UP]
+
+IMPORTANT : Be sure to be in a rez and script allowed area and wear the latest version of Ultima HUD
+
+Rez the object "*Ultima HUD* Add-On - Weather Spells" included in this package and TOUCH IT to transfer its contents to your Ultima HUD.
+Once the new features are added to your HUD, touch again the device to delete it. Keep the copy of your device in you inventory.
+
+Now you can access to the new features added by clicking the HUD + button (just under its logo), this add-on will be listed in "Spells" chapter.
+__________________________________________________________
+[FEATURES DETAILS & USAGE]
+
+▶ SnowSpell ◀ 
+
+Creates a giant snow storm around you, clouds progressively appear in the sky and snow begin to fall and cover the ground.
+
+▶ RainSpell ◀ 
+
+Clouds progressively appear in the sky and rain begin to fall, great sounds and drops effects on the ground. Thunders randomly hit the ground.
+
+▶Stop ◀ 
+
+To end both of the spells, click the STOP button of your HUD. Snow or rain will progressively stop.
+
+__________________________________________________________
+[SUPPORT]
+
+If you have any questions or experience an issue with this item, please contact Taisha Emerald, we'll get back to you as soon as possible.
+
+__________________________________________________________
+[MORE]
+
+You can find more Magic Emerald products at our in-world main-store or in our SL Marketplace web store at :
+
+https://marketplace.secondlife.com/stores/44610?
+

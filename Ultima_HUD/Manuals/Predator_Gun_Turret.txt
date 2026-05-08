@@ -1,0 +1,100 @@
+__________________________________________________________
+
+Ultima HUD ADD-ON - M-268 Predator Gun Turret
+__________________________________________________________
+
+Created by Taisha Emerald
+October 2017 - Version 1.1
+www.magic-emerald.com
+
+Mainstore :
+􀀔
+__________________________________________________________
+[SET UP]
+
+IMPORTANT : Be sure to be in a rez and script allowed area and wear the latest version of Ultima HUD
+
+Rez the object "*Ultima HUD* Add-On M-268 Predator Turret" included in this package and TOUCH IT to transfer its contents to your Ultima HUD.
+Once the new features added to your HUD, touch again the device to delete it. Keep the copy of your device in you inventory.
+
+Now you can access to the new features added by clicking the HUD + button (just under its logo), this add-on will be listed in "Attacks" chapter.
+__________________________________________________________
+[FEATURES DETAILS & USAGE]
+
+▶ Rez the turret ◀ 
+Click the + button of your Ultima HUD and select the "Attacks" chapter, then click on "M-268 Turret" to rez a new gun turret. Once rezzed the menu will pop-up.
+
+▶ Menu buttons ◀ 
+
+★ Range ★
+Click and select the detection / shoot range of the M-268 Predator Gun Turret, in meters, from 20m. to 300m.
+
+★ Rate ★
+Select the fire rate, in seconds, from 0.1s. to 2.0s.
+
+★ Select Target ★
+Click to manually select a target (avatar or object).
+By default, once activated, the M-268 Predator Gun Turret will fire at the closest avatar, but using the "Select Target" button you can make it shoot at a desired target.
+
+★ White List ★
+Click to access the white list sub-menu, an avatar added into the white list won't be detected as a target by the M-268 Predator Gun Turret in its automatic mode.
+
+☆ + ADD + ☆
+Click to access the text-box and enter the username of the avatar you wish to add to the white list, please note that it is case sensitive.
+
+☆ - REMOVE - ☆
+Click and select a name in the next dialog box to remove it from the white list.
+
+☆ << MENU ☆
+Click to go back to the main menu.
+
+★ >ON< / >OFF< ★
+☆ >ON< ☆
+Click to activate the M-268 Predator Gun Turret. Once activated it will scan for avatars in range and shoot at them automatically.
+☆ >OFF< ☆
+Click to de-activate the turret / stop shooting at a selected target.
+
+★ !DELETE! ★
+Click to delete the M-268 Predator Gun Turret.
+
+★ > EXIT < ★
+Click to close the dialog box and exit the menu.
+
+▶ Delete the turret ◀ 
+To delete the gun turret, click the "!DELETE!" button in its menu.
+
+__________________________________________________________
+[TIPS]
+
+▶ Animated control screen ◀ 
+You can easily know if your M-268 Predator is active by looking at its animated control screen, which will power up while it is active.
+
+▶ Move the turret ◀ 
+The M-268 Predator Gun Turret is made of a single linked mesh piece, which mean that you can move it at a desired position by editing it (right-click >> edit) the easiest way possible.
+__________________________________________________________
+[UPDATES]
+
+Free and automatic updates !
+Once a new version of the M-268 Predator Gun Turret is released, you will receive it automatically.
+
+To replace a previous version of an add-on in your Ultima HUD, you must first delete the older one from your HUD. To do that, click the "+" icon on your HUD to access the add-ons menu, then click "*DELETE*" in the dialog box, and select the add-on you wish to erase.
+You can now install the updated add-on following the set-up instructions provided in this notecard.
+
+Version History :
+
+2017-10-19 : Version 1.1 release.
+-Changes with the bullet scaling for more accuracy.
+-If too close, push away the target to be able to fire at it.
+-Added a "dead" animation while an avatar try to sit on the turret.
+
+2017-10-11 : Version 1.0 release.
+__________________________________________________________
+[SUPPORT]
+
+If you have any questions or experience an issue with this item, please contact Taisha Emerald, we'll get back to you as soon as possible.
+You can also start a live chat at https://tawk.to/taisha.emerald
+__________________________________________________________
+[MORE]
+You can find more Magic Emerald products at our in-world main-store or in our SL Marketplace web store at :
+
+https://marketplace.secondlife.com/stores/44610?
