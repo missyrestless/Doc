@@ -62,6 +62,8 @@ or pause animation sequencing.
   - [AVsitter/Cuming_Soon/Armchair](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Armchair)
   - [AVsitter/Cuming_Soon/BabyDoll](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/BabyDoll)
   - [AVsitter/Cuming_Soon/Quickie](https://github.com/missyrestless/Doc/tree/main/AVsitter/Cuming_Soon/Quickie)
+- Customized notecards providing sequenced animations for `Nerenzo Hot Bangers Pool`:
+  - [AVsitter/Bangers_Pool](https://github.com/missyrestless/Doc/tree/main/AVsitter/Bangers_Pool)
 - Customized notecards providing sequenced animations for `Nerenzo little hangout`:
   - [AVsitter/Hangout](https://github.com/missyrestless/Doc/tree/main/AVsitter/Hangout)
 - Customized notecards providing sequenced animations for `DaD Outdoor Jacuzzi Hot Tub`:
