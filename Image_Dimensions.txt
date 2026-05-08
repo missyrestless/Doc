@@ -1,0 +1,13 @@
+Search > Classifieds thumbnail - ~3:2 (101×69 pixels)
+Search > Classifieds expanded - ~4:3 (159×120 pixels)
+Search > Classifieds expanded > More Info - native aspect ratio
+Search > Destination Guide thumbnail - ~3:2 (101×69 pixels)
+Search > Destination Guide expanded - ~4:3 (159×120 pixels)
+Search > People - 1:1 (100×100 pixels)
+Search > Places expanded ~4:3 (159×120 pixels)
+Place Profile - ~3:2 (290×197 pixels)
+About Land > Options tab - ~4:3 (195×150 pixels)
+Profile > Picture - native aspect ratio; thumbnail cropped to 72×72 pixels; zoomed uncropped up to 300×300 pixels
+Profile > Real world picture - native aspect ratio; thumbnail cropped to 45×45 pixels; zoomed uncropped up to 300×300 pixels
+Profile > Picks thumbnail - 4:3 (60×45 pixels)
+Profile > Pick expanded - 4:3 (320×240 pixels)
