@@ -1,0 +1,142 @@
+
+V4.0 NEWEST FEATURES:
+- Dual-Function - Can play both singles and couples dances
+- Web-based sequencer allows you to customize up to 20 sequenced dance sets WITHOUT notecards. 
+- Lag-efficient tested for up to 1500+ animations. 
+- Shuffle All/Randomizer 
+
+Couples Dance Features: 
+- No Poseballs - Dance Anywhere
+- Auto-Alignment and move-lock
+- 3D (XYZ axis) Positional Fine Tuning w/ saving functionality for each avatar.
+- Alignment Presets available for Vista animations, Sync D'Motion and Abraminations
+
+Singles Dance Features:
+- Invite up to 30 avatars
+
+==============
+  SINGLE DANCE FAQ
+==============
+
+Q: Do I need RLV if I only use single dance animations? 
+
+A: No. The RLV requirement is ONLY if you plan to use the couples dance function. If you have no intentions of ever using the couples dance function, then you don't need it to use the HUD.  
+
+-------------------
+
+Q: Will dance animations from other brands work in the HUD? 
+
+A: Yes, the HUD is universal, just like how our dances will work in other HUDs because all poses/animations use .anim files. 
+*Important Note* Just make sure your dance animation is COPY.  Some older dances are no-copy/transfer only
+
+--------------------
+
+Q: How do I load my single dance animations into the HUD?
+
+A: Because the HUD is protected as no-mod, you must use the single loader HUD included in the pack. 
+
+1. Rez the 'Paragon Loader Single Dances v4 Max ~ 1000' HUD on the floor. 
+2. Drag all your dance animations into contents. 
+3. Once you are finished, pick the HUD up back into your inventory.
+4. Wear it with your main HUD and click it to load  
+5. Keep the loader for future updates. 
+
+---------------------
+
+Q: I have lots of dances. How many animations can the HUD hold?
+
+A: We stressed tested the HUD up to 1564 single dance animations and it remained lag-efficient. Any more may risk scripting errors. If anyone wants to test this beyond this feel free and let us know the results. We can always increase this limit depending on customer demand. 
+
+================
+  COUPLES DANCE FAQ
+================
+
+Q: What 3rd party couples dance brands are compatible? 
+
+A: The HUD is now universal to all copy/no transfer animation files with the personal loader. However, every brand has their own way of exporting couples dances into SL; therefore, not all couples animation will align properly., but now with the 3D XYZ Adjuster, you can fine-tune the animations to fit your needs. 
+
+Here is a list of major dance brands based on how well their couples dance animations will align.  
+
+Most Compatible Alignment (No Presets Needed) 
+★ Henmations 
+★ Humanoid 
+★ Mocap Animations  
+★ TIS 
+★ A&M Mocap  - Notes: Most animations align correctly. Minor alignment issues on a few but it happens on poseballs as well (e.g Tango). May need manual fine tuning with the XYZ 3d Adjuster 
+
+Presets Available for: 
+*Vista Animations
+*Sync D'Motion
+*Abranimations
+
+Semi-Compatible 
+○ Bits & Bobs
+  Notes: These are hit and miss. Some animations align (e.g - Lost), some are out of alignment (e.g - ballroom), and some are completely out of alignment unusable (e.g - flame).  Due to the varied offsets, we are not able to make presets for these, so you must manually fine tune with the 3D Adjuster.   
+
+-------------------------------------------
+Q: Do both couples need the HUD? 
+
+A: No. Only one person needs the main HUD (preferably the person who owns most of the animations). The owner of the main HUD can give out unlimited Partner HUDs. They are copy/transfer/no mod
+
+------------------------------------------
+Q: How do I load my Paragon couples dances into the HUD?
+
+A: For your convenience, we created pre-loaded dances in [Loader] HUDs (included in your dance packs you purchased). Check your couples dance packs for [Loader] Hud or have a dance pack redelivered for the most recent version.  
+
+https://gyazo.com/928430d40009314f5678e9aa5cd8957e
+
+Wear the [Loader] HUD with your main HUD for 1-click to load your dances. No more inconvenient hud rezzing, drag & drop. 
+
+-------------------------------------------
+
+Q: How do I load non-Paragon couples/3rd party dances into the HUD?
+A: You will need to set up a loader for them using Paragon Couples Loader (included with the V.4 pack). Currently, we only offer support for Paragon couples dances by creating pre-loaded dance loaders for our couples dance sets. 
+
+Rez the 'Paragon Loader Couples v4 Max ~500' HUD on the ground, drag & drop animation pairs into contents, and follow the instructions on how to write the notecard.  
+Important Note:
+* Make sure the name of the animation file is exact (including spaces). 
+* No copy/transfer only dances will not work
+* Each couples dance pair needs its own notecard.
+
+Wear the loader with your main hud and 1-click to load your dances. 
+
+-------------------------------------------
+
+Q: Why is my avatar floating (tall avatars)?  
+
+Currently, the HUD is not tall avatar friendly for couples dances. This is a known issue. To make this HUD compatible to other dances, we use a hover offset. Due to SL limitations, maximum hover is -2.00 so if your avatar is taller than 2.5m + there will be some floating/hover issues. 
+
+The Good News: Linden Labs has accepted our JIRA and a future fix to increase hover range will be implemented through the SL viewer and then firestorm. The Bad News: No dates have been given on when this change will occur and none have been implemented yet as of this update. 
+
+We started a thread on the new official feedback portal: 
+
+https://feedback.secondlife.com/feature-requests/p/increase-hover-amount-previously-accepted-by-spidey-linden
+
+Please help by UPVOTING this thread which addresses this concern. We hope this will help expedite the changes. 
+ 
+-------------------------------------------------
+
+Q: What more updates/improvements can I expect in the future?
+
+- Allow users to create custom playlists and categorize dances by dance genre. 
+- Create commands for local chats that will allow you to add a dance you like to a playlist you created. 
+- Depending on demand - Increase animation capacity limits, increase sequenced set limits, increase the number of avatar invited for group dances. 
+- Make this HUD tall-avatar friendly but this is pending on the mercy of Linden Labs devs and their priorities.  
+
+-------------------------------------------------
+
+Q: What makes this HUD different from what is out there? 
+
+A:  This is the first and only Dual Function Dance HUD capable of playing both Singles and Couples Dance animations. This is an improvement from our couples dance HUD v.3 that was already state-of-the-art that uses a proprietary "no poseballs" script, allowing users to dance couples dances anywhere.  
+
+There is nothing out there that does what the couples dance function can do. In short - we broke the code and found ways around the SL limitations. Those who are curious read-on....
+
+For the past 20 years, SL couples dancing was limited by a dilemma: The best alignment you can get with couples animation is by sitting on a prim/poseball, BUT you need rez rights to rez prims. It was a known issue spoken about in the scripting community for years.
+
+Some brands have tried variations of hugger-based scripting, but this is not effective as many of you already experienced. Why? Without anything to lock you down, your avatar will go out of alignment due to lag, when you rotate camera, and when other avatars bump into you. Even RLV by itself is not enough. Nothing beats sitting on a poseball/prim to lock your avis down. Until now... 
+
+We were fortunate to be the first to make a break-through to automatically align and lock down your avatar. It is as good as if you were sitting on a poseball. Our proprietary scripting process is very complex. 
+
+While most scripters gave up because they didn't care enough, Paragon cared enough to revolutionize dance on the grid for those who love dance.
+
+If you have any questions not addressed here/or need support, please contact: jnakagawa resident
