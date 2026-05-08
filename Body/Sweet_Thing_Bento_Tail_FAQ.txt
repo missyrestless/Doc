@@ -1,0 +1,33 @@
+►► JAGGED TAIL? Try a longer size.
+Tail lengths and smoothness seem to be linked to shapes. Height and body thickness, if not other sliders, tbh I'm not sure. If your tail is jaggedy, try a longer size.
+
+►► DIFFICULTY CHANGING COLORS (Fuwa, Fluffy Neko mutli-section tails)?
+Open your HUD, and on the HUD itself, click the section of the tail that you want to change. THEN select the color. :)
+
+►► TAIL LENGTH ISN'T CHANGING?
+First, just try to detach and reattach. If that doesn't work, detach all tails, and then go to Avatar --> Avatar Health --> Undeform Avatar AND Avatar --> Avatar Health --> Stop Avatar Animations. Then attach a tail. If there's still no change and it's clearly wrong, try relogging.
+
+►► ANIMATION CUTS INTO YOUR BODY?
+Try a different tail length, because exact tail placement is different based on the length. If it still bugs you, figure out which animation it is, and send me an IM. I'll get you a copy without that particular animation.
+
+►► NOT EVERY TAIL ANIMATION WILL WORK FOR EVERY CREATOR'S TAILS.
+Some details could be distorted based on the way a tail is rigged and the way the animation is created. If you mix and match tail types or creators, please understand that you're taking a risk.
+
+►► WANT MORE ANIMATIONS?
+Awesome. Me too. I'm working on some, but if you have a wish list of suggestions, feel free to send 'em my way. :D ♥
+
+►► SKIRT COMPATIBILITY
+Some tails are BENTO SKIRT COMPATIBLE. ♥ We're releasing our first BENTO TAIL COMPATIBLE SKIRT on 3/10/19, but by the time you're reading this, there may be more. The tail is underneath the skirt, and the skirt swishes and sways with the movement of the tail. Pop by the Mainstore for the most up-to-date info on which tails and skirts are compatible.
+
+►► KNOWN ISSUES
+Some of the HUDs are just too slow. I agree. I think they've gotten slower over time (maybe something on SL's end has changed), or my expectations have risen. Either way, it's a pain!! I'm working with my scripter to create a custom HUD that should be much more efficient. Until then, I apologize and know that I feel your pain!
+
+►► STAY UP TO DATE WITH OUR RELEASES
+Flickr  -  https://www.flickr.com/photos/sweetthingsl
+VIP Group - http://tinyurl.com/z6xlk6w
+Marketplace - https://marketplace.secondlife.com/stores/159458
+Facebook Page  -  https://www.facebook.com/sweetthingsl
+Mainstore - 􀀀
+
+IM me for help if you need it! ♥
+􀀁
