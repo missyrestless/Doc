@@ -80,3 +80,5 @@ previous animation, or pause animation sequencing.
   - [AVsitter/Pool](https://github.com/missyrestless/Doc/tree/main/AVsitter/Pool)
 - Customized notecards providing sequenced animations for `Nerenzo little hangout`:
   - [AVsitter/Hangout](https://github.com/missyrestless/Doc/tree/main/AVsitter/Hangout)
+- Customized notecards providing sequenced animations for `Lalou Miami Sun Lounger`:
+  - [AVsitter/Miami_Sun_Lounger](https://github.com/missyrestless/Doc/tree/main/AVsitter/Miami_Sun_Lounger)

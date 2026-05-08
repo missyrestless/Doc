@@ -70,3 +70,5 @@ or pause animation sequencing.
   - [AVsitter/Sauna](https://github.com/missyrestless/Doc/tree/main/AVsitter/Sauna)
 - Customized notecards providing sequenced animations for `Lalou 3some Outdoor Shower`:
   - [AVsitter/Outdoor_Shower](https://github.com/missyrestless/Doc/tree/main/AVsitter/Outdoor_Shower)
+- Customized notecards providing sequenced animations for `Lalou Miami Sun Lounger`:
+  - [AVsitter/Miami_Sun_Lounger](https://github.com/missyrestless/Doc/tree/main/AVsitter/Miami_Sun_Lounger)
