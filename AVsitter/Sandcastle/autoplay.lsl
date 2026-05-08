@@ -14,13 +14,13 @@
  * Set these to the sequence names you want to autoplay
 **********************************************************************/
 // Couples Female Sequence
-string COUPLES_POSE_F = "Scene_ALL";
+string COUPLES_POSE_F = "SEQ_CUDDLE";
 // Singles Female Sequence
-string SINGLES_POSE_F = "Scene_ALL";
+string SINGLES_POSE_F = "SEQ_F_SOLO";
 // Couples Male Sequence
-string COUPLES_POSE_M = "Scene_ALL";
+string COUPLES_POSE_M = "SEQ_CUDDLE";
 // Singles Male Sequence
-string SINGLES_POSE_M = "Scene_ALL";
+string SINGLES_POSE_M = "SEQ_M_SOLO";
 
 /******************************************************************
  * DON'T EDIT BELOW THIS UNLESS YOU KNOW WHAT YOU'RE DOING!
