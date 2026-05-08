@@ -1,0 +1,56 @@
+Thanks for buying the Animated Trampoline from XORBtech. This notecard will explain the features of this product and how to use them.
+
+*It is highly recommended that you turn on 'Advanced Lighting Model' in your viewers Preferences > Graphics, as this vastly improves the appearance of this product.
+
+What's new in V1.70?
+--------------------------
+-PBR Materials! A compatible viewer, such as the Second Life viewer, is required to see PBR materials.
+
+-Script optimization
+
+
+Table of Contents
+----------------------
+1) Trampoline Settings
+2) Customising the Trampoline
+3) Optional add-ons
+4) Using the Trampoline
+5) Group & Friend Access
+
+
+1) Trampoline Settings
+----------------------------
+To access Trampoline Settings, right-click the board and click 'Settings' in the pie menu. (The same button as 'Touch'.)
+In this menu you can change the colours, volume, lights and access options. You can also show/hide the netting, cover, and steps.
+
+
+2) Customising the Trampoline
+--------------------------------------
+The Trampoline includes dozens of textures and colour options, and you can even change each section individually. There are a few preset textures included, but if you want to add your own texture or colour, click the 'CUSTOM' button in the texture/colour selection menu. This will open a text box where you can input a texture UUID or LSL colour vector. 
+-To get a texture UUID, open your inventory and find the texture, then right-click it and select "Copy Asset UUID". Then, paste this into the custom texture text box.
+-To find what the LSL colour vector is for the colour you want, rez a cube and open the colour picker in the Texture tab. If you're using Firestorm Viewer, you will see a 'Copy LSL' button at the bottom. Simply find the color you want, click the Copy LSL button and then paste it into the text box.
+
+An LSL colour vector looks like this <1, 1, 1>, each number represents a colour - red, green, and blue respectively. <1, 0, 0> would mean fully blue, with no red or green. <0, 0.5, 0> means no blue or green, and half a red-value, which means it's half brightness.
+
+
+3) Optional add-ons
+-------------------------
+Safety netting, steps, and a safety cover can be toggled on/off from the main menu. The safety netting must be on to use the lights, and each piece must be shown to re-colour it. Having the safety netting on will add 4 to the land impact.
+
+
+4) Using the Trampoline
+-----------------------------
+The Trampoline can support 5 avatars at once. There are 2 height modes when jumping on the Trampoline - high and low. Changing the height mode will affect all avatars using the Trampoline, and will give access to different sets of animations, of which there are a total of 22.
+If you want the animations to play automatically, select AUTO, and they will randomly start playing. Select MANUAL to stop.
+You can also rotate your avatar by clicking ROTATE if you want to change directions.
+
+
+5) Group & Friend Access
+--------------------------------
+You can let other members of the group your trampoline is set to change the settings in the Menu. Enable this in Menu > Access. The group the trampoline is set to is the group others must set active in order to for this feature to work. You can also allow Friends to change the settings in the same menu.
+
+
+If you have any problems or questions, please contact 􀀁.
+
+[Version 1.70]
+Perms: Copy

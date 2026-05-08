@@ -1,0 +1,112 @@
+Thank you for your interest in the Hug & Kiss 3 :  ReAnimated
+
+
+Strike & Heston's Hug & Kiss 3: ReAnimated is a complete re-imagining of the original Hug & Kiss Animator by Meike Heston. The animations have been re-created from scratch: just as cute, but even better then before! 
+
+The new animator combines 22 variations of each animation to create the best possible height matching between smaller and taller avatars. This means we created 352 animations in total to help you along in your quest for the perfect hug or kiss.
+
+Come visit our shop to see for yourself!
+
+􀀁
+
+################
+#
+# Features 
+#
+
+* Hug or Kiss anyone, anywhere, anytime
+* 16 completely redesigned couples animations
+* Improved height matching system to accommodate for a size difference of up to 60 centimeters (2 feet)
+* Easy to use, unobtrusive HUD
+* Use the hold button to keep the animation going as long as you like
+
+Enjoy and have fun!
+- Meike Heston & Chance Strike
+
+
+Caveats:
+
+- It is inherent to this system that poses might not always align optimally. You line up the avatars, we do the rest. 
+- There are 11 steps in the height matching system so the interaction will be acceptable, within each step there might still be slight but noticeable height differences.
+- Updates / upgrades from the 1.x and 2.x versions are not possible, these products have been obsolete for about 10 years. Copies which may still be sold now are pirated items.
+
+################
+#
+# Quick start 
+#
+
+* On purchase you will receive a product folder called "* S&H * Hug & Kiss 3 - ReAnimated". It contains this note card, a landmark to Strike & Heston's Animations and an object called "* S&H * Hug & Kiss 3.0 - ReAnimated". Right click it in your inventory and choose "add" or "wear". You will now see the HUD appear on the top right side of the screen. 
+* Face a person you would like to hug or kiss
+* Click the center button. A blue menu will pop up with names of people who are close enough to invite, choose your victim from the list to send an invitation. When the other accepts, hugs will happen!
+
+################
+#
+# Overview of the buttons  
+#
+
+In this section I will go through the different buttons you can find on the HUD. Starting from the top and circling clockwise to explain all functionality.
+
+< and > 
+Scroll through the animations
+
+- (dash)
+This will make the Animator transparent so it wont be in your way as much
+
+Folder
+Select which configuration notecard to use
+
+Male / Female
+Switch between male and female role in the animation. 
+
+Lock
+Make the animations last untill you press the center button again
+
+Circle with arrow
+Reset the HUD. Use if for some reason the HUD doesn't seem to work well.
+
+i
+Gives you this notecard
+
+Center Button
+displays the currently selected couples animation. When you press this button a dialog will pop up, asking you who you would like to send an invitation. The other will receive your invitation and can accept or decline. When accepted, your will move towards the other person and start the animation.
+
+
+################
+#
+# Updating
+#
+
+Updates are automatically provided through the Casper Update system. each time the object is rezzed, it will check wether your version is still up to date. When then is a new version, you will get an update dialog where you can choose whether to receive it or not.
+
+YES! - receive the update
+Not now - You will be offered the dialog again the next time the HUD is rezzed, after one hour is past. 
+Postpone - Decline this update, wait for the next version
+Never - Never receive updates again
+
+If you accidentally picked the wrong option, you can always get the update manually by having it redelivered through the vendor or marketplace.
+
+
+################
+#
+# Hints, Tips and frequently asked questions
+#
+
+
+* The height matching system happens automatically without any need for you to set any preferences except for Male or Female.
+
+* When you attach the Hug & Kiss to a new attachment point on your screen, it will automatically be placed in an appropriate position. You can adjust this to fit, and will remember the adjustments when you reattach to the same point.
+
+* Other attachments may cause the Hug & Kiss to fail, keeping the two participants to far away from each other to make the animations fit. This are often anti push scripts or shields.
+
+Caveats:
+
+- It is inherent to this system that poses might not always align optimally. You line up the avatars, we do the rest. 
+- There are 11 steps in the height matching system so the interaction will be acceptable, within each step there might still be slight but noticeable height differences.
+- Updates / upgrades from the 1.x and 2.x versions are not possible, these products have been obsolete for about 10 years. Copies which may still be sold now are pirated items.
+
+ 
+Thank you again for purchasing the Hug and Kiss animator. We hope you will enjoy many lovely moments.
+
+Kind Regards,
+
+Meike Heston & Chance Strike
