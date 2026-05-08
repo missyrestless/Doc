@@ -1,6 +1,8 @@
 DEBUG 1
 
 SEQUENCE SEQ Me ♀
+PLAY Sexy ♀
+WAIT 60
 PLAY Sit Down ♀
 WAIT 60
 PLAY Lay Down ♀
@@ -10,8 +12,6 @@ WAIT 60
 PLAY FlipChill ♀
 WAIT 60
 PLAY Laptop
-WAIT 60
-PLAY Sexy ♀
 WAIT 60
 PLAY I don't care
 WAIT 60
@@ -60,7 +60,7 @@ PLAY Daily Routine
 WAIT 60
 LOOP
 
-SEQUENCE SEQ Together
+SEQUENCE SEQ Cuddle
 PLAY Me & You
 WAIT 60
 PLAY Intimacy
