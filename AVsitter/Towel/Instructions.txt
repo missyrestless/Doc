@@ -1,0 +1,55 @@
+AVsitter Sequence for Nerenzo Orgy Towel 
+========================================
+
+This folder contains the 'AVpos' and '[AV]sequence_settings' notecards for use with the 'AVsitter2' plugin '[AV]sequence' to provide animation sequences for the Nerenzo Orgy Towel dialog menus.
+
+This 'AVsitter' customization allows greater freedom of personal interaction in the sauna, eliminating the need to navigate dialog menus during moments of intimacy.
+
+Menus
+=====
+
+Sequences are configured for Sitter 0 and Sitter 1 menus, both male and female:
+
+- Solo Menus
+- Cuddle Menus
+- Foreplay and Tongue Play Menus
+- Pussy Play Menu
+- Wank Menu
+- 69 Menu
+- Behind Menu
+- BJ Menu
+- Butt Menu
+- Eye2Eye Menu
+- Girl on Top Menu
+- Oral Menu
+- Various Positions Menu
+
+Setup
+=====
+
+To configure a Nerenzo Orgy Towel with AVsitter sequences:
+
+- Right click the towel and select 'Edit'
+
+- Copy the '[AV]sequence_settings' notecard into the Contents tab
+
+- Copy the '[AV]sequence' plugin script into the Contents tab
+
+- Replace the 'AVpos' notecard in the Contents tab with the 'AVpos' notecard found in this folder
+
+- Close the 'Edit' window
+
+- Right click the towel and select 'More' -> 'More' -> 'Scripts' -> 'Reset Scripts'
+
+- Wait for the scripts to reset (this takes a few minutes)
+
+Sit on the towel, select one of the first two sitters (Male1 or Female1). The main menu has buttons for solo and cuddle animation sequences. Click the 'ADULT MF' button then any of the configured adult submenu buttons to view the adult sequenced animations.
+
+Menu entries of the form 'SEQ-...' indicate sequenced animations. Clicking any of these menu entries will cycle seated avatars through all the animations in that submenu. Cycle times are currently set to 60 seconds with menu arrows to step to the next animation, previous animation, or pause animation sequencing.
+
+Auto Play Sequence
+==================
+
+If you wish to automatically play a sequence when an avatar sits on the towel then drag & drop the 'autoplay' script into the Contents of the object.
+
+The 'autoplay' script detects the gender of the sitter and plays the appropriate sequence. In addition, it detects the number of sitters currently on the object and plays the couples animation sequence if more than 1 sitter is seated.
