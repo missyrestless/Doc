@@ -5,7 +5,7 @@ with the `AVsitter2` plugin `[AV]sequence` to provide animation sequences for
 the Headhunter Hanging Beach Bed dialog menus.
 
 This `AVsitter` customization allows greater freedom of personal interaction in the
-sauna, eliminating the need to navigate dialog menus during moments of intimacy.
+beach bed, eliminating the need to navigate dialog menus during moments of intimacy.
 
 ## Menus
 
