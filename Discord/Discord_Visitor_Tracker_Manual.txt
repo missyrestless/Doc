@@ -1,0 +1,140 @@
+IMPORTANT - IMPORTANT - IMPORTANT
+
+This is a drop-in script for the "Discord Relay and Server Joiner" at version 3.0.0 or higher, which is available at https://marketplace.secondlife.com/p/p/19908039
+
+This script WILL NOT FUNCTION WITHOUT the Discord Relay! It NEEDS the Discord Relay in order to function!
+
+IMPORTANT - IMPORTANT - IMPORTANT
+
+
+
+What does it do?
+▀▀▀▀▀▀▀▀▀▀▀▀▀
+This script is an addition to the Discord Relay and will require version 3.0 or higher of the relay to work. It will report all avatar visits within a designated area and report on arriving and leaving avatars as well as avatars that log off or crash. The trackable area is about 160 m3 (roughly 2/3 of a region) at maximum. Arriving avatars have additional information show: A guess of the avatar's gender, current group tag worn, and avatar rendering weight. 
+
+Unlike older and less sophisticated visitor trackers, this script does not rely on slow and laggy sensors. Instead, avatars are detected inside a rectangular area.
+
+The area gets defined by two opposing corners. Either get the coordinates from your SL viewer, or use the provided coordinate-getter. It will print out the coordinates in open chat.
+
+You can chose to ignore avatars with a specified active group from tracking.
+
+
+Configuration
+▀▀▀▀▀▀▀▀▀▀▀
+Your "Discord Relay and Server Joiner" (Which needs to be purchased beforehand, if you have not done so already) is the Base for this add-on. It contains a configuration notecard. Make sure you configure this notecard for your Discord Channel before continuing.
+
+The notecard contains variable-argument pairs, separated by " = ", and nothing else. For the visitor tracker, you need to add TWO additional variables:
+
+corner1 =
+corner2 =
+
+Those two variables require coordinates in vector format along the lines of <x.x, y.y, z.z>. 
+
+"corner1" is the left-frontal-bottom corner of the area you want to monitor.
+"corner2" is the right-top-rear corner of the area you want to monitor.
+
+You can find those coordinates in the top bar of your SL client, or via the provided coordinate-getter. A proper configuration could look like this:
+
+corner1 = <255.73080, 255.55130, 9.24442>
+corner2 = <162.82740, 161.80090, 50.05058>
+
+That's it! No more configuration necessary. Just drop the Discord Visitor Tracker script into the same object the Discord Relay script and the configuration notecard resides in - ready!
+
+Optional Configuration
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+"ignoremygroup" is a configuration variable, that allows you to ignore avatars that have the same active group as the object runs under. There is no way to detect if an avatar is in a certain group. All that can be detected is the currently active group! If you set "ignoremygroup = true", those avatars get not tracked, that are currently active in the same group.
+
+If you want to exclude yourself, friends, tenants, staff members or other people from being tracked, you can configure the Region Tracker to ignore them. To add an avatar to the ignore list, add a configuration line to the discord.cfg notecard. The line starts with "ignore = " and is followed by the avatar UUID to be ignored. You can add the name of the avatar in a separate line as a comment, so you remember who you put on the list. Example:
+
+# Peter Stindberg
+ignore = 99d8181a-4395-4c7f-9784-e67d774834b4
+
+You can have multiple "ignore = " lines, each followed by a unique avatar UUID. There is no hard limit as to how many people you can ignore. The script memory should easily manage 20-30 unique UUID's on the ignore list.
+
+Minimal mode
+──────────
+If you just want to get the names and profile links of the visitors arriving or leaving, switch the Tracker to minimal-mode:
+
+minimal = true
+
+For even more quiet, you can remove the startup message posted to Discord with:
+
+nostartupmsg = true
+
+
+Arriving visitors
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+If a visitor arrives within the coordinates, the following information gets transmitted to the Discord channel configured:
+
+- Avatar profile photo.
+- Display name in bold, followed by "bot" as an indicator from Discord that this message comes from outside of Discord.
+- The ">" sign to show it is an arrival.
+- Pushpin and text "loc" as a clickable link with SLURL to their position at time of detection.
+- Legacy name, linked to the web profile of the avatar.
+- Icon for Second Life Premium user (Crown), or Premium Plus user (Medal).
+- Gender guess of the avatar (be aware that this fails for gender-fluid avatars).
+- Current group title, if set.
+- Avatar rendering weight (Scale-icon;  see notes below. Generally speaking: lower = better).
+- Attached scripts (Scroll icon, one number if all scripts are running, otherwise first number is the running script count and second number the total script count, lower = better).
+- Memory used by all attached scripts (Disk icon, lower = better).
+- Script run time of all attached scripts (Clock icon, lower = better).
+
+Leaving visitors
+▀▀▀▀▀▀▀▀▀▀▀▀▀
+If a visitor leaves the area within the coordinates, the following information gets transmitted to the Discord channel configured:
+
+- Avatar profile photo.
+- Display name in bold, followed by "bot" as an indicator from Discord that this message comes from outside of Discord.
+- the "<" sign to show it is a departure.
+- Legacy name, linked to the web profile of the avatar, in italics.
+
+Log offs  / crashes
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+If a visitor logs off or crashes while in the monitored area, certain information can't be easily acquired. Therefore the following gets transmitted to the Discord channel configured:
+
+- Avatar profile photo.
+- Name of the object the Discord scripts reside in, followed by "bot" as an indicator from Discord that this message comes from outside of Discord.
+- the "<" sign to show it is a departure.
+- Unlinked legacy name in italics, followed by the words "logged off".
+
+
+About Avatar Render Weight
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+This script monitors the Avatar Render Weight (sometimes referred to as Avatar Render Cost or Avatar Rendering Complexity) of arriving visitors. Background information on those metrics can be found at: https://community.secondlife.com/knowledgebase/english/avatar-rendering-complexity-r770/ and http://wiki.secondlife.com/wiki/Mesh/Rendering_weight
+
+While this sounds very helpful, please be aware that the Avatar Rendering Weight measurement is far from perfect. Some long term developers, with good reputation, even say it is deeply flawed! As of this writing (April 2023), there are believed to be 8 major bugs in the calculation of the render weight. One of the most glaring ones is the so called "Fitmesh LoD bug". This is where fitted mesh is rendered at a much higher complexity than necessary (background info here https://community.secondlife.com/forums/topic/419469-rigged-mesh-lod-bug/ and here https://community.secondlife.com/forums/topic/426621-what-the-fitmesh-lod-bug-actually-means/ ).
+
+The render weight this script measures, via the only available resource, is consequently misleading at best, and totally wrong at first. As is the output of any other script by any other developer who uses this method!
+
+So why do we even bother to have it in the script and report it?  While the reported  weights  should not be taken as an absolute truth and NEVER should be used as a reason to ban or eject visitors (please, don't!), they are still informative as a RELATIVE measurement. An individual visitor's render weight of, e.g 170.000, tells you very little. However, when the majority of your visitors have render weights in the 150.000 - 200.000 range, compared to the majority of visitors at another place in the 50.000 - 70.000 range, it gives you an idea about the type of visitors you have. So, apart from marketing considerations, this is the reason we kept the feature in.
+
+There is ANOTHER ISSUE with the render weight reporting, however.
+
+It sometimes simply does not work. There is no deterministic behavior for this, that we have found out at least, and it changes from region to region. Sometimes, up to 4/5 of visitors of a sim don't have their render weight reported. Sometimes, after leaving the sim and coming back, it gets reported. Sometimes, even not then. We made the code more robust already, querying for the render weight more than once, as an example, and will continue to improve on this. But, for the time being, we have to live with spotty reporting.
+
+
+Suggestions, Bug Reports, Feature Requests
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+Please let me know if you run into trouble, or have any suggestions. Also let me know if you like it. I am open to feature requests and commissioned work. Let me know on Discord: https://discord.gg/9dAUeaH (where else).
+ 
+ 
+Known Issues & Limitations
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+You can not cover a whole region/sim with this tracker. The maximum area is about 160 m3 (roughly 2/3 of a region). If you want to cover a whole region, please use this add-on instead: https://marketplace.secondlife.com/p/Discord-Region-Tracker-and-Sim-Radar-for-Discord-Chat-track-avatar-movement-on-sim-region-and-parcel/21035807 - please contact me for a refund if you purchased the Visitor Tracker (this product) by mistake and needed the Region Tracker instead.
+
+If you want to have the visitor tracking go to a different channel than the general Discord chat, you need to place TWO copies of the Discord relay. Configure the additional copy for a different channel, and place the Discord Visitor Tracker into that copy.
+
+Avatar Render Weight is not reported in every case. See above.
+
+Version history
+▀▀▀▀▀▀▀▀▀▀▀▀
+1.0 2020-11-28 Initial Release
+2.0 2020-12-26 Completely rewritten codebase
+2.1 2021-01-24 Added feature to ignore avatars with same group
+2.2 2021-01-24 Formatting fix
+2.3.3 2021-03-29 Changed version numbering, added location to avatar
+2.3.5 2021-05-03 Added ignore-list functionality
+2.3.6 2022-01-23 Scan area overlapping parcels w/ same owner, fixed location pin for mobile devices
+3.00.02 2023-04-16 Brought in line with V3 codebase. New coordinate getter. Changes to the ignore config-parameter.
+3.00.03 2024-10-18 Added minimal mode, and nostartupmsg support.
+3.00.04 2025-12-14 Maintenance release for compatibility with Relay 3.01.05 onward.

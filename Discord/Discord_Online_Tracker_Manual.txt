@@ -1,0 +1,182 @@
+IMPORTANT - IMPORTANT - IMPORTANT
+
+This is a drop-in script for the "Discord Relay and Server Joiner" which is available at https://marketplace.secondlife.com/p/p/19908039
+
+This script WILL NOT FUNCTION WITHOUT the Discord Relay! It NEEDS the Discord Relay in order to function!
+
+IMPORTANT - IMPORTANT - IMPORTANT
+
+
+
+What does it do?
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+This script is an addition to the Discord Relay and will require version 3.00.14 or higher of the relay to work. It takes a list of avatar UUID's and reports when they come online, and after what time they log offline.
+
+The Online Tracker is intended for business owners such as clubs, shops, or anybody who wants/needs to keep track of the online status of large groups of people.
+
+Via it's easy web-interface, you can request a list of currently logged in users conveniently directly from within your Discord Server.
+
+From version 3.01 on, previous limitations (100 agents in the first versions, then 150 agents in version 3.0) have been completely dropped. The Tracker can easily work with 1000 UUID's or more - we have tested it with 950 keys until we ran out of ID's to add, and it didn't even sweat.
+
+Also new in version 3.01 is our proprietary "continuous scan" mechanism. We got rid of the fixed 30 second interval for checks - instead the notifications are near-realtime (within certain limitations).
+
+
+Basic Configuration
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+Your "Discord Relay and Server Joiner" (Which needs to be purchased beforehand, if you have not done so already) is the Base for this add-on. It contains a configuration notecard. Make sure you configure this notecard for your Discord Channel before continuing.
+
+Add this script to the Discord Relay object. If you have more than one Discord Relay object rezzed on a sim, add this script to only ONE of them (no matter which). 
+
+The notecard contains variable-argument pairs, separated by " = ", and nothing else. For the Online Tracker,  you need to add at least one additional variable:
+
+{key} = 
+
+The variable needs to be followed by the UUID of an avatar, which can be found in each avatar's profile, for example:
+
+{key} = 97cb9825-770e-43ca-ab93-5bcd31eba370
+
+You can repeat the "{key} = " line AS OFTEN AS YOU NEED! So if you want to track the online status of 5 avatars, you need to have 5 "{key} = " lines in the configuration notecard.
+
+Hint: You can use the # sign as a comment, and write the avatar name behind the key, e.g.
+
+{key} = 97cb9825-770e-43ca-ab93-5bcd31eba370 # Some Name
+
+
+Nicknames (optional)
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+As an option, you can assign nicknames to specific avatars in your list.
+
+{key} = UUID
+Nickname:xxxx = UUID
+
+{key} = 99d8181a-4395-4c7f-9784-e67d774834b4
+Nickname:Discord Expert = 99d8181a-4395-4c7f-9784-e67d774834b4
+
+In this case, instead of announcing "Peter Stindberg", the Online Tracker announces "Discord Expert". The profile photo and profile link still link to the regular profile.
+
+
+Startup
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+This add-on-script starts automatically when the base script gets started. It will receive its configuration from the base script and announces itself to the owner (no other person can see the in-world output of the script). With long avatar lists, particularly, receiving the configuration can take a while.
+
+Once the tracker has received all avatar-keys, it will then initialize the tracking. There is an initial phase during which the names get determined. Depending on the number of keys, this might take a while as well.  The Tracker will output the names in owner-only open chat.
+
+Once all names are acquired, the Tracker will go into tracking mode, announcing online and offline activity and status. 
+
+Please be aware that the more keys you add to the discord.cfg, the longer it will take to read the configuration and to register the keys.
+
+
+
+Avatars coming online
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+If an avatar whose UUID got configured in the notecard comes online, the following information gets transmitted to the Discord channel configured:
+
+- Avatar profile photo.
+- Name of the Online Tracker object in bold, followed by "bot" as an indicator from Discord that this message comes from outside of Discord.
+- Legacy name, linked to the web profile of the avatar.
+- Time stamp (date and time in Second Life time SLT) of the occurrence.
+
+
+Avatars going offline
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+If an avatar whose UUID got configured in the notecard goes offline, the following information gets transmitted to the Discord channel configured:
+
+- Avatar profile photo.
+- Name of the object the Discord scripts reside in, followed by "bot" as an indicator from Discord that this message comes from outside of Discord.
+- Legacy name, linked to the web profile of the avatar.
+- Amount of time the avatar was online in days, hours and minutes.
+
+
+Heartbeat
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+The Tracker announces itself in the Discord channel roughly once every 6 hours (default) if no activity (logins or log offs) have occurred. This is meant to reassure you that it's still functional. You can change the interval with the 'heartbeat' variable in your discord.cfg:
+
+heartbeat = 6
+
+The configuration variable takes values between 0 and 24 as hours between heartbeats. "heartbeat = 1" gives a heartbeat output roughly every hour, "heartbeat = 24" gives the output once a day - provided no logins or logoffs have occurred. If you want to turn the heartbeat off, use "heartbeat = 0".
+
+
+Long-Time Absence
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+If a person has not come online for over 6 months, the Online Tracker sends a special announcement to everyone in the channel. 
+
+
+Web-Interface
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+Upon startup, the Discord Online Tracker will post a web-link into the Discord channel. If you click this link, the Online Tracker will send an up-to-date list of all logged in avatars from your tracker list, and the time stamp of when they came online. This helps to get a quick overview about who, from your list, is currently logged in.
+
+Please be aware, that the web-link changes after a sim restart or when you de-rez and re-rez the object. The tracker will send a fresh URL into the Discord channel, if that is the case.
+
+
+Persistent Storage
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+We are very pleased to announce that, since version 3.0, the date and time an agent on the list has been last seen is not erased anymore when the script gets updated. So you can add names to the list, without starting from zero again, regarding the agents already configured. 
+
+However, if you remove a key, and re-add it days/weeks/months later again, the Tracker will give wrong results regarding the "last online" time. This is a small trade off compared to the gain of not losing the timestamps upon changing the config.
+
+
+Deleting keys
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+If you want to delete keys from the persistent storage, you need to use the {delete} command. It works exactly like the key-command. In fact, we suggest overwriting the key-command with the delete command:
+
+{key} = 97cb9825-770e-43ca-ab93-5bcd31eba370
+
+changes to
+
+{delete} = 97cb9825-770e-43ca-ab93-5bcd31eba370
+
+DO NOT simply delete the {key} lines from the discord.cfg notecard! This will NOT remove the keys from storage and checking. Only via the {delete} method, keys get removed from the storage and do not get checked anymore.
+
+If you removed the keys from the discord.cfg notecard, without using the {delete} mechanism, you find a script by the name of "I messed up, please help!" in your package. Put that script into your object to remove ALL(!) keys from persistent storage.
+
+
+
+Suggestions, Bug Reports, Feature Requests
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+Please let us know if you run into trouble, or have any suggestions. Also, let us know if you like it! We are open to feature requests and commissioned work. Let us know on Discord: https://discord.gg/9dAUeaH (where else).
+ 
+ 
+Known Issues & Limitations
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+ 
+It can not be said for certain how many avatars the Tracker can track reliably. We have run extensive tests with very large avatar counts. The script should easily handle 1000 keys, probably many more. However, the more keys you add, the longer a scan takes. If you want to have a fine resolution regarding the time an agent comes on or logs off, you best use only a few keys in a single object.
+
+If you want to have the Online Tracker go to a different channel other than the general Discord chat, you need to place TWO copies of the Discord relay. Configure the additional copy for a different channel, and place the Discord Visitor Tracker into that copy.
+
+ 
+
+Version history
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+0.1 2021-01-25 First test version 
+0.2 2021-01-31 Closed beta test version
+0.3 2021-02-02 Fixed tracking issues, tested with 40 avatars
+0.4 2021-02-04 Optimized memory usage, tested with 90 avatars
+0.5 2021-02-05 Optimized memory more, tested with 110 avatars, polishing
+0.6 2021-02-06 Added heartbeat-feature for periods where there are no logins for a while
+1.0 2021-02-06 First public release
+1.01.01 2021-03-19 Changed version numbering
+1.01.03 2021-03-29 Changed heartbeat to 6 hours
+1.01.04 2021-04-14 Added web interface for manual request of online list
+1.02.00 2021-04-24 Aligned code base with other scripts
+1.02.01 2021-06-29 Heartbeat test version
+1.02.02 2021-08-29 Configurable heartbeat
+1.02.03 2022-12-07 Fixed issue with SLT time being one hour off
+3.00.02 2023-04-16 Moved to V3 codebase, vastly improved memory handling, persistent storage, tested with 150 agents, @everyone feature.
+3.00.05 2023-05-18 Improved name handling for Discord usernames, and logoffs.
+3.00.06 2023-09-21 Fixed issue with SLT time.... again....
+3.01.00 2024-05-05 Redesigned data handling and overcame capacity limitations the tracker can now process an (almost) unlimited amount of agents, decreased startup time, added continuous scan mode, fixed a bug where the manually requested list comes up empty, added new icon to manually requested list link
+3.01.02 2024-10-17 Fixed heartbeat and rare problem with wrong "nobody online" being sent to Discord
+3.01.05 2025-04-27 Added nickname feature, minor improvements
