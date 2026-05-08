@@ -1,0 +1,102 @@
+www.studio-skye.com
+
+New for V3
+Now uses PBR High res materials
+
+--o + Sandy Beach Building Set from Studio Skye + o--
+
+-- I  N  S  T  R  U  C  T  I  O  N  S  --
+
+--o  In the Box  o--
+
+11 x Beach sections plus 2 x end caps
+2 x Seabed pieces
+2 x Terrain blenders
+1 x Wave sound emitter
+1 x Pack of sandy terrain materials to match
+...and a bunch of prefabs to save you a spot of your valuable time ;)
+
+
+--o  Positioning  o--
+
+For a quick demo/tutorial on positioning see: https://youtu.be/yEP3VYteBDc
+
+Use the SL edit tools to position your piece.
+
+The pieces are designed to join at a specific angle (it's non-critical so there is a bit of room for creativity!). Use beach sections which best reflect the curve of beach you desire.
+
+Z Position: What should you set this at ?
+Assuming your SL water is set to the default 20 meters, the ideal Z positions is noted in the piece description. Just EDIT the object Z position using edit tools.
+
+Did I mention I made a quick demo/tutorial on positioning? https://youtu.be/yEP3VYteBDc
+
+
+Size: Pieces are supplied to an ideal scale. You can scale up and down (check Edit -> Stretch Textures option) to suit. Prim count will vary.
+
+
+
+--o  Removable Dry Sand Extensions  o--
+
+If you want a narrower beach you can delete the extension piece at the land side. Use EDIT (check EDIT LINKED) and select the extension part. Then click UNLINK in the EDIT window. Delete the unlinked extension part.
+
+
+--o  Prefabs  o--
+
+A few prefabs beaches are supplied to get you started. These are unlinked individual sections with a naming box (delete after rezzing). Click into EDIT mode before you rez then edit the unlinked beach as desired.
+
+
+
+--o  Wave Sounds  o--
+
+Res wave sound emitters where your AV will be most often - not too many or the sounds will clash. Click the object to choose sound and volume. Hide it in a rock or make it transparent.
+
+
+-- o Matching Terrain Textures o--
+
+You can use the supplied sand textures on your terrain. Note that SL now allows materials to be used on terrain  so matching the beach  is now possible. So happy right now.... 
+
+-- o Terrain Blender o--
+
+These are banks with sand at the front and an editable terrain texture at rear. Drag and drop your own terrain texture from inventory on to the grassy part - then position the blender between the beach and your land.
+Note: I have included blenders with PBR/B-P in case you have trouble using the new PBR sand with old style terrain texture.  Use as above.
+
+
+
+--o Unlinking Pieces --o 
+
+I DO NOT advise UNLINKING beach sections or LINKING to other beach sections.
+
+Use EDIT LINKED in the EDIT window to select and edit beach parts
+
+If you accidently unlink, make sure when you relink to set wave physics - Edit -> Features -> Physics Shape type -> None. Make the sand piece is the root prim by selecting it last before linking.
+
+
+
+
+
+
+
+
+
+
+-- A  D  D  I  T  I  O  N  A  L    I  N  F  O  --
+
+--o A note about Level of Detail (LOD) o--
+
+This build is optimised for good close up and medium distance detail with low prim count. You may notice that as you approach from a distance, the scene will gradually pop into shape - this is normal and is dictated by the Mesh's Level of Detail set up, not your graphics settings.
+It is possible (when building) to render more detail at distance but this results in a massive prim cost, so I have avoided that!
+
+--o A note about Physics o--
+Physics is when your avatar reacts to the object ie walks over it, not sinking into it.  
+I have set up the mesh so that the beach pieces have a reasonably accurate physics layer.  You may notice a little bit of 'sink' or 'float' here and there. This is essentially a realistic compromise between accuracy and prim count - 100% accuracy will (at least) double the prim count so I have avoided that too!    
+
+
+Any questions or comments at all, please IM me.
+
+love and peace
+
+Alex
+www.studio-skye.com
+
+
+
