@@ -1,0 +1,72 @@
+-----------------------------------------------------------------
+  Easy Streaming Spherical Theater (Rev. 5.1)
+-----------------------------------------------------------------
+
+*** HiVid TV Alternative ***
+
+The Spherical Theater is an amazing treat for the senses, a great way to show YouTube movies or videos to an entire gathering of people in an immersive futuristic setting. You can sync play for all of the movie goers or individuals can view the movie at their own pace.
+
+The Spherical Theater supports many streaming services!
+
+    YouTube
+    Vimeo
+    Twitch
+    Daily Motion
+    Shoutcast (1000's of stations)
+    Pluto TV
+    Tubi TV
+    Kosmi TV Sharing
+    Kick Streaming Service
+
+The Easy YouTube Spherical Theater is a simple, configurable spherical theater screen that gives you fast and easy access to YouTube videos and playlists.  No need to buy an expensive system bogged down with tons of features and links you will never use.  This Stage Screen will work on any land without having to enter cumbersome media properties.  You will never have to deed this Stage Screen to your land to make it work.  The video screen displays a wall of videos on the full screen through a rock solid encrypted server to make viewing of high quality videos safe and easy. Videos can be synchronized for all Stage Screen watchers.  No questionable or copyrighted materials are in this TV.
+
+How to Use:
+----------
+
+To turn the video screen on, click on the power button in the center of the Spherical Theater floor.  When the video screen menu comes up, you can enter your YouTube URL, select a YouTube URL from the default playlist inventory notecard, use the YouTube web interface, or even call up a standard web browser. You can also set video screen to Auto Play, Loop or change any of the options. URLs can be for a single YouTube video or a YouTube playlist. 
+
+You can view videos in different different ways:
+
+1. Enter a YouTube URL directly. Just copy the YouTube URL from your favorite browser and paste it into the pop-up box.
+2. Playlist (Notecard inside the Spherical Theater). Drop a playlist notecard on the Spherical Theater with a list of videos. Then select your video from the "Playlist" menu.
+3. Standard YouTube web interface.
+
+Add up to 9 playlist notecards to the video screen. Each playlist notecard can contain up to 50 videos. You can use the menu to switch between any of the playlists added to the video screen. You can select any individual videos through the playlist menu, or play all videos.
+
+Land Media Ready with Connector:
+-------------------------------
+The Easy YouTube TV uses Prim Based Media which makes the setup and use of the TV very easy. There are times where you will want more out of this TV than the Easy YouTube TV can offer. With the purchase of the optional LAND MEDIA CONNECTOR, you can supercharge this TV and transform it into a more robust LAND MEDIA TV. The TV is then played using your Parcel Media settings. Performance features include:
+
+* The Land Media Screen will allow you to watch a video seamlessly anywhere on your parcel.
+* You can rez as many screens as you want and let them all play the same picture at the same time without any distortion.
+* A Land Media based screen makes for perfect synchronized viewing of videos when more than one person is present.
+
+Helpful Hints:
+-------------
+
+You can choose "play all" from the playlist, and have the video screen play all the videos on the notecard playlist. YouTube videos from the playlist are sent to the YouTube API and presented as a YouTube native playlist.
+
+YouTube often displays a panel of recommended videos at the end of your video playback. If you would like to view one of the recommended videos, click once on the video you want and press the [Space] bar on your keyboard to start it.
+
+Synchronized viewing: Two or more people can enjoy watching the Spherical Theater together. This is a great way to share an intimate time together with a friend or partner, or to operate the TV as a movie screen. First, load the proper video. Click "Stop" from the menu. Ask everyone to click on the TV so they can see the paused video screen, click on "Play" in the menu. The video will start to play for everyone watching.
+
+If any problems arise, use the refresh button (circular arrow) from the mini-browser menu at the top, outside of the sphere. Also try using the home button on the mini-browser.  If all else fails, reset the video screen from the options menu.  These options will fix almost anything.
+
+To hear the sound from your video anywhere on the parcel, you can go to the Sound & Media settings and change the "Starts getting quieter" to 512 and "Completely disappears at" to 512 in your viewer preferences.
+
+Other Options:
+-------------
+* Color changing on most TV Styles
+* Set the TV to zoom in on the screen when clicked.
+* You can rez a TV Remote HUD which operates the TV from a distance.
+* You can set the access to OWNER, GROUP, ACCESS LIST or ALL.
+
+If the land has video or media restrictions, the video screen will not work properly.  This scenario is not common. Ask your landlord or estate manager to allow media access.  If you hear no audo, make sure Media is enabled under Preferences-Sound & Media-Sound.  Please drop me a notecard if you are having any issues.  I will be happy to help you out.
+
+Thanks for purchasing this Spherical Theater.  If you like it, please consider leaving us a five-star rating on the Marketplace.  We hope you will enjoy this video screen a long time to come!
+
+Join our group to receive free updates to this product and to receive special product offers.
+
+Thanks,
+Maui Mike
+SimCaster LLC.

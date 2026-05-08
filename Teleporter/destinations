@@ -1,0 +1,185 @@
+##################################################################################################################
+# <---------------------------------------------------- best to open this window this wide ----------------------------------------------------------->
+##################################################################################################################
+### All Lines containing '#' are treated as comments. 
+
+###  Allow the 'Starchild Productions' experience to your region or parcel. 
+
+###  Note that either this notecard OR one single landmark are needed for the script to function.  
+
+###  If you use this notecard you can overrule the menu and destination by  
+### dropping a landmark inside to force the destination. Useful for special  
+### events/days. Remove the landmark to re-enable all destinations again. 
+##################################################################################################################
+
+#####################
+###    CONFIGURATION     ##
+#####################
+
+# ACCESS - Either 'Anyone', 'Group' or 'Owner'
+# NOTE: make sure you have a group set on your teleporter object when you want to use group access.
+
+ACCESS                  = Anyone
+
+# ACCESS_DENIED - a custom message to display when the user has no access to use the teleporter. 
+# NOTE: the tag [ACCESS] will be replaced by the actual access level set above.
+
+ACCESS_DENIED  = I'm sorry this teleporter is set to be used by [ACCESS] only.
+
+# HOVER_TEXT - A text displayed in hovertext. Like 'Teleport' or 'To the event'...
+# Note: clear the value if you wish to clear the hover text. ie: HOVER_TEXT          = 
+# Default: Destinations
+
+HOVER_TEXT          = 
+
+# INFO_TEXT - Allows you to remove even the temporary informative text like 'busy' when in use.
+# Note: in case you want a completely invisible prim this could help. otherwise not recommended.
+# Note: format: 'Yes' or 'No'  Default: Yes
+
+INFO_TEXT               = Yes
+
+# TOUCH - activate on touching the prim.
+# Note: In case no animation is present,,the user gets the menu or gets instantly teleported depending on the presence of a LM inside.
+# Note: In case there IS an animation present, the user is made to sit on the prim on touch first, 
+# then either gets the menu, or gets teleported after sitting, depending the presence of a LM inside.
+# Note: format: 'Yes' or 'No'
+
+TOUCH                     = Yes
+
+# TOUCH_TEXT - Short txt displayed on the pie menu when right clicking the prim for touch
+# Note: clear the value if you wish to have the default touch text. ie: TOUCH_TEXT          = 
+
+TOUCH_TEXT          = Teleport
+
+# COLLISION - activate on bumping into the prim. great for an invisible prim in a dark tunnel 
+# Notes: PHANTOM objects get locked to phantom state by the script to still detect avatars!
+# Set Collision to 'No' and save to unlock Phantom, then disable phantom on the object. 
+# You can now re-enable collision again to detect avatars bumping the solid object now.
+# Note: format: 'Yes' or 'No'  Default: No
+
+COLLISION              = No
+
+# SIT_TEXT - Short txt displayed on the pie menu when right clicking the prim for sit
+# Important: SIT ABILITY will *automatically activate* when an animation is present in inventory.
+# Note: this feature is unused without an animation present in inventory.
+# Note: clear the value if you wish to have the default sit text. ie: SIT_TEXT          = 
+# Default value is empty and recommended with touch enabled and touch text set .
+
+SIT_TEXT              = 
+
+# FORCE_SIT - When an *animation is present*, we will force the user to sit on the object on touch
+# Note: Useful when the animation makes more sense on some object like a ladder down a wishing well
+# Note: in case of a general animation that can be played anywhere like a dance, you can disable.
+# Note: this feature is unused without an animation present.
+# Note: format: 'Yes' or 'No'
+# Default is Yes
+
+
+# MENU_TEXT - Menu text in the main menu. Default: Choose a destination:
+MENU_TEXT       = Choose a destination:
+
+FORCE_SIT           = Yes
+
+# ANIM_OFFSET - a positional offset vector to adjust the animation position.
+# Note: this setting is ONLY used when an animation  is present in inventory.
+# Default (Fanatik's classic well 'ladder' animation) ANIM_OFFSET         = <0, 0.15, 0.95> 
+
+ANIM_OFFSET         = <0, 0.15, 0.95>
+
+# ANIM_ROTATION - a rotational vector to adjust the animation rotation
+# Note: this setting is ONLY used when an animation  is present in inventory.
+# Default (Fanatik's classic well 'ladder' animation) ANIM_ROTATION    = <0, 0, 90, 90> 
+
+ANIM_ROTATION    = <0, 0, 90, 90> 
+
+# SOUND_VOL - the volume of any sound played. valid ranges are 0.1 (low) to 1.0 (loudest)
+# Note: this is only used when a sound is present in inventory.
+# Note: Default: 1.0.
+
+SOUND_VOL               = 1.0
+
+# SOUND_RADIUS - limit sounds to this many meters around the teleporter. 0 means  unlimited.
+# Note: this is only changed when a sound is present in inventory.
+# Note: when no sound is present in inventory, the prim property radius is restored to unlimited.
+# Note: Default unlimited. ie: SOUND_RADIUS        = 0
+
+SOUND_RADIUS        = 0
+
+# DELAY_TIME - the time to force delay before teleporting, even when using LM or the destination is chosen quicker.
+# Note: this can be used to give any animation or sound present a decent chance to play. 
+# Note: this feature can still be used when no sound or animations are present so turn off if undesired.
+# Note: the teleporter nicely substracts any seconds the user spends choosing a destination. 
+# Note: Recommended with animation or sound: 4.0
+# Default 0.0
+
+DELAY_TIME               = 4.0
+
+# ALLOW_FOLLOW - traveling in pairs or in groups? its a nice to know where the other(s) went.
+# Note: Enabling this enables the second person to use the teleporter within 30 seconds to follow the first person easily.
+# Note: the destination will be revealed in the info text, and that next user gets a menu asking if they want to follow.
+# Note: this does not force the user to follow, they can click no and get their own destinations menu.
+# Note: after 30 seconds the teleporter clears and any new users get the normal destinations menu again.
+# Available values are 'Yes' and 'No' default: Yes
+
+ALLOW_FOLLOW       = Yes
+
+# LM_LOOK_AT - a positional vector to be facing after teleporting using the single landmark inside.
+# Note: this is only used when a landmark is inside, completely overruling the menu/destinations below.
+
+LM_LOOK_AT           =  <83.46187, 137.83514, 2011.13098>
+
+# DEBUG - For the developer to assist with debugging any potential future issues you might find..
+# Note: debug will spam lots of extra developer information relevant to the internal functioning of the script. 
+# Note: In case the script is acting out the creator may request you to enable this for more developer info. 
+# Note: a special code will be given to you in case you're requested to turn this on.
+
+DEBUG                       = 
+
+
+##################
+#  OTHER / ADVANCED #
+##################
+# Want more options? with a bit of scripting knowledge using the included API example script you can do anything you like .
+# Want to trigger extra custom messages ? want to start and stop a particle effect ? offer inventory before they go ?
+# An open (modifiable) API script is included with the system for scripters  that shows how to use the different events.
+# The example script shows how to trigger particles. You could put the script in another *linked* prim to be the source..
+# Look for the script called: '[SP] Smart Exp Multi Teleporter API example'
+
+
+####################
+##      DESTINATIONS        ##
+####################
+# Note: To face a direction after teleporting, grab the position something you wish to face after teleporting and paste it behind your slurl.
+# Note  the look at position is optional! (but it is one of the best features of our system. as unlike other systems, it actually works.)
+# Note: you can have up to about ~50 destinations. the script will take care of its memory and not accept more when memory runs out.
+# Note: there is a possibility to rewrite this and store way more slurls but i thought 50 should be plenty? if not, contact Night Starchild
+# Note: the format is: name=slurl <lookat> 
+
+# Brightbrook Isle Destinations
+Beach=http://maps.secondlife.com/secondlife/Brightbrook%20Isle/18/127/21 <9, 128, 21>
+Bathhouse=http://maps.secondlife.com/secondlife/Brightbrook%20Isle/56/135/23 <54.5663, 136.5583, 22.3167>
+Helipads=http://maps.secondlife.com/secondlife/Brightbrook%20Isle/29/125/1401 <20, 138, 1401>
+High Dive=http://maps.secondlife.com/secondlife/Brightbrook%20Isle/21/104/26 <15, 104, 27>
+Koi Pond=http://maps.secondlife.com/secondlife/Brightbrook%20Isle/45/150/21 <51, 152, 22>
+Media Sphere=http://maps.secondlife.com/secondlife/Brightbrook%20Isle/26/128/1850 <19, 129, 1850>
+Pool=http://maps.secondlife.com/secondlife/Brightbrook%20Isle/44/114/23 <51, 116, 23>
+View=http://maps.secondlife.com/secondlife/Brightbrook%20Isle/34/132/33 <11, 127, 31>
+# Starchild Productions Land Experience not yet enabled for the Studio parcel
+# Studio=http://maps.secondlife.com/secondlife/Brightbrook%20Isle/79/119/21 <83, 125, 21>
+# Studio Roof=http://maps.secondlife.com/secondlife/Brightbrook%20Isle/80/124/25 <76, 122, 25>
+#
+# Club Truth & Beauty Destinations
+Club=http://maps.secondlife.com/secondlife/Scylla/226/32/78 <218, 32, 77>
+Shop=http://maps.secondlife.com/secondlife/Scylla/211/33/375 <219, 33, 375>
+Shop Rez Area=http://maps.secondlife.com/secondlife/Scylla/222/33/383 <230, 33, 383>
+Shop Roof=http://maps.secondlife.com/secondlife/Scylla/245/33/391
+Bedroom=http://maps.secondlife.com/secondlife/Scylla/233/50/72 <232, 56, 73>
+Club Entrance=http://maps.secondlife.com/secondlife/Scylla/205/32/63 <214, 32, 63>
+Club Roof=http://maps.secondlife.com/secondlife/Scylla/223/45/82 <214, 40, 82>
+Games=http://maps.secondlife.com/secondlife/Scylla/233/32/67 <239, 32, 68>
+Corsair Game=http://maps.secondlife.com/secondlife/Scylla/233/15/67 <229, 22, 67>
+Ludo Game=http://maps.secondlife.com/secondlife/Scylla/212/52/67 <221, 46, 67>
+Texas Hold 'em=http://maps.secondlife.com/secondlife/Scylla/218/18/67 <213, 16, 67>
+Triad Game=http://maps.secondlife.com/secondlife/Scylla/234/49/67 <229, 43, 67>
+Office=http://maps.secondlife.com/secondlife/Scylla/230/32/63 <222, 32, 63>
+Zen Garden=http://maps.secondlife.com/secondlife/Scylla/228/15/1249 <228, 22, 1250>

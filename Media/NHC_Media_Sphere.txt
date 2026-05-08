@@ -1,0 +1,70 @@
+---------------------------------------------------------------------------------------------------------------
+    + NHC Media Sphere Q409
+---------------------------------------------------------------------------------------------------------------
+
+Prims : 9 (nine) each size
+Permission : Copy, No Mod, no Transfer
+Sizes : 32, 40, 50 and 64 meters
+
+Your parties will never be as before ...
+
+Specially designed for parties, events and meetings, the NHC Media Sphere is part of the last generation of addons for use with the NHC Media Center.
+Fully controlled through the DJ Both menu, you can select and configure the effects of the video wall and the dance floor at the touch of your mouse while your guests are entertained.
+Perfect for use in conjunction with the NHC Remote Control (HUD), the NHC Media Sphere is the perfect solution for fun in 3D mode.
+
+Watch the demo on Youtube : http://www.youtube.com/watch?v=6iVFmKEd3rY&fmt=18 (Sorry the audio ... Youtube asked me to swap the original track :)
+
+NHC Media Sphere ... The Ultimate 3D Media Entertainment.
+
+---------------------------------------------------------------------------------------------------------------
+    + How To Install
+---------------------------------------------------------------------------------------------------------------
+    
+Choose the best size according to the size of your parcel (32, 40, 50 or 64 meters).
+Rez the NHC Media Sphere on the center of the parcel. Sit on the DJ Ball, right click anywehere and then move it to the desired x, y, z position coordinate (right click > edit > object tab > and change the position coordinates).
+Keep in mind that we developed the Media Sphere for use above the clouds, but you can put it wherever you want.
+When rezed, the sphere is open because the sphere is not phanton. You can close it using the setup menu button : "CloseSphere" and TP your guests.
+
+---------------------------------------------------------------------------------------------------------------
+    + How To Set - Menu Button Description
+---------------------------------------------------------------------------------------------------------------
+
+Touch the control panel in front of the DJ Ball, on the Dj Both ... the Setup menu will popup :
+
+> CloseSphere / OpenSphere - Open and close the Sphere
+
+> Set Access (Only the owner can access this option)
+>> Owner - Set the setup menu access only to the Owner
+>> Group - Set the setup menu access to the group
+>> Anyone - Set the setup menu access to anyone
+Set the access level to the NHC Media Sphere Menu
+
+> Set Floor (The Dance Floor)
+>> Set Effects - Select the dance floor effect
+>> Set Gain - Adjust the speed of the dance floor effect
+>> Set Glow - Adjust the glow effect of the dance floor
+
+> Set Sphere (The Video Wall)
+>> Set Effects - Select the video wall effect
+>> Set Gain - Adjust the speed of the video wall effect
+>> Set Glow - Adjust the glow effect of the floor
+
+---------------------------------------------------------------------------------------------------------------
+    + How To Know About the Last Release
+---------------------------------------------------------------------------------------------------------------
+    
+All informations about new releases are delivered trought the Nat Home Center News group.
+
+Join the NAT HOME CENTER NEWS group, copying, pasting and touching this link in your chat:
+secondlife:///app/group/3645f841-78d4-9790-f68a-36a8227f8617/about
+    
+---------------------------------------------------------------------------------------------------------------
+    
+NHC FURNITURE
+Furniture for All Lifes
+    
+Location : http://slurl.com/secondlife/NHC/128/128/29
+News Group : http://world.secondlife.com/group/3645f841-78d4-9790-f68a-36a8227f8617
+    
+Sylvio Runo & Natashya Babii
+Software Developer & General Manager

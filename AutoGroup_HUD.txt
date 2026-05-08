@@ -1,0 +1,26 @@
+Thank you for using the YASM AutoGroup hud
+
+I made this tool to avoid having to remember to set my home group to get rez permissions, or appropriate tags for my favourite RP sims, and to avoid embarrassing myself by wearing a 'stripper' group tag to a dharma class. Friends tell me they would also find it useful so I have polished it up to share around.
+
+The script reads a notecard with a list of sim/region names and the name of the associated group. Whenever you change regions an event is triggered in the script and it will check whether there is a match in the list for your current region and set the group accordingly. It requires that you have RLV* enabled in your viewer
+
+- Wear/attach the device. It is designed to be worn as an unobtrusive HUD, works fine buried under window or moved off screen, 1 script 64kb
+- By default the hud is locked to prevent accidental detachment when changing outfits. The lock can be toggled on/off with a touch, either clicking on the attached device or from the Touch option by right-clicking the object in your inventory.
+- The hud must be unlocked to allow editing of the "SimGroupList" config notecard, this is a side effect of the RLV lock. If you have just acquired the device and its just given you this notecard then the lock is currently unset for your convenience, please take this opportunity to edit the config list.
+- Config file syntax is simple, "sim name|group name" separated by a | (pipe/bar) character. Use the sim/region name as it appears in your SL location (not the parcel name), and the name of the group exactly as its appears in your Groups list. Note that sim names must be unique and duplicates will be ignored, but you can have multiple sims with the same group. Use the group name "none" to unset group and remove tag. If you use * as the sim name then the specified group will be set as default for any sim not defined in the config list.
+- Only works on a region/sim scale, parcel level control is not implemented
+
+*RLV FAQ
+Q: What is RLV? How do I get it? Does it pose a risk to my security or liberty?
+A: RLV is a viewer extension that allows in world scripted objects to control your viewer. It is not a feature of the default Linden Lab viewer but is implemented in many Third Party Viewers. RLV can be turned on/off with as viewer config, you generally need to relog. You must wear, and hence own, the RLV device before it has access to viewer settings, objects in world and/or owned by other avatars can only control your avatar via a relay device that you wear. This device is not a relay and does not expose you to risk of being caught in RLV traps or being sold into slavery. 
+The device assumes that you have RLV enabled, if you see a message like "@detach=n" when you attach the device then you do not have RLV enabled and the "@setgroup" commands will not work. "detach" and "setgroup" are the only two RLV commands that are used.
+
+I hope that you find this tool useful. If you have any problems, queries or suggestions then please send an IM
+
+Yasmin 
+
+YouAintSeenMe Resident  􀀀
+
+My store on Marketplace :
+https://marketplace.secondlife.com/stores/148675
+

@@ -1,0 +1,35 @@
+=== Changing your Settings ===
+
+Resolution
+    You can change the size of the buttons by setting the resolution. The options correspond to the vertical resolution that they match best. The vertical resolution is the second number of your display setting. For example: if your monitor has a resolution of 1280x1024, then your vertical resolution is 1024, and you should select this number, or the closest number, from the list. The default setting is 768. After changing the resolution, it is recommended that you detach and re-attach your HUD.
+
+Style
+    The style setting changes how submenus are displayed on your screen. If horizontal is selected (default), then the first item in the submenu will be displayed at the very top of the HUD. If cascade is selected, then the first item in the submenu will be displayed next to the the parent menu.
+
+Reset
+    Resets the scripts in your HUD. Please note that the Resolution setting will not be changed.
+    
+=== Minimizing your HUD ===
+
+Pressing the yellow button in the top-left corner collapse your hud to a small amount of space so it doesn't take up your screen when not in use.
+    
+=== Selecting a Target ==
+
+Select your target by clicking the top button of the menu. which will say either "No Target" or the name of your current target. The HUD will then scan for active relays of nearby avatars. Avatars who are wearing multiple relays will show up twice. To select a target, click on their name. To rescan, close and reopen the menu.
+
+
+=== Browsing RLV folders ===
+
+    Click on "#RLV" to open your target's RLV folder. Folders that are partially worn are displayed in light blue, and folders that are fully worn are displayed in dark blue.
+    
+    To add or remove a folder, select "#Action" at the top of the list, and then the appropriate action.
+    
+
+=== Status Button ===
+
+The second button is the status button.
+
+This status button will turn to "Pending" if the HUD is waiting for a response from your target's relay. This could happen because you are in a laggy sim, your target has gone out of range, or if your target is using a relay that is set to Ask.
+
+The status button will change to "Request Denied" if your target's relay rejects your request. This can happen if your target's relay is busy interacting with a different object, or if your target has his/her relay set to "ask" and decided to deny your request.
+

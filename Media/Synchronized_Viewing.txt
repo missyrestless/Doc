@@ -1,0 +1,19 @@
+Synchronized viewing (TV Version 4.1 and Newer)
+=================================
+
+*** NOTE Synchronized viewing doesn't work when watching videos using the "YouTube Web" option. ***
+
+*** Synchronized viewing means that the video is started at the same time for both users.  if a user leaves the area for a minute, or arrives late, he won't be able to join back in at the same place in the video ***
+
+Two or more people can enjoy loading videos and watching the TV together.  This is a great way to share an intimate time together with a friend or partner, or to operate the TV as a movie screen.  This can be done with the following steps:
+
+1.  Make sure the TV is on and the video is stopped.  
+2.  Load the video that you want to view together.  Make sure you can see the video. (Click on the screen) Click "Stop" from the menu.
+3.  Ask everyone to "click on the screen" in order to show the paused video on the screen.
+4.  Click on "Play" and the video will start playing for everyone.
+
+Please note that synchronized viewing for the Easy YouTube TV just means that everyone will start watching the video at the same time.  If one person leaves and comes back, he will not be in sync for him anymore.  If one person puts his TV screen on pause, he will not be in sync anymore.  
+
+
+Thanks,
+MauiMike
