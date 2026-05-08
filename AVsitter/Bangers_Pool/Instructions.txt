@@ -47,7 +47,7 @@ To configure a Nerenzo Hot Bangers Pool with AVsitter sequences:
 5. Replace the 'AVpos' notecard in the Contents tab with the 'AVpos' notecard found in this folder
   - Drag and drop the original 'AVpos' notecard from the Contents to your Inventory as a backup
   - Delete the 'AVpos' notecard fromthe Contents of the pool object
-    - Deleting the original 'AVpos' notecard will trigger an error message that can be ignored
+    - Deleting the original 'AVpos' notecard will trigger a warning message that can be ignored
   - Drag and drop the 'AVpos' notecard from this folder to the Contents of the pool object
   - Alternately, open the original 'AVpos', delete the contents of the notecard, copy & paste the new 'AVpos' contents and Save
 

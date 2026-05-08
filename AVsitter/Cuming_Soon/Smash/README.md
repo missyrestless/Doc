@@ -47,9 +47,12 @@ wget -q https://raw.githubusercontent.com/missyrestless/Doc/refs/heads/main/AVsi
 To configure a Cuming Soon Super Smash Couch with AVsitter sequences:
 
 - Right click the couch and select `Edit`
-- Copy the `[AV]sequence` plugin script into the Contents tab
-- Copy the `[AV]sequence_settings` notecard into the Contents tab
+- Drag and Drop the `[AV]sequence_settings` notecard into the Contents tab
+- Drag and Drop the `[AV]sequence` plugin script into the Contents tab
 - Replace the `AVpos` notecard in the Contents tab with the `AVpos` notecard found in this folder
+  - Drag and Drop the original `AVpos` notecard from the Contents tab into your inventory as a backup
+  - Delete the `AVpos` notecard from the Contents tab (you can ignore and close the Warning window)
+  - Drag and Drop the new `AVpos` notecard with sequences into the Contents tab
 - Close the `Edit` window
 - Right click the couch and select `More` -> `More` -> `Scripts` -> `Reset Scripts`
 - Wait for the scripts to reset (this takes a few minutes)
