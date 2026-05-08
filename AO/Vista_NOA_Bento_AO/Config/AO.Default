@@ -16,8 +16,7 @@
 [ Flying ]MAYflight
 [ Flying Slow ]FLIGHTSLOWAPR
 [ Hovering ]dz322-Hover.N
-[ Hovering ]VARUB2HOV
-[ Jumping ]VARUB2JUMP|VAJUMPJUMP01S
+[ Jumping ]VAJUMPJUMP01S
 [ Pre Jumping ]VARUB2PreJump001
 [ Running ]VARUB2RUN001
 [ Turning Right ]VARUB2TURNRIGHT01
