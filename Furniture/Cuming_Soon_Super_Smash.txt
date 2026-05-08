@@ -1,0 +1,79 @@
+The Super Smash Set and Quickie couch 
+
+Thank you for your purchase and interest about my products.
+
+I will try to evocate the most pertinent points, considering you know the basics to use SL.
+
+
+- Shape and Mismatch
+Ladies, there is a very easy check-up to do, if you sit on this couch, hover height on 0, and that your right hand does not reach the couch, the left hand does not reach your thigh, be sure that not any other animation will match correctly with your current shape, don't blame me to use a different shape set up than yours, I try to be standard somewhere with no standard and everybody being different. My reference is a mix of real ratio and average sizes worn by SL users. Being among people sizing 164cm like in real,  some others sizing 230 because it's more impressive. I use 190/210cm avatars having average upper body/lower body based on what I consider like ' real '.
+
+My top avatar is based on a male shape approximatively 10% taller than the bottom female shape, it's a hetero furniture, I call them male and female, as my devkits are a active male using Jake as reference and a passive female using Freya, resizers are different when we switch genders, it can be used by different genders/roles but, on your own risk and acceptation of a certain mismatch, especially for shoulders.
+
+- Difference : Super Smash Quickie / Super Smash Couch
+The difference is just 208 anim max in the Quickie Version and currently 382 in the Limited Version Couch.
+The Quickie Version is just a selection of the best poses as a direct concurrent to some other creations never going over 80 couple anim, I tryed to play with variety and alternatives of different poses, voluntarily situated around the same price, as many times I have been reproached to be ' expensive ' because by doing 2.5 more anims than similar products, I sell 500 to 1000ls more. ( The work does not pay here ). The rate of sellings of both couch is almost 3%/97% , the Limited Set is a flawless success, so, fyi, the quickie couch is not really popular.
+
+
+- How it works overall.
+I am not a pro, not the best, not somebody born in the 3D langage, just somebody using blender and trying to make a sofa series of animations, checking the web to get ideas, in SL the whole day trying / insisting to create something better, then when I think my result is fine, i propose and sell what I made.
+All what I do is not perfect, I try to rectify permanently my mistakes or improve my work for years but anything I do has to be considered like a final product and when you purchase, you do it for the current existing version, updates that I mention sometimes are not a duty, or a customer request, they are just my pleasure to try to do better and share with you my shedule, to add more content and to follow the way of your wish about the type of poses. If something changes and you dont like, use the version you like.
+Take the reflex to not ask me the impossible if you don't fit with my standard, I can't modify 400 anim because your shark head can't blowjob your friend using a animesh furry cock ( external rig that I can't affect, that's why its called animesh so, dont blame me for this and understand SL please ), if your maitreya petite has almost no breast, don't ask me to fix the boobjob anims please, remember I m focused to work on Belleza bodies mainly.
+
+- Physics Animations
+That means it animates the locations of some specific bones out of the main list of the default skeleton series, I won't list them. Consider this technical specification like a real time enhancement to improve realism while the use. It requires a reset skeleton or ' Undeform ' the avatar after the use if you stand precisely while the enhancement because when you stand, there is no AO or any others animations correcting or reusing the extra bones that I use and your breast/hip/butt/belly can look ' relocated '.  It can missmatch with some people, depending the shape and body/addons that you use, a Kupra with huge breast/butt, a skinny Legacy Perky or Maitreya Petite etc. Just remember again, I use Belleza bodies and Lelutka heads as references because their conception are for me the bests to work on it, SL contains too many bodies and faces to ask me a total compatibility, I wouldnt mind to do, but I don't have all devkits, and I can't work 500 or 1000 hours per body.
+
+- Update/Upgrade
+It should be my last and final engine, because I'm reaching my own limits, my boredom to work here fully, my lack of ideas ( when you made 200 rides and 150 doggy, it starts to be difficult to innovate by keeping realism and give renews, especially when the renew of some concurrents is inside my own database, why would I innovate if others just redo what I do...
+The whole time that I will give here will be a reuse/upgrade of the 8th gen engine for many "new products", there is more motivation to fill a empty new furniture and update the last than to give a half day to update 0.25% of something existing.
+So you can be sure I will work again thousands hours to make ' this ' couch better, and all the future products that will be based on this final engine.
+
+Old series / New series
+The 8th gen engine won't be offered as free upgrade of something i made 2/3 years ago, some people asked me but ... no, I can't work for glory, nothing worths this effort, I already did it years ago with almost 5000 beds/couches and I just got few complains because some anims disappeared and had been replaced, there still have some people thinking that my second generation of anims are better than what I do 20000 hours later, so, I can't engage debates around this, logic is different for everybody.
+
+
+- Déjà-vu 
+It's the specification on this couch, there is a dozzen of animations inspired from .... from people having inspired their new anims from mine's, for years it was one sided, I check the web to import new ideas here and some people buy my stuff and take the time to redo similarly some of my poses, it's very easy to check by the moment furnitures are released. So, don't be surprised if I redo similar poses like some people did.
+
+
+- Reuse of ' Classics ' 
+Yeah I reuse, a shame for some.. While this time some people complains that they don't find the Boobjobs anims, they want my main doggy anim, Bang-Bang or some alternatives of the Rodeo Drive so I do / upgrade-reuse to try to please, or sometimes because I redo some similar poses and after hours I realize I don't do better, challenging myself to try to make something better and I fail, so, it's simpler to give hours to upgrade some existing poses and add as ' Classics ' and because it starts to be really difficult after years to import in SL new types of poses.
+
+
+- The Inclusion of Eye Direction
+It has been included in the main animation to erase script latency of the use of a forth sub animation, 
+directly in the main anim, like this, there is no delay especially for the short cycles of fast anims.
+Not all anims include this functions, for some it was not necessary, for some it was impossible because the memory limit didn't allow new bones datas.
+it could create issues on some furries heads as I use Lelutka heads as reference for the eyeballs rotation's limit. So, even by desactivating the Facial Expressions in the settings, the eyelook stays active.
+
+
+- Coming Soon in the Limited Set
+There is free memory, I should try to include a dozzen of new couple poses, maybe more, all is about inspiration and time, not just sitting and clicking on the buttons, so, I can't say ' when ' I should make them.
+I just know I will challenge me to make Twerk anims, it seems simple to do but it's really not, at least for me, I failed many times in the past to try to do some but I will retry, being more experimented than 2/3 years ago it should be fine, for the others poses I have ideas, it's just a technical especially because the Aeros bento and the P have to be sync and I don't use the P devkit.
+
+
+- Important Information About Using PBR on Second Life:
+It's something I m not supposed to talk about but that I will do because it could save your computer, especially if you still have a 386 DX4 or sumerian computer.
+
+If your computer has outdated or insufficient cooling, or if it’s already struggling to run SL (such as overheating, running at 100% capacity, or frequently crashing), I strongly recommend avoiding the use of the Coffee Table in Ultra settings with PBR effects enabled. Pushing your system to handle this feature could cause severe stress on your hardware, potentially leading to serious fatal damage.
+
+While I'm not a computer specialist, I do know that this feature demands significant processing and graphic resources, which could put your machine at risk, especially if it’s not designed to handle heavy loads. Not everyone can easily replace their computer, so please use this feature with caution.
+
+
+And overall, I wish this new creation will give you some fun and nice time in Second Life. It would definitely give a sense on my work.
+
+
+
+
+V 1.02 :
+ Adjustment of the Nightmare ♀ Prop and add of this notecard
+ Add of the Quickie version in the package, some people asked.
+ Rectification of the INM Cleaning, the cleaner syntax was wrong.
+ 
+ V 1.021 
+ Super Smash Couch => "Smash Hammer" facial anim has been rectified.
+ Super Smash Quickie => Princess and Drinking in Solo F menu rectified.
+ 
+ V 1.1 
+ Auto Adjust function added
+ Minor bugs.
