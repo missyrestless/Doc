@@ -4,6 +4,9 @@ This folder contains the `AVpos` and `[AV]sequence_settings` notecards for use
 with the `AVsitter2` plugin `[AV]sequence` to provide animation sequences for
 the Trompe Loeil Pool dialog menus.
 
+This `AVsitter` customization allows greater freedom of personal interaction in the
+sauna, eliminating the need to navigate dialog menus during moments of intimacy.
+
 ## Menus
 
 Sequences are configured for the following menus:

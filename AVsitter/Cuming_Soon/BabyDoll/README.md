@@ -4,6 +4,9 @@ This folder contains the `AVpos` and `[AV]sequence_settings` notecards for use
 with the `[AV]sequence` plugin for `AVsitter2` to provide animation sequences
 for the Cuming Soon BabyDoll Bed dialog menus.
 
+This `AVsitter` customization allows greater freedom of personal interaction in the
+sauna, eliminating the need to navigate dialog menus during moments of intimacy.
+
 ## Menus
 
 Sequences are configured for the following menus:
