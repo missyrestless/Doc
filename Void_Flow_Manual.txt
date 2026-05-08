@@ -1,0 +1,81 @@
+████████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+Thank you for your purchase.
+
+This notecard contains detailed information regarding everything the Flow system is capable of. 
+
+Please stretch and make this notecard max size on your screen for best viewing.
+
+You're advised to read it to get the most out of your purchase.
+
+████████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+WARNING: For proper functionality, you need to enable Quickjump.
+To do so: Top Left Avatar Menu > Movement > Quickjump.
+
+
+★ Flow is a movement enhancer designed to compliment basic SL motion. 
+It enhances the speed of your default SL run and allows you to perform some aerial maneuvers. 
+It also allows you run over SL water.
+
+★ Flow works without rezzing objects and works in no script zones too. 
+However because it relies on double taps to activate, this can be challenging to pull off in no script zones due to timing issues.
+
+▂▂▂▂▂▂▂▂▂▂ MOVES LIST ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+⚫ W+W (Hold) = Enhanced Run ⚫
+This run features a handcrafted PR6 running animation made by yours truly. 
+It runs faster than default SL run and looks completely natural. All moves Flow can perform require you to be in running mode.
+Letting go of W key at any point turns off the system. 
+
+⚫ E (While Running) = First Jump ⚫
+A basic jump that launches your avatar upwards and enters the Glide Mode. 
+Making contact with the ground, any object, or water during Glide will have your avatar perform a ground roll and continue running.
+Landing on water skips the ground roll.
+
+⚫ E (While Gliding) = Second Jump ⚫
+If you desire more altitude, you can press E again to perform a secondary jump which also adds some forward momentum.  
+
+⚫ C (While Gliding) = Dive ⚫
+You can press C while gliding to dive down. Upon reaching the ground or water surface, if you're still holding W you will continue running.
+
+⚫ W+W (Over Water) = Water Run ⚫
+Flow is capable of having your avatar run on SL water. The run must start on solid ground, and transition onto water.
+Water running speed is faster than regular ground running.
+
+⚫ C (While Running Over Water) = Water Dash ⚫
+This move boosts you forward while you are performing water run.
+
+⚫ C (While Running Over Ground) = Skip Dash ⚫
+This move performs a small forward jump.
+
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+▂▂▂▂▂▂▂▂▂▂ MENU & SETTINGS  ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+⚫ To access the menu, type the command:     /101 menu 
+
+⚫ From this menu;
+- You can change the colors of the particle petal effects or disable them.
+- Toggle the sounds on/off.
+- Toggle the RLV Lock. Enabling the RLV Lock will lock the attachment on your avatar and prevent it from detaching during outfit changes. 
+
+PS: Water particle effects can not be color changed.
+
+⚫ If you are unhappy with the colors I provided for you within the menu, you can use your own custom colors, if you have absolute-basic editing skills.
+
+⚫ To do so:
+
+- While the Flow is attached; Right click on it in your inventory.
+- Select Edit.
+- Change the color of the prim like any other object.
+- The system is coded to use the prim color for its effects. Set it to whatever color you desire.
+
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+
+████████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+Have a wonderful day.
+
+████████████████████████████████████████████████████████████████████████████████████████████████████████████
