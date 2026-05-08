@@ -4,6 +4,9 @@ This folder contains the `AVpos` and `[AV]sequence_settings` notecards for use
 with the `AVsitter2` plugin `[AV]sequence` to provide animation sequences for
 the DaD Outdoor Sauna ADULT v1.3 dialog menus.
 
+This `AVsitter` customization allows greater freedom of personal interaction in the
+sauna, eliminating the need to navigate dialog menus during moments of intimacy.
+
 **[Note:]** This `AVsitter` customization is for the ADULT version of the sauna only.
 
 ## Menus
@@ -11,11 +14,12 @@ the DaD Outdoor Sauna ADULT v1.3 dialog menus.
 Sequences are configured for the following menus:
 
 - Male and Female Solo Menus
-- Couples cuddles
+- All Couples cuddles
 - Him and Her Foreplay
 - Male and Female Adult Front Menus
 - Male and Female Adult Behind Menus
 - Male and Female Adult Riding Menus
+- Male and Female All Sex Menus
 
 ## Download the script and customized notecards
 
