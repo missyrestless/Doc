@@ -1,0 +1,134 @@
+🍥 SHITS & GIGGLES Lips Kisser – User Guide 🍥
+
+Thank you for choosing this irresistibly kissable attachment! 💋 Below you’ll find instructions to customize your settings, manage who gets to smooch you, and make the most of your new flirty gadget.
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+💋 QUICK START
+
+Attach the kisser to your avatar. This item is unrigged, so some manual adjustment may be necessary to get the perfect fit & position.
+Right-click → Edit the worn item, then move/resize until it sits just right.
+
+There are 4 easy ways to open your Kiss Control Panel:
+• LONG PRESS: Touch and hold the kisser for 1 second.
+• CHAT COMMAND: Type /69 kiss in local chat.
+• GESTURE: Activate the included gesture and press SHIFT + K to open the menu anytime.
+• UNIVERSAL HUD: Wear the included S&G Universal HUD and click it to easily access all your S&G clickers in one place!
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+🛠 MAIN MENU OVERVIEW
+
+When you open the menu, you will see three main options:
+🔒 ACCESS – Control who gets to kiss you!
+🔧 CUSTOMIZE – Adjust your sounds, particles, chat, and more.
+❌ CLOSE – Closes the menu.
+
+Inside the 🔧 CUSTOMIZE menu, you will find:
+🔊 SOUND – Mute, set volume, or select which sounds to play
+💖 PARTICLES – Choose your sparkle style, emojis, or confetti!
+💬 CHAT – Toggle chat messages and set anti-spam cooldowns
+📏 RANGE – Customize how far away avatars can be to kiss you
+▶️ ANIMATION – Toggle the kiss animation on or off
+🖥️ SYSTEM – View current settings, check memory, or reset the device
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+💬 CHAT SETTINGS
+
+• CHAT: Turn text responses ON or OFF (Silent).
+• PRIVATE: When ON, chat messages are shown only to you and the toucher. When OFF, they are seen by everyone nearby in local chat.
+• ANTI-SPAM: Set a cooldown timer to prevent the same avatar from spamming the chat.
+
+💌 Want to write your own flirty kiss messages?
+Edit the included notecard named "Chat Messages" inside the object’s inventory.
+Each line = one message.
+
+You can use [A2] in your messages to insert your own name!
+
+Example:
+gave [A2] a surprise smooch 💋
+couldn’t resist kissing [A2] right on the lips 😘
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+📏 RANGE SETTINGS
+
+Set the maximum distance another avatar can be to kiss you.
+Choose between preset ranges (3m, 5m, 10m, 20m, or No Limit) to control how close they have to get for a kiss.
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+🔊 SOUND OPTIONS
+
+Make it soft... or make it extra. 💞
+• SOUND: Toggle the kissing sound on or off completely.
+• VOLUME 🔈: Open the volume submenu to set your kiss volume between 25% and 100%.
+
+🎵 SELECT SOUND (Sound Appliers)
+You can install new sounds using the Shits & Giggles Sound Appliers! 
+1. Rez your purchased Sound Applier on the ground.
+2. Click it to seamlessly install the sound into your worn Kisser.
+3. Open your SOUND > SELECT SOUND menu to view it in your list of sounds. It will be activated automatically.
+
+Any sound button with a ▣ next to it is ACTIVE. If you activate multiple sounds, your kisser will cycle through them with every kiss! (Click an active sound again to deactivate it).
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+💖 PARTICLE OPTIONS
+
+Add sparkle to your kisses with a variety of emoji-based particle effects!
+
+• PARTICLES: Turn visual effects on or off.
+• TEXTURE: Choose from preset emojis, or select "Custom" to use your own texture UUID.
+• SHUFFLE: Randomize the particle texture with each kiss!
+
+🎉 NEW: CONFETTI MODE!
+Toggle between a single floating emoji, or an explosive Confetti burst! When Confetti is turned ON, you will see new buttons to control the intensity:
+• LVL 1 – A subtle sprinkle of 10 particles
+• LVL 2 – A fun burst of 20 particles
+• LVL 3 – A dramatic explosion of 35 particles!
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+▶️ ANIMATION SETTINGS
+
+Toggle the smooth, flirty animation that plays when your kisser is activated! The animation included is quite subtle - feel free to replace it in the kisser contents with any animation you'd like!
+
+💡 Custom Animations - The script now plays the first animation found in inventory. You can replace the included one with your own (shorter animations < 4 sec work best).
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+🔒 ACCESS CONTROL
+
+📋 LISTS – Manage who’s allowed (or not allowed) to kiss you:
+  LIST – View current list in local chat with clickable profile links
+  ADD/REMOVE – Enter a user's UUID to modify the list
+  CLEAR – Removes all names from the list
+
+To get an avatar’s UUID, open their profile and copy it from the top.
+
+🌐 PUBLIC – Anyone can kiss you
+▫ WHITELIST – Only listed avatars can kiss you
+⬛ BLACKLIST – Everyone except listed avatars can kiss you
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+🖥️ SYSTEM
+
+Opening the System menu will automatically list your current configuration in local chat.
+
+• MEMORY: Checks the current memory usage of the scripts to ensure they are running healthy and efficiently.
+• RESET: Restores all display and feature settings to their factory defaults. (This will NOT clear your Whitelists or Blacklists).
+• HARD RESET: ☢️ Wipes the entire database. This restores all factory defaults AND completely uninstalls any sound appliers and erases your Whitelists and Blacklists. Use with caution!
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+🌸 NEED HELP?
+
+Questions? Feedback? Requests? Contact Adeline Lake in-world 💌
+􀀀
+Or visit our store at:
+􀀁
+
+Boop responsibly.

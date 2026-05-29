@@ -1,0 +1,125 @@
+🍥 SHITS & GIGGLES Nose Booper – User Guide 🍥
+
+Thank you for choosing this cute booper! 💕 Below you’ll find instructions to personalize your settings, manage access, and get the most out of your new clicker.
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+🎯 QUICK START
+
+Attach the booper to your avatar. This item is unrigged, so some manual adjustment may be necessary to get the perfect fit & position.
+Right-click → Edit the worn item, then move/resize until it sits just right.
+
+There are 4 easy ways to open your Boop Control Panel:
+• LONG PRESS: Touch and hold the booper for 1 second.
+• CHAT COMMAND: Type /69 boop in local chat.
+• GESTURE: Activate the included gesture and press SHIFT + B to open the menu anytime.
+• UNIVERSAL HUD: Wear the included S&G Universal HUD and click it to easily access all your S&G clickers in one place!
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+🛠 MAIN MENU OVERVIEW
+
+When you open the menu, you will see three main options:
+🔒 ACCESS – Control who gets to boop you!
+🔧 CUSTOMIZE – Adjust your sounds, particles, chat, and more.
+❌ CLOSE – Closes the menu.
+
+Inside the 🔧 CUSTOMIZE menu, you will find:
+🔊 SOUND – Mute or set your volume level
+💖 PARTICLES – Choose your sparkle style, emojis, or confetti!
+💬 CHAT – Toggle chat messages and set anti-spam cooldowns
+📏 RANGE – Customize how far away avatars can be to boop you
+▶️ ANIMATION – Toggle the cute nose wiggle animation on or off
+🖥️ SYSTEM – View current settings, check memory, or reset the device
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+💬 CHAT SETTINGS
+
+• CHAT: Turn text responses ON or OFF (Silent).
+• PRIVATE: When ON, chat messages are shown only to you and the toucher. When OFF, they are seen by everyone nearby in local chat.
+• ANTI-SPAM: Set a cooldown timer to prevent the same avatar from spamming the chat.
+
+💬 Want to add your own custom boop messages?
+Edit the included notecard named "Chat Messages" inside the object’s inventory.
+Each line = one message.
+
+You can use [A2] in your messages to insert your own name!
+
+Example:
+booped [A2]'s nose! 👃💞
+snuck in a stealth boop on [A2]. 🤫👃
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+📏 RANGE SETTINGS
+
+Set the maximum distance another avatar can be to boop you.
+
+Choose between preset ranges (3m, 5m, 10m, 20m, No Limit) depending on your preference.
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+🔊 SOUND OPTIONS
+
+Mute or set volume between 25% and 100%.
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+💖 PARTICLE OPTIONS
+
+Add sparkle to your boops with a variety of emoji-based particle effects!
+
+• PARTICLES: Turn visual effects on or off.
+• TEXTURE: Choose from preset emojis, or select "Custom" to use your own texture UUID.
+• SHUFFLE: Randomize the particle texture with each boop!
+
+🎉 NEW: CONFETTI MODE!
+Toggle between a single floating emoji, or an explosive Confetti burst! When Confetti is turned ON, you will see new buttons to control the intensity:
+• LVL 1 – A subtle sprinkle of 10 particles
+• LVL 2 – A fun burst of 20 particles
+• LVL 3 – A dramatic explosion of 35 particles!
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+▶️ ANIMATION SETTINGS
+
+Toggle the adorable nose wiggle animation that plays when your booper is activated!
+
+💡 Custom Animations - The script now plays the first animation found in inventory. You can replace the included one with your own (shorter animations < 4 sec work best)
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+🔒 ACCESS CONTROL
+
+📋 LISTS – Manage who’s allowed (or not allowed) to boop you:
+  LIST – View current list in local chat with clickable profile links
+  ADD/REMOVE – Enter a user's UUID to modify the list
+  CLEAR – Removes all names from the list
+
+To get an avatar’s UUID, open their profile and copy it from the top.
+
+🌐 PUBLIC – Anyone can boop you
+▫ WHITELIST – Only listed avatars can boop you
+⬛ BLACKLIST – Everyone except listed avatars can boop you
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+🖥️ SYSTEM
+
+Opening the System menu will automatically list your current configuration in local chat.
+
+• MEMORY: Checks the current memory usage of the scripts to ensure they are running healthy and efficiently.
+• RESET: Restores all display and feature settings to their factory defaults. (This will NOT clear your Whitelists or Blacklists).
+• HARD RESET: ☢️ Wipes the entire database. This restores all factory defaults AND completely erases your Whitelists and Blacklists. Use with caution!
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+🌸 NEED HELP?
+
+Questions? Feedback? Requests? Contact Adeline Lake in-world 💌
+􀀁
+Or visit our store at:
+􀀀
+
+Boop responsibly.
