@@ -1,0 +1,40 @@
+Thanks for buying my retro style classic Retro Jukebox Radio Tuner .
+
+Its Highly detailed , 100% Mesh and is made of one single prim with a 4 prim land impact at standard size. (Please note that if you do increase the size the land impact may also increase)
+
+The Jukebox also now features PBR Texturing for extra realism. (Best viewed inside a reflection probe)
+
+The Radio Tuner will set your Music URL with a choice of 100 stations.
+Just rez in world and allow 20 - 30 secs for the stations to load.
+A red hovertext will appear showing the progress of the stations loading.
+Once this has finished, just click on the Radio and a menu will drop down giving you a choice of stations.
+Please allow a few seconds for the new station to 'buffer' and start playing.
+
+*Please note that if your land is group owned you must deed the radio to that group * To set the radio to a group - right click on it and choose 'Edit', then under the 'General' tab click the Tool Icon next to where it says Group.Now choose the right group for the land and press 'Ok'. Check the 'Share' box and then click the 'Deed' button. if you are not the owner or officer of the group you will need to get the person who is to help you do this
+
+The radio also has  Access settings so you can set who can change the stations. From the menu choose 'Options' then 'Access' and choose from Public, Owner or Public.
+
+You can add your own stations if you want. Just add the URL to the 'stations' notecard in the same format as all the others but you will have to replace one of the existing channels. PLEASE NOTE!...If the radio has been deeded to a group you may need to undeed it before you can edit the stations notecard....there are two ways to do this...... either take it back into your inventory and re-rez or sell the radio back to yourself for $0.
+
+Color - you can now change the color of the jukebox lights. from the options menu select 'Color' and then choose from one of the classic  colors - Or choose Cycle On/Off to auto cycle through the colors.
+
+Off - Turns off the radio and clears the lands radio stream
+
+Electric Plug - The pack also now comes with optional electric plug & socket with both left and right side options
+
+TROUBLESHOOTING!
+1) If you don't hear any  music, make sure you have your settings set correctly.
+Go to 'Me' or 'Avatar' on some viewers at the top left of your screen and choose 'Preferences'. Then click on the tab marked 'Sound & Media' and make sure the ' Streaming Music' box is checked and the volume slider is up. Then press the 'Play' button on the  the Audio icon at the top right of your screen.
+
+2) If still no sound, it could be that the stream you are trying to listen to could be temporarily down or is not a 24 hr station, in which case just choose a different channel. If still no sound it could be down to the age old SL problem of LLLAAAAAAGG! In which case the problem should correct itself on its own eventually.
+
+3) If you can't change radio channels or the radio says its changing channel even though you hear no difference, this will be because the radio and the land is owned by a different person or group. REMEMBER! the land and radio owner must be the same so make sure you deeded it to the right group or given it to the land owner.
+
+
+A GREAT WEB PAGE FOR MEDIA TROUBLESHOOTING ISSUES IN SECOND LIFE PLEASE VISIT: https://wiki.firestormviewer.org/fs_media
+
+If you have any problems with the Radio itself, like error messages. Just take the Radio back into your inventory and re-rez. This will reset the scripts and should sort out any problems.
+
+I think thats about it!
+I Hope you enjoy my creation.
+Supershine Zapedzki.
