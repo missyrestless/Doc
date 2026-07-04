@@ -1,0 +1,183 @@
+💋 SHITS & GIGGLES – Lips Kisser 💋
+
+Thanks for shopping with us, and welcome to version 4.0!
+Your Kisser now backs its settings, sounds, and lists up to the cloud, so you'll never lose your setup again.
+Please read the following to get the most out of your item.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GETTING STARTED
+
+Attach the Kisser to your avatar. It's unrigged, so it may need a little manual adjustment for the perfect fit. Right-click → Edit the worn item, then move/resize until it sits just right.
+
+There are 4 ways to open your Kiss Control Panel:
+
+• LONG PRESS – Touch and hold the Kisser for 1 second.
+• CHAT COMMAND – Type /69 kiss in local chat.
+• GESTURE – Activate the included gesture and press SHIFT + K anytime.
+• UNIVERSAL HUD – Wear the included S&G Universal HUD and click it to reach all your S&G clickers in one place.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MAIN MENU
+
+Opening the menu gives you:
+
+🔒 Access – Control who gets to kiss you.
+🔧 Customize – Adjust sounds, particles, chat, and more.
+💞 Partner – Pair up with someone special and share a heart chain (see below).
+🌐 Web Login – Sign in to your online dashboard to manage everything from your browser (see below).
+✖️ Close – Closes the menu.
+
+Inside Customize you'll find:
+
+🔊 Sound – Mute, set volume, or pick which sounds play.
+💖 Particles – Choose your sparkle style, emojis, or confetti.
+💬 Chat – Toggle chat messages and set anti-spam cooldowns.
+📏 Range – Set how far away avatars can be to kiss you.
+▶️ Animation – Toggle the kiss animation on or off.
+🖥️ System – View settings, check memory, or reset the device.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CLOUD SAVE & WEB LOGIN  (NEW in v4.0!)
+
+Your Kisser now saves your settings, installed sounds, Whitelists, and Blacklists safely to our server. You'll never lose your setup again - a fresh copy, or any future update, restores everything for you automatically.
+
+You can also manage your Kisser from any web browser. Open the menu and tap 🌐 Web Login and follow the URL, or attach the Web Dashboard HUD.
+
+From your dashboard you can view and change all your settings and view your stats/leaderboard.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PARTNERS  (NEW in v4.0!)
+
+Pair up with up to 3 special someones and share a lips-to-lips heart chain that flows between you whenever you're close or share a kiss. 💕
+
+Open the menu and tap 💞 PARTNER to manage your pairings:
+
+• Pair – Start a pairing with someone nearby. They'll get a request to accept on their own Kisser - you both need to be in the same region, each wearing your updated Kisser.
+• Unpair – Unlink from a partner.
+• Particles – Choose the particle texture your chain uses.
+• Preview – See your chain effect in action.
+• Chain – Turn the heart-chain effect on or off.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CHAT SETTINGS
+
+• Chat – Turn text responses ON or OFF (Silent).
+• Private – When ON, messages show only to you and the toucher. When OFF, everyone nearby sees them in local chat.
+• Anti-spam – Set a cooldown so the same avatar can't spam the chat.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WRITING YOUR OWN KISS MESSAGES (STEP-BY-STEP)
+
+Want your own flirty lines? The Kisser loads its messages from a notecard in its contents.
+
+━━━━━━━━━━━━━━━━ STEP 1: Open the Notecard
+
+Right-click the Kisser (worn or rezzed) and select "Edit". Go to the "Content" tab and double-click the notecard named "Chat Messages".
+
+━━━━━━━━━━━━━━━━ STEP 2: Add Your Lines
+
+Type one message per line. Use [A2] to drop in your own name.
+
+Example:
+gave [A2] a surprise smooch 💋
+couldn't resist kissing [A2] right on the lips 😘
+
+━━━━━━━━━━━━━━━━ STEP 3: Save
+
+Save the notecard and your new lines are live.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RANGE
+
+Set the maximum distance another avatar can be to kiss you. Choose between 3m, 5m, 10m, 20m, or No Limit.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SOUND
+
+• Sound – Toggle the kissing sound on or off.
+• Volume – Set your kiss volume between 25% and 100%.
+
+SELECT SOUND (Sound Appliers)
+Install new sounds with the Shits & Giggles Sound Appliers:
+
+1. Rez your purchased Sound Applier on the ground.
+2. Click it to install the sound into your worn Kisser.
+3. Open SOUND > SELECT SOUND to see it in your list — it activates automatically.
+
+Any sound marked ▣ is ACTIVE. Activate several and the Kisser cycles through them with every kiss. Click an active sound again to deactivate it.
+
+💡 Want to hear a sound before activating it? Preview your whole library from your web dashboard — just tap the ▶ next to any sound. (See Cloud Save & Web Login above.)
+
+MANAGING & UNINSTALLING SOUNDS
+• Del Sound – Want to clean up your list? Click this button, then select a custom sound to permanently remove it from your Kisser. (You will get a confirmation prompt first so you don't delete anything by accident!)
+• If you are a collector and install more than 8 custom sounds, your menu will automatically generate "Next" and "Prev" pages so you can browse your entire collection seamlessly.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PARTICLES
+
+Add sparkle to every kiss with emoji-based effects.
+
+• Particles – Turn visual effects on or off.
+• Texture – Pick a preset emoji, or choose "Custom" for your own texture UUID.
+• Shuffle – Randomize the particle texture with each kiss.
+
+CONFETTI MODE
+Switch between a single floating emoji and an explosive confetti burst. With Confetti ON, set the intensity:
+
+• LVL 1 – A subtle sprinkle of 10 particles.
+• LVL 2 – A fun burst of 20 particles.
+• LVL 3 – A dramatic explosion of 35 particles.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ANIMATION
+
+Toggle the smooth, flirty animation that plays when the Kisser fires. The included animation is subtle — swap it for any animation you like by dropping yours into the Kisser's contents.
+
+The script plays the first animation it finds in inventory, so replace the included one with your own (shorter animations under 4 seconds work best).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ACCESS CONTROL
+
+LISTS – Manage who's allowed (or not) to kiss you:
+
+• List – View the current list in local chat with clickable profile links.
+• Add / Remove – Enter a user's UUID to modify the list.
+• Clear – Removes all names from the list.
+
+To get an avatar's UUID, open their profile and copy it from the top.
+
+• Public – Anyone can kiss you.
+• Whitelist – Only listed avatars can kiss you.
+• Blacklist – Everyone except listed avatars can kiss you.
+
+Your lists are saved to the cloud too, so they carry over to future updates.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SYSTEM
+
+Opening System lists your current configuration in local chat.
+
+• Memory – Checks current script memory usage to confirm everything's running healthy.
+• Reset – Restores display and feature settings to factory defaults. (Does NOT clear your Whitelists or Blacklists.)
+• Hard Reset – Wipes the entire database: restores factory defaults AND uninstalls any sound appliers and erases your Whitelists and Blacklists. Use with caution.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NEED HELP?
+
+Questions? Feedback? Requests? Contact Adeline Lake in-world 💌
+􀀁
+Or visit our store at:
+􀀀
