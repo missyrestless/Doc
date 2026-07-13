@@ -1,0 +1,147 @@
+                                                     
+                                                    •  [Neurolab Inc.] AGX HOVERBOARD • 
+                                                             
+=====================================================================
+
+➜ Documentation :
+
+    To ensure that our documentation is always up to date, we maintain it ONLINE.
+    
+    Please visit this page for the user guide: 
+       
+    ➜      https://www.neurolab-inc.com/?p=10035  
+    
+    
+    
+    ✪ QUICK HELP :
+    
+    HOW TO USE N.PHONE SMART HUD
+    
+        (if you do not already have your N.Phone HUD, you will find one in the product folder.
+
+    ■ How To Connect Product to HUD
+    
+    1 – Wear N.PHONE Smart Hud
+    2 – Click to “HUD CUSTOM” button to the PRODUCT menu to connect/synchronize product on HUD !
+    3 – Smart HUD app automatically opens
+    4 – now you can customize..
+                           
+    ➜   Read more about SMARTHUD application: https://www.neurolab-inc.com/?p=8429
+  
+     Thanks for your purchases.            
+                                                                                 
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ 
+
+HOW to USE Hoverboard
+
+– Start by wearing the hoverboard (wear me), then wear the AGX HUD
+– Press to RIDE on your AGX HUD to use your board
+– Then SIT or right click “RIDE” on the hoverboard rez to ground floor
+
+HOW to use and CONTROL AGX HUD
+
+– RIDE: REZ to floor your hoverboard (custom)
+– FLYING: Switch to FLIGHT MODE (Activate only when one is on the board)
+– AUTO LANDING: stop flight mode automatically contacts the ground
+– AUTO REDRESS: enable / disable automatic recovery in flight
+– AUTO DIE: The hoverboard automatically returns to the back when you get up
+– AUTO SIT: For RLV Viewer only, allows you to sit on the hoverboard automatically when you click on Ride
+– CUSTOM: To connect and customize the Hoverboard with the SMART HUD
+
+– MAX SPEED: Adjust the maximum speed of the board
+– ACCELERATION: Adjusts the acceleration power
+– TURN: Adjust the angle to rotate
+
+■ SETTINGS
+
+ – EXPORT: Exports your  Personal settings
+Open the notecard “[NeurolaB Inc.] AGX Settings” in your AGX HUD
+Remove current data in your notecard
+Copy/past new data from local chat in your notecard
+Save.
+– LOAD: Load your  Custom settings from the notecard
+– NEXT: scrolls on different poses/animations to adjust your avatar
+
+► Standing : (click to settings button when you wear Hoverboard)
+– SIZE: Adjust the size of the hoverboard in the back
+
+► On the board : (click to settings button when you ride)
+– SIZE: Adjust the size of the hoverboard to the ground.
+– HEIGHT: Adjust the position of the avatar vertically
+– SIDE: Adjust the position of the avatar horizontally
+
+■ CONTROLS KEYS
+
+===== Moving =====
+
+W / ↑: Accelerating
+AD / ← →: turn
+S / ↓: slow
+Shift A / Shift ← : slide left
+Shift D / Shift → : slide right
+
+===== Jump  =====
+
+E / ▲ PageUp: keep the button one second will jump higher
+
+===== In air =====
+
+Shift A / Shift ←: roller left
+Shift D / Shift → : roller right
+C / ▼ PageDown: trick
+
+===== Ramp =====
+
+E / ▲ PageUp down in reaching the top of a ramp used to make the jump ramp
+Release E / ▲ PageUp and press it again to make a backflip
+
+===== In flight =====
+
+Shift A  / Shift ←: roller left
+Shift D /  Shift → : roller right
+E / ▲ PageUp: tilt backward
+C / ▼ PageDown: tilt forward
+
+E / ▲PageUp + C / ▼PageDown : get high
+
+Left mouse click:
+– AUTO REDRESS active:
+the hoverboard redress automatically when they stop bowing
+hold the left mouse button prevents upswing
+– AUTO REDRESS inactive:
+the hoverboard does not redress automatically
+hold the left mouse button redress the board
+
+===== Slide =====
+
+Approaching a border hold left mouse click
+
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ 
+    
+    ☎ Technical Support Contact - Assistance
+    ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹋
+    � If you have any questions, suggest or others , send me a notecard to "Ono Zinner". 
+    
+    - Join the customer group Neurolab Inc.  If you need help or for a question, feel free to ask in the group.
+    
+    - Server Discord : https://discord.gg/PCCfMNGFyH     
+
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌  
+  For more : 
+   
+ ► Marketplace: https://marketplace.secondlife.com/stores/17823
+ ► Blog & Manuals: http://www.neurolab-inc.com/
+
+■ Discord : https://discord.gg/PCCfMNGFyH 
+■ YouTube : https://www.youtube.com/c/Neurolab-TV
+■ PrimFeed : https://www.primfeed.com/ono.zinner
+
+
+  ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+    © Copyright  Neurolab Inc. CYBER HI-TECH quality products for Second life - All Rights Reserved.         
+    
+    No templates or prefabricated Mesh/Textures used. Violation will result in DMCA take down notification
+    towards Linden. Any Copy or Imitation will be considered a Copyright Violation in accordance with
+    the Digital Millennium Copyright  Act (DMCA) unless  authorized by ono Zinner himself, and
+    treated accordingly.     
+  
