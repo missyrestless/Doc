@@ -1,0 +1,347 @@
+=======================================================
+        EASY STREAMING TV - USER GUIDE
+=======================================================
+
+Welcome to the Easy Streaming TV! This powerful and easy-
+to-use system allows you to watch videos, playlists, and
+live streams in Second Life with just a few clicks.
+
+You can watch alone or with others, use playlists, or
+stream live content for synchronized viewing.
+
+=======================================================
+QUICK START
+=======================================================
+
+1. Rez the TV on your land
+2. Click anywhere on the TV frame to turn it on
+3. The menu will appear
+
+4. Choose one of the following:
+   • Enter a URL
+   • Playlist
+   • Streaming TV
+   • YouTube Web
+
+5. Click the screen to load the video
+6. Use Play to begin playback
+7. Enjoy!
+
+=======================================================
+SUPPORTED SERVICES
+=======================================================
+
+The Easy Streaming TV supports:
+
+• YouTube
+• Vimeo
+• Twitch
+• DailyMotion
+• Pluto TV
+• Tubi TV
+• Kosmi TV Sharing
+• ShoutCast Radio
+• Kick
+
+=======================================================
+VIEWING METHODS
+=======================================================
+
+ENTER URL
+Play a video directly from a link:
+• Click "YouTube URL"
+• Paste your video link
+• Click Submit
+
+PLAYLIST
+Use a notecard inside the TV:
+• Add a playlist notecard to the TV
+• Click Playlist → Change List
+• Select a video or Play All
+
+YOUTUBE WEB
+Browse YouTube directly:
+• Click "YouTube Web"
+• Search and play videos
+
+NOTE:
+YouTube Web mode does NOT support synchronized viewing
+
+=======================================================
+PLAYLIST FORMAT
+=======================================================
+
+Each line must follow this format:
+
+Button Name|Video Title|YouTubeURL
+
+RULES:
+
+• Button name must be 13 characters or less
+• One video per line
+• No special characters or curly quotes
+• No duplicate videos
+• No extra spaces or symbols
+
+Each playlist notecard supports up to 50 videos
+
+=======================================================
+PLAYBACK CONTROLS
+=======================================================
+
+PLAY
+Starts the current video or playlist
+
+STOP
+Stops playback
+
+NOTE:
+Auto Play was removed in Rev 5.0
+
+=======================================================
+SYNCHRONIZED VIEWING
+=======================================================
+
+To watch together:
+
+1. Load your video
+2. Click Stop
+3. Ask everyone to click the screen
+4. Click Play
+
+All viewers will start at the same time
+
+NOTE:
+If someone leaves or pauses, they will fall out of sync
+
+=======================================================
+LIVE STREAMING
+=======================================================
+
+True synchronization only works with live streams
+
+Examples:
+
+• YouTube Live
+• RTMP / HLS streams
+
+TIP:
+If you stream using OBS, send it to YouTube Live and
+use the live URL on the TV
+
+=======================================================
+ACCESS CONTROL
+=======================================================
+
+The TV supports:
+
+• Owner
+• Group
+• Anyone
+• List
+
+IMPORTANT:
+The Owner is ALWAYS allowed to operate the TV
+
+=======================================================
+TV CHAT MODES
+=======================================================
+
+• Local Chat
+• Instant Message (IM)
+• Off
+
+Controls how the TV sends messages
+
+=======================================================
+REMOTE CONTROLS
+=======================================================
+
+All SimCaster TVs and screens support:
+
+• HUD Remote
+• Mini presentation remote
+
+These behave the same across all products
+
+=======================================================
+LAND MEDIA CONNECTOR
+=======================================================
+
+Optional upgrade for advanced viewing
+
+Benefits:
+
+• Parcel-wide viewing
+• Perfect synchronization
+• Multiple screens show the same video
+
+=======================================================
+PRIM MEDIA VS LAND MEDIA
+=======================================================
+
+PRIM MEDIA (default)
+• Easy setup
+• Individual playback
+
+LAND MEDIA
+• Parcel-wide playback
+• Fully synchronized
+• Requires connector
+
+=======================================================
+MINI MENU CONTROLS
+=======================================================
+
+The mini menu includes:
+
+• Reload (circular arrow)
+• Home button
+
+If problems occur:
+
+1. Click Reload
+2. Click Home
+3. Reset the TV (Options menu)
+
+=======================================================
+SOUND SETTINGS
+=======================================================
+
+To hear audio across the parcel:
+
+Preferences → Sound & Media
+
+Set:
+
+• Starts getting quieter = 512
+• Completely disappears = 512
+
+=======================================================
+PRIM MEDIA SOUND BLEED
+=======================================================
+
+Prim Media may be heard across nearby parcels because
+it is not restricted by parcel boundaries in all cases.
+
+FIX OPTIONS:
+
+• Use the Land Media Connector for parcel-based playback
+
+• Use Play/Stop responsibly when others are nearby
+
+• Firestorm Viewer Setting:
+
+  Go to About Land → Sound tab
+
+  Check:
+  "Restrict MOAP to this parcel"
+
+This setting helps prevent media from your TV from
+being heard outside your parcel.
+
+=======================================================
+COMMON ISSUES
+=======================================================
+
+TV NOT STARTING:
+• Click the screen
+• Make sure Media is enabled
+• Be on the same parcel
+• Try Reload
+
+MEDIA NOT WORKING:
+• Clear viewer cache
+• Restart viewer
+• Test on a simple prim
+
+WHITE SCREEN:
+• Clear history
+• Reload
+
+GREEN SCREEN:
+• Rez a new TV
+• Reduce script load
+
+=======================================================
+DRM ISSUES
+=======================================================
+
+Some services may not work:
+
+• Netflix
+• Hulu
+• Peacock
+• Some Pluto/Tubi content
+
+Cause:
+DRM restrictions and viewer limitations
+
+=======================================================
+"NOT A BOT" MESSAGE
+=======================================================
+
+Cause:
+Too many rapid requests to YouTube
+
+Fix:
+• Wait
+• Restart router
+
+Reduce chance:
+• Avoid rapid clicking
+• Avoid repeated reloads
+• Use playlists
+
+=======================================================
+VIDEO NOT AVAILABLE
+=======================================================
+
+Causes:
+
+• Region restrictions
+• Age restrictions
+• Playback disabled by owner
+
+Playlist note:
+One bad video breaks the playlist
+
+Fix:
+Remove restricted video
+
+=======================================================
+SCREEN GOES BLANK
+=======================================================
+
+Cause:
+Viewer stops rendering media when not visible
+
+Fix:
+• Stay near screen
+• Increase draw distance
+• Add additional screens
+
+=======================================================
+VERSION NOTES
+=======================================================
+
+REV 5.0
+• Removed Auto Play
+• Removed duplicate-video loop workaround
+
+REV 5.1
+• Added Kick support
+• Improved playlist handling
+
+REV 5.2
+• Streaming moved to separate script
+• Improved memory usage
+
+=======================================================
+
+For help, click "Help" from the TV menu or contact:
+
+Laura Milan
+SimCaster Support
+
+=======================================================
