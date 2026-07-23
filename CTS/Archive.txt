@@ -1,0 +1,66 @@
+
+
+    Archive
+    ═══════════════════════════════════════════════════════════════════════════
+
+    Copyright (C) 2018-2022 Carlyle Theas Solutions
+
+
+
+    Overview and Highlights.
+    ───────────────────────────────────────────────────────────────────────────
+
+    The Archive is a solution for inventory storage and safe keeping.
+    It features:
+    
+    ★ Boxing up and storing things you no longer actively need.
+    ★ Storing existing boxes or rezzing a basket to box up your items.
+    ★ Organizing your archived items in drawers.
+    ★ Searching and retrieving stored items easily.
+    ★ Seamless Wardrobe integration.    
+    
+    
+    Manual
+    ───────────────────────────────────────────────────────────────────────────
+    
+    For the manual, please open the the following web page (or click the menu button on
+    your HUD, then click "Help" in the menu):
+
+    http://www.carlyletheassolutions.com/archive.php
+
+
+
+    Updating Existing Archives
+    ───────────────────────────────────────────────────────────────────────────
+
+    In order to update your existing Archives, please rez the (CTS) Archive Updater
+    object you can find in the (CTS) Archive folder.
+    It will automatically search for the Archives you have rezzed in the region, and will
+    update them all at once. The updater object will tell you when the update is complete
+    and you can delete it.
+
+
+
+    Change Log
+    ───────────────────────────────────────────────────────────────────────────
+
+    v1.4 (October 2022)
+    - Sorting drawers alphabetically in menus
+    - When adding items, allow creating a new drawer
+    - Fixed permission problem when emptying drawers
+
+    v1.3 (September 2020)
+    - Fixed Archive registering problem
+
+    v1.2 (September 2020)
+    - Added function to unarchive (retrieve and remove) all items of a drawer.
+    
+    v1.1 (June 2020)
+    - Made the Archive cabinet tintable; simple color chooser in the menu.
+    - Baskets are now attachable and contain an unpacker.
+    - Improved search and drawer listings from Wardrobe web page, preventing
+      Stack-Heap collision errors.
+
+    v1.0 (September 2018)
+        Initial release
+    

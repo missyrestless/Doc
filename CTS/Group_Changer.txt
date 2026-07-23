@@ -1,0 +1,143 @@
+
+
+    (CTS) Group Changer v2.1
+    ═══════════════════════════════════════════════════════════════════
+
+    Copyright (C) 2024 Carlyle Theas Solutions
+    
+    
+    
+    The (CTS) Group Changer is a HUD that simplifies everything around
+    changing groups:
+
+    ✦ Automatically activate groups, based on your location
+
+    ✦ Define a "default group" you can switch to with one click
+
+    ✦ Toggle your group with one click – a trick to make yourself
+      visible to others when you're in a crowded place
+
+    ✦ Automatically toggle groups at regular intervals as soon as you
+      are in a place with many avatars present
+
+
+    There is no configuration required; the device configures itself
+    as you use it. It still gives you the the possibility to configure
+    and manage your groups manually, if you choose to do so.
+
+
+
+    How To Use
+    ═══════════════════════════════════════════════════════════════════
+
+    
+    Preparations
+
+    0. This device requires RLV to work.
+       Use a RLV/RLVa viewer such as Firestorm, Catznip, Black Dragon, 
+       etc., and activate RLV.
+       For instance, in Firestorm, this will be in
+       Preferences > Firestorm > Allow Remote Scripted Viewer Controls 
+       (RLVa).
+
+    1. Attach the Group Changer HUD.
+       By default, it will attach to your bottom right HUD.
+       The HUD consists of a row of buttons to interact with the
+       device. The buttons are explained below.
+
+
+    Automatic Group Changing & Group Management
+
+    2. Whenever you change your active group manually, the Group 
+       Changer will detect that and ask you if you want it to activate
+       that group automatically when you come back to the location 
+       you're currently in.
+
+       Note that scripted group changes are throttled: RLV can change 
+       the group at most once per minute. If you teleport faster than 
+       that, the device will still detect your new location, but it 
+       will wait with changing the group until it is safe to do so.
+
+    3. Groups are changed by name. It can happen that RLV isn't able
+       to change the group based on its name. If that happens (when
+       you enter a location and an expected group change doesn't
+       happen), you can add the group by its key (UUID) manually.
+       This will guarantee that the group change will work.
+       To do so, click the [+] button on the HUD and enter the group
+       key in the text field.
+
+    4. If you want to disassociate a group from a location, i.e., 
+       prevent that the group will be changed in the future, click the
+       [-] button on the HUD.
+       Alternatively, click the [⚙] button to manage your groups on
+       a web interface.
+
+
+    (Automatic) Group Toggling
+
+    5. A common trick to make your avatar rez faster for others in a
+       crowded place is to switch to another group ("toggle").
+       The Group Changer can simplify that for you or even do it
+       automatically.
+
+       Click the cyan toggle switch button on the HUD (second button) 
+       to toggle your group once manually.
+
+       The thrid blue button will turn on/off the automatic group
+       toggling. If it detects more than 30 avatars closeby, it will
+       switch your group every 5 minutes.
+
+
+    Default Group
+
+    6. You might have a go-to group that you might want to be able to
+       switch to fast.
+       You can do that by clicking the [★] button on your HUD.
+       If you don't have any default group set yet, the HUD will ask
+       you to enter one. You can change it later in the management
+       interface, which you can access by clicking the [⚙] button on
+       the HUD.
+
+
+
+    HUD Buttons
+    ═══════════════════════════════════════════════════════════════════
+
+    1. Switch to default group
+
+    2. Toggle group manually
+    
+    3. Turn on/off automatic group toggling
+       Note that the automatic group toggling will only engage if 
+       there are more than 30 avatars present nearby
+    
+    4. Add group manually
+       Manually associate a group (by name or key) with the current
+       location (region and parcel) you're currently at
+    
+    5. Remove group
+       Removes the group association from your current location
+    
+    6. Manage groups
+       Opens the management web interface where you can change your
+       default group, and add and remove group-and-location 
+       associations
+
+
+
+    Change Log
+    ═══════════════════════════════════════════════════════════════════
+
+    v2.1 (August 2024)
+    - Fixed an issue that caused to show the save prompt when auto-toggling
+    
+    v2.0 (July 2024)
+    - HUD interface
+    - Default group
+    - Group toggling and automatic group toggling
+    - Group management interface
+    - Bug fixes
+
+    v1.0 (February 2024)
+    - Simple initial version (distributed as a gift at the Bellisseria
+      anniversary event)

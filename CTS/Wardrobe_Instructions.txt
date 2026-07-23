@@ -1,0 +1,260 @@
+
+
+    (CTS) Wardrobe
+    ═══════════════════════════════════════════════════════════════════════════
+
+    Copyright (C) 2010-2024 Carlyle Theas Solutions
+    
+    
+    
+    « "Wardrobe" is (CTS)'s must-have: a easy-to-use organizer for your outfits.
+       The Wardrobe HUD gives you access to your personal Wardrobe website, to
+       which you upload snapshots of your outfits, and from which you can wear them
+       directly.
+       No paying fees for texture uploads, no waiting for textures to rez! 
+       It also comes with a real closet you can rez inworld and browse your outfits. »
+       
+       
+    For the full illustrated manual, please visit
+    
+    https://www.carlyletheassolutions.com/wardrobe.php
+    
+    (or wear your Wardrobe HUD, click the "Menu" button (on the 1 o'clock position), and
+    choose "Help" from the menu.)
+    
+          
+    This notecard gives you some basic instructions how to get started.
+       
+       
+       
+    Getting Started
+    ═══════════════════════════════════════════════════════════════════════════
+    
+    I. OPENING YOUR PERSONAL WARDROBE WEB PAGE
+
+            The Wardrobe website is an essential part of the system.
+            It allows you to see, browse, and search your outfits visually.
+
+
+            1.  Wear your Wardrobe HUD.
+                 Locate your "(CTS) Wardrobe v2.8.6" folder in your inventory.
+                 Double click the object named "Wardrobe HUD v2.8.6" contained in that folder.
+                 This will attach the HUD at the bottom of your SL viewer.
+                 (If you want to attach it at a different location, that works fine as well: right
+                 click the "Wardrobe HUD v2.8.6," choose "Attach to HUD," and then the location
+                 at which you want to attach it.)
+                 
+           2.  Click the yellow closet in the center of the HUD.
+                 The viewer will ask you whether you want to access the web page.
+                 Click "Go to page."
+                 This will take you to your personal Wardrobe web page.
+
+        
+    II. ADDING NEW OUTFITS TO YOUR WARDROBE
+    
+            There basically are four ways you can add a new item (typically, an outfit) to your
+            Wardrobe directly from your SL viewer.
+                     
+                                            
+            1. Saving and Uploading a Snapshot
+            
+                (i)   Wear the outfit which you want to add to your Wardrobe
+                
+                (ii)  Pose (in order to create a good looking result)
+                       You can either click the (<) and (>) buttons on your Wardrobe HUD
+                       which will put you in a posing mode and switch between poses when
+                       you click the buttons again, or you can use a pose stand.
+                       The Wardrobe comes with a pose stand, which you can rez by clicking
+                       the "Posestand" button on the HUD's 9 o'clock position.
+                       To stop posing, click the "Stop" button on the 6 o'clock position.
+                       
+                (iii) • Click the "Snapshot" button on the HUD (12 o'clock position).
+                      • You have two options to add an item:
+                       
+                        If you bought the item on the Marketplace or if it sold there and you
+                        can do a automatic Marketplace import. Simply paste the Marketplace URL
+                        in local chat, and the item will be imported fully automatically
+                        (the Wardrobe uses the Marketplace item's title and will figure out
+                        tags based on the item's description and will adapt it to your tagging
+                        system, if you already have items in your Wardrobe, and it will take
+                        the main image as picture for your item).
+                       
+                        If you want more control over the process, enter the following information
+                        in local chat instead (don't worry, the HUD will show you want to enter):
+                            - The name of the outfit folder
+                            - Tags separated by commas (e.g. gown, purple, low cut, elegant)
+                            - Any remarks you want to add
+                            - the URL of the Marketplace item if you want to import the image from
+                              the Marketplace and don't want to shoot one yourself
+                            
+                         You can enter them directly in local chat or on channel 23 if you don't want
+                         everyone to see what you're doing (just prepend "/23" to what you want to type)
+                            
+                (iv)  If you chose to do your own image, click the viewer's "Snapshot" button and
+                      choose "Disk".
+                       Click the "Save" button.
+
+                (v)   Again, only if you created your own image, drag the image file with the snapshot
+                       you just created onto your Wardrobe web page.
+                       Drop it onto the area where it says "Drop your snapshots here".
+                       Click the "Import" button.                              
+                       
+            TIP    You don't have to drag the snapshot to the web page immediately after you created one.
+                    You can proceed and create multiple items by repeating the steps (i)-(iv) and then drag
+                    the new snapshots all at once onto your web page. They will be imported in a single go—
+                    a great way to save time and streamline your "Wardrobing" process!
+                                                          
+                (iv) If you want to see your newly submitted item, open your Wardrobe web page and click
+                       the "Show All" button or the "Recent Items: Today" link.
+                       If the website is already open, click the "Refresh" button.
+                                   
+                                   
+            2. Use the Scanner
+            
+                (i)   Rez the box or bag of clothing you just bought and move close to the box.
+                
+                (ii)  Click the scanner button on the HUD's 5 o'clock position.
+                
+                (iii) In the menu, select the correct item.
+                      Now, the Wardrobe searches for the item on the Marketplace and automatically
+                      imports it.
+                      (Title, tags, and image are gathered automatically from the Marketplace item's
+                      title, description and main image.)
+                
+                (iv) If you want to see your newly submitted item, open your Wardrobe web page and click
+                       the "Show All" button or the "Recent Items: Today" link.
+                       If the website is already open, click the "Refresh" button.
+
+
+            3. Sending a Snapshot
+            
+                (i)   Wear the outfit which you want to add to your Wardrobe
+                
+                (ii)  Pose (in order to create a good looking result)
+                       You can either click the (<) and (>) buttons on your Wardrobe HUD
+                       which will put you in a posing mode and switch between poses when
+                       you click the buttons again, or you can use a pose stand.
+                       The Wardrobe comes with a pose stand, which you can rez by clicking
+                       the "Posestand" button on the HUD's 9 o'clock position.
+                       To stop posing, click the "Stop" button on the 6 o'clock position.
+                       
+                (iii) • Click the viewer's "Snapshot" button and and choose "Send it by email".
+                      • Fill out the message fields:
+                          To: (the Wardrobe e-mail address you find in the separate notecard)
+                          Subject: The name of the outfit folder
+                          Message:
+                             First line:  tags separated by commas (e.g. gown, purple, low cut, elegant)
+                             Second line: any remarks you want to add.
+                    • Click the "Send" button.
+                              
+                       The name of the outfit should be the name of the folder that contains the outfit.
+                       If you follow this rule, you'll find your outfits more easily and it will allow you to use
+                       the Wardrobe to dress directly from the web page if you want to use that feature.
+                       Write some meaningful tags in the message that describe your outfit.
+                       Meaningful tags will let you find your outfit more easily!
+                       Remarks are optional and can be anything.
+                       
+            TIP    You'll find a notecard with the Wardrobe e-mail address in your "(CTS) Wardrobe v2.8.6"
+                       folder. That makes it easier to copy & paste:
+                       Select the notecard, hit the F2 key to select the text, then Ctrl+C (or Cmd+C on Mac) to copy.
+            
+                       If you're not sure how to send a snapshot, check out the more detailed and illustrated
+                       description in the online manual:
+                       https://carlyletheassolutions.com/wardrobe.php?id=snapshots
+                                              
+                (iv) If you want to see your newly submitted item, open your Wardrobe web page and click
+                       the "Show All" button or the "Recent Items: Today" link.
+                       If the website is already open, click the "Refresh" button.
+
+            
+            4. Importing a Texture
+            
+                Some outfits come with textures created by the designer showing the outfit.
+                The Wardrobe lets you easily import such textures if you don't want to create
+                a snapshot yourself.
+                
+                (i)   Locate the texture in your inventory
+                
+                (ii)  Drag and drop it on your Wardrobe HUD
+                      NOTE: This works only if the texture has full permissions.
+                      
+                (iii) The HUD will ask you to enter
+                       - the outfit name (i.e., the name of the folder containing the outfit)
+                       - tags (which should be meaningful so you can find your outfit more easily later)
+                       - remarks (which can be anything)
+                       
+                (iv) If you want to see your newly submitted item, open your Wardrobe web page and click
+                       the "Show All" button or the "Recent Items: Today" link.
+                       If the website is already open, click the "Refresh" button.          
+
+            
+    III. DRESSING FROM THE WARDROBE
+    
+            The Wardrobe allows you to dress directly from your personal Wardrobe web page—or you
+            can allow others to dress you!
+            If you don't need this feature or want to learn about it later, you can skip this section.
+            
+            If you want to use this feature, there are a few requirements that have to be met:
+            
+            • You need to use an RLV-capable viewer (e.g., Firestorm, Restrained Love, Catznip, Singularity,
+              Black Dragon, Kokua, UKanDo) and turn RLV on.
+              E.g., in Firestorm, you can turn RLV on by opening the preferences, going to the "Firestorm" tab
+              and tick the "Allow Remove Scripted Viewer Controls (RLVa)" checkbox.
+              NOTE that, unfortunately, the official Linden Lab viewers DO NOT SUPPORT RLV.
+    
+            • In your inventory, create a folder named #RLV directly under "Inventory" (in the top level).
+            
+            • Move your outfit folders into the #RLV folder.
+              (You can create subfolders within the #RLV folder to structure and sort your outfits,
+              but it is important that the outfits folders are located somewhere within the #RLV folder.
+              By the way, if you do not want to move your outfit folders, you could also create links
+              to your outfits within the #RLV folder.)
+              
+             If you want more information about RLV and the #RLV folder, check out this video tutorial:
+             https://www.youtube.com/watch?v=J9vgrOeoESM
+            
+
+            Once you have prepared your viewer and your inventory, you should be able to use the Wardrobe
+            to dress yourself.
+            On your Wardrobe web page, choose an outfit you want to put on and click the item's Jacket icon
+            in the upper right corner.
+            
+            
+            Please have a look at the online manual
+            https://carlyletheassolutions.com/wardrobe.php?id=wear
+            for more detailed information and trouble shooting tips.
+            
+
+    IV. INWORLD CLOSET
+    
+            The Wardrobe comes with a mesh closet which you can rez inworld. It will allow you to show your
+            Wardrobe to your friends, and it will also allow you to dress directly from your Wardrobe.
+            (If you want to learn more about this feature, please read section III if you haven't done so yet.)
+            Using the closet is similar to using the web page.
+            You can configure the closet's appearance from the HUD (Menu > Setup > Closet Styles) or from
+            your web page (Tools > Configure Closet). The web page also gives you the option to do a more
+            advanced configuration whose Wardrobe is shown and who is allowed to dress you.
+            The inworld closets are an optional feature.
+            
+            For more information on the closets, please consult:
+            https://carlyletheassolutions.com/wardrobe.php?id=closets
+            
+                    
+    V. GETTING HELP
+    
+            •  The parts of The Wardrobe are expained in detail in the online manual:
+                https://carlyletheassolutions.com/wardrobe.php
+                
+            •  There is an inworld support group.
+                You're welcome to ask questions there. Usually, other Wardrobe users are very friendly and willing
+                to help. The easiest way to join is to rez the "Wardrobe Support Group Joiner" you can find in the
+                "Help" subfolder. It will chat a link, which you can click to open the group information page.
+
+            •  If you don't want to join the support group, there is a Discord group instead.
+                Here's the invite link:
+                https://discord.gg/Z8kUVzh
+                
+            •  If you have a question, you may also contact Carlyle Theas by e-mail (carlyle.theas@yahoo.com).
+                We believe in customer satisfaction, hence we try to answer as quickly as possible, and we will
+                definitely consider any suggestions you have to improve the product.
+            

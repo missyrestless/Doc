@@ -1,0 +1,55 @@
+
+
+    (CTS) Wardrobe AutoStrip
+    ═══════════════════════════════════════════════════════════════════════════
+
+    Copyright (C) 2010-2025 Carlyle Theas Solutions
+
+
+    Synopsis.
+    ═══════════════════════════════════════════════════════════════════════════
+        
+    AutoStrip is a Wardrobe plugin to automatically remove all attachments and clothing
+    layers within the folder, when one of the attachments or clothing layers is removed
+    (regardless if it is removed manually or by some RLV device such as Wardrobe).
+    In particular, if an item is removed due to it being replaced by another one contained
+    in another folder, everything from the folder will be removed automatically.
+
+       
+    Installing AutoStrip.
+    ═══════════════════════════════════════════════════════════════════════════
+
+    As AutoStrip is a plugin, you need to install it into your Wardrobe HUD.
+    Note that you will need to do this whenever you obtain a new HUD.
+
+    After unpacking, make sure that you're wearing the Wardrobe HUD, then simply wear the
+    "(CTS) Wardrobe AutoStrip v1.2" object and wait until it tells you that the installation is
+    complete.
+    
+    After it has been installed, reset your HUD by clicking the Menu button on the 1o'clock
+    position, then selection Setup > Reset HUD.
+    
+    Reload your Wardrobe web page.
+    
+    
+    Usage.
+    ═══════════════════════════════════════════════════════════════════════════
+
+    You need to mark the Wardrobe items that shoud be AutoStrippable as such in your
+    Wardrobe. This is done by editing the item, and ticking the "AutoStrip" checkbox
+    in the "Dressing" tab.
+    Now whenever a part of that item is removed, all of it will be removed automatically.
+
+
+    Change Log.
+    ═══════════════════════════════════════════════════════════════════════════
+
+    v1.2 (July 2025)
+        Using link set data to store data to work around script memory limitations.
+
+    v1.1 (April 2022)
+        Added support for the "universal" layer.
+
+    v1.0 (October 2021)
+        Extracted AutoStrip into an optional Wardrobe add-on.
+        
