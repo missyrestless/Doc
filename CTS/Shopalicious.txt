@@ -1,0 +1,80 @@
+
+
+    Shopalicious
+    "Revolutionizing your shopping experience."
+    ═══════════════════════════════════════════════════════════════════════════
+
+    Copyright (C) 2018-2020 Carlyle Theas Solutions
+
+
+
+    Overview and Highlights.
+    ───────────────────────────────────────────────────────────────────────────
+    
+    Perfect for shopping alone or with your friends; for sharing your discoveries directly
+    with your shopping buddies or on your blog; for revealing what that gorgeous outfit is
+    on the person near you.
+
+    ★ Discovered something you like while you're shopping?
+        Lookmark it!
+        Once you're done looking around in the store and gathering lookmarks
+        (the camera angles you saved), review your lookmarks to compare and decide
+        what you really want to get.
+        
+    ★ Getting a demo?
+        Lookmark the item so you know where it is once you get back to the store to get it
+        after trying the demo.
+
+    ★ Shopping with friends?
+        Share your lookmarks with them when you think you found something that you think
+        would look gorgeous on them — or if you'd like their opinion on your discovery!
+
+    ★ The friend you're shopping with doesn't have a Shopalicious HUD?
+        No problem, ask them if you may track their camera and you'll see what they're looking at!
+
+    ★ Seeing someone wearing an item you just have to get for yourself?
+        Use Shopalicious's Fashion Spy to discover what it is and even get Marketplace links
+        and lookmark URLs to the items!
+
+    ★ Found something special in a store or at an event and blogging about it?
+        Save a lookmark and share the lookmark URL on your blog!
+        Other Shopalicious users can just click that link to go there and see what you were looking at!
+        
+        
+    Do you like Shopalicious? We reward you for recommending it to your friends!
+    Give them your personal recommendation coupon, and you'll receive 20% of its price upon
+    each purchase, and they'll get 10% off!
+    To get your recommendation coupon, click the HUD's Menu button > Coupon.
+
+    (Note: this offer is valid only in our main inworld store and only with the coupon code.)
+
+    
+    
+    Manual
+    ───────────────────────────────────────────────────────────────────────────
+    
+    This image explains the operation of the HUD:
+    􀀁
+    
+    For the manual, please open the the following web page (or click the menu button on
+    your HUD, then click "Help" in the menu):
+
+    https://www.carlyletheassolutions.com/shopalicious.php
+
+
+
+    Change Log
+    ───────────────────────────────────────────────────────────────────────────
+
+    v1.2 (March 2020)
+        Improved FashionSpy
+        (better attachment matching, now will not search items on the Marketplace
+        for improved performance and to avoid mismatches, but will still show the
+        creator's Marketplace shop page)
+    
+    v1.1 (October 2018)
+        Improved object detection, prioritize avatars over objects.
+    
+    v1.0 (September 2018)
+        Initial release
+    
