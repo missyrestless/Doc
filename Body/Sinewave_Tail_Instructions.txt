@@ -1,0 +1,29 @@
+Thank you for purchasing Sinwave Tail :)
+
+STEP BY STEP:
+WEAR and ADD - not the same 
+
+1. wear Tail Eye Texture
+2. add [ 0 - Start Layer - Sinwave Tail]
+3. wear [Sinwave Tail] Full Body Alpha - see explanation at the end for using Alpha part
+4. add tail of your choice, one from 23 shapes
+5. add other layers you like, you can then edit them to change color for each layer
+
+or watch video: https://www.youtube.com/watch?v=kCYocBGdXVY
+
+Bake on mesh Layers
+--------------------------
+Keep in mind order you wear your layers matter, starting always with background layer ( [ 0 - Start Layer - Sinwave Tail] ), you can change the order of the layers in your appearance ( ctrl+O ) and editing your outfit
+
+
+Alphas - important
+----------------------
+to be able to see the tail correctly you will need to wear one of the alpha included in the box,
+
+Full Body Alpha - Use as replacement for your existing body alpha if you want to hide old SL avatar.
+Tail Only Alpha - ADD as another alpha for your avatar, keep in mind you will need to be sure other alphas you wear don't hide EYES, as tail use EYE channel for BOM layers.
+
+VIDEOS
+Shape showcase : https://www.youtube.com/watch?v=vMUQbSS68so
+BOM tutorial : https://www.youtube.com/watch?v=kCYocBGdXVY
+HUD explanation : https://www.youtube.com/watch?v=qopb9iD5GKw
