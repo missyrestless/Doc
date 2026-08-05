@@ -1,0 +1,105 @@
+Thank you for purchasing a Cerridwen's Cauldron Creation.
+
+ All the natural beauty on this and all worlds is a reflection of the real LIFE beauty of our Planet. We must all do what little or much we can
+ to try to help human kind become a worthy planetary steward, and get away of the reckless destruction we have wreaked on this planet, all its life-forms and, ultimately, on us. 
+
+***************************************************************************************************
+   
+We were back in our favorite coastal town for the summer. While the streets of the quaint tropical stilted town were festooned with glowing palm trees and paper lanterns, the reefs below the waves glowed with their own luminescence. The comb corals, named for their distinctive upward and aligned branches, and other exotic marine life forms were preparing for the full moon reproductive season. Both land dwellers and sea folk celebrated the arrival of summer's bounty, and the tropical, humid air was charged with excitement for the season of plenty.
+
+The Mermaid’s Abode
+The Apprentice's Journal
+􀀀
+***************************************************************************************************
+CONTENTS:
+
+All contents are copy/mod but scripts, which are only copy.
+
+[CC] Comb Coral, Fan, Small Scales- 1 LI
+[CC] Comb Coral, Spiral, Small Scales- 1 LI
+[CC] Comb Cora, Tall,  Small Scales- 1 LI
+[CC] Comb Coral, Fan, Medium Scales- 3 LI
+[CC] Comb Coral, Spiral, Medium Scales- 4 LI
+[CC] Comb Cora, Tall, Medium Scales- 3 LI
+[CC] Comb Coral, Fan, Large Scales- 7 LI
+[CC] Comb Coral, Spiral, Large Scales-  9 LI
+[CC] Comb Cora, Tall, Large Scales- 7 LI
+
+
+
+IMPORTANT! 
+
+ This is a Blinn-Phong/PBR Transition Set, That means it has both traditional materials  and the new PBR materials. you will only be able to see the PBR materials in a PBR capable viewer.
+
+ The set includes 3 coral shape variations with 3 scales for each. The scales have physics and land impact optimized for each respective scale, they are not just resizes.
+
+
+
+***************************************************************************************************
+INSTRUCTIONS:
+
+IMPORTANT> The Corals are activated through a click and hold pop-up menu to avoid accidental menu activations in active landscapes. A short click will NOT activate the menu. A click-and hold for approximately 2 seconds is necessary to activate it.
+
+Emmissive: On/Off Switch. Turns on/off the emissive effect. This is separate from the glow option, and will make the glow in the dark effect starker and more evident. As with the glow option, if Day or Night Cycle options are activated, the glowing effect will turn on automatically during the day/night.
+
+ALL:  Change all coral variants to 10 Different color choices, Red, Orange, Yellow, Green, Teal, Blue, Purple, Pink and Fatpack Bonuses  White And Black. The coral color shades will be randomly slightly tinted according to the color chosen to give more variation to your landscaping,  and if you have a PBR capable viewer, the glow will be randomly tinted too to give even more variety! The changes will take effect on both the old materials and the PBR new materials system. You will see the one your viewer is capable of displaying.
+
+Fan:  Change fan comb coral variants to 10 Different color choices, Red, Orange, Yellow, Green, Teal, Blue, Purple, Pink and Fatpack Bonuses  White And Black. The coral color shades will be randomly slightly tinted according to the color chosen to give more variation to your landscaping,  and if you have a PBR capable viewer, the glow will be randomly tinted too to give even more variety! The changes will take effect on both the old materials and the PBR new materials system. You will see the one your viewer is capable of displaying.
+
+Spiral:  Change spiral comb coral variants to 10 Different color choices, Red, Orange, Yellow, Green, Teal, Blue, Purple, Pink and Fatpack Bonuses  White And Black. The coral color shades will be randomly slightly tinted according to the color chosen to give more variation to your landscaping,  and if you have a PBR capable viewer, the glow will be randomly tinted too to give even more variety! The changes will take effect on both the old materials and the PBR new materials system. You will see the one your viewer is capable of displaying.
+
+Tall:  Change tall comb coral variants to 10 Different color choices, Red, Orange, Yellow, Green, Teal, Blue, Purple, Pink and Fatpack Bonuses  White And Black. The coral color shades will be randomly slightly tinted according to the color chosen to give more variation to your landscaping,  and if you have a PBR capable viewer, the glow will be randomly tinted too to give even more variety! The changes will take effect on both the old materials and the PBR new materials system. You will see the one your viewer is capable of displaying.
+
+
+Emissive: Takes you to the PBR Emissive only sub-menus. These changes can only be seen in PBR enabled viewer and result in no apparent changes on non-PBR viewers. In these you can select an emissive (light emitting) color independent to the color! So your customization options are greatly increased on PBR viewers to an incredible 100 color combinations, combining different color and emissive color PER CORAL!!! You can choose an 10 different emissive colors for the all, fan, spiral or tall comb corals.
+
+GlowSet: Takes you to the glow selection sub-menu where you can turn on/off the glow effect or adjust its strength.
+
+Glow: On/Off Switch. Turns on/off the glowing effect for the teeth. If this option is on and the Day or Night Cycle options are activated, the glowing effect will turn on automatically during the day/night. No Advanced Lighting Model required.
+
+Day: Automate the glow and emissive during your region/parcel Day! This option detects the position of the sun in your parcel/region according to the horizon. If the sun position is fixed this option will not work.
+
+Night: Automate the glow and emissive during your region/parcel Night! This option detects the position of the sun in your parcel/region according to the horizon. If the sun position is fixed this option will not work.
+
+ScriptDel: Will delete the Control, Changer and Sun Check scripts after confirmation. You will not be able to do further changes to any settings once scripts are deleted, unless you put a copy back of the scripts in the root prim. You also have the option of just deleting the Sun Check Script if you are not planning on using the automatic Day or Night options
+
+Close: Will close the pop-up menu and set the script to sleep. The script will automatically go to sleep too after 2 minutes without receiving a command. Click again to reactivate.
+
+************************************************************************************************
+MODER NOTES:
+
+1) The scripts identify the corals by name and/or description field, leave any of these unchanged. Scripts will only work with properly named parts designed by me (Elicio Ember)
+
+2) You can link, add, modify or link together several teeth... any extra scripts not in the root prim will automatically auto-delete, you only need one set of scripts to control a cluster of corals. The scripts must always be in the root prim. Besides the small scale corals, which are just one single mesh, the medium and large scale variants are sectioned to improve LI. 
+
+
+**************************************************************************************************
+FAQ:
+ 
+ -What is Blinn-Phong? - 
+ -Blinn Phong, named after the last names of its inventors,  is the traditional old school SL materials, without going into the technical details, these have certain advantages, but they need to be tweaked, and are not particularly good at creating reflective materials like metals or crystals. In addition, SL Blinn-Phongs emissive can only be the same color as the color map and they are one sided, which means you need to double the geometry for things like leaves, which results in a higher LI, and you cant have both alpha and emissive without again doubling the geometry.
+  
+  -What is PBR?-
+    Physical Based Rendering is the current standard of many 3D rendering engines, and has several advantages over the old Blinn-Phong. Its standardized, so materials that look one way in one engine will look the same on another engine using PBR, in addition the Emissive is its own RGB map, which means glow can have different colors than the color surface they are on, metallic reflections are much better and accurate and the alpha is independent of the Emissive. Also, there can be two sided materials. All this results in much more versatility and accuracy of textures, and can mean a huge reduction in geometry. For example, under the old system, to make an alpha leaf that glowed you needed one plane for the front, one plane for the back, one plane for the front glow and one plane for the back glow, even if all of them were using the same textures. Under PBR it will just be one single plane. PBR will enhance how SL looks significantly, once the bugs and current problems are ironed out. But, as I want to give you the best, I am already implemented, amongst the first designers in Second Life, full customizable scripted sets that offer both full Blinn-Phong and PBR textures, offering you the best of both worlds according to your current viewer. You will see what your viewer is capable of displaying. In the future, when PBR is more popular, it will eventually replace the old materials render system, but I will continue to at least offer a texture backup for the old system for when older viewers are used.
+
+*************************************************************************************************
+
+   And thats it! If you have any questions or doubts feel free to IM me or drop me a notecard.
+  My sincere thanks for supporting my work.  
+  
+  Elicio Ember
+  Cerridwen's Cauldron.
+  
+Facebook    :  https://www.facebook.com/CerridwensCauldronSL/
+SLURL:          http://maps.secondlife.com/secondlife/Cerridwens%20Cauldron/127/19/984
+Marketplace: https://marketplace.secondlife.com/stores/23335
+*Instagram  : https://www.instagram.com/cerridwenscauldronsl/
+*FLICKR:        https://www.flickr.com/groups/cerridwenscauldron/
+  
+  
+  
+  
+  
+
+ 
+ 

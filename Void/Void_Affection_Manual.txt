@@ -1,0 +1,34 @@
+████████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+Thank you for your purchase.
+
+████████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+
+
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+                                                                                                                ⚫ ⚫ ⚫ HOW TO ⚫ ⚫ ⚫
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+
+1 ) Attach the object 'Void - Affection' and 'Void - Affection - HUD'
+
+2 ) Select the desired effect from the HUD.
+
+3 ) Either click the play button on the HUD, or use the provided gesture.
+
+3 ) Select a target.
+
+★ You do not have to keep the HUD on. Once you pick an effect you can use it via the gesture.
+
+★ Gesture is MOD. Feel free to assign a key-bind or change the trigger phrase. (By default the trigger phrase is /affection.)
+
+
+███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+Have a wonderful day. ♥
+
+███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+
