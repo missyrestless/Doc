@@ -1,0 +1,35 @@
+AVSITTER™ 2.2 CUSTOMIZATION
+
+Disclaimer: AVsitter™ is a trademark of AVcode Technologies. AVsitter™ scripts are provided open source at http://avsitter.github.io and are subject to the terms of the Mozilla Public License. These instructions are intended for end users of products scripted with the AVsitter™ 2.2 system who wish to customize the positioning of the included animations in, or to add their own animations to, a Trompe Loeil™ product. We cannot provide support for the AVsitter™ scripts themselves, user modifications to the scripts, or any other support situation outside the scope of these instructions. Please see the github.io address above for further information on the AVsitter™ program, and consider donating to their open source project by purchasing the packaged scripts on the Marketplace.
+ 
+These instructions are intended to help customers with using and editing animation positions in Trompe Loeil™ furniture items which use the AVsitter™ 2.2 script system. Starting in 2018, all new Trompe Loeil™ furniture will be released using the 2.2 system, and older furniture will be updated in reverse chronological order as time permits. Customers who are comfortable with scripting are welcome to perform this upgrade themselves, as the AVsitter™ program is now open source, and the existing original 1.29 animation settings notecard will work with the 2.2 setup scripts. These instructions will not work in furniture still using the 1.29 system.
+ 
+Does your furniture item use the AVsitter™ 2.2 system? Check by sitting on the item – the animation menu will say either AVsitter™ 1.29 or AVsitter™ 2.2. If you have an AVsitter™ 2.2 item, continue reading to learn how to customize your item with your own custom positions.
+
+As the owner of the furniture item, you can use the same regular custom positioning menu which is available to everyone – this option sets a custom position on a per-avatar basis and keeps it in memory. If Jane Resident is visiting a friend and uses this option to set a custom position on her friend’s couch, the couch will save the new position only for Jane’s use – it will not overwrite the default position for the animation.
+
+However, furniture owners can now also access the setup scripts and objects, so you can create brand new custom positions for every animation in your furniture item! This will overwrite the original animation positions with your new custom positions. Using this feature can save script memory and time, if you find yourself often making custom adjustments to animation positions – plus you won’t have to worry about the changes being overwritten or erased from the script memory. This feature is also handy if you resize furniture, since original animation positions may not translate well to a larger or smaller item size.
+ 
+Before beginning, make a backup of your original furniture item.
+
+Step 1: Rez the item and sit on it. Click the item while sitting on it to bring up the animation menu. The first screen should say AVsitter™ 2.2.
+
+Step 2: Click “[Adjust]” and then “[Helper]”. You will see at least 1 new object appear – this is the Helper object. It will be positioned on or near your avatar. Selecting and moving this object will move your avatar accordingly – however the Helper object is positioned is how your avatar will move, and will determine the new default position for that animation. For furniture items with more than one sitter (items with synced couples animations, or multiple single seats, for example), you will see 2 Helper objects appear. The second object will change the position of the animation in the second seat, or the second avatar in a synced couples animation.
+
+Step 3: Move the Helper object, which moves your avatar, to the desired position. When done, click “[Save]” on the animation menu. This will save the new default position into script memory. You should see a confirmation in local chat.
+
+Step 4: Using the animation menu, choose the next animation you wish to adjust, and then move the Helper object to change the default position. When done, click “[Save]”. Repeat these steps until all desired animations have had new positions saved.
+
+Tip: If you wish to change the positions for animations in additional seats, use the [Swap] button to switch to a new seat – you will then be able to change that position using the second Helper object.
+
+Tip: Changing synced couples animations is easier when another avatar is also sitting on the furniture item. Ask a friend to help – you will be able to move both Helper objects to set the new positions for both sitters.
+
+Step 5: When all desired animations have new custom positions saved, you will need to dump the positions out of script memory and put them into the existing AVpos notecard inside the furniture item. This is what the AVsitter™ scripts read when the furniture item is first rezzed.
+
+Click “[Dump]” on the animation menu. This will read the appropriate notecard text into open chat. At the end of the text, it will also give a link to an external website that will have the same text. You can choose to copy the text from open chat, or from this website page. Paste the text in the AVpos notecard, replacing all of the existing text in the notecard with this new text. (This notecard may be inside an invisible prim; the prim will contain all animations and other necessary animation scripts. Creating a new notecard and placing it elsewhere in the furniture item will not work and will not override the original notecard settings.) Save the notecard. The AVsitter™ scripts should read the notecard and show loading progress, and will alert you when its fully loaded and ready to use.
+
+Step 6 (optional): If you do not want to make any further changes to the furniture item, you can delete the Helper and Setup scripts by typing “/5 cleanup” (without quotes) into open chat while the furniture item is rezzed. This will delete the scripts from the item inventory and remove the option to use the Helper object. You can also choose to leave them in the item – they won’t hurt anything, and no other person besides you will be able to access the Helper object options or set new default positions.
+
+We recommend renaming your newly modified furniture item to indicate that the default positions have been changed, to differentiate between it and your original purchase.
+
+Further modifications can be made with the many additional features in the AVsitter™ open source system! See https://avsitter.github.io/ for more information, additional scripts, and instructional videos. Unfortunately, we cannot provide support or assistance for features that are not already included in your Trompe Loeil™ furniture item.
