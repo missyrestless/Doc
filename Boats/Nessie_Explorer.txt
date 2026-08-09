@@ -1,0 +1,56 @@
+                                                    ANANKE "Nessie"  EXPLORER HELP CARD
+                                                    
+Thank you for purchasing the Nessie Explorer Physical vehicle.  Its a simple yet functional platform for above and underwater excursions, built by suggestion from WindWalker Wemyss.  
+
+____________________________________________
+FEATURES:
+- 43 prims with few sculpties thrown into the mix
+- Seating for 2 (pilot + passenger)
+- Physical movement engine (can go through physical objects)
+- Warp feature (instantly move to a preset elevation from 100 to 4000 meters) 
+- Eject option (unsits unwanted avatars)
+- Group settings (allows your friends to pilot the ship also) 
+- Built in search light
+- "Underwater" mode - the particles change shape, additional sound effects
+- Several camera modes
+
+
+____________________________________________
+OPERATING THE AIRSHIP:
+Rezz the ship, right click it and pick "Fly" from the pie menu.  Once seated, the ship's engine will automatically engage.
+ 
+To control the ship use keyboard.  Press "A" or "D" key to turn left or right, "W" or "S" to move forward or back, "E" or "C" to move Up or Down.  While not in mouse look mode, you can also hold shift+A or shift+D to strafe left or right.
+
+"Nessie" comes with a set of menus accessible only by the driver.  While riding it, click on the hull.  The menus should be self explanatory.
+
+If you acquire an unwanted passenger while flying, click on the "Nessie" and pick "Unsit" then pick their name from the menu.  This will unsit them from the vehicle.
+
+To enable group access (so that your friends can pilot it):
+- make sure you and your friend(s) are wearing same group tag; rezz "Nessie" with that group tag also.
+- sit inside the ship, touch the menu, go to options then pick "Group On", then stand up.  Your friend should be able to fly it now.
+
+____________________________________________
+MENUS:
+Owner Only:
+- Group ON/Group OFF - enable members of the group to pilot the ship (Group is ON by default)
+- Open/Close - Open or Close the bubble canopy
+
+Pilot Only: 
+- Camera - Pick one of 3 preset camera views or Release to reset to the default camera.
+- Light On/Off - turn on/off the searchlight
+- Engine On/Off - turns the engine on so that one can fly (pilot) the craft.
+- Warp - brings down a menu of available altitudes to which the ship will warp (the ship can warp in vertical direction only)
+- Eject - if you pick up an unwanted passenger on the way, clicking "Eject" will unsit them.
+- Particle On/Off - turns off the steam/bubble contrails of the engine.
+
+Passenger Only:
+- Camera - Pick one of 3 preset camera views or Release to reset to the default camera.
+
+NOTE: if you're an owner, you'll also see the Owner Only menus.
+
+_____________________________________________
+MISCELLANOUS:
+Initially I thought about adding a cloak (or invisibility mode) to the ship but decided against it; I felt it could be used to spy or grief, and that's not something I'd like to be associated with.
+
+_____________________________________________
+Thank you for your purchase, Please send any questions or suggestions to Carrah Rossini
