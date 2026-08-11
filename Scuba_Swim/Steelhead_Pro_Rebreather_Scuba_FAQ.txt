@@ -1,0 +1,75 @@
+Thank you for your purchase of our new Rebreather System for Pro Divers, the Steelhead Seven.
+
+Modeled after the real life Seven Rebreather system, ours has been somewhat modified to fit the SL avatar while reducing some complexity. We hope you enjoy this new series as much as we did bringing it to life.  If you are unfamiliar with diving in Second Life, we highly recommend you join our group the Scuba, Surf and Sail association of Second Life were you will meet plenty of like minded folks who love the water, both above and below.
+Rather than bore you with a ton of detail you more than likely will not read anyways, we have assembled a quick FAQ to get you to your most common questions.
+
+WHAT IS A REBREATHER?
+
+The traditional scuba tank as most know it today was designed by the famous Jacque Cousteau. This is in fact how he made most of his fortune that allowed him the voice to protect and explore our seas. Most took the ocean for granted until he designed a way to freely explore the seas while making it affordable to the masses. We pay tribute to this great man in everything we do.
+
+While the original Scuba [Self Contained Underwater Breathing Apparatus] works off compressed air, a rebreather creates it own breathable air. Atmospheric air contains 20% oxygen. When you inhale, your body only consumes 5% of that oxygen while expelling 15%.  This means that with traditional scuba tanks, 15% of what it expelled into the water is breathable oxygen.  Not terribly efficient.  Think of this as food. If you got your dinner served to you and then cut the plate into four parts, then take three of those parts and throw it away you would end up wasting a lot of food.  You can see what a waste this would be.
+
+A rebreather uses condensed gases that are injected into a fill canister. It is not compressed and you breath normally into the canister. Sort of like breathing in and out of a bag. Oxygen is added as needed to make up the 5% you consume as well as the 0.1 % Nitrogen that you also need. Exhaled air consists of 78 percent nitrogen, 16 percent oxygen, 4 percent carbon dioxide and potentially thousands of other compounds.  However, the amount of Nitrogen we need increases under water by depth which is why we get the bends when you ascend to quickly. A rebreather regulates this and allows up to ascend much quicker while the lack of compressed air in our lungs, eliminates the need to decompress.
+
+A scrubber inside the system removes the CO2 and any other toxic compounds. For deeper dives, Helium is required and for that, we have added an optional Helium Tank that attaches below the main rebreather rig.
+
+HOW DO I FIT MY SYSTEM?
+
+As with our Sport Scuba Set, the Pro Scuba series is fully modifiable and has a resizer script as well. You can adjust manually or with the script.  Once you are good to go, feel free to remove the resizer script with the option in the resizer menu.
+
+Each piece is designed to fit both males and females including you big breasted girls. If you have any problems with you fit, please feel free to contact our scuba center staff for assistance.
+
+The only exception to this is the optional Balaklava. This is a neoprene hood you can wear with the mask if you want that pro diver look. It works best with a wetsuit.
+
+HOW DOES THE BALACLAVA WORK?
+
+The Balaclava (Neoprene Hood) is rigged and comes in 8 sizes. Try to get the tightest fit you can which will also mean your ears may stick out. You can either alpha the ears (for default heads) using the enclosed Ear Alpha or remove them in your head HUD. No head maker offers a dev kit and as such, there was no way to fit these precisely, but they are set to the default bento heads. You will also need to make your mask a touch bigger if your wear a balaclava.  They are designed to work with most wet suits and look best when you do have a wet suit.
+
+HOW DO I SWIM?
+
+Swimming animations are inherent to the standard default animation you have already.  Any change to this is an override or what we refer to as an AO [Animation Override]. To activate the Swim Animations, you go underwater and tap your page up to enable flight mode.  It works the same as flying however, you go into swim mode when below water.  As with most of your default animations, they are not very appealing which is why most of your better AO’s contain swim animations. These are no surface swims but there are swimming underwater animation. Abranimations, Vista and many others include excellent swim animations in their AO and Firestorm users have three options in the viewer AO for Swimming Forward, Swimming Down and Swimming Up.  If you need help with the Firestorm AO, please refer to https://wiki.firestormviewer.org/animation_overrider.
+
+If you would prefer one specific to Scuba Diving, we have tested a few and found this one works best and if very reasonable. https://marketplace.secondlife.com/p/KH-Divers-AO/2536219.
+
+
+WHERE DO I GO TO DIVE?
+There are many places to explore under water however, we have built three scuba centers at the most prominent dive locations and have partnered with several more. Please stop by one of our Suba Centers for more information and access to miles of dive water.
+
+http://maps.secondlife.com/secondlife/Imbe/33/147/22
+
+http://maps.secondlife.com/secondlife/Maui%20Waves/232/14/22
+
+http://maps.secondlife.com/secondlife/Blake%20Bay/215/160/22
+
+WILL I NEED A SCUBA HUD?
+
+Most scuba HUDS are standalone accessories that provide a better role play experience however, you do not need one to scuba dive in SL. The create boundaries that emulate RL scuba diving and can be very fun however, they can be costly and are not necessary for recreational diving.
+
+WHY ARE MY FINS SO BIG?
+
+Today’s trend in diving are huge fins. Look at a dolphin or whale as an example, they do not have tiny fins. More surface area means faster propulsion with less effort. If you find these aesthetically unappealing, we have the Skin Diving set with small fins that were originally designed for Skin Diving and Body Surfing in RL. These silicon fins can be found a part of the Steelhead Sport Skin Diving sets at any of our dive centers or on the Marketplace.
+
+WHERE ARE THE BUBBLES AND SOUNDS?
+
+A rebreather does not expel gases, it recycles them and since it does not use compressed air, it needs no regulator. Therefore, in part, the military uses rebreathers to stay stealth under the water.
+
+WHERE IS MY DIVE COMPUTER DONGLE?
+
+As you have seen on most other scuba sets, there is a dive meter/calculator that hangs from the BCD. With the Se7en system, it uses a wireless connection to a wrist worn computer that in RL, would have a haptic system to vibrate when you need alerts. A replica of this is included in your system.
+
+WHAT IS A BCD?
+
+BCD stands for Buoyancy Compensator Device.  This is the vest attached to the Tank Rig. In Real Life, you would add weights to this to help you submerge and air to ascend. Essentially, it helps you to maintain Zero Gravity while under water.  It also works as a Personal Flotation Device that can return you to surface in emergencies. Ours does none of this as its it purely for realistic aesthetics. 
+
+ARE YOU A PHOTOGRAPHER?
+
+If you are inclined to take photos of your adventures or photo blog using any Steelhead Scuba product, let us know so we can add you to our Flickr Steelhead Scuba Group. (Flickr only please).
+
+Again, thank you for your support and wish you the best adventures in your new gear. Please feel free to contact us for any assistance or information.
+
+Chelsea Malibu
+Sadiya Snow
+Bobcat Bearcat
+Foxtrax Infinity
+Sadie Marais
+
