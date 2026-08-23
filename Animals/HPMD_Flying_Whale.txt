@@ -1,0 +1,128 @@
+------------------
+Release Notes
+------------------
+[2018-12-01]
+     -New three textures were added (Dialog option)
+     -Three 'No-script' whales were renamed to 'texChangeOnly', and the color change script was added
+     -Shader maps were a little adjusted
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+􀀂
+
+About HPMD* Flying Whale
+
+## Contents ##
+(scriptMove/no-mod/pose included) Flying Whale - A   [Copy/No-Mod/No-Trans]
+(scriptMove/mod/no-pose) Flying Whale - B   [Copy/Mod/No-Trans]
+(texChangeOnly) Flying Whale - shape1   [Copy/Mod/No-Trans]
+(texChangeOnly) Flying Whale - shape2   [Copy/Mod/No-Trans]
+(texChangeOnly) Flying Whale - shape3   [Copy/Mod/No-Trans]
+
+*Whale-A is Copy Only, and all the other contents are Copy-Mod-NoTrans. 
+
+
+-How To Move The Whale-
+The whale moves in a circle round a root object. Please rez the whale and touch it, and the dialog will appear. Select [Movement] button and next [Move] or [Move(Lite)].
+
+
+-About [Move(Lite)] Options-
+Move(Lite) is simply omega rotation and the whale moves smoothly more than the normal move. However it returns to the starting point at right-clicking and the position looks different according to viewer. Also it looks like it's stopping when someone is right-clicking or selecting it in Edit Mode.
+Also, an object of the omega rotation looks like it's moving but actual object stays at the starting point. So if the object includes physics like the whale, you will feel like only an invisible wall appears. Phantom option in the Edit Tool will fix this issue but then you will not be able to stand on the object even if the object is at the starting point.
+The lite mode moving is low-load and smoothly, but there are also some problems. Please select a way which matches your preference.
+
+
+-About The Whale of Modifiable/No-Pose Version-
+Whale-B is modifiable. You can be linked with other objects leaving the script in the whale, but there are some important points in editing. Please make sure to check the points below before starting work.
+1) When linking the whale and other objects, the whale should be selected LAST. If the root prim (showed with yellow outline in Edit Mode) is changed, the whale will not work normally.
+2) When something is linked anew, the whale temporarily stops to prevent from unexpected action. Please touch the whale to activate all the actions again.
+3) Please do not change the object name and the description.
+4) Please take a copy when you edit the whale. Also I recommend to stop the whale with [PAUSE] button in the dialog before work.
+
+
+-About The Poses In The Whale-
+Whale-A includes six poses. You cannot select a pose by touch/dialog but each pose is played according to sitting position.
+The positions where the poses are set:
+   Pose1: Whale's body
+   (It may be easy if aiming at the whale's stomach)
+   Pose2: Topside of the whale's mouth
+   Pose3: Whale's body
+   Pose4: Ladder
+   Pose5: Tree leaves
+   Pose6: Tree trunk
+
+
+
+
+When the item has dissapeared from the inventory, you can receive it again from the redelivery terminal at 􀀃. If you have any questions, please feel free to contact 􀀄.
+
+
+
+***********************************************
+***********************************************
+
+
+-------------------------
+Japanese
+-------------------------
+
+􀀁
+
+HPMD* Flying Whaleについて
+
+■ 内容 ■
+(scriptMove/no-mod/pose included) Flying Whale - A   [Copy/No-Mod/No-Trans]
+(scriptMove/mod/no-pose) Flying Whale - B   [Copy/Mod/No-Trans]
+(texChangeOnly) Flying Whale - shape1   [Copy/Mod/No-Trans]
+(texChangeOnly) Flying Whale - shape2   [Copy/Mod/No-Trans]
+(texChangeOnly) Flying Whale - shape3   [Copy/Mod/No-Trans]
+
+
+
+-クジラの動かし方-
+クジラはルートオブジェクトを中心に、円を描いて進みます。クジラをrezしてタッチするとダイアログが表示されますので、[Movement]オプションを選択した後、 [Move] もしくは [Move(Lite)] をお選びください。
+
+
+
+-Move(Lite)オプションについて-
+Move(Lite)は単純なオメガ回転で、通常のMoveよりもスムーズに前進します。ただし、右クリック等でスタート地点に戻ったり、ビューアによって動いている地点が異なって見えたり、誰かが右クリックで選択している時は、他の人にはクジラが止まっているように見えたりします。
+また、オメガ回転の場合、動いているように見えても実際のオブジェクトはスタート地点にあるままなので、クジラのようにPhysics（物理）が入っているオブジェクトの場合、オブジェクトがスタートした地点に通り抜けられない透明な物理壁ができてしまうことになります。
+編集可能な物の場合、編集ツール内のファントム（Phantom）オプションを有効にすることでこれを回避することができますが、オブジェクトがスタート地点にあってもその上に立つことはできなくなります。
+Liteモードでは低負荷でスムーズな動きができるようになりますが、このようにいくつかの欠点もあります。それぞれの環境や好みに合うほうをご選択ください。
+
+
+
+-Mod/No-Pose版のクジラについて-
+Whale-Bは編集可能となっており、スクリプトを入れたままで他のアイテムとリンクすることができます。その際、いくつかの注意点がありますので、下記の事項をお読みになってから作業を始めてください。
+
+1) クジラと他のアイテムをリンクさせるときは、必ず最後にクジラを選択してリンクしてください。ルートプリム（編集モード時に黄色い輪郭線で表示されるプリム）が変わってしまうと、本商品は正常に動作しません。
+
+2) 何かが新しくリンクされると、クジラは予期しない動作を防止するために全ての動作を一時停止します。停止を解除するにはクジラをタッチしてください。
+
+3) アイテム名（子プリムも含む）を変更しないでください。
+
+4) クジラを編集する際は、コピーを取ってから行うようにしてください。また、作業を開始する前に、ダイアログ内の[PAUSE]ボタンでクジラを停止させておくことをお勧めします。
+
+
+
+-Whaleのポーズについて-
+Whale-Aには６つのポーズが入っており、タッチやダイアログでのポーズ変更はできませんが、座る位置によってポーズが異なっています。
+
+ポーズがセットされている場所：
+   Pose1: くじらの体
+   Pose2: くじらの口の上面
+   Pose3: くじらの体その２ (おなかを狙うと簡単かもしれません)
+   Pose4: はしご
+   Pose5: 木の葉
+   Pose6: 木の幹
+
+
+
+
+ 􀀀にあるRedelivery Terminal（再配送端末）からいつでも商品の再配送ができます。端末をタッチしてWebページを開くと、配送可能な商品のリストが表示されますので、「Delivery」ボタンを押してお受け取りください。
+ご質問等ありましたら、 􀀅までお気軽にご連絡ください。
+
+
+
+

@@ -1,0 +1,123 @@
+About HPMD* Cave01
+
+POSITION
+--------
+X: 177.60847
+Y: 173.15143
+Z: 7.28591
+
+ROTATION
+--------
+X: 0.00000
+Y: 0.00000
+Z: 270.00000
+
+## CONTENTS ##
+
+-Cave: 3 types
+-Copy/Mod/No-transfer
+
+►To open the dialog, please RIGHT click on the cave and select ♣Dialog.
+►This product does not include a HUD, but you can change multiple caves in the sim at a time by the dialog option [AreaOfEffect]. For details, please see the [AreaOfEffect] section below.
+►If the alpha texture is not displayed properly, it may be a SL bug.
+Changing settings of  [GlowingGrass] or [GlowingGrain] in the dialog may fix it. (Glow or color, any button in the page is ok)
+
+## DIALOG OPTIONS ##
+
+[AreaOfEffect]
+By selecting an area on this page, it becomes in the state that you can change the caves in the area of the sim at once. The center point of the area is the object which you are currently opening the dialog.
+1) On the [AreaOfEffect] page, select an area (radius). 
+2) After selecting a range, the dialog will return to the top page so please change setting without closing the dialog. You can see the current Area of Effect in the dialog description.
+https://gyazo.com/98668cd261ebe38585f927a26bc62083
+If you close the dialog or leave the dialog open without any operations for two minutes, the area will turn off. 
+
+[Season] *Fatpack only
+Change the season of the cave.
+
+[GlowingGrass]
+Change settings of the glowing grasses inside of the cave
+
+[GlowingGrain]
+Change settings of the glowing grain inside of the cave
+
+[MergeScript]
+When the dialog detect the objects have duplicate script in the link, this menu will automatically appear and you can merge them. When you press the Merge button, only the script in the parent object will remain.
+
+This operation may help to reduce the sim's lag caused by script.
+
+[DeleteScript]
+You can delete a script of the product. If you set an area, the scripts of all copied objects in the area is deleted. 
+
+----------------------------------------------------
+
+!! CAUTION !!
+Please note these points to run the script successfully.
+1) Please do not change the object name and description before deleting script completely.
+2) You can link copies of this product to each other, but if you link other products, the script may not work correctly. If you need to link other products, please delete the script before linking.
+
+
+The script of this product was made by Achamo Paine. Thank you so much for your great work Achamo!<33 􀀂
+If you have any questions, please contact 􀀃.
+
+
+***********************************************
+***********************************************
+
+
+-------------------------
+Japanese
+-------------------------
+
+HPMD* Cave01について
+
+􀀅
+
+## セット内容 ##
+
+-Cave: 3タイプ
+-コピー可/編集可/譲渡不可
+
+►ダイアログを開くには、オブジェクト上で右クリックして、メニューから♣Dialogを選択してください。
+►当商品にはHUDは付属していませんが、ダイアログメニュー[AreaOfEffect]から範囲を指定することで、SIM内の一部または全てのオブジェクトを一度に変更することができます。詳しくは下記の[AreaOfEffect]の項をご覧ください。
+►アルファテクスチャが正しく表示されない場合、SLのバグの可能性があります。
+ダイアログ内の[GlowingGrass]または[GlowingGrain]の設定（Glowまたは色変更など）を変更すると修正できることがあります。
+
+
+## ダイアログオプション ##
+
+[AreaOfEffect]
+このページで範囲をあらかじめ選択しておくことで、その範囲内のオブジェクトを一度に変更できる状態になります。範囲の中心は、その時点でダイアログを開いているオブジェクトです。
+1) [AreaOfEffect]ページで、好きなエリア（半径）を選択します。
+2) エリアを選ぶとトップページに戻りますので、ご希望のメニューを選択し、通常通りのダイアログ設定を行ってください。
+現在適用されている[AreaOfEffect]の範囲は、ダイアログの説明欄で確認できます。
+https://gyazo.com/98668cd261ebe38585f927a26bc62083
+ダイアログを閉じたり、ダイアログを開いたまま何も操作せずに2分が経過すると、エリアは[off]にリセットされます。
+
+[Season]
+洞窟のテクスチャを変更します。
+
+[GlowingGrass]
+洞窟内側にある光る草の設定を変更します。
+
+[GlowingGrain]
+洞窟内側にある光の粒の設定を変更します。
+
+[MergeScript]
+リンク内に重複したスクリプトがある場合に、自動的にダイアログが表示され、それらをすべて統合（Merge）することができます。
+[Merge]を実行すると、親オブジェクトのスクリプトだけが残ります。
+
+[DeleteScript]
+スクリプトを完全に削除します。複数のオブジェクトのスクリプトを一度に削除したい場合は、[AreaOfEffect]のページで範囲を設定してからダイアログを閉じずに再びこのページに戻り、削除を実行してください。
+
+----------------------------------------------------
+
+▲ 注意 ▲
+スクリプトの故障防止のため、アイテムを編集する際は以下の点にご注意ください。
+1) アイテムにスクリプトが入った状態で、アイテム名やアイテム説明欄(Description欄)の書き換えをしないでください。
+2) 当商品は、同梱されているアイテム同士のリンクであれば問題ありませんが、他の商品をリンクすると、スクリプトが正しく動作しない場合があります。他の商品をリンクする必要がある場合は、事前に当商品のスクリプトを完全に削除してください。
+
+
+
+この商品のスクリプトは、Achamo Paineさんに作っていただいたものです。Achamoさん、いつもありがとう！<33 􀀀
+ご質問等ありましたら􀀁、までお気軽にお問い合わせください。
+
