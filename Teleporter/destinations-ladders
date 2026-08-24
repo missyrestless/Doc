@@ -62,7 +62,7 @@ SIT_TEXT              =
 
 
 # MENU_TEXT - Menu text in the main menu. Default: Choose a destination:
-MENU_TEXT       = Choose a destination:
+MENU_TEXT       = Choose a ladder(s) destination:
 
 FORCE_SIT           = Yes
 
@@ -142,9 +142,7 @@ DEBUG                       =
 # Note: the format is: name=slurl <lookat> 
 
 # Ladder Destinations
-Sand Ladder=https://maps.secondlife.com/secondlife/Brightbrook%20Isle/19/155/21 <15, 159, 21>
-Monarchs Ladder=https://maps.secondlife.com/secondlife/Scylla/199/32/61 <196, 22, 62>
-Horseback Ladder=https://maps.secondlife.com/secondlife/Brightbrook%20Isle/60/88/21 <53, 93, 21>
-Luminara Ladder=https://maps.secondlife.com/secondlife/Clam%20Up/150/199/3 <154, 204, 3>
-Surfing Ladder=https://maps.secondlife.com/secondlife/Brightbrook%20Isle/32/123/1557 <25, 130, 1557>
-SLEA Ladder=https://maps.secondlife.com/secondlife/Brightbrook%20Isle/43/72/21 <51, 72, 21>
+Coral Reef & Luminara Ladders=https://maps.secondlife.com/secondlife/Clam%20Up/145/201/3 <153, 205, 5>
+Horseback, Sand, & SLEA Ladders=https://maps.secondlife.com/secondlife/Brightbrook%20Isle/21/127/21 <16, 122, 21>
+Monarchs Ladder=https://maps.secondlife.com/secondlife/Scylla/231/31/67 <221, 32, 67>
+Surfing Ladder=https://maps.secondlife.com/secondlife/Brightbrook%20Isle/35/90/1558 <27, 82, 1558>
