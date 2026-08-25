@@ -1,0 +1,12 @@
+To set up:
+1. drag the script "Maitreya Feet Auto-Select V5..." in to the root prim of your shoes
+2. open the notecard "Maitreya Feet Auto-Select V5 Confiq" and fill in the foot shape you want the feet to be set to (flat, low, mid, high or ballet).
+3. save the notecard and place it in the root prim with the script. 
+The script will read the notecard and delete it after,
+
+* If your right and left shoes are separate objects, you only need to place the script in one side.
+
+* This script can only set both feet in the same shape.
+
+Enjoy!
+The Maitreya team xx
