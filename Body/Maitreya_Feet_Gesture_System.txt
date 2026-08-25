@@ -1,0 +1,57 @@
+Hello and thank you for your interest in this little and helpful device
+
+this will allow you to quickly change heel shape of our Maitreya Body.
+
+setup is not too hard.
+Just activate all the five gestures provided in the "Gestures" folder.
+
+Then copy/cut and paste the folder named "Maitreya Feet GestureSystem" from the #rlv folder into your #RLV folder.
+see picture: 􀀀
+_____________________________________________________________________________________________
+
+NOTE: IT IS VERY IMPORTANT THAT YOU DO NOT CHANGE ANY NAME OF ANY OBJECT OR FOLDER.
+_____________________________________________________________________________________________
+
+Now wear the "Maitreya Gesture Heel Angle Set - Relay HUD"
+alternatively if you don't want to see anything and don't want to click on th HUD, wear the "Maitreya Gesture Heel Angle Set - Relay Only". It will allow only gestures use.
+
+you are ready to go!
+
+How to change heel shapes:
+method 1:
+You can click the HUD to select the five available heel shapes
+
+method 2:
+you can type:
+/maflat for flat shape
+/malow for low shape
+/mamid for mid shape
+/mahigh for high shape
+/mabal for ballet shape
+
+method 3:
+you can press:
+CTRL F2 for flat shape
+CTRL F3 for low shape
+CTRL F4 for mid shape
+CTRL F5 for high shape
+CTRL F6 for ballet shape
+
+Note: the system is lag free and it has only very low impact script. So no worries.
+
+Alternatively you can copy and paste the desired item from their respective heel angle folders, and put a copy (or link, better) in your outfit folders, so you don't need neither the HUD, neither the RLV, nor the gestures!
+
+======= If you don't know what RLV is ==========
+
+RLV is a system that allows scripts to communicate with the viewer.
+Thee viewer must include this function, so the default LL client won't work.
+You can use any other RLV enabled viewer, such as Firestorm.
+
+the #RLV folder is not a default folder, so you can create it in your inventory and be sure to name it upper case.
+You will see the folder's icon to change, so it means everything is good.
+
+Now simply put the "Maitreya Feet GestureSystem" into that folder
+now go into the preferences of your Viewer and enable the Restrained Love system (Remote Scripted Viewer Controls) or also RLVa.
+
+You will be asked to log out and log back in. 
+You're ready to go
