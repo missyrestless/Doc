@@ -1,0 +1,34 @@
+WANDERER SETUP HELPER
+
+
+138.2,197.7,5.4,188.8,216.6,19.7
+
+About this object
+
+This cube tells you the necessary coordinates when you setup Dugong Janus's WANDERER marine animals.
+Available up to 64-meter cube area.
+Linden's official viewer 3.0 or later strongly recommended.
+Older,  or third-party viewers may not allow you to stretch the object over 10 meters.
+
+Hot To Use
+
+1. REZ Setup Helper at the area you like to release WANDERER animals.
+
+2. Move and stretch the object to fit the area. DO NOT ROTATE.
+
+3. Touch the object and it tells you the coordinates.
+
+4. Copy the coordinates (and no other text!).
+
+5. Rez and touch WANDERER animals, and paste the coordinates to your chat window, and say it.
+
+6. If your land is larger than you can stretch the object;
+6-1. Rez 2 Setup Helpers inworld (you can duplicate it.)
+6-2. place one at South-West BOTTOM in the swimming area, and the other, at North-East SURFACE.
+6-3. Touch the first one and copy the first 3 figures.
+6-4. Touch the other and copy the last 3 figures.
+6-5. Combine these figures, and now you have got the necessary coordinates made of 6 figures.
+
+7. After you setup the animals, you can delete the setup helper.
+
+November 2012 by Dugong Janus

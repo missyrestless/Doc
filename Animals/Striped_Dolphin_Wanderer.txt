@@ -1,0 +1,67 @@
+Thank you for purchasing Dugon Janus's product.
+WANDERER Dolphins swim freely inside the specified rectangular area, and sometimes jump.
+
+
+HOW TO MAKE IT SWIM
+
+1, CONFIRM the SOUTH-WEST BOTTOM and NORTH-EAST TOP corners of the area where you like to release the dolphin(X-Y-Z coodinates required).
+The area should be at least 4-5 times longer than the dolphin, and at most a whole SIM.
+
+
+2, REZ the dolphin INSIDE the area.
+
+
+3, TOUCH the dolphin, and SAY following figures in CHAT window;
+  Minimum(South-West Bottom) X, Minimum Y, Minimun Z, Maximum(North-East Top)X, Maximum Y, Maximum Z.
+There must be 6 values, and the figures must be separated by commas(Example: 12.5,10,15.2,75,80.5,20).
+
+
+4, When all the values are accepted, the dolphin begins to swim automatically.
+
+
+5, TAKE and rez it again, if you want to reset the values.
+
+
+
+FAQ
+
+Q1, Can't I change this dolphin's swimming speed ?
+
+A1, I COULD make it so, but that will make your first configuration more complecated.
+So, I am sorry I set those figures FIXED.
+
+
+Q2, Coordinates? Figures? It's too difficult for me!
+
+A2, Do not worry, There is "Wanderer Setup Helper" for free!
+
+
+Q3, The dolphin seems not to hear me !
+
+A3, Are you speaking close enough to the dolphin ?
+Your words do not reach objects further than 20 meters.
+
+
+Q4, It swims only in a circle...
+
+A4, When the swimming area is too small, it can only swin in a circle.
+Please release it in a larger area.
+The area should be at least 4-5 times longer, and at least 1.5 times deeper than the dolphin.
+
+
+Q5, It was returned to my "Lost and found" folder !
+
+A5, The SIM server's unexpected behavior makes it go out of the area.
+In most cases the dolphin can comes back by itself, but if it goes out of your land, and the land owner does not allow others' objects to enter, the dolphin may be returned to your inventory.
+When it returned to your "Lost and Found", we are sorry but you will have to set the coordinates again.
+To avoid these issues, please set the area slightly further from your land border.
+
+
+Q6, Can I see the coordinates I set for the dolphin swimming now ?
+
+A6, Yes. Touch the dolphin while swimming, and it tells the coordinates.
+
+
+Q7, By the way, can't I ride on this dolphin ?
+
+A7, The dolphin is so small and will not feel good if you ride on it.
