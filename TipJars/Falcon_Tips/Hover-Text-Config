@@ -1,0 +1,29 @@
+#=================================================================
+#                           [MMc] Hover Text Configuration  By: MrMikeyUK Resident
+#=================================================================
+#                        Please read and follow the instructions in the Help file named 
+#           "Configuration Instructions. (READ FIRST)" to be sure your board to work at it's best.
+#
+#               DO NOT CHANGE ANYTHING BEFORE THE "=" Sign OR YOUR BOARD MAY BREAK!
+#               Any lines without the "#" will try to be read by the script so do not remove any 
+#              unless you want that line included or you can put them in to NOT include that line.
+#               Be sure you have some information AFTER the "=" sign if you remove the "#".
+#==================================================================
+
+##     Type Yes or No for the options to show or hide
+[Show Floating Text ?]=Yes
+[Show Last Donation ?]=Yes
+[Show Last Tipper Name ?]=Yes
+[Show Total Donations ?]=Yes
+
+[Text Colour]= <0.867, 0.741, 0.600>
+
+##     Set your own floating text lines below
+[Text Title] = Donations Appreciated
+[Text Line 1] = Please Support
+[Text Line 2]  = Truth & Beauty Beach
+[Text Line 3] =
+
+#==================================================================
+#                ======== END OF CONFIGURATION ========
+#

@@ -1,0 +1,208 @@
+                [MMc] - Mr M's Creations
+Creating Tip Boards, Venues, Stages, Home & Garden  & More Since 2012
+****************************************************************
+
+We have created many items, from Furniture to a fully working House boat. 
+We also specialize in Tip Boards for the Host, Artist, DJ And Venue.
+Also check out the "Home & Garden" area for that special item to enhance your place.
+
+If you wish to view builds then visit our place.
+    [MMc] In-World Store is located here:   􀀃
+Many items are available to view on stands or from rezzers near & in the shops.
+
+[MMc[ Marketplace Store:   https://marketplace.secondlife.com/stores/100356
+
+============================================================
+ITEM :  [MMc] "Falcons Prey" Tipper
+============================================================
+    To configure, open the contents tab in Edit mode (Right click and select "Edit") and then open the relevant configuration notecard. 
+    
+    Some of these instructions are repeated in each notecard. 
+    Complete instructions can be found below.
+
+     
+CONTENTS
+
+i] IMPORTANT NOTES.
+ii] SETTING UP THE CONFIGURATION. 
+     1) MENU 
+     2) PAY & GIFT
+     3) GROUP JOINER  
+     4) NOTECARD GIVER
+     5) LANDMARK GIVER
+     6) WEB LINK (URL)
+     7) FLOATING TEXT
+     8) PARTICLES    
+     9) MESSAGES
+    10) RENAME YOUR BOARD
+
+    -----------------------------------------------------------------------------------------------------------------------
+i] IMPORTANT NOTES.
+
+*    When you see the popup that says the board wants to have permission to take money,
+    you MUST allow it for the board to work if you want to share profits.
+    This is set for the "SHARING" part of the ".[MMc] Tipboard-Config" if you decide to use it.
+    If you are worried at all then test the board by tipping yourself.
+    NO money should come out of your account unless you set a split percentage + uuid of a person to split with
+    plus have split allow set to "Yes".
+    Denying the popup will still allow the board to work for you but will NOT share any monies,
+    even if you set in the config notecard to do so
+    
+*    Floating text will show from the prim named "floating text" (without the quotes) .
+    If you wish to change which prim displays the text then simply rename a new prim with that name
+    and rename the original prim something else.
+    if floating text shows over prims you do not wish them to, and you have named them differently,
+    then try setting the config card to NOT show floating text, save and reset, then go back and set it to show,
+    then save and reset again. This should fix it.
+           
+    -----------------------------------------------------------------------------------------------------------------------
+    
+ii] SETTING UP THE CONFIGURATION.    
+
+      Please read and follow the instructions below on how to configure your note cards
+      to be sure your board to work at it's best.
+
+                  THIS IS A HELP FILE ONLY!   DO NOT CHANGE the SETTINGS HERE !!.
+                   DO NOT CHANGE THE NAMES, OR DELETE THE CONFIG" NOTECARDS OR NOTHING WILL WORK!!!
+    * Anything that comes after the  "#"  are comments only to help you, or disabled a line. 
+    * Do NOT remove the "#" or the script will not work correctly (Unless it is to Activate a line).
+    * The Text BEFORE the "=" must NOT be changed or they will not work!
+    * The Text Between the "[ ]" must NOT be changed or they will not work!  Also Do NOT remove the [ or the ].  
+    * It is STRONGLY advised you keep a copy of the original configuration notecards before you make any changes to them!!
+    -----------------------------------------------------------------------------------------------------------------------
+1) MENU
+            ----------------------
+        The Menu can always be shown by clicking anywhere but the Tips option.
+        Any Option set to "Allow", in the sections below, Will show as a button in the menu.
+        
+        The Option, below, is just "Yes" or "No" (without the quotes).
+        "Yes" will show the menu when tipped also and "No" will not.
+
+    * [Give Menu When Tipped ?] = No
+    -----------------------------------------------------------------------------------------------------------------------  
+2) PAY & GIFT
+            ----------------------
+
+###     PAYMENT      ###
+ Numbers 1-4  are the Pay Buttons. Number 5 Is the suggested pay price.
+    * [Pay Buttons] = 25 ,50 ,100 ,150, 50
+    
+###     SHARING      ###
+ Set 1 person to share tips with if desired.       
+    * [Split Allow ?] = Yes Or No Answer.
+    * [Split Percentage - %] = Set the amount you wish the person named in SPLIT UUID to receive. 
+                                            Must be between 1 and 100 (NO percentage sign), ie; PERCENTAGE=50.
+                                            (This will give 50% to you and 50% to your partner named below)
+    * [Split Avatar UUID] = This is the persons uuid that will receive a percentage amount of the tips described above
+    * [Split Avatar Name] = This is for your reference only so you can see the name of the person set in the UUID in the config card
+
+###     GIFT      ###
+  Give a gift when tipped if desired.
+    * [Give A Gift On Tip ?] = Put "Yes" if you wish those that tip to receive the named gift below.
+                                          "No" will mean NO gift will be given even if it is named below.
+    * [Payment Gift Name] =   This is for a gift to be given to anyone who tips the board.
+                                            There MUST be an object in the boards root with the same name for this to work..
+    -----------------------------------------------------------------------------------------------------------------------    
+3) GROUP JOINER    
+            -----------------------------
+            Sends out, in local chat, a group join offer to the group set out under [GROUP UUID] in the config card.
+
+    * [Allow Group Invite ?] = Yes to allow
+                                           No to disallow
+    * [Group Name] =  This is for your reference only so you can see the name of the group set in the UUID below.    
+    * [Group UUID] = Copy just the Group Key (UUID) (NOT the full address/url) from the top of the relevant Group window.
+    * [Group Invite chat] = Put text here you wish to show in local chat for inviting to your group. 
+                                       The group link will show before the text.
+    -----------------------------------------------------------------------------------------------------------------------
+4) NOTECARD GIVER
+            --------------------------------                                   
+        This will give out a notecard named in below in [Notecard Name] in the config card.
+        These can be a music list or instructions, anything you wish from a notecard.
+        There MUST be a notecard in the root contents of the object for it to work.
+                
+     * [Give Notecard ?] =Yes to allow
+                                      No to disallow           
+     * [Notecard Name] = Put the name of your notecard here.
+                                      it MUST match the name of the notecard in the contents of the board.
+    -----------------------------------------------------------------------------------------------------------------------
+5) LANDMARK GIVER
+            ----------------------------
+        This will give out a landmark in the Root Prim of the board, to anyone who clicks the button.
+        There MUST be a Landmark in the root contents of the object for it to work.
+
+     * [Give A Landmark ?] = Yes to allow
+                                          No to disallow  
+     * [Landmark Name] = Put the name of your landmark here.
+                                       it MUST match the name of a landmark in the contents of the board      
+     -----------------------------------------------------------------------------------------------------------------------
+6) WEB LINK (URL)
+            ----------------------------     
+    * [Give url ?] = To either "Yes" To Give A Link
+                                              Or "No" For No Link
+    * [Website] =   Put your complete Web Link here
+                                (Copy and paste from the website if needed, including https://  etc).
+     -----------------------------------------------------------------------------------------------------------------------          
+7) FLOATING TEXT:
+            ----------------------------
+            Floating (Hover) Text options (Below)  are set In The  ".[MMc] Hover Text-Config" Notecard.
+                        
+[Show Floating Text ?] = To either "Yes" To Show Text
+                                     Or "No" To Hide Text.
+[Show Last Donation ?] = Yes or No answer to hide or sow this option.
+[Show Last Tipper Name ?] = Yes or No answer to hide or sow this option.
+[Show Total Donations ?] = Yes or No answer to hide or sow this option.
+
+            Set the colour you wish the text to be.
+[Text Colour] = <0.867, 0.741, 0.600>
+
+            Set your own floating text lines below
+[Text Title] = Your Name Or Club Here
+[Text Line 1] = Please Support
+[Text Line 2]  = Your Artist, Host
+[Text Line 3] =  And Venue!
+    -----------------------------------------------------------------------------------------------------------------------  
+8) PARTICLE EMITTER    
+            ----------------------
+            Poofer Particles (Below)  are Set In The  ".[MMc] Particles Config" Notecard.
+
+    * [Particle Texture] = Put the UUID of the texture you wish to use for the poofer that activates on tipping.
+    * [Particle Time] = Set this in seconds (0 = No poofer).
+    * [Particle Start Size] = You can set the begin size of the above texture here such as 0.10 or 2.0 etc.
+    * [Particle End Size] = You can set the end size of the above texture here such as 0.10 or 2.0 etc.
+    * [Particle Count] = This will set the amount of particles emitted. (5 is Default. 0 will set no particles).
+    * [Particle Start Colour] = This will put a start colour over the particle. (e.g: <1,0,0> will colour them red)
+    * [Particle End Colour] = This will put an end colour over the particle. (e.g: <0,1,0> will colour them green)
+    * [Particle Follows Tipper] = set this to "yes" if you wish the poofer particles to go to the person that tipped you.
+                                               set to "no" for default explode poofer.                                        
+    ----------------------------------------------------------------------------------------------------------------------- 
+9) MESSAGES
+            ---------------------------- 
+     The Ability to set message to tipper.
+     Also the ability to have a popup dialog box to send a thank you or other personal message to the person that last tipped.
+            For Person Who Tipped: Put the text, "%TIPPERNAME%" into the message.
+            For Owner (You): Put the text, "%MYNAME%" into the message.
+
+Examples: 
+    * [Private Message To Tipper] = Thankyou "%TIPPERNAME%" for your awesome tip!
+    * [Local Chat Message To Tipper] = "%MYNAME%" Thanks "%TIPPERNAME%" For Their Generous Donation!
+    * [Send A Personal Response ?] = Yes Or No Answer
+                                                        Gives The ability to have a popup dialog box to send a thank you or 
+                                                        other personal message to the person that last tipped.
+    -----------------------------------------------------------------------------------------------------------------------   
+10) RENAME YOUR BOARD
+            ----------------------------
+        If you Leave this line empty it will read the name as "BOARD NAME=".
+        If you block this line by putting a "#" before it, then  it will read the Default Name (Set by the script).
+        Replace the name after the "=", with the one you want then reset the board.
+        Note:  DO NOT rename it in the General Tab as the script will just reset it when rezzed again or if the reset button is clicked.
+        
+    * [Board Name] = This is my Tip Jar.
+============================================================
+We hope to see you soon,
+
+Mikey    􀀁
+And
+Iona      􀀂
+
+
+[MMc]    􀀀

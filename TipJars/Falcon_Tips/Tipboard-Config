@@ -1,0 +1,76 @@
+#=================================================================
+#                           [MMc] Tip board configuration  By: MrMikeyUK Resident
+#=================================================================
+#                        Please read and follow the instructions in the Help file named 
+#           "Configuration Instructions. (READ FIRST)" to be sure your board to work at it's best.
+#
+#               DO NOT CHANGE ANYTHING BEFORE THE "=" Sign OR YOUR BOARD MAY BREAK!
+#               Put a # in front of any line you do not wish to use.
+#               Any lines without the "#" will try to be read by the scrip
+#               so do not remove any unless you want that line included!
+#               Be sure you have some information AFTER the "=" sign if you remove the "#".
+#==================================================================
+
+###     RENAME YOUR TIP JAR      ###
+# [Board Name]= My Tip Jar
+
+
+###     PAYMENT      ###
+##   Numbers 1-4  are the Pay Buttons. Number 5 Is the suggested pay price.
+##   You MUST put commas between each number!
+[Pay Buttons]= 50 ,100 ,250 ,500, 250
+
+
+###     SHARING      ###
+##   Set 1 person to share tips with if desired.
+[Split Allow ?] = No
+[Split Percentage - %]=0
+[Split Avatar UUID]=
+[Split Avatar Name]=
+
+
+###     GIFT      ###
+##   Give a gift when tipped if desired.
+[Give A Gift On Tip ?] = No
+# [Payment Gift Name] = 
+
+
+###      GROUP      ###
+##    The group link will show before the text.
+[Allow Group Invite ?] = No
+[Group Name] =
+[Group UUID] =
+[Group Invite chat] = Click the link above (Chat History (Ctrl+H)) and then click on JOIN button to become a valued member of the Group , Thankyou.
+
+
+###      GIVERS      ###
+##    Yes or No. 
+##     Make sure you put the FULL web address here (including https://  etc)
+[Give url ?] = No
+[Website] = https://www.google.com
+
+[Give Notecard ?] = No
+[Notecard Name] = 
+
+[Give A Landmark ?] = No
+[Landmark Name] = 
+
+
+###      MESSAGING      ###
+##    For Person Who Tipped: Put the text, "%TIPPERNAME%" into the message
+##    For Owner (You): Put the text, "%MYNAME%" into the message
+
+[Private Message To Tipper] =  Thank You So Much, "%TIPPERNAME%," for your Donation and Supporting Truth & Beauty in Second Life.
+
+[Local Chat Message To Tipper] = "%MYNAME%" Thanks "%TIPPERNAME%" For Their Generous Donation!
+
+##    Send a personal messge to the tipper with a dialog box
+[Send A Personal Response ?] = No
+
+
+###      MENU      ###
+[Give Menu When Tipped ?] = No
+
+#==================================================================
+#                ======== END OF CONFIGURATION ========
+#

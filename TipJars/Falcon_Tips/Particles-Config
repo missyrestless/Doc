@@ -1,0 +1,25 @@
+#=================================================================
+#                          [MMc] poofer configuration  By: MrMikeyUK Resident
+#=================================================================
+#                        Please read and follow the instructions in the Help file named 
+#           "Configuration Instructions. (READ FIRST)" to be sure your board to work at it's best.
+#
+#               DO NOT CHANGE ANYTHING BEFORE THE "=" Sign OR YOUR BOARD MAY BREAK!
+#               Put a # in front of any line you do not wish to use.
+#               Any lines without the "#" will try to be read by the scrip
+#               so do not remove any unless you want that line included!
+#               Be sure you have some information AFTER the "=" sign if you remove the "#".
+#==================================================================
+
+[Particle Texture] = 3ce90f2a-f234-75f1-9823-eff325ab6b61
+[Particle Time] = 10
+[Particle Start Size] = 0.3
+[Particle End Size] = 0.1
+[Particle Count] = 2
+[Particle Start Colour] = <1, 1, 1>
+[Particle End Colour] = <1, 1, 1>
+[Particle Follows Tipper] = Yes
+
+#==================================================================
+#                ======== END OF CONFIGURATION ========
+#
