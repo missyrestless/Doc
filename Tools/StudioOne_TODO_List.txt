@@ -1,0 +1,60 @@
+StudioOne - To Do List (Plus+)
+===================
+
+🔘 Important: 
+There is a limit on characters used (or bytes) within a dialog box. We've added a counter that shows how many you have remaining at the bottom of the dialog menu within a List. If you exceed this you will get a script error.
+
+🔘 If you get a script error:
+Click the reset icon next to the relevant list that's giving you a problem. It will clear the list and reset the script.
+
+🔘 Emojis count as 4 characters. Also be aware of URLs amd SLURLs using more bytes than it appears. Refer to the byte counter at the bottom of the list dialog box so you know how many are remaining.
+
+===================
+
+🔘 GENERAL USE:
+
+Tasks:
+🔲 Click a LIST to open the to-do menu for that list.
+🔲 Click 'List Name' to change the name of the list as displayed at the top.
+🔲 Click a number, corresponding to the tasks as listed in the dialog to open the task sub-menu.
+🔲 Click 'Task' to enter a task to be assigned to that number.
+🔲 Click 'Complete' to tick the task as completed.
+🔲 Click 'Default' to return the task to incomplete.
+🔲 Click 'Remove' to remove the task entirely.
+
+Icons:
+🔲 Click the icon next to a LIST in the HUD to open the icon menu.
+🔲 Click 'Icons' to choose an icon. You can add your own by adding a texture to the ROOT prim of the HUD. Highly recommend that the icon is white so it can still have it's color changed via the Color menu.
+🔲 Choosing DEFAULT will also change the color to white.
+
+Colors:
+🔲 Open the icon menu as above and choose 'Color' to choose a color from the sub-menu.
+
+
+
+🔘 ADDING LINKS TO YOUR TASKS:
+
+🔲 To add a profile link:
+Copy the SLURL of the avatar and simply paste it into the text input box when adding a task.
+Once you've finished adding the task it will appear as a profile link.
+
+🔲 To add a location/landmark
+Either copy and paste the SLURL as above or use the following format...
+[slurl text]
+Using these brackets [ ] paste the SLURL followed by a SPACE and then the TEXT that you want
+to appear as the link. For example...
+
+[http://maps.secondlife.com/secondlife/Adelara%20Bay/103/159/25 Click Here]
+Will appear in the task line simply as 'Click Here' and will be a link to the selected location.
+
+🔲 To add a symbol/emoji
+Simply copy and paste from the chat emojis. Not all of them will appear as they do in the chat
+window. A symbol/emoji counts as 4 characters towards your limit.
+
+
+
+For further advice or support please contact us:
+
+Lara: 􀀀
+or if unavailable:
+Addie: 􀀁
