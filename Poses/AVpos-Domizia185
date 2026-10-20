@@ -1,0 +1,10 @@
+".::DOMIZIA::. - COUPLE 185" 
+SITTER 0
+
+SYNC Couple 185|Domizia - Couple 185 F
+{Couple 185}<-0.149,0,1.193><0,0,0>
+
+SITTER 1
+
+SYNC Couple 185|Domizia - Couple 185 M
+{Couple 185}<0.137,0.016,1.198><0,0,180>

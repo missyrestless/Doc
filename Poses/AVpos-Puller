@@ -1,0 +1,13 @@
+BRAND Darkfold Productions™
+SWAP 1
+
+SITTER 0|Female seat|F
+
+SYNC Come here|NCOF (10)
+{Come here}<0.004,-0.03,0.181><0,0,-90>
+
+SITTER 1|Male seat|M
+
+SYNC Come here|NCOM (7)
+{Come here}<0.004,-0.427,0.21><0,0,90>
+

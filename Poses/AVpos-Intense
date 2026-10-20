@@ -1,0 +1,14 @@
+TEXT \n                          Sensation Poses\n             "Intensee Couple Pose" \n                           \n    Press & hold Ctrl + s  to resync animations!\n
+
+SITTER 0
+
+SYNC Intense|Instense F
+{Intense}<0.469,0.01,0.108><0,0,-0>
+BUTTON Hide/Show |0
+
+SITTER 1
+
+SYNC Intense|Intense M
+{Intense}<0,0,0.287><0,0,-0>
+BUTTON Hide/Show |0
+

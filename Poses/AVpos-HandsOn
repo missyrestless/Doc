@@ -1,0 +1,14 @@
+TEXT \n                          Sensation Poses\n             "Hands On MF Couple Pose" \n                           \n    Press & hold Ctrl + s  to resync animations!\n
+
+SITTER 0
+
+SYNC Hands On|Hands On F
+BUTTON Hide/Show|0
+{Hands On}<0.136,-0.216,0.699><0,0,80>
+
+SITTER 1
+
+SYNC Hands On|Hands On M
+BUTTON Hide/Show|0
+{Hands On}<0.119,-0.211,0.917><0,0,90>
+

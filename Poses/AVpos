@@ -1,0 +1,40 @@
+TEXT \n          Truth & Beauty Lab Pose Stand\n             "Adult Couples Poses" \n                           \n    Press & hold Ctrl + s  to resync animations!\n
+
+SWAP 1
+
+SITTER 0|Female 1|F
+
+SYNC Hands On|Hands On F
+SYNC Intense|Instense F
+SYNC Come here|NCOF (10)
+SYNC Couple 14|Domizia - Couple 14f
+SYNC Couple 185|Domizia - Couple 185 F
+BUTTON Hide/Show|0
+
+# {Hands On}<0.136,-0.216,0.699><0,0,80>
+{Hands On}<0.136,-0.216,1.099><0,0,80>
+{Intense}<0.469,0.01,0.108><0,0,-0>
+# {Come here}<0.004,-0.03,0.181><0,0,-90>
+{Come here}<0.004,-0.28,0.681><0,0,-90>
+{Couple 14}<0.159,-0.206,1.186><1,0,-177.1>
+{Couple 185}<-0.149,0,1.193><0,0,0>
+
+PROP Come here|Sofa|GROUP1|<-0.962746, 0.007523, 0.527666>|<0.000000, 0.000000, 0.000000>
+PROP Couple 14|Sofa|GROUP1|<-0.962746, 0.007523, 0.527666>|<0.000000, 0.000000, 0.000000>
+
+SITTER 1|Male 1|M
+
+SYNC Hands On|Hands On M
+SYNC Intense|Intense M
+SYNC Come here|NCOM (7)
+SYNC Couple 14|Domizia - Couple 14m
+SYNC Couple 185|Domizia - Couple 185 M
+BUTTON Hide/Show|0
+
+# {Hands On}<0.119,-0.211,0.917><0,0,90>
+{Hands On}<0.119,-0.211,1.317><0,0,90>
+{Intense}<0,0,0.287><0,0,-0>
+# {Come here}<0.004,-0.427,0.21><0,0,90>
+{Come here}<0.004,-0.427,0.96><0,0,90>
+{Couple 14}<-0.304,-0.192,1.304><0,0,1>
+{Couple 185}<0.137,0.016,1.198><0,0,180>
