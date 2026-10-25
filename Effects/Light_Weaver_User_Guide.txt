@@ -1,0 +1,58 @@
+LIGHT WEAVER — DRUID EDITION
+User Guide
+
+IMPORTANT — WEAR ONLY
+This item must be worn as an attachment. Do not rez it on the ground; it is not designed for rezzed use.
+
+GETTING STARTED
+Find the Light Weaver in your inventory and choose Add to wear it. Touch the orb to open the owner-only menu, then select Shapes and choose a design.
+
+10 DRAWING SHAPES
+• Triquetra
+• Triskele
+• Oak Leaf
+• Awen
+• Tree of Life
+• Crescent
+• Sun Wheel
+• Spiral
+• Seed of Life
+• Acorn
+
+COLORS
+Choose Pink, Gold, Blue, Purple, Green or White.
+
+SIZE & SPEED
+Choose Small, Medium, Large or Huge.
+Choose Slow, Normal or Fast drawing speed.
+
+DRAWING PLANE
+• Front — draws in front of your avatar.
+• Side — draws in the side plane.
+• Flat — draws horizontally.
+
+POSITION
+Use Adjust to move the drawing position:
+Left, Right, Up, Down, Forward or Backwards.
+
+Save Pos saves your preferred position.
+Reset Pos returns to the script’s starting position.
+
+SOUNDS & MOVEMENT
+The orb uses charge, drawing and finish sounds. Between drawings, it moves in a gentle idle orbit and returns smoothly after completing a shape.
+
+LIGHT TRAILS
+Particles gradually fade and last approximately six seconds. Longer shapes may begin fading before the drawing is complete, especially at Slow speed.
+
+STOP & RESET
+Stop stops emission when the script handles the command. During an active drawing, commands wait until that drawing finishes. Existing particles fade naturally.
+
+Reset restarts the script and restores its default color, size, speed and drawing plane. Your saved position is retained.
+
+TIPS
+• If you cannot see the effect, check that particles are enabled in your viewer.
+• Use Plane and Adjust to position the design comfortably around your avatar.
+• Wait for one drawing to finish before selecting the next.
+• Keep the item’s scripts, texture and sounds inside the attachment.
+
+Enjoy weaving a little woodland magic.
