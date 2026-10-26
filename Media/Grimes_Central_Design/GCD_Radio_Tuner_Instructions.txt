@@ -1,6 +1,6 @@
-Thanks for buying my retro style classic Retro Jukebox Radio Tuner .
+Thanks for buying my 1950's Vintage style classic Jukebox Radio Tuner .
 
-Its Highly detailed , 100% Mesh and is made of one single prim with a 4 prim land impact at standard size. (Please note that if you do increase the size the land impact may also increase)
+Its Highly detailed , 100% Mesh with a 4 prim land impact at standard size. (Please note that if you do increase the size the land impact may also increase)
 
 The Jukebox also now features PBR Texturing for extra realism. (Best viewed inside a reflection probe)
 
@@ -16,7 +16,7 @@ The radio also has  Access settings so you can set who can change the stations. 
 
 You can add your own stations if you want. Just add the URL to the 'stations' notecard in the same format as all the others but you will have to replace one of the existing channels. PLEASE NOTE!...If the radio has been deeded to a group you may need to undeed it before you can edit the stations notecard....there are two ways to do this...... either take it back into your inventory and re-rez or sell the radio back to yourself for $0.
 
-Color - you can now change the color of the jukebox lights. from the options menu select 'Color' and then choose from one of the classic  colors - Or choose Cycle On/Off to auto cycle through the colors.
+Color - To change the color of the jukebox lights. from the options menu select 'Color' and then choose from one of the 10 colors - Cream, Blue, Green, Magenta, Red, Orange, Yellow, Peach, Pink or Mix which animates the jukebox tube texture colors.Cycle On/Off will auto cycle through the various colors with a gradual ambient color change.
 
 Off - Turns off the radio and clears the lands radio stream
 
