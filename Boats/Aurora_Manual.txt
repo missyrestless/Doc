@@ -1,0 +1,95 @@
+Aurora by The Mesh Shop
+
+
+-----------------------------------------------------
+QUICK START
+-----------------------------------------------------
+
+Right click the boat, choose sit here. To start the engine type start in local chat. Use the arrow keys to operate the boat's throttle and steering.
+
+1) Right click on the boat's hull and select "sit here"
+2) Type start to start the boat's engine
+3) Press up arrow and hold down to increase the throttle
+4) To stop the engine type stop in local chat
+
+Your friends can right click anywhere and choose sit here to sit down on the boat. The boat has a lot of different poses. Click the boat to access a menu that has them all.
+
+
+-----------------------------------------------------
+COMMANDS
+-----------------------------------------------------
+
+The following is a full list of all commands available on the boat. Type these commands in local chat to activate them. 
+
+- the arrow keys on your keyboard
+Left steers the boat left. Right steers it right. Up increases the throttle. Down decreases the throttle. PGUP and PGDN give you full throttle all at once
+
+- start
+This command will basically activate the boat. When the boat is rezzed it's inactive. This command will do the SL equivalent of tossing off the mooring lines and free floating your boat. The engine will be started and all other commands and steering will become available.
+
+- stop
+Typing this in local chat will deactivate the boat completely. The boat will be reset, righted up and the engine will be cut.
+
+- hud
+This command toggles Text Hud on/off. The text hud is an information text that will appear above the boat when it's activated.
+
+- cam
+This command will reset your camera when a simcrossing happens to break it.
+
+- fuel
+Refuels your boat if you ever run out of fuel. Which you won't.
+
+- anchor
+Your boat's anchor can be lowered and hauled in with this command
+
+- fenders
+Use this command to toggle the fenders. They can be put on either side of the boat or on both sides
+
+- help
+Displays this command list, along with a short explanation of what all commands do.
+
+- channel NR
+Typing channel and then a number below 100, but above 10 will change the channel your boat listens on. Not that when you change this, the boat will not listen on the normal chat channel anymore, so be careful. The channel gets saved into the boat.
+
+- navlight, cablight, headlight, backlight and searchlight
+The boat comes equipped with navigation lights, cabin lights, head lights, back lights and a search light. Typing these commands will turn them all on and off.
+
+- give controls
+This option allows you to free up the boat's controls (the arrow keys on your keyboard) for your crew. Once you type the command they assume full control.
+
+- take controls
+This takes back the controls.
+
+- horn
+This sounds the ship's horn.
+
+- flag
+Shows or hides the flag on the back of the boat. Use any flag in the flag pack on here. Just right click and edit the boat, click "edit linked" or "select face" in the edit window, then click on the flag. Then select the texture tab in the edit window and change the flag's texture there. Mirror the flag's image by setting the horizontal texture scale to -1.
+
+- tube, banana or wakeboard
+Saying either of these in local chat will activate the boat for using these toys. They are sold separately by Analyse Dean and Ape Piaggio.
+
+-----------------------------------------------------
+
+STUFF YOU CAN TOUCH TO ACTIVATE::
+The seat, in order to stand or sit while driving. The front hatch to open or close it. The table to fold it out.
+
+
+-----------------------------------------------------
+TEXTURES
+-----------------------------------------------------
+
+Your boat comes with three sets of textures. AO maps, which are basically shadows. Diffuse maps, which are your regular textures and specular maps, which determine which part of your texture will be shiny or matte. Feel free to use these textures in any way you like. After editing textures, you can manually edit your boat and change them.
+
+
+-----------------------------------------------------
+ANIMATIONS
+-----------------------------------------------------
+
+The boat seats 4, that's 3 crew and 1 skipper.  You can expand on this with the AVsitter Utility Box.
+
+Your boat comes with 33 single animations, 8 cuddle animations and 30 naughty animations. 
+
+The single animations will place you on various parts of the boat and will make you do various activities like using the dinner table, sleeping in the cabin or suntanning. The cuddle and naughty animations are for the first two people sitting on the boat. The other two crew only have normal sitting animations.
+
+The sitter system used is AVSitter. In the contents of the boat you will find a notecard called AVpos. You can manually edit this notecard to adjust your poses. You can also adjust poses through the menu and save them. The only issue with this is lack of memory. The boat is loaded with poses, so you can't save custom positions for a whole lot of them. Your best option would be to edit the notecard in the boat and remove the poses you don't want to use. This will clear up some memory for saving custom positions. Use the AVsitter Utility Box in order to do this. It comes with its own manual

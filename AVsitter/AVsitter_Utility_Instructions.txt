@@ -1,0 +1,34 @@
+SETUP AND ADJUSTMENT
+
+To get started, copy the following into your boat: 
+1) “AVadjuster” script
+2) “AVhelper” object
+3) Any extra animations you plan to use
+
+Sit on your boat and choose “[ADJUST]” from the menu. Then choose “[HELPER]” from the menu. You will be unseated and the “AVhelper” object will appear.
+
+Sit on the “AVhelper” and accept the request to animate your avatar. You will then get a menu (if you lose this menu just touch your furniture again to get the menu back).
+
+Choose “[NEW]” from the menu, and follow the options to add either a new pose, couples pose, or submenu. If you already have submenus created then simply navigate into them to create new poses or submenus there.
+
+After creating a new pose, adjust its position by moving the “AVhelper” with the SL building tools until your avatar is in the correct position. Click “[SAVE]” for each animation you adjust before moving on to the next. In the case you have created a couples pose, two helpers will appear and you can move these together and click “[SWAP]” to switch between the two animations.
+
+When you have finished configuring the poses, click “[DUMP]” to output your new pose settings into chat and copy-paste the result into your “AVpos” notecard, replacing the contents of the notecard. IF YOU MISS THIS STEP YOUR CHANGES WILL NOT BE SAVED TO THE NOTECARD!!! ALSO, MAKE SURE ANY TRANSLATORS ARE SWITCHED OFF BEFORE PRESSING [DUMP].
+
+Remove the “AVhelper” object and “AVadjuster” script from your boat.
+
+
+THE “AVhelper” OBJECT AND COUPLES POSES
+
+The “AVhelper” is a pose adjustment tool that will rez from the boat when you select “[HELPER]” from the menu. It is only available when both the “AVhelper” and “AVadjuster” are in a prim of youar boat. Your avatar can sit on an “AVhelper”, and move it around with the SL building tools to get perfect positioning.
+
+In the case you are adjusting a SYNC pose, an “AVhelper” will rez for each animation involved in the selected pose (e.g. two “AVhelper” will rez for a couples pose) and you can select and move them together to keep the animations in alignment with each other. To adjust a couples pose follow the same steps as for regular poses and when you “[SAVE]” it will store the position of both helpers in the memory.
+
+Instead of sitting on an “AVhelper” you can also simply touch it, and AVsitter will use the position of your avatar when the pose is saved. Being able to adjust poses like this without sitting on the “AVhelper” allows you to sit on pose balls (like you’d buy from an animation store) to maintain couples animations’ positions in relation to each other when adding them to your furniture.
+
+
+ADDING ROOM FOR MORE AVATARS
+
+These instructions are for modifying and adding poses to your boat. If you want more avatars to be able to sit on your boat, please follow the instructions here: https://avsitter.github.io/avsitter1_home.html 
+
+Do note that adding more avatars will allow you to have fewer poses for all of them. The maximun total number of poses is limited. The number of avatars that can sit on your boat was chosen in such a way that it keeps lag to acceptable levels. Adding more will decrease the performance of your boat significantly.
