@@ -1,0 +1,131 @@
+Hello! Thank you for choosing 777 MOTORS!
+
+Below are guides on how to control your newly purchased vehicle.
+
+
+-------
+
+
+*** BASIC CONTROL GUIDE ***
+
+To start, first right-click on the vehicle and choose ''Ride", your avatar will sit on the vehicle in driver pose. From here you can choose between:
+ 
+ - Pick ''Vehicle Menu" and choose ''Engine"
+ - Touch the interactive red START/STOP button located on left handlebar. This button also works for guest avatar if the vehicle is unlocked.
+(The same methods are used to turn the Engine OFF)
+
+Starting the Engine will always put both driver and passenger to their riding poses on the seats.
+
+PLEASE CONSIDER TO ENABLE MOVEMENTS WITH LETTER KEYS W,A,S,D,etc. TO MAKE SURE ALL THE FUNCTIONS BELOW WORK PROPERLY.
+How to do that: 􀀀
+
+W/ A / D or Arrow Keys - Driving/Steering
+
+E or PgUp - Throttle up
+C or PgDn - Throttle down (Below 10% Throttle is Reverse)
+(You can change the control to Shift+A and Shift+D by doing the following steps: Vehicle Menu > Options > Advanced > Shift Style)
+
+W+S / Forward+Back - Recover/Quick Jump (useful when you get stuck in objects at busy areas)
+
+S or Back Arrow - Brake / Nose Down
+
+
+-------
+
+
+*** VEHICLE MENU ***
+
+As the driver, you get to choose between Vehicle Menu or Posing Menu when you first sit on the vehicle or anytime you touch it.
+If you are on Posing Menu, you can also choose [BACK] to go back to the menu picker.
+Passenger only get access to Posing Menu.
+
+Lights: Turn the headlight on.
+
+Record: 
+ - Save the current position on the region.
+ - This is tied to the current region, so you have to record the coordinates on any different region.
+
+Return: 
+ - Return the vehicle to the saved position only on the same region you have previously saved the position on with Record.
+ - Choosing Return while the Engine is off will stop the Rocking Motion temporarily since it strictly moves the vehicle to the recorded position and rotation. The motion will be resumed once you stand up or toggle the Engine.
+
+Position: 
+ - Adjust the driver's riding and reversing poses. Those are not controlled by AVSitter (Posing Menu).
+ - For more animations and how to control them properly, please check the POSING MENU section below.
+
+Options > Controls:
+ - Steering: You can adjust how sensitive and powerful your steering is here. More speed needs more sensitive steering on turns. If the vehicle is too sensitive for you (over-steering) you can also try to decrease those values.
+ - Gravity: These values will decide your vehicle's ''weight'' and bounciness. If you like to drive very fast and would like the vehicle to stay on the road/track better, increase Gravity (and possibly DownForce). Please note that extreme gravity on smaller vehicles will cause strange behaviors.
+
+Above are the most important tuning adjustments you will most likely focus on. Others are optional and you can try to adjust them to suit your needs: Skid, Turbo (speed boost), Brake, Reverse, etc.
+
+* NOTE: Any adjustment made in the Controls menu has to be done while Engine is OFF or before starting Engine to avoid unexpected behaviors.
+
+Options > Advanced
+ - Resize: Smart Resizer for your vehicle, please use only this to resize your vehicle and do not manually resize with the Edit menu.
+* IMPORTANT: If you have used the [Reboot] feature in the menu before ever resizing the vehicle, it is necessary to reboot again, after you have changed the size.
+ - Shift Style: Switch between two styles (mentioned above).
+ - NOS/Recvr: Choose between NOS boost or Recover Mode when pressing the Forward key, while holding Back key (W+S / Forward+Back Arrows).
+ - Reboot: Reboot your vehicle, most of the time you won't need it.
+* IMPORTANT: If you have used the [Reboot] feature in the menu before ever resizing the vehicle, it is necessary to reboot again, after you have changed the size.
+ - Sounds: Switch between two sound sets.
+ - Extras: More optional features: Volume level, Exhaust ON/OFF, etc are self explanatory.
+
+Supported with Camera HUD (easy fix your camera position, giving stable, smooth and sporty driving experience as well as helping with camera issues when crossing regions/sims)
+
+
+-------
+
+
+*** POSING MENU ***
+
+You get to choose between Vehicle Menu or Posing Menu when you first sit on the vehicle or anytime you touch it.
+Passenger only get access to Posing Menu.
+
+All the animations are powered by your familiar AVSitter scripts.
+
+* Operating the Posing Menu as the driver:
+ 
+  - Picking any Chilling or Cuddling pose will turn the Engine OFF. (You can't drive while chilling or cuddling with someone!)
+  - Turning the Engine ON while you are in a Chilling or Cuddling pose will automatically put both avatars back on their riding poses on the seats.
+
+* Operating the Posing Menu as the passenger:
+
+ - You can freely pick any of the Chilling Poses without interfering with the vehicle's Engine.
+ - You can return to your riding pose on seat by picking it, also in the Chilling Poses menu. Or when the driver toggles the Engine.
+ - Picking any of the Cuddling poses will turn the Engine OFF. (Yes since the driver has to stop to cuddle you :x)
+ 
+As the vehicle is powered with AVSitter, both driver and passenger are able to adjust their positions by choosing [ADJUST]
+With the EXCEPTIONS of driver's riding and reversing poses, those are handled by ACS basic positions menu.
+(Please check the VEHICLE MENU Section above)
+
+There is also an extra security layer which the owner can access by choosing [ADJUST] > [SECURITY]. 
+ - You can set who is able to sit on the passenger seat and/or operate the menu,
+   everyone or just people in the group the vehicle is set to, or non at all (OWNER only option)
+ - By the default of ACS system, the driver seat is only accessible to the owner unless you unlock your vehicle (in Vehicle Menu).
+   If you unlock your vehicle and the Security Option is ALL then everyone can drive it.
+   If you unlock your vehicle and the Security Option is OWNER/GROUP then only OWNER/GROUP are able to drive it.
+
+
+-------
+
+
+*** ROCKING MOTION OPTION ***
+
+The jet ski has a natural & realistic rocking motion when it is moored or engine is OFF (no physic mode).
+
+Once the engine is ON, it gets into physic mode and this features will be disabled.
+
+While the rocking motion is on, you can move but cannot rotate your boat.
+
+Please either sit on it (or make it physical / stop the script in fatpack with MOD perm) then rotate OR
+you can kill the feature completely by typing "/777 delrocking'' on local chat, then confirm.
+
+
+-------
+
+
+If you need support or have any question or concern, please send a notecard to 􀀁
+
+Have a nice ride! Wish you a lot of fun!
+
