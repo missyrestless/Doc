@@ -1,0 +1,263 @@
+This product, was entirely built, by Daniels Fall for SecondLife Users.
+This Helicopter, have been fully constructed from scratch, by myself  and I am to proud of my work. 
+It was inspired from photos, videos and various documents, to make this helicopter as realistic as SL can handle. 
+         Success comes with hard work and dedication.
+                  THANK YOU  FOR PLAY SL WITH ME.                           
+Daniels Fall                                                                          
+                                 ***********
+
+                      ...It´s all a matter of Choice...
+  When   D-109   becomes yours, everything gets easier..
+         .
+ 1  *********   HELICOPTER  D-109 MANUAL  ************
+    
+     GTFO! ENABLE 
+
+ 2          ********   SHORT VERSION  ********
+
+ Please note:
+ The chat commands and HUD only works while seated.
+ Unless the Panel, to the owner.
+ Click doors to sit.
+
+ COPILOT TURN ON/OFF
+ Button on  Panel. (Left or right side).
+ 
+ 3         *******   Click ROTOR and use MENU..   *********
+ 
+ GLASSES     change windows transparence
+ SHINE          ON OFF
+ PAINT           Change textures on Fuselage
+ PHYSICAL     ON OFF
+ CARGO        LOAD  AND CARGO OFF   
+ DEL SCRIPT  Delect all scripts on Heli       
+ SHADOW     Shadow ON/OFF
+ 
+4          ********  ON PHYSICAL  **********
+ 
+  The Heli rez in physical mode ON, if you do not sit on it in 60 second time frame, it will move to physical OFF automatically, 
+ you can also manually, change this by clicking on the ROTOR  (Tail motor) or sitting in plane (physical ON auto.
+
+
+  LOCATION
+ If you miss your plane, 3 location notices, will be sent to the owner, with the position where...
+ 
+ 
+ 5            ******   MANUAL COCKPIT BUTTONS  ********
+ All commands can be made by chat, HUD or by clicking on the panel*
+ 
+ 6              ***********  ENGINE STARTUP  *********
+
+Need 6% minimal battery energy.
+Use' GPU' if you are low on energy.
+
+'m'    master on
+'b'     batteries on, beginning charge 
+'s'    start engine
+
+lost 6% battery energy
+
+ 7        ***********  TAXI MODE  **************
+
+'br'                                    Release brakes
+'w'    ^or  front arrow         Increase Cyclic Power
+'s'     or  back arrow        Decrease Cyclic Power
+
+Keep Cyclic Power below 20%
+
+8            *********   FLIGHT ***********
+
+'PgUp' or 'e'                    Increase Collective  ( Vertical Power )
+'PgDn' or 'c'                    Decrease Collective  ( Vertical Power )
+'w'  or  Front Arrow         Increase Cyclic  ( Front Power )
+'s'   or  Back Arrow         Decrease Cyclic  ( Back Power )
+
+'d' or Right Arrow         Turn Right
+'a' or  Left Arrow          Turn Left
+
+*************************************************
+
+           ««««      FLYING BY SIDES      »»»»»
+
+ Shift + 'd' or Right Arrow     Right Power =fly by right side
+ Shift + 'a' or  Left Arrow      Left Power   = fly by left side
+full speed = (press  arrows  4 times)
+
+        »»»»»»      FLYING BY CIRCLES    ««««««««« 
+                             Dani circles 
+
+Ex:  Shift +right arrow = flying by side + left arrow = Circles 
+
+Press and hold shift, then press the right arrow to fly by sides, full speed . Ok, you fly right side now. Then press the left arrow to get , the heli flying circles . Dani circles lol
+
+Press and hold left arrow  and you get circles. Dani  circles :))))
+ 
+                          Dani Circles 
+USA way :): To drift in a circle you will need to hold down shift and go to the right pressing the arrow key or the D key four times and then steer to the left. You will begin a tight drift circle. To regain control hold down shift and press the left arrow key or the A key four times.
+
+9        *************************************************
+ 
+                     »»»»»  IN CHAT  ««««« 
+ 
+ "power up" or "pu"      to  Increase Super Collective
+ "stabilizer" or "sv"       to Stabilizer Altitude
+ 
+10          ************* LANDING **************
+
+'g'         Extend gear
+
+Normal Collective settings    0%  ~~  -5%
+Normal Cyclic settings           0%  ~~    5%
+
+11          ***********  ENGINE STOP   *************
+
+'br'       Brakes
+'s'        engine off
+
+12         ************  ENERGY OFF  ************
+
+'b'        Disconnect battery
+'m'       Disconnect master
+
+
+13  *****  ALL COMMANDS DETAILED VERSION *******
+
+      All commands switching on /off
+
+14          ***********   PRE LIST CHECK -*********
+ 
+ (Energy and engines)
+
+'m'       MASTER on
+'b'        BATTERY on, beginning charging 
+           (Helli will have power when battery is fully loaded)
+'gpu'    Ground Power Unit  
+           (provides external power when battery is empty)
+'br'       Parking BRAKE
+'s'        Switch on/off ENGINE
+
+*******
+
+'g'       GEAR down/up     (during flight only)
+'d'       Info. DISPLAY on tail only when master is on
+'sd'     Artificial SHADOW
+'h'       HORN
+'f'      Switch on/off  Fuel
+
+ 'rc'    Rescue mode  on/off
+ 
+15        *********  RESCUE   MODE  ***********
+          
+ 'rc'   Rescue mode = Spotlight and Winch Show/Hide 
+ Or clik the icon rescue in the HUD            Show/Hide
+                      
+16                      ***   RESCUE SOMEONE  ***
+       
+         HUD Ex: Stabilize ON  +  arrows to up, down (right side hud)
+                   Use specific camera by HUD 
+                                  
+                                    ********
+
+ Stop the helicopter on top of the avatar to be redeemed ( max of 20M )
+Stabilize the height the helicopter ( type 'sv' or use HUD ).
+Press the left mouse button and use E/C to Harness,goes down or up.
+
+'E' or  PageUp         UP Harness        
+'C'  or PageDown    DOWN  Harness   
+HUD   arrows  down and up 
+
+Ask the person to be rescued to click the  harness., and sit
+" First release the key and then the mouse".
+ ( 'E' or  PageUp ) bring  the harness to  helicopter.               That eject the rescued inside helii, ask him to sit on Helli:     
+                     
+Turn OFF Stabilize helicopter ( type 'sv' or use HUD )     
+
+          
+17          **********  PRE LIGHTS CHECK  **********
+
+(Once the Heli  is powered)
+
+External
+
+'tl'          TAXI light
+'stbl'      STROBE light
+'nl'         NAVE light
+'bl'         BEACON light
+
+'sl'         SPOT light ( need rescue ON )
+Inside
+
+'pl'           PANEL light
+'ckl'         COCKPIT light
+ 
+18     *********** DOORS CHECK **************
+
+DOOR open/close
+
+ALL DOORS open / close with just clicks  (2 in front| 1 in black)
+
+19   ******   Just in case: BUGS, Landing or Takeoff  *****
+
+'flying'      to force the heli to "FLYING MODE"
+'ground'   to force the heli to "GROUND MODE" (turns flat)
+
+'ph'         Change the Helli to PHYSICAL / NON PHYSICAL
+
+
+20   ******* Command ONLY to the OWNER  ********
+
+SHINE  on/off            Click  Exhaust 
+
+
+ COPILOT TURN ON/OFF
+ Button in Front Panel (rigth and left)
+ 
+ TURN OFF with co-pilot:  the copilot continue sitting but lost the Heli command.
+ TURN ON with co-pilot: Copilot receives permission for  commands.
+ 
+ TURN OFF without co-pilot:  no one can sit 
+ TURN ON without co-pilot: released to anyone sit down and have some command of the Heli (for full command use 'cmd')
+
+Any difficulty in the copilot seat, move the button to copilot off and on*  
+
+21              *****************     EJECT    ***********
+            Eject people. 
+            All command in chat:
+
+          e1  -  eject pass    Left   side front.
+          e2  -  eject pass    Right side front
+          e3  -  eject pass    Right side back
+          e4  -  eject pass    Left   side back
+          e5  -  eject redeemed
+          ec  -  eject copilot          
+                                      
+22    ***********  ADJUST SIT   position  *************
+
+ ++        up 
+  +         front
+  --        down
+  -         back
+  +-       reset position
+ 
+23     **********  GUEST MODE   ******** 
+    
+ Guest mode: sit Heli and type 'cmd' on chat. Or then just stand up.
+ 
+ 
+24         ************.CHANGE PAINT  *********** 
+          Click on Tail ROTOR  then just select a painting in Menu, options.
+
+
+        
+ 25  **********  Paintable: Designer. *********
+  
+To get Paint job for this helicopter, please check the KIT PAINT BOX on your folder.
+  
+  ************************************************
+  
+   Visit also my Main Store for GIFTS
+                                      
+    THANKS  to those  who enjoy  my productions, and help me to build... that's what  I love to do...  THANKS  for all the support, you have given us.  YOU are the best customers we could ask for.
+    THANKS, for the  reviews on  Marketplace store. 
+    
+     Daniels Fall

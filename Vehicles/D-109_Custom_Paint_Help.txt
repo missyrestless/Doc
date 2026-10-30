@@ -1,0 +1,50 @@
+Download Kit Paint For D-109 Dani_Airplanes
+
+Details about the paint files
+
+  Available for download at ..
+
+  option 1
+Server:  mega.nz
+https://mega.nz/#F!TyBGUQaL!xxmqmEvFSqle1kGLkhphTw
+
+  option 2
+https://www.mediafire.com/folder/b9zez9esgfsh9/
+
+  option 3
+https://www.4shared.com/rar/Yu1N_sZXee
+ 
+
+ - The file is in .rar format (unzip using the appropriate program).
+
+ - There are 1 .psd files in this .rar aquivo, each of this file refers to a part of the plane (see the file names).
+
+ - There is a scale model of the plane where you can test your images (paintings) can using and enjoying the option of temporary image.
+
+ - When ready images (2 in total) put UUID's in the paint bucket... 
+  edit > content >  open script name 'CUSTOM_IMAGES (edit)'
+  put UUID's  in their correct places and salve.
+  click for paint.
+ 
+  Paint buckets for groups, contact me.
+
+ 
+/////////////////////////////////
+ Detalhes sobre os arquivos de pintura
+
+ Disponivel para download em..
+
+
+ - O arquivo esta no formato .rar (descompactar usando o programa adequado).
+
+ - Existe 1 arquivos .PSD dentro deste aquivo .rar, cada um deste arquivo é referente a uma parte do avião (ver os nomes dos arquivos).
+
+- Existe um modelo reduzido do avião onde voce pode testar suas imagens (pinturas) podendo utlizar a opcao de imagem temporaria.
+
+- Depois de pronta as imagens (8 no total)colocar os codigos UUID no balde aplicador de pintura.
+
+ edita > aba conteudo > abrir o script com nome 'CUSTOM_IMAGES (edit)'
+ coloque os UUID's nos seus respectivos lugares e salve.
+ clique no balde para pintur seu avião.
+
+Baldes aplicadores de tintas para grupo, favor entrar em contato comigo.
