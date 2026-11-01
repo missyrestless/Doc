@@ -1,0 +1,25 @@
+Thank you for purchasing the [RBR] Cuddling Bubble Tour.
+
+Setting up your tour:
+
+Your bubble will follow points around a course, known as waypoints. Follow the easy steps below to set up your tour:
+
+1/ Rezz the [RBR] Cuddling Bubble Tour at the starting point of the tour..
+
+2/ Touch the Bubble and select "Waypoint". Your first waypoint is now stored. 
+
+3/ Now, move the Bubble at another position. Touch it, select "Waypoint" to store a new waypoint.
+
+Repeat the step 3 as many times as you want, in order to setup the whole Course.
+Warning: All the waypoints have to be inside the same sim. The Bubble cannot cross multiple different sims.
+
+4/ When you are done storing all the waypoints, touch the Bubble and select "Build". That will complete the procedure. The Bubble will come back to its starting point, and it's now ready to use!
+
+Sit in the Bubble and enjoy :-)
+
+=============================================
+
+CONTACT
+
+Feel free to IM me for any question or suggestion :􀀎
+
