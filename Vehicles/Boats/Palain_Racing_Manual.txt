@@ -1,0 +1,84 @@
+Go here for an extended Racing Manual:
+
+http://www.virtualworldsailing.com/index.php?/topic/708-iff-race-manual/#entry3507
+
+
+
+BOSS Tablet.
+
+The new iPad 3 is a screen attachment rather then worn on the avatar, although if you prefer the last its still very much possible.
+
+Real life wind isn't a constant push. Instead it varies a lot. It varies every hour, every minute, every second, in both speed and direction. When you sail in real life you might think that you don't really notice this, but in fact you do! Look at a luffing sail for instance. Ask yourself if it would behave so violently without all these variations. Wouldn't a flag hang straight, more or less like on the moon if winds were constant?
+
+So there you have the main ingredient: variations in speed, direction and even added gusts. It's as real as it gets.
+
+Now back to our real life sail boat. When we're sailing we perceive the wind as linear. We set our sails accordingly but every few seconds we trim the sails just a bit to get them that more perfect, thus getting the max out of our boat.
+
+In second life this experience should be similar. You never see the average apparent wind angle, you see variations. A sailor will have to average out these variations and set the sails somewhere in the middle.
+
+ 
+ 
+The different sections:
+
+The screen of the iPad app is divided up into a few different sections. They are:
+
+ - Numeric keypad: choose a value here, then click one of the other sections to set your input.
+
+ - Wind Speed: In this section you can add wind from 1 to 30 knots.
+
+ - Wind Direction: Sets the direction the wind comes from, 0 to 360 degrees.
+
+- Wind drift: Here you can set the wind to drift clockwise or counter clockwise, each with 2 different speed options.
+
+ - Variation: In this section you set how much the wind varies from second to second and minute to minute, all by setting just one number.
+
+ - Gusts: Set how much speed wind gusts will have.
+
+- Broadcast: clicking the ENTER key will start broadcasting your settings.
+
+ 
+ 
+ Selecting your wind choice:
+
+The two basic variables any race director would set for a race are wind speed and wind direction. In addition to speed and direction you can customize your wind a bit more. Do this by setting drift, variation and gusts. The next section explains how to set them, the section after that explains how they modify the wind.
+
+Choose any value between 0 and 30 on the numeric keypad, then click "Wind Speed" to set the wind speed.
+
+To set the wind direction, enter any value between 0 and 360 on the numeric keypad, then click "Wind Direction"
+
+To set wind drift, enter a value between 0 and 2 on the numeric keypad (default is 0) the click “Wind Drift:” clicking the "+" will change the value to negative and a "-" will show. The range for wind drift will be -2 to +2.
+
+Wind variation ad gusts you set by choosing a value between 1 and 9 on the numeric keypad, then click “Variation” or “Gusts”. The default setting of both is 0.
+
+To start broadcasting the wind, click the ENTER key.
+
+If by any misfortune you have made a wrong choice and set the wind incorrectly, just type “stop” in local chat and the wind setter will go back to its default settings and stop broadcasting.
+
+ 
+
+Drift, variation and gusts
+
+Setting gusts, variations and a wind drift is pretty easy. Knowing what they do exact is another thing. This section will explain in detail what each setting does to the wind.
+
+Gusts
+are the easiest thing to get to grips with. Basically a wind gust is a sudden change in wind speed. A wind gusts will last anywhere between one and two seconds. In this period of time the wind speed will increase, thus giving your boat a speed boost. A setting of 9 on the wind setter will give you wind gusts ranging from 1 to 9 knots.
+
+Drift
+sounds complicated but in fact it’s not. Wind drift means that the direction of the wind will shift gradually over time. That’s all there is to it. You can set the direction of the wind to change clockwise or counter clockwise and you can chose to set the wind to drift a little, a lot or not at all. A setting of two arrows counter clockwise on the wind setter will cause the wind to drift - 125 degrees over an hour. Note that this can make sailing very interesting. Sailors will have to calculate this change in wind into the tacks they will have to make to get from start to finish.
+
+Variation
+is perhaps the most complicated thing to set. Setting variation will do two things to your wind. Firstly it will cause the wind direction to change up and down per second. As explained in the wind section of this manual, a normal real life wind displays this kind of behavior. Sailors will have to find an average in this variation and trim their sails to it to sail effectively. A variation of 5 will cause the wind to change by a maximum of 6 degrees up or down per second.
+ 
+ 
+
+
+Buoys.
+
+In the RACEPACK you can also find a buoy that will work as windsetter/repeater, when making a race course in Second Life, chances are you will get near islands, shorelines, mountains and other things that would influence the wind. The buoy helps you set realistic wind conditions for certain parts of the course. The buoy, once programmed, will transmit updated settings to the boats sailing by, and inform the RD on boats that received updated wind settings via IM. Once the wind update is set in the FS, it will keep that wind till the next update, or if there are none, till the boat is moored/reset.
+
+ 
+
+To program a buoy, hoover near it, make the settings on the iPad and transmit, click the buoy to set it in listening mode, and once the buoy has received the wind settings it will turn orange and start broadcasting.
+
+
+The dummy buoy is unscripted and can be textured, if you need to to mark out your race course without updating windsettings for the boats these can be used.

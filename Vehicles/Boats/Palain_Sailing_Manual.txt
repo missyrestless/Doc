@@ -1,0 +1,165 @@
+Thank you for your interest in Palain
+
+INTRODUCTION
+Palain is powered by the 3th generation BOSS Dynamic Sailing Engine. It's an evolution of our famous Bandit 50/3. Don't expect it to sail the same though. Sailing behavior has been completely reworked. This boat is inspired by a real life vessel. Check out www.navegamed.com if you're interested. And if you're ever on the east coast of Spain and you're wanting to learn how to sail, pay them a visit. It's a training vessel with the nicest skipper you'll ever meet. As with its real world counterpart, this boat comes equipped with all the trimmings. Navigation lights, day signals and two bunny pads for all your chilling and relaxing needs. Put on some Ibiza beach house, rez the boat and head for that sunrise! 
+
+
+QUICK START
+- Rez the boat.
+- Right click on the boat and select "sit here"
+- Say main in local chat to raise the main sail.
+- (Wait until the sail is up completely) 
+- Say jib in local chat to hoist the jib.
+- Use up and down arrows to trim the main sail.
+- Use left and right arrows to steer the boat.
+- Say autopilot if you want automatic sail trim.
+
+
+KEYBOARD CONTROLS & Chat Commands
+Left and Right arrow keys:
+- Steer left or right
+Up and Down arrow keys:
+- Tighten or loosen the main sail
+Page Up or Page Down:
+- Tighten or loosen the jib when the sail lock is turned off
+- Throttle the engine when started
+
+
+CHAT COMMANDS
+main - hoists/lowers main sail
+jib - hoists/lowers jib
+spin - hoists/lowers spinnaker
+start / stop - the engine
+moor - deactivates the boat
+autopilot - turns auto trim on/off
+lock - toggles the sail lock
+give controls - switch controls
+take controls - owner take back controls
+cam - reset camera
+navlight - toggle the navigation lights
+cablight - toggle the cabin lights
+fender - toggle the fenders
+bimini1 and bimini2 - show bimini's
+horn - sound the ship's horn
+anchor - lower / raise the anchor
+channel ## - changes the chat channel
+winddir ### - sets wind direction
+windspeed ## - sets windspeed
+
+
+HOW WIND WORKS
+􀀀
+
+
+SETTING WIND
+The default wind you'll have after rezzing or resetting ("mooring") your boat is 15 knots north wind (0 degrees). There are two ways to set the wind, the quickest way is by using the chat commands (while seated on the boat), saying windspeed 20 in chat will set your windspeed to 20 knots, and the windspeed can be any value between 1 and 30 (the boat will accept higher inputs, but since we are talking gale force winds there, try solely at your own risk!) 
+
+Wind direction is set in degrees, where 0 (or 360) is default, blowing from the north, and in the same fashion, 90 degrees will be east, 180 degrees will be from the south, and 270 will be from the west. Saying winddir 90 in chat will make the wind blow from the east, and you can set any value between 0 and 360.
+
+Alternatively, wind with more variations can be set using the iPad, just for you, or for multiple boats at once, check the racing manual for details!
+
+
+SETTING YOUR SAILS AND TRIMMING
+When single handing the Palain it all comes down to you. Setting, and changing the sails will make other controls unavailable for the time it takes to complete your action. For a long cruise this won't be a problem, but plan ahead in narrow straights. After hoisting the main sail (by saying main in local chat) and setting the jib (by saying jib in local chat) you need to trim your sails (up and down cursor for the main, Page Up and Page Down for the jib). The sails have built in visual and audible effects for luffing indicating your sails are too loose, and have telltales to indicate if your sails are trimmed too tightly. 
+
+A telltale is a piece of red fabric attached to the sails of the boat, when the sails are correctly trimmed the telltales will be "streaming" (horizontal) when the sails are trimmed too tight, the telltales will be hanging vertically. 
+
+In addition to the luffing and the tell tales the boat will give you a visual trimming aid using the color of the instruments. Your boat has two instruments on the video display situated right in front of you, the left one will indicate the trimming state of the head sail, and the right one will indicate the trimming state of the main sail. Red means your sails are way too loose, yellow indicates too loose but close to good trim, green means correctly trimmed, and blue means your sails are trimmed too tight. When using the automatic trimming option the backlight will be orange. The light will turn white when the engine is on.
+
+When running downwind the jib and main sail can be winged (one sail set to either side), this is achieved by sailing the boat to the lee (sailing down wind and then turning through the wind just a bit) and then manually gybing the main sail with a gentle tug on the sheet. Make sure the sail lock is deactivated to be able to trim the jib independently.
+
+The spinnaker sail does not need to be trimmed. It always faces leeward, the direction the wind is blowing towards. Although you can't trim the spinnaker, you have to make sure that it keeps catching wind. When you turn upwind too much (more than 45 degrees), the sail will start to luff. Turn upwind more and the sail will actually pull the bow of the boat under water. 
+
+The Palain is designed around operation with a crew member, so when single handing it she will be a handful. The crew, by using the hud or gestures, can raise and lower the sails, change head sails, trim the sails and at any time trade places with you if you so desire.
+  
+  
+CHOICE OF SAIL
+Your new boat is equipped with no less than three different sails. One main sail and two head sails. All these sails have different properties. The main sail is the sail that provides you with most of your sailing power. It's the sail you would always raise and keep raised when you're going cruising. The choice of head sail is a bit more complex.
+
+The Jib can be used at any time, under any condition. It's the smallest of your head sails. It provides you with enough power for a decent cruise and aside from giving you extra speed, it will also help in keeping your boat in line. You will need this to keep your boat from turning into the wind when you're reaching or sailing beam reach. Because the sail is relatively small it can be used in high winds. It won't make your boat heel over too much.
+
+The spinnaker is also called a chute, mainly because it looks like a big parachute hanging off' your boat. This sail has the most sailing power of all sails. This sail is only used when sailing down wind. Don't try and sail upwind with this sail. It will pull your boat under water if you're not careful. This usually happens when your apparent wind angle gets under 135 degrees.
+
+So in short the differences between the head sails: power, amount of heel and the sailing angle at which it's best used:
+
+On a reach, use the jib.
+Beam Reach and Down wind, use the spinnaker.
+
+All sails on Palain can be hoisted and lowered with chat commands (main, jib, spin) or by clicking its corresponding symbol on the hud. Both skipper and crew can hoist and lower the sails. It’s not possible to sail with two head sails up at the same time. Make sure you lower one head sail before hoisting the next. And do note that hoisting and lowering of sails takes a lot of time, so plan before you do. Make sure you have enough time and room on the water to complete the task.
+
+
+DOWNWIND BROACHING
+When sailing with large sails and a heavy wind there are few situations a sailor has to be weary of. When a large sail catches too much wind, more than the rig can bare, a broach can occur.
+
+Broaching happens when you are sailing downwind with the spinnaker deployed. When you decide to turn up wind with the spinnaker still out, make sure you don't get under an apparent wind angle of 135 degrees. If you do get below that angle, the spinnaker will slowly start to catch more wind than the boat can handle and pull the nose of the boat down into the water. This will also render your rudder less effective. This situation can be hard to recover from. The thing to do here is to keep steering your boat away from the wind and hope the rudder catches enough to correct your heading. Lowering the sails will also get you out of trouble here.
+  
+ 
+THE SAIL LOCK
+A handy feature on this boat is the sail lock. This feature locks your sails to one key on your keyboard. With the lock engaged you can trim both the main sail and the jib with the up and down arrows on your keyboard. With the lock turned off you can trim the mainsail with the up and down arrows and trim the jib with the pgup and pgdn keys on your keyboard.
+
+The lock was designed to give you an easier sailing experience when you want it and a bit of a challenge when you are up for it. 
+
+Note that engaging the lock during races is possible. A race director can’t make you sail without the lock. Whether it’s used or not really comes down to sportsmanship.
+
+ 
+THE AUTOPILOT
+For the moments you are feeling lazy or need your hands free for other things, you can choose to have the boat trim the sails for you. Saying autopilot in chat will engage the auto trim and the backlight illumination of the instruments will turn orange to confirm it's activated. You can raise and lower sails at will with the autopilot engaged. The autopilot is also available when racing. Your race director will be able to see you using it on your boat’s screens.
+ 
+
+CREWING
+Palain is aimed at sailing it with a crew member, and while you can sail single handed, the boat really comes into its own with crew handling the trimming of the headsails, as well as changing sails. The crew can use the included hud to do so. 
+
+At any given time you can switch places with your crew member by saying give controls in chat, effectively making your crew the skipper, and you the crew member. Keep in mind that while switched the new temporary captain also gets your control inputs and chat commands, and you will be using the hud and/or gestures. Your crew member can hand the controls back by in turn saying give controls in chat, or alternatively you could swap places again by saying take controls. When mooring of the boat roles will automatically be reverted.
+ 
+ 
+THE HUD
+Your yacht comes with a HUD. The HUD is meant to operate your boat with easy mouse clicks and at the same time give you some useful information. The HUD has the following features, from left to right. The images to the left are depictions of the boat's sails. Click these to lower and raise the sails. 
+
+Next to the sails icons are up and down arrows. You use these to trim the main sail and the head sail. The big arrows trim by a lot, the small ones are for fine tuning the sails. 
+
+Above the arrows are white dots. These are white by default but will have different colors when sailing. Red means your sails are way too loose, yellow indicates too loose but close to good trim, green means correctly trimmed, and blue means your sails are trimmed too tight. When using the automatic trimming option the indicators will be orange and when the engine is started they will be white. 
+
+Then there's a camera button. When you're on the boat, you can click this to reset your camera. When you're walking around, clicking this will toggle a lower cam position. This will make walking inside the boat a lot easier. 
+
+The display to the right will show you the boat's speed and apparent wind angle.
+
+ 
+ANIMATIONS
+Palain has animations for steering the ship and working the sails. Besides the sailing animations Palain offers a lot for your leisure, from lounging around on the boat to cuddling and even getting a bit naughty with your lover. The leisure menu can be accessed while sailing but when steering the yacht, the boat might move your avatar. When moored, clicking the boat will bring up the animation menu. 
+
+The menu has two subsections, the singles and couples that contain the leisure animations, the system section is there to define the automated sets for the boat itself. If you want to adjust the sailing poses, do so in the system menu. The poses will be saved and the next time the boat changes sailing animations they will be aligned the way you want them to.
+
+
+MORE STUFF THAT MOVES
+A few more elements on your boat can be moved or manipulated. All the doors and hatches open by clicking them. The top hatch opens and closes by clicking it. If you want to have a shower, all you have to do is click the shower head in either of the shower cabins. The water will come on after a single touch. You can touch the bunny pads to hide and show them. Click the bimini's to hide them. Click the fenders to toggle the side they're on.
+
+The television inside the cabin works. You can use it to play almost any youtube video. Just click the TV to turn it on. The boat will ask you to input the ID of the youtube video you want to watch. Copy paste the ID into the input box and click ok and wait for the TV to turn on. To turn the TV back off, press the edge of the television. Touching the screen doesn't work while a video is playing. Note that not all youtube videos will play in Second Life. You'll get a black screen with a small line of text explaining this.
+ 
+ 
+TEXTURING THE BOAT
+When editing, you can change the name of the boat in the name field, you cannot change the name in the description field; Palain will stop working if you do.
+
+Palain has all mesh bits with modify permissions, in short this means you can re-texture the boat to your liking. Most textures you can apply directly to the boat (select the appropriate texture in your inventory and drag & drop it directly on the right spot on the boat). For some textures however a special procedure is needed.
+
+These textures cannot be applied directly and need to be changed by voice commands: main1 & main2, jib1 & jib2 and spin (the difference between main1 and main2 is the tell tales). You’ll have to use both chat commands and manual editing to achieve a good effect.
+
+Make sure you have copied your own new textures to a folder in your inventory. For the textures that cannot be applied directly, make sure you follow the next procedure:
+
+1) For each texture, get the UUID.
+2) You do this by right clicking the texture in your inventory and choosing Copy Asset UUID.
+3) Rez the boat and stand next to it.
+4) You can change the following textures: main1, main2, jib1, jib2, spin
+5) In local chat type: texture name uuid. So for instance if you want to change the main1 texture, type: texture main1 b8db6ae7-72f2-531f-e380-979ae00336a2
+6) Raise the sails to see the changes take effect
+
+You can make your own textures for this boat. This boat comes with texture templates that are optimized just for this purpose. Check the box the boat comes in for the texturepack. Save these textures to your computer, edit them in your editing tool of choice, upload them back to Second Life and replace the textures like in the little procedure described above.
+ 
+ 
+ADVANCED
+For adjusting/adding/removing animations, the boat uses the AVSitter animations engine, and the AVpos notecard can be found in the contents of the boat, positions can be edited there (X, Y, Z notations for offsets and rotations relative to the root of the boat). Leisure/couples animations can be removed and their reference deleted from the NC, system positions cannot be removed. For adding animations the easiest way to go is get the AVSitter builders kit and use the setup tools, more information can be found on https://avsitter.com/
+
+
+CREDITS
+Lisa Hyandi for testing the boat
+Uggo Vieria for fixes in avsit
+Serena Venus for Party Support and testing
