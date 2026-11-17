@@ -1,0 +1,235 @@
+           This product, was entirely built, by Daniels Fall for SecondLife users.  Find perfection as you explore different and new areas of SL game.
+      Thank you for play SL with us. 
+      Daniels Fall
+                  .
+                        It´s all a matter of Choice..
+When  Super D-Trel ✈  becomes yours, everything gets easier.  
+
+             *****    SUPER D-TREL ✈  MANUAL      *****
+.
+        This product has the GTFO system enabled 
+        All chat and HUD commands only work while  SEATED.
+        Click and enter on aircraft..
+
+                                  **ATTENTION**
+        If in case you delete the notcard containing the airports 
+        for the route, a new GTFO notcard must be replaced as well  
+        
+        
+
+ COPILOT TURN ON/OFF
+ Button on the middle Front Panel. 
+  
+      0   ---------- SAVE POSITION ANIMATION   ------------
+
+ - Sit on Plane.
+ - Adjust all positions (cockpit and wing).
+ > see on manual all commands for adjust poses <
+ - GET this plane back to your inventory.
+   Always use this one.
+                    * * * * Important * * * * *
+ Make sure the plane is NO PHYSICAL (mode) before taking back to your inventory.  Just  click on tail and choose Physical option. Chat says NO PHYSICAL. 
+ 
+     Adjust position  PILOT    Adjust position  COPILOT
+
+    p++    up                    c++    up
+    p--      down              c--      down
+    p+       front               c+      front
+    p-        back                c-       back
+ 
+
+       1     ************HOW TO FLY EASY ***************
+  
+  TO FLY:  ADD D-Cam and HUD
+On HUD, click green icon MASTER button, then the ENGINE, and  BRAKES off.
+ Pg Up= + speed on the keybord to Go to 50 Trotthle 
+and pressing the back arrow, to go up and takeoff, 
+ To go down FRONT ARROW, and lower speed = Pg Dn to landing. And blue skies. 
+ 
+ 
+ 2  ************ Click on TAIL to GET  MENU        ********* 
+  
+   Animations just work with engine OFF, and Brakes ON. 
+     Engine off  "s"                 Brakes command chat "br".
+
+
+    ANIMATION              - Change position - 
+                                  Cockpit <> Wing      Wiing <> Cockit,                                           Click  ANIMATION    left side or right,  wing                                   or cockpit.                                             
+    SWING                    -swing  only on water
+    CARGO                  - Show/Hide Cargo inside Plane
+    COVERS                 - on/off
+    PAINT                     - Select paint
+    WHITER COLOR      - Back to white color.    
+    COLOR                   - Apply a random color on the plane.    
+    SHINY                     - on/off
+    GLASS                    - Glass tone
+    PHYSICAL               - on/off 
+    DELETE                   - Delete all scripts
+    FLIGHT MODE         - Choose from 3 Flight Modes
+    EASY                      -Fly  less speed 25% minim cruise 
+    NORMAL                -Normal flight speed 35% minim cruise     
+    HARD                    -More speed  45%  minim cruise
+
+    obs: Some options are disabled or enabled in water or on 
+    the floor.
+               
+    3   **************** START    ***************
+       
+     Add Dynamic Camera HUD (optonal)
+     Sit on plane rigth click and sit.
+     Type  'm' on local chat     
+     Type  's' on local chat
+    Set Trotthle 45%, by press PgUp or E. 
+    Type 'br'  that release brakes off
+    Once the cycle is complete, There you go!! Just press, BACK    Arrow to go up.
+
+              4    ***  FLIGHT, LANDING & TAKEOFF *******
+
+Note 1: More Throttle  more speed 
+Note 2: Take Off and Landing Speed, MORE in 'Hard Mode' and LESS in 'Easy Mode'
+
+TAKEOF    Approximated values
+               40% ~~ 45% Throttle
+LANDING  
+               Approximated values
+               25%  ~~   30% Throttle
+ FLIGTH  
+               Minimum cruise speed
+                +-  35% Throttle.
+
+      5 ********* AUTO PILOT INSTRUCTIONS  ************ 
+   
+    IMPORTANT: Name of the Notecard with the Waypoints, cant contain More than 23 characters.
+    IMPORTANT: The Notecard cant contain blanks.
+    
+    Chat Command  
+    'ap'    = autopilot. Also by  HUD or Panel Button.
+    'nw'   = next Way point of the Route
+    'pw'   = previous Way point of the Route
+    'cd'    = choose destination
+    
+    6  *****  HOW TO MAKE A NOTECARD FOR A  ROUTE ******
+    
+    M O D E - 1  (Teleporting)
+   ===  See all IMAGES for more details. ===
+􀀁􀀂􀀃􀀄
+
+      ===  See all IMAGES for more details. ===
+      
+    M O D E - 2   (NO Teleporting)  Recommended    
+   Use Terminal Route v1.0 (rez)
+ 􀀀
+
+
+     7 ********* RIGHT  MODE for FLY   *************
+
+    A  Super D-Trel LIGTH  plane, just dont have ALL features for      lag days. Try wen you want just fly away, 
+      and get better cross sim.
+___________________________________________________________________ 
+  OR  Super D-Trel 
+      
+If you have difficulty for landing, Cross Sims or too much lag, you can set the plane to be able to fly slower using the 'Flight Mode' on menu and choose the 'Easy Flight' option.
+  If you find normal mode too slow to fly, you can set the plane to be able to fly faster using the 'Flight Mode' on menu and choose the 'Hard Flight' option.
+
+      The plane is set to 'NORMAL MODE' of manufactures
+  
+   They commands are available by LOCAL chat
+   '
+     p1' or 'Easy'        - you can fly with less speed    25% minim        cruising speed. 
+    'p2' or 'Normal'     flight speed  35% minim for cruise speed.
+    'p3' or 'Hard'       You need more speed to keep the plane in      the air 45% minim for cruising 
+
+   8 ******* EXTERNAL POWER AND FUEL PUMP     **********
+          
+  The plane has a power system. When stopping and turning off the engine, be sure to turn off the MASTER, or you run out of energy after a while. You can see the battery charge on the middle down panel. If it completely discharges, you have to use EXTERNAL power. 
+ MUST Brakes/ON and  MASTER/ON. So type in chat  "gpu" .  Then GPU shows out side de plane.
+ There is also a FUEL system that you may Refuel. You can see  the FUEL charge on the middle down panel and turn  it OFF if  you are far from land. If not  JUST REFUEL.  (Manual Fuel Pump)     
+
+           
+          9  ***********TAKE-OFF  **********
+
+ 'br'          Brake (turn on)
+ 'PgUp'  or E   Acceleration (45%)
+ 
+
+       10   **********   LANDING   *********
+     
+ 'g'           Extend gear dont forget ☺
+
+      
+     11   ******* ALL COMMANDS DETAILED VERSION **********
+
+                (All commands switching ON/OF)
+                 ---- ALL CHAT COMMANDS ----
+           
+                    CAMERA COMMAND (Works Only on Cam hud)
+  'c'    camera ON
+  'cc'  CHANGE Camera.
+   
+  FLIGTH MODE
+ 'p1' or 'easy'      = Easy Mode      
+ 'p2' or 'normal'   = Normal Model - 
+ 'p3' or 'hard'       = Hard Mode -      
+ 
+Energy and ENGINES
+'m'       Energy on/off
+'gpu'    Ground Power Unit  
+           (provides external power when battery is empty)
+'br'       Parking BRAKE (all doors must be closed)
+'s'        Switch on/off  ENGINE      
+ 
+                                (Others)
+
+'g'       or  shift+d        GEAR down/up     (during flight only)
+landing)
+'fu'      FUEL system turned on/off 
+'sd'     Artificial SHADOW
+'h'       HORN
+        
+     12   -------------- PRE LIGHTS CHECK ------------------
+
+(Once the plane is powered)
+
+External Lights
+ 'll'          LANDING light
+ 'stbl'     STROBE  light 
+ 
+Panel Lights ........
+
+  'pl'             PANEL light press button
+  'ckl'            COCKPIT light    "        "
+   
+  13   -------------- DOORS CHECK ------------------
+
+      Doors open by clicking..
+ 
+
+  14   ******BUGS  Use in Landing or Takeoff  BUGS ********
+
+  'flying'         force PLANE     FLYING MODE
+  'ground'      force PLANE     GROUND MODE
+  'water'        force PLANE     WATER MODE
+  'ph'             Change to        PHYSICAL / NON PHYSICAL
+
+ 
+  15  **************.EJECT trols  ***********************
+ 
+                               Type in chat..
+  'e0' -  eject copilot
+
+
+      16   ******** GIVE CMD TO co pilot.  ****** 
+    Guest mode: sit on plane and type 'cmd' on chat  then just stand up or keep going.
+ 'cmd '   switch pilot command to copilot 
+
+  ___________________________________________________________
+
+           **** For YOU... we achieve all the goals. ****
+             
+     THANKS  to those  who enjoy  my planes, and encourage me to build... that's what  I love to do...  THANKS  for all the support YOU have given us.  YOU are the best customers we could ask for.  Thank you for playing SL with me!!   
+                                                                   Daniels Fall 
+
+ THANKS  you Pilots  for the  great reviews on  Market Place Store. 
+  Also Use Dani_Airplane´s Group , for help in chat anytime you you want more wisdom, about planes from the best pilots in SL.
+            
+Bugs contact: Daniels Fall

@@ -1,0 +1,38 @@
+Manual of How to Use (follow this sequence):
+
+1 - Move your plane from the fuel pump (in front position) 
+(an alarm will be played and the button ' > ' will ascend and be green) 
+
+2 - Click the 'power' to turn on the fuel pump 
+(the engines will be connected and the button 'power' will be green) 
+
+3 - Choose the amount of fuel that will fuel your plane 
+(choice number 2 in the panel number, ex: 6 and 4 ->  ' 64 ' in total) 
+
+4 - Click on the button 'send' to the pump start sending fuel 
+(panel 'sending' indicated the amount already sent) 
+
+5 - Wait for the end of the process 
+
+================================================ 
+  Adding Future Planes 
+
+  This fuel pump only works on planes built for me xD, 
+it is set to the number of planes that I have at the moment (4), to add future planes in which case I will make,
+ you just ... 
+
+- Edit the pump 
+- In the edit window go to the tab content 
+- Open the notecard with the name 'List Airplanes' 
+- Add the name of the desired plane 
+- Save and close the notecard
+
+on error, use the button 'R' (reset all)
+
+
+Any questions, please contact me!
+
+
+
+
+obs: english by google translator :p
